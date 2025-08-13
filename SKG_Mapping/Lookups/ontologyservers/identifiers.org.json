@@ -1,0 +1,89 @@
+{
+  "apiVersion": "1.0",
+  "errorMessage": null,
+  "payload": {
+    "resolvedResources": [
+      {
+        "id": 655,
+        "mirId": "MIR:00100279",
+        "providerCode": "CURATOR_REVIEW",
+        "compactIdentifierResolvedUrl": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=EN&Expert=183",
+        "description": "Orphanet at Inserm",
+        "institution": {
+          "id": 654,
+          "name": "Inserm, Hôpital Broussais, Paris",
+          "homeUrl": "https://www.inserm.fr/en/home/",
+          "description": "Founded in 1964, Inserm is a public scientific and technological institute which operates under the joint authority of the French Ministries of Health and Research. The institute is dedicated to biomedical research and human health, and is involved in the entire range of activities from the laboratory to the patient’s bedside. It also partners with the most prestigious research institutions in the world that are committed to scientific challenges and progress in these fields.",
+          "location": {
+            "countryCode": "FR",
+            "countryName": "France"
+          }
+        },
+        "location": {
+          "countryCode": "FR",
+          "countryName": "France"
+        },
+        "official": true,
+        "resourceHomeUrl": "http://www.orpha.net/consor/",
+        "recommendation": {
+          "recommendationIndex": 95,
+          "recommendationExplanation": "Function based recommendation"
+        },
+        "namespacePrefix": "orphanet",
+        "deprecatedNamespace": false,
+        "namespaceDeprecationDate": null,
+        "deprecatedResource": false,
+        "resourceDeprecationDate": null,
+        "protectedUrls": false,
+        "renderProtectedLanding": false,
+        "authHelpUrl": null,
+        "authHelpDescription": null
+      },
+      {
+        "id": 656,
+        "mirId": "MIR:00100701",
+        "providerCode": "CURATOR_REVIEW",
+        "compactIdentifierResolvedUrl": "http://orphanet.bio2rdf.org/describe/?url=http://bio2rdf.org/orphanet:183",
+        "description": "Bio2RDF",
+        "institution": {
+          "id": 33,
+          "name": "Bio2RDF.org",
+          "homeUrl": "https://bio2rdf.org",
+          "description": "Bio2RDF is an open-source project that uses Semantic Web technologies to build and provide the largest network of Linked Data for the Life Sciences. Bio2RDF defines a set of simple conventions to create RDF(S) compatible Linked Data from a diverse set of heterogeneously formatted sources obtained from multiple data providers.",
+          "location": {
+            "countryCode": "US",
+            "countryName": "United States"
+          }
+        },
+        "location": {
+          "countryCode": "FR",
+          "countryName": "France"
+        },
+        "official": false,
+        "resourceHomeUrl": "http://orphanet.bio2rdf.org/fct",
+        "recommendation": {
+          "recommendationIndex": 40,
+          "recommendationExplanation": "Function based recommendation"
+        },
+        "namespacePrefix": "orphanet",
+        "deprecatedNamespace": false,
+        "namespaceDeprecationDate": null,
+        "deprecatedResource": false,
+        "resourceDeprecationDate": null,
+        "protectedUrls": false,
+        "renderProtectedLanding": false,
+        "authHelpUrl": null,
+        "authHelpDescription": null
+      }
+    ],
+    "parsedCompactIdentifier": {
+      "providerCode": null,
+      "namespace": "orphanet",
+      "localId": "183",
+      "rawRequest": "orphanet:183",
+      "namespaceEmbeddedInLui": false,
+      "deprecatedNamespace": false,
+      "namespaceDeprecationDate": null
+    }
+  }
+}

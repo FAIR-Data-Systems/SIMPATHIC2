@@ -1,0 +1,7 @@
+"Edge source","Edge target","Relationship","Edge number ",,,"edge_info={"
+"Approved drug","Disease","treat ",1966,,,"      Molecule to Drug Type edges=1966,"
+"Approved drug","Drug type","is a",1118,,,"      Molecule to disease edges=1118,"
+"Approved drug","Gene ","target",3219,,,"      Molecule to gene edges=3219,"
+"Gene ","Reactome Pathway","is present in",3901,,,"      Gene to reactome edges=3901,"
+"Disease","Therapeutic Area","is a",23805,,,"      Disease to therapeutic edges=23805,"
+"Disease","Gene ","is associated with ",72995,,,"      Disease to gene edges=72995"

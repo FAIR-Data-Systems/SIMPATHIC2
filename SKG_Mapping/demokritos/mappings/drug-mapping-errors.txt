@@ -1,0 +1,674 @@
+failed compound name to cid lookup for XREF C0042291 Valproic acid-containing product
+failed compound name to cid lookup for XREF C0026457 Monoamine oxidase inhibitor
+failed compound name to cid lookup for XREF C0026457 Monoamine oxidase inhibitor-containing product
+failed compound name to cid lookup for XREF C0026457 Monoamine Oxidase Inhibitors
+failed UMLS to cid lookup for C1567285 PNU-282987
+failed compound name to cid lookup for XREF C0006644 Caffeine-containing product
+failed UMLS to cid lookup for C0723712 Therapeutic brand of coal tar
+failed compound name to cid lookup for XREF C3541953 Xanthine derivative
+failed UMLS to cid lookup for C0008425 Cholinesterase Inhibitors
+failed compound name to cid lookup for XREF C0006507 Butylated hydroxytoluene-containing product
+failed compound name to cid lookup for XREF C0006507 Butylated hydroxytoluene
+failed UMLS to cid lookup for C0591139 Bactrim
+failed compound name to cid lookup for XREF C0002062 Alkaloid
+failed compound name to cid lookup for XREF C0002062 Alkaloid-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C0060794 fucoidan
+failed UMLS to cid lookup for C0056077 coenzyme Q10
+failed UMLS to cid lookup for C0723712 Therapeutic brand of coal tar
+failed compound name to cid lookup for XREF C0000981 Acetazolamide-containing product
+failed compound name to cid lookup for XREF C0002403 Amantadine-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C0006864 Cannabinoid receptor agonist-containing product
+failed compound name to cid lookup for XREF C0069805 Oxybutynin-containing product
+failed compound name to cid lookup for XREF C0001041 Acetylcholine-containing product
+failed compound name to cid lookup for XREF C0107994 Cabergoline-containing product
+failed compound name to cid lookup for XREF C0006230 Bromocriptine-containing product
+failed compound name to cid lookup for XREF C0010976 Dantrolene-containing product
+failed compound name to cid lookup for XREF C0027996 Niacin-containing product
+failed UMLS to cid lookup for C0591139 Bactrim
+failed compound name to cid lookup for XREF C3492623 N-1-(hydroxy(3-oxo-2-phenyl-1-cyclopropen-1-yl)methyl)-2-methylpropyl-2-benzenesulfonylamino-4-methylpentanamide
+failed compound name to cid lookup for XREF C0299792 Aripiprazole-containing product
+failed compound name to cid lookup for XREF C0073379 Riluzole-containing product
+failed UMLS to cid lookup for C0056077 coenzyme Q10
+failed compound name to cid lookup for XREF C0042672 Vinca alkaloid
+failed compound name to cid lookup for XREF C0042672 Vinca Alkaloids
+failed compound name to cid lookup for XREF C0008845 Citalopram-containing product
+failed UMLS to cid lookup for C2825610 Befiradol
+failed compound name to cid lookup for XREF C0017725 Glucose-containing product
+failed compound name to cid lookup for XREF C0008405 Choline-containing product
+failed compound name to cid lookup for XREF C0041044 Sulfamethoxazole- and trimethoprim-containing product
+failed compound name to cid lookup for XREF C0013030 Dopamine-containing product
+failed compound name to cid lookup for XREF C0054201 Budesonide-containing product
+failed compound name to cid lookup for XREF C0009079 Clozapine-containing product
+failed compound name to cid lookup for XREF C0649350 Rivastigmine-containing product
+failed compound name to cid lookup for XREF C0016967 Galantamine-containing product
+failed compound name to cid lookup for XREF C0527316 Donepezil-containing product
+failed compound name to cid lookup for XREF C0034392 Quercetin-containing product
+failed UMLS to cid lookup for C0008425 Cholinesterase Inhibitors
+failed compound name to cid lookup for XREF C0025242 Memantine-containing product
+failed UMLS to cid lookup for C0723712 Therapeutic brand of coal tar
+failed compound name to cid lookup for XREF C0649350 Rivastigmine-containing product
+failed compound name to cid lookup for XREF C0039245 Tacrine-containing product
+failed UMLS to cid lookup for C0070971 phthalocyanine
+failed compound name to cid lookup for XREF C0007404 Catechin-containing product
+failed compound name to cid lookup for XREF C0003968 Ascorbic acid-containing product
+failed compound name to cid lookup for XREF C0074710 Pramipexole-containing product
+failed UMLS to cid lookup for C0723712 Therapeutic brand of coal tar
+failed compound name to cid lookup for XREF C0244821 Ropinirole-containing product
+failed UMLS to cid lookup for C0699680 Metric
+failed compound name to cid lookup for XREF C1098261 Safinamide-containing product
+failed compound name to cid lookup for XREF C0005014 Benserazide-containing product
+failed compound name to cid lookup for XREF C0649350 Rivastigmine-containing product
+failed compound name to cid lookup for XREF C0673470 Istradefylline-containing product
+failed compound name to cid lookup for XREF C0078844 Zonisamide-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C0257343 Tamsulosin-containing product
+failed compound name to cid lookup for XREF C0076823 Atomoxetine-containing product
+failed compound name to cid lookup for XREF C0016365 Fluoxetine-containing product
+failed compound name to cid lookup for XREF C0013030 Dopamine-containing product
+failed compound name to cid lookup for XREF C0107994 Cabergoline-containing product
+failed compound name to cid lookup for XREF C0039771 Theophylline-containing product
+failed compound name to cid lookup for XREF C0006644 Caffeine-containing product
+failed UMLS to cid lookup for C0082384 eltoprazine
+failed compound name to cid lookup for XREF C0006644 Caffeine-containing product
+failed compound name to cid lookup for XREF C0000970 Acetaminophen-containing product
+failed compound name to cid lookup for XREF C0525227 Brimonidine-containing product
+failed compound name to cid lookup for XREF C0006864 Cannabinoid receptor agonist-containing product
+failed compound name to cid lookup for XREF C0002144 Allopurinol-containing product
+failed compound name to cid lookup for XREF C0028040 Nicotine-containing product
+failed compound name to cid lookup for XREF C0244821 Ropinirole-containing product
+failed compound name to cid lookup for XREF C0017973 Mucopolysaccharide
+failed compound name to cid lookup for XREF C0017973 Glycosaminoglycans
+failed UMLS to cid lookup for C0073590 rosmarinic acid
+failed UMLS to cid lookup for C0723712 Therapeutic brand of coal tar
+failed compound name to cid lookup for XREF C0527316 Donepezil-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C1099677 Solifenacin-containing product
+failed compound name to cid lookup for XREF C0245561 Duloxetine-containing product
+failed compound name to cid lookup for XREF C1176309 Bortezomib-containing product
+failed compound name to cid lookup for XREF C0299792 Aripiprazole-containing product
+failed UMLS to cid lookup for C0772257 FRUIT EXTRACTS
+failed compound name to cid lookup for XREF C0244821 Ropinirole-containing product
+failed compound name to cid lookup for XREF C0012582 Dipyridamole-containing product
+failed compound name to cid lookup for XREF C0074710 Pramipexole-containing product
+failed compound name to cid lookup for XREF C0242402 Opioid receptor agonist
+failed compound name to cid lookup for XREF C0060926 Gabapentin-containing product
+failed compound name to cid lookup for XREF C0060657 Formoterol-containing product
+failed compound name to cid lookup for XREF C3661274 Umeclidinium-containing product
+failed compound name to cid lookup for XREF C0001927 Albuterol-containing product
+failed compound name to cid lookup for XREF C0073992 Salmeterol-containing product
+failed compound name to cid lookup for XREF C0595726 Leukotriene receptor antagonist-containing product
+failed compound name to cid lookup for XREF C0595726 Leukotriene receptor antagonist
+failed compound name to cid lookup for XREF C0595726 Leukotriene Antagonists
+failed compound name to cid lookup for XREF C0298130 Montelukast-containing product
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for XREF C0213771 Tiotropium-containing product
+failed UMLS to cid lookup for C0045550 2,5-dichloro-4-bromophenol
+failed compound name to cid lookup for XREF C0006864 Cannabinoid receptor agonist-containing product
+failed compound name to cid lookup for XREF C0245561 Duloxetine-containing product
+failed compound name to cid lookup for XREF C0000970 Acetaminophen-containing product
+failed compound name to cid lookup for XREF C0146011 Tizanidine-containing product
+failed compound name to cid lookup for XREF C0144576 Paclitaxel-containing product
+failed compound name to cid lookup for XREF C0006982 Carbidopa-containing product
+failed compound name to cid lookup for XREF C0076823 Atomoxetine-containing product
+failed compound name to cid lookup for XREF C0069805 Oxybutynin-containing product
+failed compound name to cid lookup for XREF C0002598 Amiodarone-containing product
+failed compound name to cid lookup for XREF C0016365 Fluoxetine-containing product
+failed compound name to cid lookup for XREF C0001041 Acetylcholine-containing product
+failed compound name to cid lookup for XREF C0006982 Carbidopa-containing product
+failed compound name to cid lookup for XREF C0006864 Cannabinoid receptor agonist-containing product
+failed UMLS to cid lookup for C0939898 Cannabis Preparation
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C0039663 Dronabinol-containing product
+failed compound name to cid lookup for XREF C0076829 Topiramate-containing product
+failed compound name to cid lookup for XREF C0060135 Felbamate-containing product
+failed compound name to cid lookup for XREF C0055891 Clobazam-containing product
+failed compound name to cid lookup for XREF C0034272 Pyridoxine-containing product
+failed UMLS to cid lookup for C0968917 Traumeel S
+failed UMLS to cid lookup for C0074332 sennosides, USP
+failed compound name to cid lookup for XREF C0006982 Carbidopa-containing product
+failed compound name to cid lookup for XREF C0039663 Dronabinol-containing product
+failed compound name to cid lookup for XREF C0002598 Amiodarone-containing product
+failed compound name to cid lookup for XREF C0008845 Citalopram-containing product
+failed compound name to cid lookup for XREF C0085228 Fluvoxamine-containing product
+failed compound name to cid lookup for XREF C1533126 Milnacipran-containing product
+failed compound name to cid lookup for XREF C0085208 Bupropion-containing product
+failed compound name to cid lookup for XREF C0245561 Duloxetine-containing product
+failed compound name to cid lookup for XREF C0074393 Sertraline-containing product
+failed compound name to cid lookup for XREF C0034263 Pyridoxal-containing product
+failed compound name to cid lookup for XREF C0006863 Cannabidiol-containing product
+failed compound name to cid lookup for XREF C0000981 Acetazolamide-containing product
+failed compound name to cid lookup for XREF C2698764 Perampanel-containing product
+failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
+failed compound name to cid lookup for XREF C0009011 Clonazepam-containing product
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for XREF C0061323 Glimepiride-containing product
+failed compound name to cid lookup for XREF C0025598 Metformin-containing product
+failed compound name to cid lookup for XREF C1565750 Sitagliptin-containing product
+failed compound name to cid lookup for XREF C3490348 Empagliflozin-containing product
+failed compound name to cid lookup for XREF C0123091 Quetiapine-containing product
+failed UMLS to cid lookup for C0072954 ractopamine
+failed compound name to cid lookup for XREF C0010463 Curare
+failed compound name to cid lookup for XREF C0010463 Curare
+failed compound name to cid lookup for XREF C1700695 Sugammadex-containing product
+failed compound name to cid lookup for XREF C0209337 Rocuronium-containing product
+failed compound name to cid lookup for XREF C0013030 Dopamine-containing product
+failed compound name to cid lookup for XREF C0016365 Fluoxetine-containing product
+failed compound name to cid lookup for XREF C0025598 Metformin-containing product
+failed compound name to cid lookup for XREF C0071097 Pioglitazone-containing product
+failed compound name to cid lookup for XREF C0245561 Duloxetine-containing product
+failed compound name to cid lookup for XREF C0069805 Oxybutynin-containing product
+failed UMLS to cid lookup for C0053083 bemethyl
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for XREF C0025598 Metformin-containing product
+failed compound name to cid lookup for XREF C0001962 Ethanol-containing product
+failed compound name to cid lookup for XREF C0066677 Modafinil-containing product
+failed compound name to cid lookup for XREF C3529928 Pitolisant-containing product
+failed compound name to cid lookup for XREF C0006982 Carbidopa-containing product
+failed UMLS to cid lookup for C0304395 Marijuana derivative
+failed compound name to cid lookup for XREF C0039663 Dronabinol-containing product
+failed compound name to cid lookup for XREF C0016410 Folic acid-containing product
+failed compound name to cid lookup for XREF C0006462 Buspirone-containing product
+failed compound name to cid lookup for XREF C1700695 Sugammadex-containing product
+failed compound name to cid lookup for XREF C0019134 Heparin-containing product
+failed compound name to cid lookup for XREF C0019134 Heparin
+failed UMLS to cid lookup for C0127400 Mediator brand of benfluorex hydrochloride
+failed compound name to cid lookup for XREF C0061323 Glimepiride-containing product
+failed compound name to cid lookup for XREF C0025598 Metformin-containing product
+failed compound name to cid lookup for XREF C0004234 Atracurium-containing product
+failed compound name to cid lookup for XREF C0021246 Indomethacin-containing product
+failed compound name to cid lookup for XREF C0009010 Clomipramine-containing product
+failed compound name to cid lookup for XREF C0015846 Fentanyl-containing product
+failed compound name to cid lookup for XREF C0017725 Glucose-containing product
+failed compound name to cid lookup for XREF C0074414 Sevoflurane-containing product
+failed compound name to cid lookup for XREF C0071097 Pioglitazone-containing product
+failed compound name to cid lookup for XREF C0026549 Morphine-containing product
+failed compound name to cid lookup for XREF C0242531 Vecuronium-containing product
+failed compound name to cid lookup for XREF C0039601 Testosterone-containing product
+failed compound name to cid lookup for XREF C0246631 Remifentanil-containing product
+failed compound name to cid lookup for XREF C0033487 Propofol-containing product
+failed compound name to cid lookup for XREF C0020268 Hydrocortisone-containing product
+failed compound name to cid lookup for XREF C0066621 Mivacurium-containing product
+failed compound name to cid lookup for XREF C0242402 Opioid receptor agonist
+failed compound name to cid lookup for XREF C0014563 Epinephrine-containing product
+failed compound name to cid lookup for XREF C0033487 Propofol-containing product
+failed compound name to cid lookup for XREF C0023660 Lidocaine-containing product
+failed UMLS to cid lookup for C0127400 Mediator brand of benfluorex hydrochloride
+failed compound name to cid lookup for XREF C0242209 Simple carbohydrate
+failed compound name to cid lookup for XREF C0242209 Sugars
+failed compound name to cid lookup for XREF C0005301 Betahistine-containing product
+failed UMLS to cid lookup for C0146413 trans-dichlorobis(azomycin)platinum II
+failed compound name to cid lookup for XREF C0649350 Rivastigmine-containing product
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for XREF C1700695 Sugammadex-containing product
+failed UMLS to cid lookup for C2983924 Arbaclofen
+failed UMLS to cid lookup for C0005064 Benzodiazepines
+failed compound name to cid lookup for XREF C0013030 Dopamine-containing product
+failed compound name to cid lookup for XREF C0527316 Donepezil-containing product
+failed compound name to cid lookup for XREF C0123163 Idebenone-containing product
+failed UMLS to cid lookup for C0723712 Therapeutic brand of coal tar
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for XREF C0003596 Apomorphine-containing product
+failed compound name to cid lookup for XREF C0042291 Valproic acid-containing product
+failed UMLS to cid lookup for C0056077 coenzyme Q10
+failed UMLS to cid lookup for C0012066 Dichloroacetate
+failed compound name to cid lookup for XREF C0541315 Everolimus-containing product
+failed compound name to cid lookup for XREF C0123163 Idebenone-containing product
+failed UMLS to cid lookup for C1576824 Sodium Pyruvate
+failed compound name to cid lookup for XREF C0017725 Glucose-containing product
+failed compound name to cid lookup for XREF C0123163 Idebenone-containing product
+failed compound name to cid lookup for XREF C0541315 Everolimus-containing product
+failed compound name to cid lookup for XREF C0060657 Formoterol-containing product
+failed compound name to cid lookup for XREF C0016365 Fluoxetine-containing product
+failed compound name to cid lookup for XREF C0298130 Montelukast-containing product
+failed compound name to cid lookup for XREF C0028426 Noscapine-containing product
+failed compound name to cid lookup for XREF C0070166 Clopidogrel-containing product
+failed compound name to cid lookup for XREF C0004057 Aspirin-containing product
+failed compound name to cid lookup for XREF C0037707 Sotalol-containing product
+failed compound name to cid lookup for XREF C0004147 Atenolol-containing product
+failed UMLS to cid lookup for C3541407 Organic acids, Gynecological
+failed compound name to cid lookup for XREF C0031412 Phenobarbital-containing product
+failed compound name to cid lookup for XREF C2983812 Mirabegron-containing product
+failed compound name to cid lookup for XREF C0126174 Losartan-containing product
+failed compound name to cid lookup for XREF C0540623 Naratriptan-containing product
+failed compound name to cid lookup for XREF C0075632 Sumatriptan-containing product
+failed compound name to cid lookup for XREF C0008286 Chlorpromazine-containing product
+failed compound name to cid lookup for XREF C0033229 Prochlorperazine-containing product
+failed UMLS to cid lookup for C1567966 Triptans
+failed compound name to cid lookup for XREF C0014710 Ergotamine-containing product
+failed compound name to cid lookup for XREF C0022614 Ketamine-containing product
+failed compound name to cid lookup for XREF C0006864 Cannabinoid receptor agonist-containing product
+failed compound name to cid lookup for XREF C0025242 Memantine-containing product
+failed compound name to cid lookup for XREF C0033308 Progesterone-containing product
+failed compound name to cid lookup for XREF C0014939 Estrogen receptor agonist-containing product
+failed compound name to cid lookup for XREF C0014939 Estrogen receptor agonist
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C0360714 HMG-CoA reductase inhibitor
+failed compound name to cid lookup for XREF C0360714 HMG-CoA reductase inhibitor-containing product
+failed compound name to cid lookup for XREF C0360714 Hydroxymethylglutaryl-CoA Reductase Inhibitors
+failed compound name to cid lookup for XREF C0286651 Atorvastatin-containing product
+failed compound name to cid lookup for XREF C0017725 Glucose-containing product
+failed compound name to cid lookup for XREF C0038766 Sulfonylurea-containing product
+failed compound name to cid lookup for XREF C0038766 Sulfonylurea Compounds
+failed compound name to cid lookup for XREF C0034272 Pyridoxine-containing product
+failed compound name to cid lookup for XREF C0087163 Levocarnitine-containing product
+failed compound name to cid lookup for XREF C3495434 Hydroxyethyl starch 130/0.4
+failed compound name to cid lookup for XREF C3495434 Hydroxyethyl Starch Derivatives
+failed compound name to cid lookup for XREF C0034417 Quinine-containing product
+failed compound name to cid lookup for XREF C2698220 Migalastat-containing product
+failed UMLS to cid lookup for C0053083 bemethyl
+failed compound name to cid lookup for XREF C0209337 Rocuronium-containing product
+failed compound name to cid lookup for XREF C0039601 Testosterone-containing product
+failed UMLS to cid lookup for C0070971 phthalocyanine
+failed compound name to cid lookup for XREF C0054836 Carvedilol-containing product
+failed compound name to cid lookup for XREF C0114873 Doxazosin-containing product
+failed compound name to cid lookup for XREF C0032912 Prazosin-containing product
+failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
+failed compound name to cid lookup for XREF C0765956 4-(3-chlorophenylsulfanyl)piperidine
+failed compound name to cid lookup for XREF C2698220 Migalastat-containing product
+failed compound name to cid lookup for XREF C0054836 Carvedilol-containing product
+failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
+failed compound name to cid lookup for XREF C0017725 Glucose-containing product
+failed compound name to cid lookup for XREF C0023791 Lipoic acid-containing product
+failed compound name to cid lookup for XREF C0032478 Polyethylene glycol 400
+failed compound name to cid lookup for XREF C0032478 polyethylene glycol 400
+failed compound name to cid lookup for XREF C0754188 Amprenavir-containing product
+failed UMLS to cid lookup for C2348308 doconexent
+failed UMLS to cid lookup for C1995652 Kuvan
+failed compound name to cid lookup for XREF C0028351 Norepinephrine-containing product
+failed UMLS to cid lookup for C0699680 Metric
+failed compound name to cid lookup for XREF C0013030 Dopamine-containing product
+failed UMLS to cid lookup for C0146413 trans-dichlorobis(azomycin)platinum II
+failed compound name to cid lookup for XREF C0969677 Alpha-tocopherol-containing product
+failed compound name to cid lookup for XREF C0017725 Glucose-containing product
+failed compound name to cid lookup for XREF C0042839 Retinol-containing product
+failed compound name to cid lookup for XREF C0041044 Sulfamethoxazole- and trimethoprim-containing product
+failed compound name to cid lookup for XREF C0042890 Vitamins
+failed compound name to cid lookup for XREF C0016410 Folic acid-containing product
+failed compound name to cid lookup for XREF C0005304 Betaine-containing product
+failed compound name to cid lookup for XREF C0025219 Melatonin-containing product
+failed compound name to cid lookup for XREF C0041536 Ubidecarenone-containing product
+failed compound name to cid lookup for XREF C0041536 Ubiquinone
+failed compound name to cid lookup for XREF C0032483 Polyethylene glycol
+failed compound name to cid lookup for XREF C0032483 Polyethylene glycol-containing product
+failed compound name to cid lookup for XREF C0032483 Polyethylene Glycols
+failed compound name to cid lookup for XREF C0021547 Inositol-containing product
+failed compound name to cid lookup for XREF C0016157 Fish derived omega 3 fatty acid-containing product
+failed compound name to cid lookup for XREF C0016157 Fish oil
+failed compound name to cid lookup for XREF C0016157 Fish Oils
+failed UMLS to cid lookup for C0178638 Folate
+failed UMLS to cid lookup for C0056077 coenzyme Q10
+failed compound name to cid lookup for XREF C0003968 Ascorbic acid-containing product
+failed compound name to cid lookup for XREF C0042845 Cyanocobalamin-containing product
+failed compound name to cid lookup for XREF C0087163 Levocarnitine-containing product
+failed compound name to cid lookup for XREF C0008405 Choline-containing product
+failed compound name to cid lookup for XREF C0028928 9 cis-octadecenoic acid-containing product
+failed compound name to cid lookup for XREF C0028928 9 cis-octadecenoic acid
+failed compound name to cid lookup for XREF C0023413 Leucovorin-containing product
+failed compound name to cid lookup for XREF C0025677 Methotrexate-containing product
+failed compound name to cid lookup for XREF C0006949 Carbamazepine-containing product
+failed compound name to cid lookup for XREF C0051696 Amlodipine-containing product
+failed compound name to cid lookup for XREF C0541746 Thiazides
+failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
+failed compound name to cid lookup for XREF C0027302 Nadolol-containing product
+failed compound name to cid lookup for XREF C0529351 Darifenacin-containing product
+failed compound name to cid lookup for XREF C0526399 Lercanidipine-containing product
+failed compound name to cid lookup for XREF C0025859 Metoprolol-containing product
+failed compound name to cid lookup for XREF C0026196 Minoxidil-containing product
+failed compound name to cid lookup for XREF C0054836 Carvedilol-containing product
+failed compound name to cid lookup for XREF C0037707 Sotalol-containing product
+failed compound name to cid lookup for XREF C0114873 Doxazosin-containing product
+failed compound name to cid lookup for XREF C0042866 Vitamin D and/or vitamin D derivative
+failed compound name to cid lookup for XREF C0042866 Vitamin D and/or vitamin D derivative-containing product
+failed compound name to cid lookup for XREF C0042866 Vitamin D
+failed compound name to cid lookup for XREF C0068475 Nebivolol-containing product
+failed compound name to cid lookup for XREF C0002006 Aldosterone-containing product
+failed compound name to cid lookup for XREF C0004147 Atenolol-containing product
+failed compound name to cid lookup for XREF C0076107 Terazosin-containing product
+failed compound name to cid lookup for XREF C0053799 Bisoprolol-containing product
+failed compound name to cid lookup for XREF C0022860 Labetalol-containing product
+failed compound name to cid lookup for XREF C0070166 Clopidogrel-containing product
+failed compound name to cid lookup for XREF C0001927 Albuterol-containing product
+failed compound name to cid lookup for XREF C0014479 Ephedrine-containing product
+failed compound name to cid lookup for XREF C0030899 Pentoxifylline-containing product
+failed compound name to cid lookup for XREF C0027302 Nadolol-containing product
+failed compound name to cid lookup for XREF C0002144 Allopurinol-containing product
+failed compound name to cid lookup for XREF C0017725 Glucose-containing product
+failed compound name to cid lookup for XREF C0004259 Atropine-containing product
+failed UMLS to cid lookup for C0723712 Therapeutic brand of coal tar
+failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
+failed UMLS to cid lookup for C0003360 Antihistamines
+failed compound name to cid lookup for XREF C0039663 Dronabinol-containing product
+failed compound name to cid lookup for XREF C0006864 Cannabinoid receptor agonist-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C0001962 Ethanol-containing product
+failed compound name to cid lookup for XREF C0173083 Nitisinone-containing product
+failed compound name to cid lookup for XREF C0014479 Ephedrine-containing product
+failed UMLS to cid lookup for C2345912 DIAMINOPYRIDINE
+failed compound name to cid lookup for XREF C1700695 Sugammadex-containing product
+failed compound name to cid lookup for XREF C0001927 Albuterol-containing product
+failed UMLS to cid lookup for C0008425 Cholinesterase Inhibitors
+failed UMLS to cid lookup for C0008425 Cholinesterase Inhibitors
+failed compound name to cid lookup for XREF C0001927 Albuterol-containing product
+failed compound name to cid lookup for XREF C0360714 HMG-CoA reductase inhibitor
+failed compound name to cid lookup for XREF C0360714 HMG-CoA reductase inhibitor-containing product
+failed compound name to cid lookup for XREF C0360714 Hydroxymethylglutaryl-CoA Reductase Inhibitors
+failed compound name to cid lookup for XREF C2976633 3-(1-hexylcyclobut-1-yl)-6a,7,8,9,10,10a-hexahydro-6,6-dimethyl-6H-dibenzo(b,d)pyran-1,9 diol
+failed compound name to cid lookup for XREF C0039601 Testosterone-containing product
+failed UMLS to cid lookup for C0119187 Ginkgo biloba extract 761
+failed compound name to cid lookup for XREF C0032594 Polysaccharide
+failed compound name to cid lookup for XREF C0032594 Polysaccharides
+failed compound name to cid lookup for XREF C0054836 Carvedilol-containing product
+failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
+failed UMLS to cid lookup for C2607958 satavaptan
+failed compound name to cid lookup for XREF C0765956 4-(3-chlorophenylsulfanyl)piperidine
+failed compound name to cid lookup for XREF C0034272 Pyridoxine-containing product
+failed compound name to cid lookup for XREF C0025598 Metformin-containing product
+failed compound name to cid lookup for XREF C0038803 Sulpiride-containing product
+failed compound name to cid lookup for XREF C0006230 Bromocriptine-containing product
+failed compound name to cid lookup for XREF C0107994 Cabergoline-containing product
+failed compound name to cid lookup for XREF C0019590 Histamine receptor antagonist-containing product
+failed compound name to cid lookup for XREF C0019590 Histamine receptor antagonist
+failed compound name to cid lookup for XREF C0019590 Histamine Antagonists
+failed compound name to cid lookup for XREF C0032594 Polysaccharide
+failed compound name to cid lookup for XREF C0032594 Polysaccharides
+failed UMLS to cid lookup for C0070302 pentamethylmelamine
+failed compound name to cid lookup for XREF C0004057 Aspirin-containing product
+failed compound name to cid lookup for XREF C0070166 Clopidogrel-containing product
+failed compound name to cid lookup for XREF C0009079 Clozapine-containing product
+failed compound name to cid lookup for XREF C0299792 Aripiprazole-containing product
+failed compound name to cid lookup for XREF C1620287 Prasugrel-containing product
+failed compound name to cid lookup for XREF C0004057 Aspirin-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C0040233 Timolol-containing product
+failed compound name to cid lookup for XREF C0006864 Cannabinoid receptor agonist-containing product
+failed compound name to cid lookup for XREF C0537147 Tegaserod-containing product
+failed compound name to cid lookup for XREF C0006462 Buspirone-containing product
+failed compound name to cid lookup for XREF C0245561 Duloxetine-containing product
+failed compound name to cid lookup for XREF C0013030 Dopamine-containing product
+failed compound name to cid lookup for XREF C0070122 Paroxetine-containing product
+failed compound name to cid lookup for XREF C0245561 Duloxetine-containing product
+failed compound name to cid lookup for XREF C0006864 Cannabinoid receptor agonist-containing product
+failed compound name to cid lookup for XREF C1700683 Rotigotine-containing product
+failed compound name to cid lookup for XREF C0006864 Cannabinoid receptor agonist-containing product
+failed UMLS to cid lookup for C0991850 MILK FAT
+failed compound name to cid lookup for XREF C0001002 Acetone-containing product
+failed UMLS to cid lookup for C0057142 DAPI
+failed UMLS to cid lookup for C0133689 Octoxynol-9
+failed compound name to cid lookup for XREF C0001962 Ethanol-containing product
+failed compound name to cid lookup for XREF C0041175 Tromethamine-containing product
+failed UMLS to cid lookup for C0146951 Triton X-100
+failed UMLS to cid lookup for C0041420 Tweens
+failed compound name to cid lookup for XREF C0527316 Donepezil-containing product
+failed compound name to cid lookup for XREF C0054201 Budesonide-containing product
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
+failed compound name to cid lookup for XREF C0053799 Bisoprolol-containing product
+failed compound name to cid lookup for XREF C0082607 Fluticasone-containing product
+failed compound name to cid lookup for XREF C0001927 Albuterol-containing product
+failed compound name to cid lookup for XREF C0213771 Tiotropium-containing product
+failed compound name to cid lookup for XREF C2699757 Aclidinium-containing product
+failed compound name to cid lookup for XREF C3661274 Umeclidinium-containing product
+failed compound name to cid lookup for XREF C0965618 Roflumilast-containing product
+failed compound name to cid lookup for XREF C0054836 Carvedilol-containing product
+failed compound name to cid lookup for XREF C2934193 Olodaterol-containing product
+failed compound name to cid lookup for XREF C0060657 Formoterol-containing product
+failed compound name to cid lookup for XREF C0039771 Theophylline-containing product
+failed compound name to cid lookup for XREF C0073992 Salmeterol-containing product
+failed compound name to cid lookup for XREF C0032952 Prednisone-containing product
+failed UMLS to cid lookup for C0873137 Korean ginseng preparation
+failed compound name to cid lookup for XREF C0027358 Naloxone-containing product
+failed compound name to cid lookup for XREF C0025859 Metoprolol-containing product
+failed compound name to cid lookup for XREF C0043031 Warfarin-containing product
+failed compound name to cid lookup for XREF C0026549 Morphine-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C0037982 Spironolactone-containing product
+failed compound name to cid lookup for XREF C0039771 Theophylline-containing product
+failed compound name to cid lookup for XREF C0216784 Valsartan-containing product
+failed compound name to cid lookup for XREF C0037707 Sotalol-containing product
+failed compound name to cid lookup for XREF C0054836 Carvedilol-containing product
+failed compound name to cid lookup for XREF C0257190 Ivabradine-containing product
+failed compound name to cid lookup for XREF C0014563 Epinephrine-containing product
+failed compound name to cid lookup for XREF C0025598 Metformin-containing product
+failed compound name to cid lookup for XREF C0012963 Dobutamine-containing product
+failed compound name to cid lookup for XREF C0068475 Nebivolol-containing product
+failed compound name to cid lookup for XREF C0053799 Bisoprolol-containing product
+failed compound name to cid lookup for XREF C0053799 Bisoprolol-containing product
+failed UMLS to cid lookup for C0008425 Cholinesterase Inhibitors
+failed compound name to cid lookup for XREF C1569608 Varenicline-containing product
+failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
+failed compound name to cid lookup for XREF C0028040 Nicotine-containing product
+failed compound name to cid lookup for XREF C0034665 Ranitidine-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C1700695 Sugammadex-containing product
+failed compound name to cid lookup for XREF C0027679 Neostigmine-containing product
+failed compound name to cid lookup for XREF C3661282 Vortioxetine-containing product
+failed compound name to cid lookup for XREF C0050940 Lansoprazole-containing product
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for XREF C0012802 Thiazide diuretic agent
+failed compound name to cid lookup for XREF C0012802 Thiazide diuretic
+failed compound name to cid lookup for XREF C0012802 Sodium Chloride Symporter Inhibitors
+failed compound name to cid lookup for XREF C0016365 Fluoxetine-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C0037688 Sorbitol-containing product
+failed compound name to cid lookup for XREF C0525227 Brimonidine-containing product
+failed compound name to cid lookup for XREF C0033568 Prostaglandin analog
+failed compound name to cid lookup for XREF C0033568 Prostaglandin analog-containing product
+failed compound name to cid lookup for XREF C0033568 Prostaglandins, Synthetic
+failed compound name to cid lookup for XREF C0007299 Carteolol-containing product
+failed compound name to cid lookup for XREF C0040233 Timolol-containing product
+failed compound name to cid lookup for XREF C0245561 Duloxetine-containing product
+failed compound name to cid lookup for XREF C1142933 Rimonabant-containing product
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for XREF C1276807 Budesonide- and formoterol-containing product
+failed compound name to cid lookup for XREF C0025677 Methotrexate-containing product
+failed compound name to cid lookup for XREF C1174893 Levocetirizine-containing product
+failed compound name to cid lookup for XREF C2930696 Tofacitinib-containing product
+failed UMLS to cid lookup for C0003360 Antihistamines
+failed compound name to cid lookup for XREF C1870115 Silodosin-containing product
+failed compound name to cid lookup for XREF C0257343 Tamsulosin-containing product
+failed compound name to cid lookup for XREF C0014563 Epinephrine-containing product
+failed compound name to cid lookup for XREF C0004259 Atropine-containing product
+failed compound name to cid lookup for XREF C0028351 Norepinephrine-containing product
+failed compound name to cid lookup for XREF C1620287 Prasugrel-containing product
+failed compound name to cid lookup for XREF C0070166 Clopidogrel-containing product
+failed compound name to cid lookup for XREF C0085228 Fluvoxamine-containing product
+failed UMLS to cid lookup for C0526950 ramosetron
+failed compound name to cid lookup for XREF C0006982 Carbidopa-containing product
+failed compound name to cid lookup for XREF C0257343 Tamsulosin-containing product
+failed UMLS to cid lookup for C1567966 Triptans
+failed UMLS to cid lookup for C0699680 Metric
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C0256089 Quinagolide-containing product
+failed compound name to cid lookup for XREF C0065180 Loratadine-containing product
+failed compound name to cid lookup for XREF C0040233 Timolol-containing product
+failed compound name to cid lookup for XREF C0525227 Brimonidine-containing product
+failed compound name to cid lookup for XREF C0090306 Latanoprost-containing product
+failed compound name to cid lookup for XREF C0040233 Timolol-containing product
+failed compound name to cid lookup for XREF C0525227 Brimonidine-containing product
+failed compound name to cid lookup for XREF C0070122 Paroxetine-containing product
+failed compound name to cid lookup for XREF C0074710 Pramipexole-containing product
+failed UMLS to cid lookup for C0127400 Mediator brand of benfluorex hydrochloride
+failed compound name to cid lookup for XREF C0041044 Sulfamethoxazole- and trimethoprim-containing product
+failed compound name to cid lookup for XREF C0007805 Cerebroside
+failed compound name to cid lookup for XREF C0012390 Dimethindene-containing product
+failed compound name to cid lookup for XREF C0025859 Metoprolol-containing product
+failed compound name to cid lookup for XREF C2983812 Mirabegron-containing product
+failed compound name to cid lookup for XREF C0028040 Nicotine-containing product
+failed UMLS to cid lookup for C0003360 Antihistamines
+failed compound name to cid lookup for XREF C1174893 Levocetirizine-containing product
+failed UMLS to cid lookup for C0003360 Antihistamines
+failed compound name to cid lookup for XREF C0006230 Bromocriptine-containing product
+failed compound name to cid lookup for XREF C0107994 Cabergoline-containing product
+failed compound name to cid lookup for XREF C0006230 Bromocriptine-containing product
+failed compound name to cid lookup for XREF C0001927 Albuterol-containing product
+failed compound name to cid lookup for XREF C0529793 Sildenafil-containing product
+failed compound name to cid lookup for XREF C0724441 Yohimbine-containing product
+failed compound name to cid lookup for XREF C2983812 Mirabegron-containing product
+failed compound name to cid lookup for XREF C1870115 Silodosin-containing product
+failed compound name to cid lookup for XREF C0025242 Memantine-containing product
+failed compound name to cid lookup for XREF C0126174 Losartan-containing product
+failed compound name to cid lookup for XREF C2983812 Mirabegron-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed UMLS to cid lookup for C1961851 Anti-Histamine
+failed compound name to cid lookup for XREF C3179535 Suvorexant-containing product
+failed compound name to cid lookup for XREF C0040805 Trazodone-containing product
+failed compound name to cid lookup for XREF C2983812 Mirabegron-containing product
+failed compound name to cid lookup for XREF C0070166 Clopidogrel-containing product
+failed compound name to cid lookup for XREF C0068475 Nebivolol-containing product
+failed compound name to cid lookup for XREF C0053799 Bisoprolol-containing product
+failed compound name to cid lookup for XREF C0068475 Nebivolol-containing product
+failed compound name to cid lookup for XREF C0053799 Bisoprolol-containing product
+failed compound name to cid lookup for XREF C0001927 Albuterol-containing product
+failed compound name to cid lookup for XREF C0073992 Salmeterol-containing product
+failed compound name to cid lookup for XREF C0060657 Formoterol-containing product
+failed compound name to cid lookup for XREF C0012802 Thiazide diuretic agent
+failed compound name to cid lookup for XREF C0012802 Thiazide diuretic
+failed compound name to cid lookup for XREF C0012802 Sodium Chloride Symporter Inhibitors
+failed compound name to cid lookup for XREF C1620287 Prasugrel-containing product
+failed compound name to cid lookup for XREF C1101148 Bilastine-containing product
+failed compound name to cid lookup for XREF C0004057 Aspirin-containing product
+failed UMLS to cid lookup for C0006493 Butoxamine
+failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
+failed compound name to cid lookup for XREF C0024027 Lovastatin-containing product
+failed compound name to cid lookup for XREF C0212874 Lorenzo's oil liquid
+failed compound name to cid lookup for XREF C0212874 Lorenzo's oil
+failed compound name to cid lookup for XREF C0006982 Carbidopa-containing product
+failed compound name to cid lookup for XREF C0073374 Rifaximin-containing product
+failed compound name to cid lookup for XREF C0002144 Allopurinol-containing product
+failed compound name to cid lookup for XREF C0009079 Clozapine-containing product
+failed compound name to cid lookup for XREF C0014563 Epinephrine-containing product
+failed compound name to cid lookup for XREF C0019590 Histamine receptor antagonist-containing product
+failed compound name to cid lookup for XREF C0019590 Histamine receptor antagonist
+failed compound name to cid lookup for XREF C0019590 Histamine Antagonists
+failed compound name to cid lookup for XREF C0033216 Procainamide-containing product
+failed compound name to cid lookup for XREF C0093437 Cevimeline-containing product
+failed compound name to cid lookup for XREF C0001927 Albuterol-containing product
+failed compound name to cid lookup for XREF C0013015 Domperidone-containing product
+failed compound name to cid lookup for XREF C0025853 Metoclopramide-containing product
+failed compound name to cid lookup for XREF C0008318 Cholecalciferol-containing product
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed UMLS to cid lookup for C1961851 Anti-Histamine
+failed compound name to cid lookup for XREF C0244404 Raloxifene-containing product
+failed compound name to cid lookup for XREF C0107994 Cabergoline-containing product
+failed compound name to cid lookup for XREF C0006699 Calcium gluconate-containing product
+failed UMLS to cid lookup for C0939290 Cetrotide
+failed compound name to cid lookup for XREF C0025598 Metformin-containing product
+failed compound name to cid lookup for XREF C2983812 Mirabegron-containing product
+failed compound name to cid lookup for XREF C0008845 Citalopram-containing product
+failed compound name to cid lookup for XREF C0016365 Fluoxetine-containing product
+failed UMLS to cid lookup for C0003360 Antihistamines
+failed UMLS to cid lookup for C0003360 Antihistamines
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for XREF C0001927 Albuterol-containing product
+failed compound name to cid lookup for XREF C0040233 Timolol-containing product
+failed compound name to cid lookup for XREF C0026549 Morphine-containing product
+failed UMLS to cid lookup for C0024808 Marihuana
+failed compound name to cid lookup for XREF C1101148 Bilastine-containing product
+failed UMLS to cid lookup for C2345912 DIAMINOPYRIDINE
+failed compound name to cid lookup for XREF C0246904 Levosimendan-containing product
+failed compound name to cid lookup for XREF C0216784 Valsartan-containing product
+failed compound name to cid lookup for XREF C0073393 Risperidone-containing product
+failed UMLS to cid lookup for C0127400 Mediator brand of benfluorex hydrochloride
+failed compound name to cid lookup for XREF C0002144 Allopurinol-containing product
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
+failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for XREF C0055147 Cetirizine-containing product
+failed compound name to cid lookup for XREF C0014563 Epinephrine-containing product
+failed compound name to cid lookup for XREF C0724441 Yohimbine-containing product
+failed compound name to cid lookup for XREF C0028005 Nicardipine-containing product
+failed compound name to cid lookup for XREF C0022860 Labetalol-containing product
+failed compound name to cid lookup for XREF C0002598 Amiodarone-containing product
+failed compound name to cid lookup for XREF C0541746 Thiazides
+failed compound name to cid lookup for XREF C0012403 Dimethyl sulfoxide-containing product
+failed UMLS to cid lookup for C0042553 Versed
+failed compound name to cid lookup for XREF C0032911 Praziquantel-containing product
+failed compound name to cid lookup for XREF C0042839 Retinol-containing product
+failed compound name to cid lookup for XREF C0257190 Ivabradine-containing product
+failed compound name to cid lookup for XREF C0039771 Theophylline-containing product
+failed compound name to cid lookup for XREF C0000970 Acetaminophen-containing product
+failed compound name to cid lookup for XREF C0042874 Vitamin E and/or vitamin E derivative-containing product
+failed compound name to cid lookup for XREF C0025219 Melatonin-containing product
+failed compound name to cid lookup for XREF C0003968 Ascorbic acid-containing product
+failed compound name to cid lookup for XREF C3529928 Pitolisant-containing product
+failed compound name to cid lookup for XREF C0006864 Cannabinoid receptor agonist-containing product
+failed compound name to cid lookup for XREF C0039663 Dronabinol-containing product
+failed compound name to cid lookup for XREF C0006982 Carbidopa-containing product
+failed compound name to cid lookup for XREF C0257190 Ivabradine-containing product
+failed compound name to cid lookup for XREF C1101148 Bilastine-containing product
+failed compound name to cid lookup for XREF C0541746 Thiazides
+failed compound name to cid lookup for XREF C0006982 Carbidopa-containing product
+failed compound name to cid lookup for XREF C0027358 Naloxone-containing product
+failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
+failed compound name to cid lookup for XREF C0026056 Midazolam-containing product
+failed compound name to cid lookup for XREF C0042845 Cyanocobalamin-containing product
+failed UMLS to cid lookup for C0012968 Docosahexaenoic Acids
+failed UMLS to cid lookup for C3848590 phenyl butyrate
+failed compound name to cid lookup for XREF C0024027 Lovastatin-containing product
+failed UMLS to cid lookup for C2348308 doconexent
+failed UMLS to cid lookup for C0178487 Ascorbate
+failed compound name to cid lookup for XREF C0087163 Levocarnitine-containing product
+failed compound name to cid lookup for XREF C0032594 Polysaccharide
+failed compound name to cid lookup for XREF C0032594 Polysaccharides
+failed compound name to cid lookup for XREF C0032594 Polysaccharide
+failed compound name to cid lookup for XREF C0032594 Polysaccharides
+failed compound name to cid lookup for XREF C0017725 Glucose-containing product
+failed compound name to cid lookup for XREF C0212874 Lorenzo's oil liquid
+failed compound name to cid lookup for XREF C0212874 Lorenzo's oil
+failed compound name to cid lookup for XREF C0673966 Brinzolamide-containing product
+failed compound name to cid lookup for XREF C0000981 Acetazolamide-containing product
+failed compound name to cid lookup for XREF C0033554 Prostanoid
+failed compound name to cid lookup for XREF C0033554 Prostaglandin-containing product
+failed compound name to cid lookup for XREF C0033554 Prostaglandin
+failed compound name to cid lookup for XREF C0033554 Prostaglandins
+failed compound name to cid lookup for XREF C0064636 Lamotrigine-containing product
+failed compound name to cid lookup for XREF C0073633 Ranolazine-containing product
+failed compound name to cid lookup for XREF C0085237 Tocainide-containing product
+failed compound name to cid lookup for XREF C0031507 Phenytoin-containing product
+failed compound name to cid lookup for XREF C0025887 Mexiletine-containing product
+failed compound name to cid lookup for XREF C0012702 Disopyramide-containing product
+failed compound name to cid lookup for XREF C2698220 Migalastat-containing product
+failed compound name to cid lookup for XREF C0008405 Choline-containing product
+failed UMLS to cid lookup for C0127400 Mediator brand of benfluorex hydrochloride
+failed compound name to cid lookup for XREF C0071097 Pioglitazone-containing product
+failed compound name to cid lookup for XREF C0016365 Fluoxetine-containing product
+failed compound name to cid lookup for XREF C0012010 Diazepam-containing product
+failed compound name to cid lookup for XREF C0025677 Methotrexate-containing product
+failed compound name to cid lookup for XREF C0020316 Hydroxocobalamin-containing product
+failed compound name to cid lookup for XREF C0006949 Carbamazepine-containing product
+failed UMLS to cid lookup for C0005064 Benzodiazepines
+failed compound name to cid lookup for XREF C0663241 Linezolid-containing product
+failed compound name to cid lookup for XREF C0042890 Vitamins

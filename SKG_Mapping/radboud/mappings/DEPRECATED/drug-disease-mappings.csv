@@ -1,0 +1,1075 @@
+radboudsource,sourceguid,sourcelabel,radboudtarget,targetguid,targetlabel
+CHEMBL1200656,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200656,NATAMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1201746,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201746,PRALATREXATE,EFO_0000211,http://www.ebi.ac.uk/efo/EFO_0000211,unspecified peripheral T-cell lymphoma
+CHEMBL1231,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1231,OXYBUTYNIN,HP_0000103,http://purl.obolibrary.org/obo/HP_0000103,Polyuria
+CHEMBL1231,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1231,OXYBUTYNIN,EFO_1000781,http://www.ebi.ac.uk/efo/EFO_1000781,overactive bladder
+CHEMBL2023898,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2023898,DACLATASVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL1091,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1091,HYDROCORTISONE ACETATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1091,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1091,HYDROCORTISONE ACETATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL2308885,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2308885,CLOBETASONE BUTYRATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL24147,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL24147,RESORCINOL,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL24147,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL24147,RESORCINOL,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL364713,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL364713,NOSCAPINE,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL762,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL762,OXYMETAZOLINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL87493,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL87493,FENFLURAMINE,Orphanet_33069,http://www.orpha.net/ORDO/Orphanet_33069,Dravet syndrome
+CHEMBL112,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL112,ACETAMINOPHEN,HP_0100607,http://purl.obolibrary.org/obo/HP_0100607,Dysmenorrhea
+CHEMBL112,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL112,ACETAMINOPHEN,EFO_0010072,http://www.ebi.ac.uk/efo/EFO_0010072,toothache
+CHEMBL112,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL112,ACETAMINOPHEN,EFO_0007214,http://www.ebi.ac.uk/efo/EFO_0007214,common cold
+CHEMBL141,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL141,LAMIVUDINE,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL141,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL141,LAMIVUDINE,EFO_0004239,http://www.ebi.ac.uk/efo/EFO_0004239,chronic hepatitis B virus infection
+CHEMBL204656,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL204656,ELVITEGRAVIR,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL2110805,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2110805,EMEPRONIUM,HP_0000103,http://purl.obolibrary.org/obo/HP_0000103,Polyuria
+CHEMBL1201460,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201460,DALTEPARIN SODIUM,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201460,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201460,DALTEPARIN SODIUM,EFO_0003907,http://www.ebi.ac.uk/efo/EFO_0003907,deep vein thrombosis
+CHEMBL1201666,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201666,LEPIRUDIN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1504,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1504,TRIAMCINOLONE ACETONIDE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1504,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1504,TRIAMCINOLONE ACETONIDE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL1504,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1504,TRIAMCINOLONE ACETONIDE,EFO_1001896,http://www.ebi.ac.uk/efo/EFO_1001896,lateral epicondylitis
+CHEMBL1742996,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1742996,BRODALUMAB,Orphanet_163927,http://www.orpha.net/ORDO/Orphanet_163927,Pustulosis palmaris et plantaris
+CHEMBL2108222,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108222,ALOXIPRIN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL2336071,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2336071,SIPONIMOD,EFO_0003929,http://www.ebi.ac.uk/efo/EFO_0003929,relapsing-remitting multiple sclerosis
+CHEMBL1051,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1051,LATANOPROST,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL1201185,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201185,LANREOTIDE,EFO_1001485,http://www.ebi.ac.uk/efo/EFO_1001485,acromegaly
+CHEMBL1201476,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201476,ENOXAPARIN SODIUM,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201476,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201476,ENOXAPARIN SODIUM,EFO_0003907,http://www.ebi.ac.uk/efo/EFO_0003907,deep vein thrombosis
+CHEMBL1286,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1286,LEVETIRACETAM,HP_0002069,http://purl.obolibrary.org/obo/HP_0002069,Bilateral tonic-clonic seizure
+CHEMBL1433,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1433,DOXYCYCLINE ANHYDROUS,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1433,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1433,DOXYCYCLINE ANHYDROUS,EFO_1000760,http://www.ebi.ac.uk/efo/EFO_1000760,rosacea
+CHEMBL2108147,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108147,STREPTOKINASE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL218490,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL218490,DORZOLAMIDE,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL259209,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL259209,MILNACIPRAN,EFO_0005687,http://www.ebi.ac.uk/efo/EFO_0005687,fibromyalgia
+CHEMBL702,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL702,PIPERACILLIN,EFO_0007149,http://www.ebi.ac.uk/efo/EFO_0007149,appendicitis
+CHEMBL702,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL702,PIPERACILLIN,EFO_1001459,http://www.ebi.ac.uk/efo/EFO_1001459,diabetic foot
+CHEMBL702,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL702,PIPERACILLIN,EFO_1001312,http://www.ebi.ac.uk/efo/EFO_1001312,Endometritis
+CHEMBL71752,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL71752,VINPOCETINE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL1200878,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200878,TRIAMCINOLONE HEXACETONIDE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1200878,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200878,TRIAMCINOLONE HEXACETONIDE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1200878,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200878,TRIAMCINOLONE HEXACETONIDE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1200878,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200878,TRIAMCINOLONE HEXACETONIDE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1201173,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201173,MEDRYSONE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1201833,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201833,GOLIMUMAB,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL1518,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1518,PROPYLTHIOURACIL,HP_0000820,http://purl.obolibrary.org/obo/HP_0000820,Abnormality of the thyroid gland
+CHEMBL1536,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1536,ERGOCALCIFEROL,HP_0002148,http://purl.obolibrary.org/obo/HP_0002148,Hypophosphatemia
+CHEMBL1572,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1572,NETILMICIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1615438,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1615438,LEVOCABASTINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1983350,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1983350,STIRIPENTOL,Orphanet_33069,http://www.orpha.net/ORDO/Orphanet_33069,Dravet syndrome
+CHEMBL832,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL832,SULFINPYRAZONE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL1200640,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200640,FERROUS FUMARATE,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL1200640,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200640,FERROUS FUMARATE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1200969,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200969,DUTASTERIDE,EFO_0000284,http://www.ebi.ac.uk/efo/EFO_0000284,benign prostatic hyperplasia
+CHEMBL1950576,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1950576,DIHYDROSTREPTOMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL2010507,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2010507,METHOXYPHENAMINE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL354541,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL354541,LOMITAPIDE,Orphanet_391665,http://www.orpha.net/ORDO/Orphanet_391665,Homozygous familial hypercholesterolemia
+CHEMBL636,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL636,RIVASTIGMINE,HP_0000726,http://purl.obolibrary.org/obo/HP_0000726,Dementia
+CHEMBL788,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL788,IDOXURIDINE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL88055,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL88055,RIMITEROL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1095607,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1095607,REPROTEROL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1200668,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200668,CALCIUM CHLORIDE,HP_0002901,http://purl.obolibrary.org/obo/HP_0002901,Hypocalcemia
+CHEMBL1201632,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201632,IMIGLUCERASE,Orphanet_77261,http://www.orpha.net/ORDO/Orphanet_77261,Gaucher disease type 3
+CHEMBL1201632,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201632,IMIGLUCERASE,Orphanet_77259,http://www.orpha.net/ORDO/Orphanet_77259,Gaucher disease type 1
+CHEMBL2108078,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108078,PARATHYROID HORMONE,HP_0002901,http://purl.obolibrary.org/obo/HP_0002901,Hypocalcemia
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,HP_0001094,http://purl.obolibrary.org/obo/HP_0001094,Iridocyclitis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,HP_0012424,http://purl.obolibrary.org/obo/HP_0012424,Chorioretinitis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0004276,http://www.ebi.ac.uk/efo/EFO_0004276,Stevens-Johnson syndrome
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_1001194,http://www.ebi.ac.uk/efo/EFO_1001194,subacute thyroiditis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0007160,http://www.ebi.ac.uk/efo/EFO_0007160,autoimmune thrombocytopenic purpura
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0007520,http://www.ebi.ac.uk/efo/EFO_0007520,trichinosis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_1000039,http://www.ebi.ac.uk/efo/EFO_1000039,meningeal tuberculosis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0009456,http://www.ebi.ac.uk/efo/EFO_0009456,exfoliative dermatitis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0007257,http://www.ebi.ac.uk/efo/EFO_0007257,eosinophilic pneumonia
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_1000694,http://www.ebi.ac.uk/efo/EFO_1000694,erythema multiforme
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_0007403,http://www.ebi.ac.uk/efo/EFO_0007403,ophthalmic herpes zoster
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_1000997,http://www.ebi.ac.uk/efo/EFO_1000997,iritis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_1001896,http://www.ebi.ac.uk/efo/EFO_1001896,lateral epicondylitis
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_1001051,http://www.ebi.ac.uk/efo/EFO_1001051,mycosis fungoides
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_1001205,http://www.ebi.ac.uk/efo/EFO_1001205,sympathetic ophthalmia
+CHEMBL384467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL384467,DEXAMETHASONE,EFO_1001494,http://www.ebi.ac.uk/efo/EFO_1001494,psoriasis vulgaris
+CHEMBL809,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL809,SERTRALINE,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL1199324,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1199324,FOSAPREPITANT,EFO_0004888,http://www.ebi.ac.uk/efo/EFO_0004888,post operative nausea and vomiting
+CHEMBL1199324,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1199324,FOSAPREPITANT,EFO_0006911,http://www.ebi.ac.uk/efo/EFO_0006911,Chemotherapy-induced nausea and vomiting
+CHEMBL1266,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1266,TETRAHYDROZOLINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1900528,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1900528,TIOTROPIUM,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1900528,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1900528,TIOTROPIUM,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL22108,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL22108,DIMETHINDENE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL24,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL24,ATENOLOL,EFO_0003913,http://www.ebi.ac.uk/efo/EFO_0003913,angina pectoris
+CHEMBL24778,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL24778,SILODOSIN,EFO_0000284,http://www.ebi.ac.uk/efo/EFO_0000284,benign prostatic hyperplasia
+CHEMBL1200370,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200370,BENZOYL PEROXIDE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL134,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL134,CLONIDINE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL2364655,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2364655,EVOLOCUMAB,Orphanet_391665,http://www.orpha.net/ORDO/Orphanet_391665,Homozygous familial hypercholesterolemia
+CHEMBL3989986,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989986,RAVULIZUMAB,Orphanet_447,http://www.orpha.net/ORDO/Orphanet_447,Paroxysmal nocturnal hemoglobinuria
+CHEMBL493,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL493,BROMOCRIPTINE,EFO_1001485,http://www.ebi.ac.uk/efo/EFO_1001485,acromegaly
+CHEMBL611,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL611,TERAZOSIN,EFO_0000284,http://www.ebi.ac.uk/efo/EFO_0000284,benign prostatic hyperplasia
+CHEMBL1043,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1043,DAPSONE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1200963,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200963,BIMATOPROST,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL1200963,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200963,BIMATOPROST,Orphanet_55654,http://www.orpha.net/ORDO/Orphanet_55654,Hypotrichosis simplex
+CHEMBL1201265,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201265,METHYLPREDNISOLONE HEMISUCCINATE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1364144,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1364144,METHYLPREDNISOLONE ACETATE,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL294199,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL294199,CAPSAICIN,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL294199,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL294199,CAPSAICIN,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL294199,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL294199,CAPSAICIN,EFO_0005762,http://www.ebi.ac.uk/efo/EFO_0005762,neuropathic pain
+CHEMBL3,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3,NICOTINE,EFO_0003768,http://www.ebi.ac.uk/efo/EFO_0003768,nicotine dependence
+CHEMBL423,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL423,BETAXOLOL,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL705,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL705,ALITRETINOIN,HP_0000964,http://purl.obolibrary.org/obo/HP_0000964,Eczematoid dermatitis
+CHEMBL1493,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1493,FLAVOXATE,HP_0000103,http://purl.obolibrary.org/obo/HP_0000103,Polyuria
+CHEMBL1508,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1508,ESCITALOPRAM,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL1517,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1517,OXYTETRACYCLINE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL218394,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL218394,BOCEPREVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL1201513,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201513,HEPARIN CALCIUM,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201828,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201828,ECULIZUMAB,Orphanet_447,http://www.orpha.net/ORDO/Orphanet_447,Paroxysmal nocturnal hemoglobinuria
+CHEMBL198362,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL198362,RIVAROXABAN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL198362,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL198362,RIVAROXABAN,EFO_0003907,http://www.ebi.ac.uk/efo/EFO_0003907,deep vein thrombosis
+CHEMBL3301594,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3301594,FOSTEMSAVIR,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL1201064,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201064,FLUOROMETHOLONE ACETATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1201064,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201064,FLUOROMETHOLONE ACETATE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1201064,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201064,FLUOROMETHOLONE ACETATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1201724,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201724,POVIDONE-IODINE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1201863,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201863,DEXLANSOPRAZOLE,HP_0100633,http://purl.obolibrary.org/obo/HP_0100633,Esophagitis
+CHEMBL1384,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1384,KANAMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1450,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1450,ATOVAQUONE,EFO_0007448,http://www.ebi.ac.uk/efo/EFO_0007448,pneumocystosis
+CHEMBL1743041,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743041,MOGAMULIZUMAB,EFO_1000785,http://www.ebi.ac.uk/efo/EFO_1000785,Sezary's disease
+CHEMBL1743041,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743041,MOGAMULIZUMAB,EFO_1001051,http://www.ebi.ac.uk/efo/EFO_1001051,mycosis fungoides
+CHEMBL264241,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL264241,ANIDULAFUNGIN,EFO_1001282,http://www.ebi.ac.uk/efo/EFO_1001282,Candidemia
+CHEMBL31,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL31,GATIFLOXACIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL3989751,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989751,NEOMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL454446,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL454446,CEFDITOREN PIVOXIL,HP_0011110,http://purl.obolibrary.org/obo/HP_0011110,Recurrent tonsillitis
+CHEMBL454446,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL454446,CEFDITOREN PIVOXIL,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL643,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL643,PROMETHAZINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL679,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL679,EPINEPHRINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL679,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL679,EPINEPHRINE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL679,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL679,EPINEPHRINE,EFO_0004278,http://www.ebi.ac.uk/efo/EFO_0004278,sudden cardiac arrest
+CHEMBL679,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL679,EPINEPHRINE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL119423,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL119423,TISOPURINE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL1435,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1435,CEFAZOLIN,EFO_0003830,http://www.ebi.ac.uk/efo/EFO_0003830,prostatitis
+CHEMBL2105689,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2105689,LULICONAZOLE,EFO_0007510,http://www.ebi.ac.uk/efo/EFO_0007510,tinea
+CHEMBL2105689,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2105689,LULICONAZOLE,EFO_0007512,http://www.ebi.ac.uk/efo/EFO_0007512,tinea pedis
+CHEMBL539697,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL539697,DABIGATRAN ETEXILATE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL539697,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL539697,DABIGATRAN ETEXILATE,EFO_0003907,http://www.ebi.ac.uk/efo/EFO_0003907,deep vein thrombosis
+CHEMBL1201583,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201583,BEVACIZUMAB,EFO_0003016,http://www.ebi.ac.uk/efo/EFO_0003016,collecting duct carcinoma
+CHEMBL1201583,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201583,BEVACIZUMAB,EFO_0000335,http://www.ebi.ac.uk/efo/EFO_0000335,chromophobe renal cell carcinoma
+CHEMBL1742982,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1742982,AFLIBERCEPT,EFO_0004683,http://www.ebi.ac.uk/efo/EFO_0004683,wet macular degeneration
+CHEMBL2105720,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2105720,LESINURAD,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL2105720,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2105720,LESINURAD,EFO_0009104,http://www.ebi.ac.uk/efo/EFO_0009104,hyperuricemia
+CHEMBL2362016,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2362016,ARSENIC TRIOXIDE,EFO_0000224,http://www.ebi.ac.uk/efo/EFO_0000224,acute promyelocytic leukemia
+CHEMBL3545363,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3545363,GLECAPREVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL56367,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL56367,NIMESULIDE,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL6622,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL6622,ISOSORBIDE DINITRATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL836,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL836,TAMSULOSIN,EFO_0000284,http://www.ebi.ac.uk/efo/EFO_0000284,benign prostatic hyperplasia
+CHEMBL1349,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1349,VALACYCLOVIR,EFO_0007204,http://www.ebi.ac.uk/efo/EFO_0007204,chickenpox
+CHEMBL1349,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1349,VALACYCLOVIR,EFO_0007282,http://www.ebi.ac.uk/efo/EFO_0007282,genital herpes
+CHEMBL1349,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1349,VALACYCLOVIR,EFO_1001347,http://www.ebi.ac.uk/efo/EFO_1001347,Herpes Labialis
+CHEMBL582,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL582,ISOPROPYL ALCOHOL,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL582,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL582,ISOPROPYL ALCOHOL,EFO_1001485,http://www.ebi.ac.uk/efo/EFO_1001485,acromegaly
+CHEMBL1201201,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201201,METHAMPHETAMINE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL13,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL13,METOPROLOL,EFO_0003913,http://www.ebi.ac.uk/efo/EFO_0003913,angina pectoris
+CHEMBL461101,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL461101,ELTROMBOPAG,EFO_0007160,http://www.ebi.ac.uk/efo/EFO_0007160,autoimmune thrombocytopenic purpura
+CHEMBL461101,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL461101,ELTROMBOPAG,EFO_0006927,http://www.ebi.ac.uk/efo/EFO_0006927,severe aplastic anemia
+CHEMBL477,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL477,ADENOSINE,EFO_1001450,http://www.ebi.ac.uk/efo/EFO_1001450,Wolff-Parkinson-White Syndrome
+CHEMBL477,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL477,ADENOSINE,EFO_0009493,http://www.ebi.ac.uk/efo/EFO_0009493,paroxysmal tachycardia
+CHEMBL1200929,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200929,ZINC SULFATE,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL1200929,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200929,ZINC SULFATE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1201313,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201313,CHLOPHEDIANOL,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL1430,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1430,PENICILLAMINE,Orphanet_905,http://www.orpha.net/ORDO/Orphanet_905,Wilson disease
+CHEMBL1491,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1491,AMLODIPINE,HP_0003124,http://purl.obolibrary.org/obo/HP_0003124,Hypercholesterolemia
+CHEMBL1491,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1491,AMLODIPINE,EFO_1000013,http://www.ebi.ac.uk/efo/EFO_1000013,Prinzmetal's angina
+CHEMBL1491,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1491,AMLODIPINE,EFO_0003913,http://www.ebi.ac.uk/efo/EFO_0003913,angina pectoris
+CHEMBL2095212,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2095212,MIRABEGRON,HP_0000103,http://purl.obolibrary.org/obo/HP_0000103,Polyuria
+CHEMBL2095212,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2095212,MIRABEGRON,EFO_1000781,http://www.ebi.ac.uk/efo/EFO_1000781,overactive bladder
+CHEMBL2103830,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2103830,FOSTAMATINIB,EFO_0007160,http://www.ebi.ac.uk/efo/EFO_0007160,autoimmune thrombocytopenic purpura
+CHEMBL2103870,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2103870,LUMACAFTOR,Orphanet_586,http://www.orpha.net/ORDO/Orphanet_586,Cystic fibrosis
+CHEMBL278172,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL278172,BENZOCAINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL278172,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL278172,BENZOCAINE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL779,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL779,TADALAFIL,HP_0000802,http://purl.obolibrary.org/obo/HP_0000802,Impotence
+CHEMBL779,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL779,TADALAFIL,EFO_0000284,http://www.ebi.ac.uk/efo/EFO_0000284,benign prostatic hyperplasia
+CHEMBL1164729,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1164729,FEBUXOSTAT,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL1164729,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1164729,FEBUXOSTAT,EFO_0009104,http://www.ebi.ac.uk/efo/EFO_0009104,hyperuricemia
+CHEMBL1201505,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201505,"FIBRINOLYSIN, HUMAN",HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL174,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL174,AMPICILLIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL206253,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL206253,NETUPITANT,EFO_0006911,http://www.ebi.ac.uk/efo/EFO_0006911,Chemotherapy-induced nausea and vomiting
+CHEMBL1471,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1471,APREPITANT,HP_0002018,http://purl.obolibrary.org/obo/HP_0002018,Nausea
+CHEMBL1471,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1471,APREPITANT,EFO_0004888,http://www.ebi.ac.uk/efo/EFO_0004888,post operative nausea and vomiting
+CHEMBL1471,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1471,APREPITANT,EFO_0006911,http://www.ebi.ac.uk/efo/EFO_0006911,Chemotherapy-induced nausea and vomiting
+CHEMBL2108709,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108709,COLLAGENASE CLOSTRIDIUM HISTOLYTICUM,EFO_0004229,http://www.ebi.ac.uk/efo/EFO_0004229,Dupuytren Contracture
+CHEMBL493982,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL493982,VORAPAXAR,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL493982,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL493982,VORAPAXAR,EFO_0004265,http://www.ebi.ac.uk/efo/EFO_0004265,peripheral arterial disease
+CHEMBL923,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL923,RISEDRONIC ACID,EFO_0003854,http://www.ebi.ac.uk/efo/EFO_0003854,postmenopausal osteoporosis
+CHEMBL1201420,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201420,UROKINASE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201594,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201594,RASBURICASE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL1743079,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743079,TEPROTUMUMAB,EFO_1001466,http://www.ebi.ac.uk/efo/EFO_1001466,Graves ophthalmopathy
+CHEMBL243712,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL243712,AMISULPRIDE,EFO_0004888,http://www.ebi.ac.uk/efo/EFO_0004888,post operative nausea and vomiting
+CHEMBL262777,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL262777,VANCOMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL416956,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL416956,MEFLOQUINE,EFO_0007444,http://www.ebi.ac.uk/efo/EFO_0007444,Plasmodium falciparum malaria
+CHEMBL416956,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL416956,MEFLOQUINE,EFO_0007445,http://www.ebi.ac.uk/efo/EFO_0007445,Plasmodium vivax malaria
+CHEMBL424,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL424,SALICYLIC ACID,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL424,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL424,SALICYLIC ACID,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL476,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL476,DACARBAZINE,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL49080,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL49080,CLENBUTEROL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL511,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL511,PYRILAMINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL561,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL561,LOMEFLOXACIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL70246,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL70246,ACEFYLLINE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL885,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL885,EMTRICITABINE,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL997,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL997,IBANDRONIC ACID,EFO_0003854,http://www.ebi.ac.uk/efo/EFO_0003854,postmenopausal osteoporosis
+CHEMBL1118,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1118,DESVENLAFAXINE,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL12,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL12,DIAZEPAM,HP_0000713,http://purl.obolibrary.org/obo/HP_0000713,Agitation
+CHEMBL1282,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1282,IMIQUIMOD,EFO_0002496,http://www.ebi.ac.uk/efo/EFO_0002496,actinic keratosis
+CHEMBL1465,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1465,PHENPROCOUMON,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL267345,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL267345,AMPHOTERICIN B,EFO_0005045,http://www.ebi.ac.uk/efo/EFO_0005045,visceral Leishmaniasis
+CHEMBL267345,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL267345,AMPHOTERICIN B,EFO_0007380,http://www.ebi.ac.uk/efo/EFO_0007380,mucormycosis
+CHEMBL267345,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL267345,AMPHOTERICIN B,EFO_0007310,http://www.ebi.ac.uk/efo/EFO_0007310,histoplasmosis
+CHEMBL267345,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL267345,AMPHOTERICIN B,EFO_0007228,http://www.ebi.ac.uk/efo/EFO_0007228,cryptococcal meningitis
+CHEMBL714,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL714,ALBUTEROL,HP_0025428,http://purl.obolibrary.org/obo/HP_0025428,obsolete Bronchospasm
+CHEMBL714,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL714,ALBUTEROL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL12610,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL12610,BENZYDAMINE,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL1382,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1382,TOLTERODINE,HP_0000103,http://purl.obolibrary.org/obo/HP_0000103,Polyuria
+CHEMBL1382,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1382,TOLTERODINE,EFO_1000781,http://www.ebi.ac.uk/efo/EFO_1000781,overactive bladder
+CHEMBL1743043,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743043,MOXETUMOMAB PASUDOTOX,EFO_1000956,http://www.ebi.ac.uk/efo/EFO_1000956,hairy cell leukemia
+CHEMBL334966,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL334966,CANGRELOR,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL3545062,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3545062,VELPATASVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL672,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL672,FENOFIBRATE,HP_0003124,http://purl.obolibrary.org/obo/HP_0003124,Hypercholesterolemia
+CHEMBL1193,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1193,PHENIRAMINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL1201764,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201764,FESOTERODINE,HP_0000103,http://purl.obolibrary.org/obo/HP_0000103,Polyuria
+CHEMBL1201764,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201764,FESOTERODINE,EFO_1000781,http://www.ebi.ac.uk/efo/EFO_1000781,overactive bladder
+CHEMBL1509,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1509,DROSPIRENONE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,HP_0001094,http://purl.obolibrary.org/obo/HP_0001094,Iridocyclitis
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_0004276,http://www.ebi.ac.uk/efo/EFO_0004276,Stevens-Johnson syndrome
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_1001194,http://www.ebi.ac.uk/efo/EFO_1001194,subacute thyroiditis
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_0007160,http://www.ebi.ac.uk/efo/EFO_0007160,autoimmune thrombocytopenic purpura
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_1000039,http://www.ebi.ac.uk/efo/EFO_1000039,meningeal tuberculosis
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_0009456,http://www.ebi.ac.uk/efo/EFO_0009456,exfoliative dermatitis
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_1000694,http://www.ebi.ac.uk/efo/EFO_1000694,erythema multiforme
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_0007403,http://www.ebi.ac.uk/efo/EFO_0007403,ophthalmic herpes zoster
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_1000997,http://www.ebi.ac.uk/efo/EFO_1000997,iritis
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_1001896,http://www.ebi.ac.uk/efo/EFO_1001896,lateral epicondylitis
+CHEMBL1650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1650,CORTISONE ACETATE,EFO_1001205,http://www.ebi.ac.uk/efo/EFO_1001205,sympathetic ophthalmia
+CHEMBL1743029,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743029,IBALIZUMAB,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL25,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL25,ASPIRIN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL29,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL29,BENZYLPENICILLIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL405,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL405,AMPHETAMINE,EFO_0000614,http://www.ebi.ac.uk/efo/EFO_0000614,obsolete_narcolepsy with cataplexy
+CHEMBL405,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL405,AMPHETAMINE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL408513,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL408513,BELINOSTAT,EFO_0000211,http://www.ebi.ac.uk/efo/EFO_0000211,unspecified peripheral T-cell lymphoma
+CHEMBL494,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL494,ILOPROST,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201512,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201512,FOMIVIRSEN SODIUM,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1237025,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1237025,PEGLOTICASE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL1466,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1466,DICUMAROL,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL184,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL184,ACYCLOVIR,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL184,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL184,ACYCLOVIR,EFO_0007204,http://www.ebi.ac.uk/efo/EFO_0007204,chickenpox
+CHEMBL184,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL184,ACYCLOVIR,EFO_0007282,http://www.ebi.ac.uk/efo/EFO_0007282,genital herpes
+CHEMBL184,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL184,ACYCLOVIR,EFO_1001347,http://www.ebi.ac.uk/efo/EFO_1001347,Herpes Labialis
+CHEMBL2109540,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2109540,ALIROCUMAB,Orphanet_391665,http://www.orpha.net/ORDO/Orphanet_391665,Homozygous familial hypercholesterolemia
+CHEMBL4297364,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4297364,OXITROPIUM,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL864,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL864,CARBINOXAMINE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL864,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL864,CARBINOXAMINE,EFO_0007533,http://www.ebi.ac.uk/efo/EFO_0007533,vasomotor rhinitis
+CHEMBL864,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL864,CARBINOXAMINE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL864,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL864,CARBINOXAMINE,EFO_1001417,http://www.ebi.ac.uk/efo/EFO_1001417,"Rhinitis, Allergic, Perennial"
+CHEMBL894,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL894,BUPROPION,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL1086,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1086,DIBUCAINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL1086,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1086,DIBUCAINE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL2108429,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108429,MEPOLIZUMAB,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL2108738,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108738,NIVOLUMAB,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL389621,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL389621,HYDROCORTISONE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL389621,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL389621,HYDROCORTISONE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL389621,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL389621,HYDROCORTISONE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL389621,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL389621,HYDROCORTISONE,EFO_1001347,http://www.ebi.ac.uk/efo/EFO_1001347,Herpes Labialis
+CHEMBL435,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL435,HYDROCHLOROTHIAZIDE,EFO_0003913,http://www.ebi.ac.uk/efo/EFO_0003913,angina pectoris
+CHEMBL776,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL776,METAPROTERENOL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1200,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200,BENOXINATE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL1201202,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201202,FONDAPARINUX,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201864,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201864,DIENOGEST,HP_0000132,http://purl.obolibrary.org/obo/HP_0000132,Menorrhagia
+CHEMBL1237119,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1237119,TREPROSTINIL,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1628227,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1628227,DOXEPIN,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL22,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL22,TRIMETHOPRIM,EFO_0007448,http://www.ebi.ac.uk/efo/EFO_0007448,pneumocystosis
+CHEMBL462605,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL462605,PITOLISANT,EFO_0000614,http://www.ebi.ac.uk/efo/EFO_0000614,obsolete_narcolepsy with cataplexy
+CHEMBL880,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL880,FAMCICLOVIR,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL880,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL880,FAMCICLOVIR,EFO_0007282,http://www.ebi.ac.uk/efo/EFO_0007282,genital herpes
+CHEMBL880,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL880,FAMCICLOVIR,EFO_1001347,http://www.ebi.ac.uk/efo/EFO_1001347,Herpes Labialis
+CHEMBL977,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL977,HYDROCORTISONE HEMISUCCINATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL977,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL977,HYDROCORTISONE HEMISUCCINATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1174,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1174,EPTIFIBATIDE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201515,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201515,PEGVISOMANT,EFO_1001485,http://www.ebi.ac.uk/efo/EFO_1001485,acromegaly
+CHEMBL1753,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1753,CLINDAMYCIN,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1753,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1753,CLINDAMYCIN,EFO_1001312,http://www.ebi.ac.uk/efo/EFO_1001312,Endometritis
+CHEMBL2108250,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108250,ANISTREPLASE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL252556,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL252556,IDEBENONE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL3813873,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3813873,PEXIDARTINIB,EFO_1000562,http://www.ebi.ac.uk/efo/EFO_1000562,Tenosynovial Giant Cell Tumor
+CHEMBL632,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL632,BETAMETHASONE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL632,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL632,BETAMETHASONE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL632,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL632,BETAMETHASONE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL632,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL632,BETAMETHASONE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1200633,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200633,IVERMECTIN,EFO_1000760,http://www.ebi.ac.uk/efo/EFO_1000760,rosacea
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,HP_0001094,http://purl.obolibrary.org/obo/HP_0001094,Iridocyclitis
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,HP_0012424,http://purl.obolibrary.org/obo/HP_0012424,Chorioretinitis
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_1001194,http://www.ebi.ac.uk/efo/EFO_1001194,subacute thyroiditis
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_0007520,http://www.ebi.ac.uk/efo/EFO_0007520,trichinosis
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_1000039,http://www.ebi.ac.uk/efo/EFO_1000039,meningeal tuberculosis
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_0009456,http://www.ebi.ac.uk/efo/EFO_0009456,exfoliative dermatitis
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_0007257,http://www.ebi.ac.uk/efo/EFO_0007257,eosinophilic pneumonia
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_1000694,http://www.ebi.ac.uk/efo/EFO_1000694,erythema multiforme
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_0007403,http://www.ebi.ac.uk/efo/EFO_0007403,ophthalmic herpes zoster
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_1000997,http://www.ebi.ac.uk/efo/EFO_1000997,iritis
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_1001896,http://www.ebi.ac.uk/efo/EFO_1001896,lateral epicondylitis
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_1001051,http://www.ebi.ac.uk/efo/EFO_1001051,mycosis fungoides
+CHEMBL131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL131,PREDNISOLONE,EFO_1001205,http://www.ebi.ac.uk/efo/EFO_1001205,sympathetic ophthalmia
+CHEMBL2108129,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108129,SARUPLASE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL3039502,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3039502,DUVELISIB,MONDO_0018906,http://purl.obolibrary.org/obo/MONDO_0018906,follicular lymphoma
+CHEMBL573,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL573,NIACIN,HP_0003124,http://purl.obolibrary.org/obo/HP_0003124,Hypercholesterolemia
+CHEMBL573,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL573,NIACIN,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL573,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL573,NIACIN,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL730,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL730,NITROGLYCERIN,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL730,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL730,NITROGLYCERIN,EFO_0003913,http://www.ebi.ac.uk/efo/EFO_0003913,angina pectoris
+CHEMBL897,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL897,PROBENECID,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL1200562,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200562,HYDROCORTISONE VALERATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1200562,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200562,HYDROCORTISONE VALERATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1265,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1265,ADAPALENE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1676,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1676,FLUTICASONE FUROATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1676,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1676,FLUTICASONE FUROATE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1676,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1676,FLUTICASONE FUROATE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1908360,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1908360,EVEROLIMUS,EFO_0002499,http://www.ebi.ac.uk/efo/EFO_0002499,anaplastic astrocytoma
+CHEMBL1908360,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1908360,EVEROLIMUS,HP_0009720,http://purl.obolibrary.org/obo/HP_0009720,Adenoma sebaceum
+CHEMBL1908360,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1908360,EVEROLIMUS,MONDO_0016693,http://purl.obolibrary.org/obo/MONDO_0016693,subependymal giant cell astrocytoma
+CHEMBL1908360,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1908360,EVEROLIMUS,Orphanet_805,http://www.orpha.net/ORDO/Orphanet_805,Tuberous sclerosis complex
+CHEMBL2108676,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108676,ELOSULFASE ALFA,Orphanet_309297,http://www.orpha.net/ORDO/Orphanet_309297,Mucopolysaccharidosis type 4A
+CHEMBL3989917,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989917,FOSNETUPITANT,HP_0002013,http://purl.obolibrary.org/obo/HP_0002013,Vomiting
+CHEMBL3989917,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989917,FOSNETUPITANT,EFO_0006911,http://www.ebi.ac.uk/efo/EFO_0006911,Chemotherapy-induced nausea and vomiting
+CHEMBL896,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL896,HYDROXYZINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL998,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL998,LORATADINE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1175,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1175,DULOXETINE,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL1175,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1175,DULOXETINE,EFO_0005687,http://www.ebi.ac.uk/efo/EFO_0005687,fibromyalgia
+CHEMBL1201256,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201256,TRIMETHOBENZAMIDE,EFO_0004888,http://www.ebi.ac.uk/efo/EFO_0004888,post operative nausea and vomiting
+CHEMBL207538,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL207538,BREXANOLONE,EFO_0007453,http://www.ebi.ac.uk/efo/EFO_0007453,postpartum depression
+CHEMBL4298062,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4298062,VILTOLARSEN,Orphanet_98896,http://www.orpha.net/ORDO/Orphanet_98896,Duchenne muscular dystrophy
+CHEMBL499808,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL499808,CASPOFUNGIN,EFO_1001282,http://www.ebi.ac.uk/efo/EFO_1001282,Candidemia
+CHEMBL869,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL869,NITROFURAZONE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL927,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL927,CEFDINIR,HP_0011110,http://purl.obolibrary.org/obo/HP_0011110,Recurrent tonsillitis
+CHEMBL927,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL927,CEFDINIR,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL95,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL95,TACRINE,HP_0000726,http://purl.obolibrary.org/obo/HP_0000726,Dementia
+CHEMBL1200989,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200989,ALCLOMETASONE DIPROPIONATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1201572,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201572,ETANERCEPT,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL1440,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1440,TETRACYCLINE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1440,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1440,TETRACYCLINE,EFO_0004607,http://www.ebi.ac.uk/efo/EFO_0004607,duodenal ulcer
+CHEMBL1451,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1451,TRIAMCINOLONE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1451,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1451,TRIAMCINOLONE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1451,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1451,TRIAMCINOLONE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1451,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1451,TRIAMCINOLONE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1743070,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743070,SILTUXIMAB,MONDO_0015564,http://purl.obolibrary.org/obo/MONDO_0015564,Castleman disease
+CHEMBL1743070,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1743070,SILTUXIMAB,EFO_1001332,http://www.ebi.ac.uk/efo/EFO_1001332,Giant Lymph Node Hyperplasia
+CHEMBL1873475,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1873475,IBRUTINIB,EFO_0002616,http://www.ebi.ac.uk/efo/EFO_0002616,macroglobulinemia
+CHEMBL1873475,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1873475,IBRUTINIB,EFO_0009441,http://www.ebi.ac.uk/efo/EFO_0009441,Waldenstrom macroglobulinemia
+CHEMBL2105224,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2105224,PHOLCODINE,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL308954,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL308954,ETRAVIRINE,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL501849,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL501849,SIMEPREVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL527,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL527,PIROXICAM,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL527,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL527,PIROXICAM,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1000,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1000,CETIRIZINE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL137,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL137,METRONIDAZOLE,EFO_0004607,http://www.ebi.ac.uk/efo/EFO_0004607,duodenal ulcer
+CHEMBL137,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL137,METRONIDAZOLE,EFO_0003932,http://www.ebi.ac.uk/efo/EFO_0003932,bacterial vaginosis
+CHEMBL137,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL137,METRONIDAZOLE,EFO_1000760,http://www.ebi.ac.uk/efo/EFO_1000760,rosacea
+CHEMBL2364648,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2364648,GUSELKUMAB,Orphanet_163927,http://www.orpha.net/ORDO/Orphanet_163927,Pustulosis palmaris et plantaris
+CHEMBL289469,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL289469,GRANISETRON,HP_0002018,http://purl.obolibrary.org/obo/HP_0002018,Nausea
+CHEMBL289469,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL289469,GRANISETRON,EFO_0004888,http://www.ebi.ac.uk/efo/EFO_0004888,post operative nausea and vomiting
+CHEMBL289469,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL289469,GRANISETRON,EFO_0006911,http://www.ebi.ac.uk/efo/EFO_0006911,Chemotherapy-induced nausea and vomiting
+CHEMBL3137312,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3137312,DASABUVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL916,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL916,TIROFIBAN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL108545,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL108545,METHYL SALICYLATE,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL1201129,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201129,DECITABINE,EFO_0003811,http://www.ebi.ac.uk/efo/EFO_0003811,refractory anemia with excess blasts
+CHEMBL1201320,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201320,ESOMEPRAZOLE,HP_0100633,http://purl.obolibrary.org/obo/HP_0100633,Esophagitis
+CHEMBL1201320,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201320,ESOMEPRAZOLE,EFO_0007549,http://www.ebi.ac.uk/efo/EFO_0007549,Zollinger-Ellison Syndrome
+CHEMBL1201320,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201320,ESOMEPRAZOLE,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL1201320,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201320,ESOMEPRAZOLE,EFO_0009454,http://www.ebi.ac.uk/efo/EFO_0009454,gastric ulcer
+CHEMBL1201320,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201320,ESOMEPRAZOLE,EFO_0004607,http://www.ebi.ac.uk/efo/EFO_0004607,duodenal ulcer
+CHEMBL1241,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1241,TRIPELENNAMINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL2108396,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108396,DEFIBROTIDE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL787,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL787,MONTELUKAST,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL787,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL787,MONTELUKAST,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1538,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1538,TENOFOVIR DISOPROXIL,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL1538,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1538,TENOFOVIR DISOPROXIL,EFO_0004239,http://www.ebi.ac.uk/efo/EFO_0004239,chronic hepatitis B virus infection
+CHEMBL2063090,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2063090,GRAZOPREVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL223228,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL223228,EFAVIRENZ,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL32800,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL32800,FENOTEROL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL397420,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL397420,ACENOCOUMAROL,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,HP_0001094,http://purl.obolibrary.org/obo/HP_0001094,Iridocyclitis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,HP_0012424,http://purl.obolibrary.org/obo/HP_0012424,Chorioretinitis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0000557,http://www.ebi.ac.uk/efo/EFO_0000557,juvenile dermatomyositis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0004276,http://www.ebi.ac.uk/efo/EFO_0004276,Stevens-Johnson syndrome
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0007168,http://www.ebi.ac.uk/efo/EFO_0007168,berylliosis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_1001194,http://www.ebi.ac.uk/efo/EFO_1001194,subacute thyroiditis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0007160,http://www.ebi.ac.uk/efo/EFO_0007160,autoimmune thrombocytopenic purpura
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0007520,http://www.ebi.ac.uk/efo/EFO_0007520,trichinosis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_1000039,http://www.ebi.ac.uk/efo/EFO_1000039,meningeal tuberculosis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0009456,http://www.ebi.ac.uk/efo/EFO_0009456,exfoliative dermatitis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0007257,http://www.ebi.ac.uk/efo/EFO_0007257,eosinophilic pneumonia
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_1000694,http://www.ebi.ac.uk/efo/EFO_1000694,erythema multiforme
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_0007403,http://www.ebi.ac.uk/efo/EFO_0007403,ophthalmic herpes zoster
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_1000997,http://www.ebi.ac.uk/efo/EFO_1000997,iritis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_1001896,http://www.ebi.ac.uk/efo/EFO_1001896,lateral epicondylitis
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_1001051,http://www.ebi.ac.uk/efo/EFO_1001051,mycosis fungoides
+CHEMBL635,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL635,PREDNISONE,EFO_1001205,http://www.ebi.ac.uk/efo/EFO_1001205,sympathetic ophthalmia
+CHEMBL1541,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1541,CEFIXIME,HP_0012388,http://purl.obolibrary.org/obo/HP_0012388,Acute bronchitis
+CHEMBL1541,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1541,CEFIXIME,HP_0011110,http://purl.obolibrary.org/obo/HP_0011110,Recurrent tonsillitis
+CHEMBL2108675,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108675,DUPILUMAB,HP_0000964,http://purl.obolibrary.org/obo/HP_0000964,Eczematoid dermatitis
+CHEMBL36715,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL36715,PIRACETAM,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL3989738,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989738,POLYMYXIN B,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL453,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL453,SULFISOXAZOLE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL455,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL455,SULFACETAMIDE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL455,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL455,SULFACETAMIDE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL61006,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL61006,PHENYLPROPANOLAMINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1303,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1303,ROTIGOTINE,EFO_0004270,http://www.ebi.ac.uk/efo/EFO_0004270,restless legs syndrome
+CHEMBL1547,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1547,THIAMINE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL182,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL182,GANCICLOVIR,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL2108041,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108041,OCRELIZUMAB,EFO_0008520,http://www.ebi.ac.uk/efo/EFO_0008520,primary progressive multiple sclerosis
+CHEMBL2108041,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108041,OCRELIZUMAB,EFO_0003929,http://www.ebi.ac.uk/efo/EFO_0003929,relapsing-remitting multiple sclerosis
+CHEMBL2364612,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2364612,LATANOPROSTENE BUNOD,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL271227,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL271227,ABIRATERONE ACETATE,EFO_0000196,http://www.ebi.ac.uk/efo/EFO_0000196,metastatic prostate cancer
+CHEMBL3545123,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3545123,PIBRENTASVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL4101807,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4101807,VOXELOTOR,Orphanet_232,http://www.orpha.net/ORDO/Orphanet_232,Sickle cell anemia
+CHEMBL413965,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL413965,FELBINAC,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL522038,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL522038,XIMELAGATRAN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL796,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL796,METHYLPHENIDATE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL1201207,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201207,BETAMETHASONE PHOSPHORIC ACID,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1201207,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201207,BETAMETHASONE PHOSPHORIC ACID,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1201207,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201207,BETAMETHASONE PHOSPHORIC ACID,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1201207,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201207,BETAMETHASONE PHOSPHORIC ACID,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL177,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL177,AMIKACIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL689,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL689,MANNITOL,EFO_1000845,http://www.ebi.ac.uk/efo/EFO_1000845,brain edema
+CHEMBL1161,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1161,MOMETASONE FUROATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1161,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1161,MOMETASONE FUROATE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1161,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1161,MOMETASONE FUROATE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1200737,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200737,COLFOSCERIL PALMITATE,EFO_1000644,http://www.ebi.ac.uk/efo/EFO_1000644,newborn respiratory distress syndrome
+CHEMBL2109065,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2109065,DROTRECOGIN ALFA (ACTIVATED),HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL2205807,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2205807,ABAMETAPIR,MONDO_0003472,http://purl.obolibrary.org/obo/MONDO_0003472,lice infestation
+CHEMBL4297229,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4297229,PRABOTULINUMTOXIN A,EFO_0005422,http://www.ebi.ac.uk/efo/EFO_0005422,skin aging
+CHEMBL4297536,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4297536,PATISIRAN SODIUM,Orphanet_85447,http://www.orpha.net/ORDO/Orphanet_85447,ATTRV30M amyloidosis
+CHEMBL508102,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL508102,CARBIMAZOLE,HP_0000820,http://purl.obolibrary.org/obo/HP_0000820,Abnormality of the thyroid gland
+CHEMBL1014,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1014,CANDESARTAN CILEXETIL,EFO_0003913,http://www.ebi.ac.uk/efo/EFO_0003913,angina pectoris
+CHEMBL1139,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1139,EPOPROSTENOL,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1187833,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1187833,UMECLIDINIUM,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1187833,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1187833,UMECLIDINIUM,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL4297620,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4297620,SOLRIAMFETOL,EFO_0000614,http://www.ebi.ac.uk/efo/EFO_0000614,obsolete_narcolepsy with cataplexy
+CHEMBL4297620,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4297620,SOLRIAMFETOL,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL4298110,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4298110,FERRIC MALTOL,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL715,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL715,OLANZAPINE,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL715,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL715,OLANZAPINE,HP_0000713,http://purl.obolibrary.org/obo/HP_0000713,Agitation
+CHEMBL729,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL729,LOPINAVIR,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL1042,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1042,CHOLECALCIFEROL,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1112,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1112,ARIPIPRAZOLE,EFO_0003758,http://www.ebi.ac.uk/efo/EFO_0003758,autism
+CHEMBL1112,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1112,ARIPIPRAZOLE,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL1112,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1112,ARIPIPRAZOLE,EFO_0003015,http://www.ebi.ac.uk/efo/EFO_0003015,aggressive behavior
+CHEMBL1112,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1112,ARIPIPRAZOLE,HP_0000713,http://purl.obolibrary.org/obo/HP_0000713,Agitation
+CHEMBL1166,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1166,ARGATROBAN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201584,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201584,ABCIXIMAB,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201584,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201584,ABCIXIMAB,EFO_1000985,http://www.ebi.ac.uk/efo/EFO_1000985,intermediate coronary syndrome
+CHEMBL170,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL170,QUININE,EFO_0007444,http://www.ebi.ac.uk/efo/EFO_0007444,Plasmodium falciparum malaria
+CHEMBL1752,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1752,DYPHYLLINE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL2108597,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108597,FERRIC CARBOXYMALTOSE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL3184512,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3184512,CLINDAMYCIN PHOSPHATE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL3184512,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3184512,CLINDAMYCIN PHOSPHATE,EFO_1001362,http://www.ebi.ac.uk/efo/EFO_1001362,Lung Abscess
+CHEMBL3184512,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3184512,CLINDAMYCIN PHOSPHATE,EFO_1001753,http://www.ebi.ac.uk/efo/EFO_1001753,abdominal abscess
+CHEMBL3184512,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3184512,CLINDAMYCIN PHOSPHATE,EFO_1001312,http://www.ebi.ac.uk/efo/EFO_1001312,Endometritis
+CHEMBL3184512,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3184512,CLINDAMYCIN PHOSPHATE,EFO_1001084,http://www.ebi.ac.uk/efo/EFO_1001084,parametritis
+CHEMBL443,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL443,SULFAMETHOXAZOLE,EFO_0007448,http://www.ebi.ac.uk/efo/EFO_0007448,pneumocystosis
+CHEMBL504,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL504,DIMETHYL SULFOXIDE,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL1082,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1082,AMOXICILLIN,DOID_7551,https://api.disease-ontology.org/v1/terms/DOID_7551,gonorrhea
+CHEMBL1082,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1082,AMOXICILLIN,HP_0011110,http://purl.obolibrary.org/obo/HP_0011110,Recurrent tonsillitis
+CHEMBL1082,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1082,AMOXICILLIN,EFO_0004607,http://www.ebi.ac.uk/efo/EFO_0004607,duodenal ulcer
+CHEMBL1200686,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200686,PIMECROLIMUS,HP_0000964,http://purl.obolibrary.org/obo/HP_0000964,Eczematoid dermatitis
+CHEMBL1396,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1396,VARENICLINE,EFO_0003768,http://www.ebi.ac.uk/efo/EFO_0003768,nicotine dependence
+CHEMBL1549,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1549,HYDROCORTISONE CYPIONATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1549,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1549,HYDROCORTISONE CYPIONATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL2218896,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2218896,NABILONE,HP_0002018,http://purl.obolibrary.org/obo/HP_0002018,Nausea
+CHEMBL2364632,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2364632,SARECYCLINE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL434,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL434,ISOPROTERENOL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL480,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL480,LANSOPRAZOLE,EFO_0009454,http://www.ebi.ac.uk/efo/EFO_0009454,gastric ulcer
+CHEMBL639,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL639,AZELASTINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL639,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL639,AZELASTINE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL639,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL639,AZELASTINE,EFO_0007533,http://www.ebi.ac.uk/efo/EFO_0007533,vasomotor rhinitis
+CHEMBL639,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL639,AZELASTINE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL163,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL163,RITONAVIR,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL163,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL163,RITONAVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL3039597,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3039597,GENTAMICIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL34259,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL34259,METHOTREXATE,EFO_1001051,http://www.ebi.ac.uk/efo/EFO_1001051,mycosis fungoides
+CHEMBL34259,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL34259,METHOTREXATE,EFO_1001494,http://www.ebi.ac.uk/efo/EFO_1001494,psoriasis vulgaris
+CHEMBL807,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL807,MEMANTINE,HP_0000726,http://purl.obolibrary.org/obo/HP_0000726,Dementia
+CHEMBL1089221,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1089221,BENDAZAC,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL1089221,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1089221,BENDAZAC,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1140,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1140,NIACINAMIDE,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL1140,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1140,NIACINAMIDE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1140,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1140,NIACINAMIDE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1191,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1191,SULFAMETHIZOLE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1201146,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201146,NORETHINDRONE ACETATE,HP_0008209,http://purl.obolibrary.org/obo/HP_0008209,Premature ovarian insufficiency
+CHEMBL1201146,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201146,NORETHINDRONE ACETATE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1201662,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201662,DESIRUDIN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201662,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201662,DESIRUDIN,EFO_0003907,http://www.ebi.ac.uk/efo/EFO_0003907,deep vein thrombosis
+CHEMBL1201825,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201825,RANIBIZUMAB,EFO_0004683,http://www.ebi.ac.uk/efo/EFO_0004683,wet macular degeneration
+CHEMBL1231574,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1231574,LEVOMEFOLIC ACID,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1231574,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1231574,LEVOMEFOLIC ACID,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1237026,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1237026,TESAMORELIN,EFO_1001348,http://www.ebi.ac.uk/efo/EFO_1001348,HIV-Associated Lipodystrophy Syndrome
+CHEMBL1389,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1389,LEVONORGESTREL,HP_0000132,http://purl.obolibrary.org/obo/HP_0000132,Menorrhagia
+CHEMBL3988900,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3988900,ZINC OXIDE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL498847,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL498847,SECNIDAZOLE,EFO_0003932,http://www.ebi.ac.uk/efo/EFO_0003932,bacterial vaginosis
+CHEMBL770,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL770,TOLAZOLINE,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL89598,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL89598,VIGABATRIN,EFO_1000877,http://www.ebi.ac.uk/efo/EFO_1000877,complex partial epilepsy
+CHEMBL1095777,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1095777,INDACATEROL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1095777,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1095777,INDACATEROL,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL1201192,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201192,ARMODAFINIL,EFO_0000614,http://www.ebi.ac.uk/efo/EFO_0000614,obsolete_narcolepsy with cataplexy
+CHEMBL1201192,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201192,ARMODAFINIL,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL2048028,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2048028,LIFITEGRAST,EFO_1000906,http://www.ebi.ac.uk/efo/EFO_1000906,dry eye syndrome
+CHEMBL73234,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL73234,CARBETAPENTANE,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL990,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL990,BUTENAFINE,EFO_0007510,http://www.ebi.ac.uk/efo/EFO_0007510,tinea
+CHEMBL1059,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1059,PREGABALIN,EFO_0005687,http://www.ebi.ac.uk/efo/EFO_0005687,fibromyalgia
+CHEMBL1059,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1059,PREGABALIN,EFO_0005762,http://www.ebi.ac.uk/efo/EFO_0005762,neuropathic pain
+CHEMBL1109,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1109,SULFAPHENAZOLE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1201199,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201199,LEUPROLIDE,EFO_0000196,http://www.ebi.ac.uk/efo/EFO_0000196,metastatic prostate cancer
+CHEMBL1201335,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201335,GLYCOPYRRONIUM,HP_0000975,http://purl.obolibrary.org/obo/HP_0000975,Hyperhidrosis
+CHEMBL1201335,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201335,GLYCOPYRRONIUM,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1201561,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201561,PEGINTERFERON ALFA-2B,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL1201561,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201561,PEGINTERFERON ALFA-2B,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL1201593,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201593,ALTEPLASE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1474889,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1474889,CLOBUTINOL,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL2105395,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2105395,OSPEMIFENE,HP_0030016,http://purl.obolibrary.org/obo/HP_0030016,Dyspareunia
+CHEMBL33,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL33,LEVOFLOXACIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL3990048,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3990048,"",Orphanet_584,http://www.orpha.net/ORDO/Orphanet_584,Mucopolysaccharidosis type 7
+CHEMBL4216467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4216467,RIPRETINIB,Orphanet_44890,http://www.orpha.net/ORDO/Orphanet_44890,Gastrointestinal stromal tumor
+CHEMBL465,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL465,DRONABINOL,HP_0002018,http://purl.obolibrary.org/obo/HP_0002018,Nausea
+CHEMBL465,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL465,DRONABINOL,EFO_0006911,http://www.ebi.ac.uk/efo/EFO_0006911,Chemotherapy-induced nausea and vomiting
+CHEMBL56564,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL56564,TROPISETRON,HP_0002018,http://purl.obolibrary.org/obo/HP_0002018,Nausea
+CHEMBL569713,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL569713,SCOPOLAMINE,HP_0002018,http://purl.obolibrary.org/obo/HP_0002018,Nausea
+CHEMBL569713,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL569713,SCOPOLAMINE,EFO_0004888,http://www.ebi.ac.uk/efo/EFO_0004888,post operative nausea and vomiting
+CHEMBL709,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL709,ALFUZOSIN,EFO_0000284,http://www.ebi.ac.uk/efo/EFO_0000284,benign prostatic hyperplasia
+CHEMBL1220,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1220,TINIDAZOLE,EFO_0003932,http://www.ebi.ac.uk/efo/EFO_0003932,bacterial vaginosis
+CHEMBL139,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL139,DICLOFENAC,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL139,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL139,DICLOFENAC,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL3833373,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3833373,AVELUMAB,EFO_1001471,http://www.ebi.ac.uk/efo/EFO_1001471,Merkel cell skin cancer
+CHEMBL4204794,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4204794,AVAPRITINIB,Orphanet_44890,http://www.orpha.net/ORDO/Orphanet_44890,Gastrointestinal stromal tumor
+CHEMBL547,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL547,ISOTRETINOIN,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL659,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL659,GALANTAMINE,HP_0000726,http://purl.obolibrary.org/obo/HP_0000726,Dementia
+CHEMBL110458,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL110458,MIGALASTAT,Orphanet_324,http://www.orpha.net/ORDO/Orphanet_324,Fabry disease
+CHEMBL1201772,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201772,PRASUGREL,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201772,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201772,PRASUGREL,EFO_0005672,http://www.ebi.ac.uk/efo/EFO_0005672,acute coronary syndrome
+CHEMBL1515,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1515,METHIMAZOLE,HP_0000820,http://purl.obolibrary.org/obo/HP_0000820,Abnormality of the thyroid gland
+CHEMBL1622,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1622,FOLIC ACID,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL1622,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1622,FOLIC ACID,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1622,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1622,FOLIC ACID,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1789941,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1789941,RUXOLITINIB,EFO_0002429,http://www.ebi.ac.uk/efo/EFO_0002429,polycythemia vera
+CHEMBL1789941,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1789941,RUXOLITINIB,EFO_0002430,http://www.ebi.ac.uk/efo/EFO_0002430,primary myelofibrosis
+CHEMBL2108278,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108278,ETEPLIRSEN,Orphanet_98896,http://www.orpha.net/ORDO/Orphanet_98896,Duchenne muscular dystrophy
+CHEMBL2110563,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2110563,CYANOCOBALAMIN,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL2110563,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2110563,CYANOCOBALAMIN,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL3707372,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3707372,VOXILAPREVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL521,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL521,IBUPROFEN,HP_0001643,http://purl.obolibrary.org/obo/HP_0001643,Patent ductus arteriosus
+CHEMBL521,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL521,IBUPROFEN,HP_0100607,http://purl.obolibrary.org/obo/HP_0100607,Dysmenorrhea
+CHEMBL521,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL521,IBUPROFEN,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL6,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL6,INDOMETHACIN,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL6,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL6,INDOMETHACIN,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL6,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL6,INDOMETHACIN,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL6,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL6,INDOMETHACIN,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL603,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL603,ZAFIRLUKAST,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1172,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1172,DESLORATADINE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1201236,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201236,CARBIDOPA,EFO_1001402,http://www.ebi.ac.uk/efo/EFO_1001402,postencephalitic Parkinson disease
+CHEMBL129,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL129,ZIDOVUDINE,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL2105741,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2105741,TRAMETINIB DIMETHYL SULFOXIDE,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL4297537,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4297537,INOTERSEN SODIUM,Orphanet_85447,http://www.orpha.net/ORDO/Orphanet_85447,ATTRV30M amyloidosis
+CHEMBL657,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL657,DIPHENHYDRAMINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL1177,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1177,PEMOLINE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL1229517,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1229517,VEMURAFENIB,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL1305,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1305,ANTAZOLINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL24924,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL24924,FLUINDIONE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL37390,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL37390,PROXYPHYLLINE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL388590,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL388590,BENZBROMARONE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL408403,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL408403,ANGIOTENSIN II,EFO_0006834,http://www.ebi.ac.uk/efo/EFO_0006834,septic shock
+CHEMBL799,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL799,CILOSTAZOL,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201534,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201534,DANAPAROID SODIUM,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1370,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1370,BUDESONIDE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1370,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1370,BUDESONIDE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1370,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1370,BUDESONIDE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1370,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1370,BUDESONIDE,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL1534,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1534,RIBOFLAVIN,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL1534,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1534,RIBOFLAVIN,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1734,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1734,SOLIFENACIN,HP_0000103,http://purl.obolibrary.org/obo/HP_0000103,Polyuria
+CHEMBL1734,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1734,SOLIFENACIN,EFO_1000781,http://www.ebi.ac.uk/efo/EFO_1000781,overactive bladder
+CHEMBL2103737,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2103737,HYDROXOCOBALAMIN,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL3187723,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3187723,BINIMETINIB,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL106,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL106,FLUCONAZOLE,EFO_0007228,http://www.ebi.ac.uk/efo/EFO_0007228,cryptococcal meningitis
+CHEMBL1201134,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201134,LUBIPROSTONE,EFO_0000555,http://www.ebi.ac.uk/efo/EFO_0000555,irritable bowel syndrome
+CHEMBL125,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL125,MILTEFOSINE,EFO_0005045,http://www.ebi.ac.uk/efo/EFO_0005045,visceral Leishmaniasis
+CHEMBL125,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL125,MILTEFOSINE,EFO_0007379,http://www.ebi.ac.uk/efo/EFO_0007379,mucocutaneous Leishmaniasis
+CHEMBL220491,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL220491,BRINZOLAMIDE,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL3544921,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3544921,CERLIPONASE ALFA,Orphanet_228349,http://www.orpha.net/ORDO/Orphanet_228349,CLN2 disease
+CHEMBL4298187,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4298187,FERRIC DERISOMALTOSE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL4594252,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4594252,ALUMINIUM OXIDE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL535,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL535,SUNITINIB,Orphanet_44890,http://www.orpha.net/ORDO/Orphanet_44890,Gastrointestinal stromal tumor
+CHEMBL569,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL569,PROCAINE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL94394,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL94394,BUFEXAMAC,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL1201213,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201213,ISOETHARINE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1201560,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201560,PEGINTERFERON ALFA-2A,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL23,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL23,DILTIAZEM,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL23,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL23,DILTIAZEM,EFO_0003913,http://www.ebi.ac.uk/efo/EFO_0003913,angina pectoris
+CHEMBL4,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4,OFLOXACIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL633,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL633,AMIODARONE,HP_0004308,http://purl.obolibrary.org/obo/HP_0004308,Ventricular arrhythmia
+CHEMBL86,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL86,METOCLOPRAMIDE,EFO_0004888,http://www.ebi.ac.uk/efo/EFO_0004888,post operative nausea and vomiting
+CHEMBL1201187,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201187,MARAVIROC,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL1201688,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201688,FOMIVIRSEN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1219,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1219,RABEPRAZOLE,EFO_0007549,http://www.ebi.ac.uk/efo/EFO_0007549,Zollinger-Ellison Syndrome
+CHEMBL1219,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1219,RABEPRAZOLE,EFO_0004607,http://www.ebi.ac.uk/efo/EFO_0004607,duodenal ulcer
+CHEMBL1621597,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1621597,IPRATROPIUM,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1621597,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1621597,IPRATROPIUM,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1621597,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1621597,IPRATROPIUM,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL1621597,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1621597,IPRATROPIUM,EFO_0007214,http://www.ebi.ac.uk/efo/EFO_0007214,common cold
+CHEMBL1201353,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201353,DEXCHLORPHENIRAMINE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1201353,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201353,DEXCHLORPHENIRAMINE,EFO_0007533,http://www.ebi.ac.uk/efo/EFO_0007533,vasomotor rhinitis
+CHEMBL1201353,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201353,DEXCHLORPHENIRAMINE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL1201353,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201353,DEXCHLORPHENIRAMINE,EFO_1001417,http://www.ebi.ac.uk/efo/EFO_1001417,"Rhinitis, Allergic, Perennial"
+CHEMBL19019,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL19019,NALTREXONE,MONDO_0002046,http://purl.obolibrary.org/obo/MONDO_0002046,alcohol abuse
+CHEMBL2146883,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2146883,COBIMETINIB,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL3301612,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3301612,ENCORAFENIB,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL404,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL404,TAZOBACTAM,EFO_0007149,http://www.ebi.ac.uk/efo/EFO_0007149,appendicitis
+CHEMBL404,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL404,TAZOBACTAM,EFO_1001459,http://www.ebi.ac.uk/efo/EFO_1001459,diabetic foot
+CHEMBL404,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL404,TAZOBACTAM,EFO_1001312,http://www.ebi.ac.uk/efo/EFO_1001312,Endometritis
+CHEMBL638,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL638,VORICONAZOLE,EFO_1001282,http://www.ebi.ac.uk/efo/EFO_1001282,Candidemia
+CHEMBL1086440,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1086440,TRICLABENDAZOLE,EFO_1001324,http://www.ebi.ac.uk/efo/EFO_1001324,Fascioliasis
+CHEMBL1129,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1129,TRIFLURIDINE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1201414,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201414,TINZAPARIN SODIUM,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201414,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201414,TINZAPARIN SODIUM,EFO_0003907,http://www.ebi.ac.uk/efo/EFO_0003907,deep vein thrombosis
+CHEMBL1201564,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201564,INTERFERON GAMMA-1B,Orphanet_53,http://www.orpha.net/ORDO/Orphanet_53,Albers-Schnberg osteopetrosis
+CHEMBL1201830,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201830,RILONACEPT,Orphanet_575,http://www.orpha.net/ORDO/Orphanet_575,Muckle-Wells syndrome
+CHEMBL130,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL130,CHLORAMPHENICOL,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL130,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL130,CHLORAMPHENICOL,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1760,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1760,TERBUTALINE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL790,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL790,CHLORHEXIDINE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL93645,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL93645,ACECLOFENAC,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL1201580,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201580,ADALIMUMAB,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL1464,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1464,WARFARIN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1643,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1643,RIBAVIRIN,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL2106119,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2106119,CALCIUM GLUCONATE,HP_0002901,http://purl.obolibrary.org/obo/HP_0002901,Hypocalcemia
+CHEMBL8,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL8,CIPROFLOXACIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL833,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL833,TICLOPIDINE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1106,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1106,EPINASTINE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL1200799,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200799,TRAVOPROST,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL211456,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL211456,EPHEDRINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL3039583,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3039583,PASIREOTIDE,EFO_1001485,http://www.ebi.ac.uk/efo/EFO_1001485,acromegaly
+CHEMBL566315,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL566315,OBETICHOLIC ACID,EFO_1001486,http://www.ebi.ac.uk/efo/EFO_1001486,primary biliary cirrhosis
+CHEMBL711,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL711,PHENINDIONE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL85,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL85,RISPERIDONE,EFO_0003758,http://www.ebi.ac.uk/efo/EFO_0003758,autism
+CHEMBL85,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL85,RISPERIDONE,EFO_0003015,http://www.ebi.ac.uk/efo/EFO_0003015,aggressive behavior
+CHEMBL1201281,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201281,CHLORAMPHENICOL SUCCINIC ACID,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1201281,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201281,CHLORAMPHENICOL SUCCINIC ACID,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL161,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL161,CEFTRIAXONE,DOID_7551,https://api.disease-ontology.org/v1/terms/DOID_7551,gonorrhea
+CHEMBL517712,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL517712,ATROPINE,HP_0011499,http://purl.obolibrary.org/obo/HP_0011499,Mydriasis
+CHEMBL517712,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL517712,ATROPINE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL719,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL719,MUPIROCIN,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1201109,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201109,DESONIDE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1201776,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201776,TAPENTADOL,EFO_0005762,http://www.ebi.ac.uk/efo/EFO_0005762,neuropathic pain
+CHEMBL1238,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1238,AZELAIC ACID,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1238,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1238,AZELAIC ACID,EFO_1000760,http://www.ebi.ac.uk/efo/EFO_1000760,rosacea
+CHEMBL1346,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1346,DARIFENACIN,HP_0000103,http://purl.obolibrary.org/obo/HP_0000103,Polyuria
+CHEMBL502,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL502,DONEPEZIL,HP_0000726,http://purl.obolibrary.org/obo/HP_0000726,Dementia
+CHEMBL831,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL831,LOXAPINE,HP_0000713,http://purl.obolibrary.org/obo/HP_0000713,Agitation
+CHEMBL1201657,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201657,HEPARIN SODIUM,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1201657,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201657,HEPARIN SODIUM,EFO_0003907,http://www.ebi.ac.uk/efo/EFO_0003907,deep vein thrombosis
+CHEMBL1269025,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1269025,EDOXABAN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1269025,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1269025,EDOXABAN,EFO_0003907,http://www.ebi.ac.uk/efo/EFO_0003907,deep vein thrombosis
+CHEMBL1364,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1364,PYRIDOXINE,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL1364,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1364,PYRIDOXINE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1863513,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1863513,INGENOL MEBUTATE,EFO_0002496,http://www.ebi.ac.uk/efo/EFO_0002496,actinic keratosis
+CHEMBL190461,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL190461,CANNABIDIOL,Orphanet_2382,http://www.orpha.net/ORDO/Orphanet_2382,Lennox-Gastaut syndrome
+CHEMBL190461,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL190461,CANNABIDIOL,Orphanet_33069,http://www.orpha.net/ORDO/Orphanet_33069,Dravet syndrome
+CHEMBL2107886,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2107886,REVIPARIN SODIUM,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL4297762,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4297762,GOLODIRSEN,Orphanet_98896,http://www.orpha.net/ORDO/Orphanet_98896,Duchenne muscular dystrophy
+CHEMBL1198857,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1198857,VILANTEROL,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL1489,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1489,AZACITIDINE,EFO_0003811,http://www.ebi.ac.uk/efo/EFO_0003811,refractory anemia with excess blasts
+CHEMBL1628502,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1628502,GABAPENTIN ENACARBIL,EFO_0004270,http://www.ebi.ac.uk/efo/EFO_0004270,restless legs syndrome
+CHEMBL2108574,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108574,ANTITHROMBIN III HUMAN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL3039514,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3039514,ELBASVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL1078261,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078261,PROPIVERINE,HP_0000103,http://purl.obolibrary.org/obo/HP_0000103,Polyuria
+CHEMBL1201576,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201576,RITUXIMAB,EFO_1000784,http://www.ebi.ac.uk/efo/EFO_1000784,microscopic polyangiitis
+CHEMBL1963683,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1963683,TAFLUPROST,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL3833319,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3833319,REVEFENACIN,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL428880,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL428880,CROMOLYN,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL428880,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL428880,CROMOLYN,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL428880,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL428880,CROMOLYN,HP_0000964,http://purl.obolibrary.org/obo/HP_0000964,Eczematoid dermatitis
+CHEMBL660,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL660,AMANTADINE,EFO_1000860,http://www.ebi.ac.uk/efo/EFO_1000860,cerebral atherosclerosis
+CHEMBL660,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL660,AMANTADINE,EFO_1001402,http://www.ebi.ac.uk/efo/EFO_1001402,postencephalitic Parkinson disease
+CHEMBL846,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL846,CALCITRIOL,HP_0002901,http://purl.obolibrary.org/obo/HP_0002901,Hypocalcemia
+CHEMBL1064,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1064,SIMVASTATIN,HP_0003124,http://purl.obolibrary.org/obo/HP_0003124,Hypercholesterolemia
+CHEMBL1200600,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200600,FLUOROMETHOLONE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1200600,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200600,FLUOROMETHOLONE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1200600,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200600,FLUOROMETHOLONE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,HP_0001094,http://purl.obolibrary.org/obo/HP_0001094,Iridocyclitis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,HP_0012424,http://purl.obolibrary.org/obo/HP_0012424,Chorioretinitis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0004276,http://www.ebi.ac.uk/efo/EFO_0004276,Stevens-Johnson syndrome
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_1000845,http://www.ebi.ac.uk/efo/EFO_1000845,brain edema
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_1001194,http://www.ebi.ac.uk/efo/EFO_1001194,subacute thyroiditis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0007160,http://www.ebi.ac.uk/efo/EFO_0007160,autoimmune thrombocytopenic purpura
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0007520,http://www.ebi.ac.uk/efo/EFO_0007520,trichinosis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_1000039,http://www.ebi.ac.uk/efo/EFO_1000039,meningeal tuberculosis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0009456,http://www.ebi.ac.uk/efo/EFO_0009456,exfoliative dermatitis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0007257,http://www.ebi.ac.uk/efo/EFO_0007257,eosinophilic pneumonia
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_1000694,http://www.ebi.ac.uk/efo/EFO_1000694,erythema multiforme
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_0007403,http://www.ebi.ac.uk/efo/EFO_0007403,ophthalmic herpes zoster
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_1000997,http://www.ebi.ac.uk/efo/EFO_1000997,iritis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_1001896,http://www.ebi.ac.uk/efo/EFO_1001896,lateral epicondylitis
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_1001051,http://www.ebi.ac.uk/efo/EFO_1001051,mycosis fungoides
+CHEMBL1201302,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201302,DEXAMETHASONE PHOSPHORIC ACID,EFO_1001205,http://www.ebi.ac.uk/efo/EFO_1001205,sympathetic ophthalmia
+CHEMBL1201891,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201891,DEFLAZACORT,Orphanet_98896,http://www.orpha.net/ORDO/Orphanet_98896,Duchenne muscular dystrophy
+CHEMBL2105487,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2105487,"SULFUR, PRECIPITATED",EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL254857,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL254857,FIPEXIDE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL3544926,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3544926,OBILTOXAXIMAB,EFO_0000778,http://www.ebi.ac.uk/efo/EFO_0000778,anthrax infection
+CHEMBL513,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL513,CARMUSTINE,EFO_0002499,http://www.ebi.ac.uk/efo/EFO_0002499,anaplastic astrocytoma
+CHEMBL760,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL760,ANAGRELIDE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1082407,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1082407,ENZALUTAMIDE,EFO_0000196,http://www.ebi.ac.uk/efo/EFO_0000196,metastatic prostate cancer
+CHEMBL1200934,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200934,NORGESTIMATE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL2103749,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2103749,BIVALIRUDIN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL2103749,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2103749,BIVALIRUDIN,EFO_1000985,http://www.ebi.ac.uk/efo/EFO_1000985,intermediate coronary syndrome
+CHEMBL2103827,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2103827,DROXIDOPA,EFO_0005252,http://www.ebi.ac.uk/efo/EFO_0005252,orthostatic hypotension
+CHEMBL231779,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL231779,APIXABAN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL231779,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL231779,APIXABAN,EFO_0003907,http://www.ebi.ac.uk/efo/EFO_0003907,deep vein thrombosis
+CHEMBL803,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL803,CYTARABINE,EFO_0003027,http://www.ebi.ac.uk/efo/EFO_0003027,acute myeloblastic leukemia without maturation
+CHEMBL101,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL101,PHENYLBUTAZONE,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL1138,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1138,EZETIMIBE,HP_0003124,http://purl.obolibrary.org/obo/HP_0003124,Hypercholesterolemia
+CHEMBL1189679,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1189679,PALONOSETRON,HP_0002018,http://purl.obolibrary.org/obo/HP_0002018,Nausea
+CHEMBL1189679,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1189679,PALONOSETRON,EFO_0004888,http://www.ebi.ac.uk/efo/EFO_0004888,post operative nausea and vomiting
+CHEMBL1189679,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1189679,PALONOSETRON,EFO_0006911,http://www.ebi.ac.uk/efo/EFO_0006911,Chemotherapy-induced nausea and vomiting
+CHEMBL1256786,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1256786,FORMOTEROL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1256786,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1256786,FORMOTEROL,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL1257015,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1257015,PICOTAMIDE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1511,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1511,ESTRADIOL VALERATE,HP_0000132,http://purl.obolibrary.org/obo/HP_0000132,Menorrhagia
+CHEMBL1511,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1511,ESTRADIOL VALERATE,HP_0008209,http://purl.obolibrary.org/obo/HP_0008209,Premature ovarian insufficiency
+CHEMBL2040682,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2040682,CICLESONIDE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL2040682,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2040682,CICLESONIDE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL2040682,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2040682,CICLESONIDE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL3833401,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3833401,ALUMINUM CHLORIDE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL529,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL529,AZITHROMYCIN,HP_0011110,http://purl.obolibrary.org/obo/HP_0011110,Recurrent tonsillitis
+CHEMBL529,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL529,AZITHROMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL529,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL529,AZITHROMYCIN,Orphanet_586,http://www.orpha.net/ORDO/Orphanet_586,Cystic fibrosis
+CHEMBL591665,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL591665,SODIUM ASCORBATE,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL591665,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL591665,SODIUM ASCORBATE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL99946,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL99946,LEVOMILNACIPRAN,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL2095208,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2095208,COBICISTAT,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL312448,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL312448,XYLOMETAZOLINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL3707326,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3707326,BUROSUMAB,HP_0002148,http://purl.obolibrary.org/obo/HP_0002148,Hypophosphatemia
+CHEMBL398435,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL398435,TICAGRELOR,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL398435,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL398435,TICAGRELOR,EFO_0005672,http://www.ebi.ac.uk/efo/EFO_0005672,acute coronary syndrome
+CHEMBL600,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL600,ACETYLCYSTEINE,EFO_1000905,http://www.ebi.ac.uk/efo/EFO_1000905,drug-induced hepatitis
+CHEMBL600,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL600,ACETYLCYSTEINE,EFO_0004228,http://www.ebi.ac.uk/efo/EFO_0004228,drug-induced liver injury
+CHEMBL600,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL600,ACETYLCYSTEINE,Orphanet_586,http://www.orpha.net/ORDO/Orphanet_586,Cystic fibrosis
+CHEMBL642,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL642,ACEBUTOLOL,HP_0004308,http://purl.obolibrary.org/obo/HP_0004308,Ventricular arrhythmia
+CHEMBL1457,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1457,HYDROCODONE,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL154,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL154,NAPROXEN,HP_0100607,http://purl.obolibrary.org/obo/HP_0100607,Dysmenorrhea
+CHEMBL154,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL154,NAPROXEN,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL154,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL154,NAPROXEN,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL154,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL154,NAPROXEN,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL154,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL154,NAPROXEN,EFO_0009454,http://www.ebi.ac.uk/efo/EFO_0009454,gastric ulcer
+CHEMBL154,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL154,NAPROXEN,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL190,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL190,THEOPHYLLINE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL2107825,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2107825,TENOFOVIR ALAFENAMIDE,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL43064,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL43064,CINNARIZINE,HP_0002321,http://purl.obolibrary.org/obo/HP_0002321,Vertigo
+CHEMBL437765,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL437765,RIFAMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL641,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL641,ATOMOXETINE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL1090,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1090,VIDARABINE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1096,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1096,AMLEXANOX,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1201558,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201558,INTERFERON ALFA-2B,MONDO_0018906,http://purl.obolibrary.org/obo/MONDO_0018906,follicular lymphoma
+CHEMBL1201558,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201558,INTERFERON ALFA-2B,EFO_0007147,http://www.ebi.ac.uk/efo/EFO_0007147,anogenital venereal wart
+CHEMBL1201558,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201558,INTERFERON ALFA-2B,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL1201558,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201558,INTERFERON ALFA-2B,EFO_1000956,http://www.ebi.ac.uk/efo/EFO_1000956,hairy cell leukemia
+CHEMBL1201558,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201558,INTERFERON ALFA-2B,EFO_0004239,http://www.ebi.ac.uk/efo/EFO_0004239,chronic hepatitis B virus infection
+CHEMBL1503,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1503,OMEPRAZOLE,EFO_0009454,http://www.ebi.ac.uk/efo/EFO_0009454,gastric ulcer
+CHEMBL1503,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1503,OMEPRAZOLE,EFO_0004607,http://www.ebi.ac.uk/efo/EFO_0004607,duodenal ulcer
+CHEMBL2105458,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2105458,THENALIDINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL503,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL503,LOVASTATIN,HP_0003124,http://purl.obolibrary.org/obo/HP_0003124,Hypercholesterolemia
+CHEMBL1228,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1228,OXYPHENBUTAZONE,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL1228,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1228,OXYPHENBUTAZONE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL2108494,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108494,INTERFERON,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL2142890,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2142890,ACEGLUMATE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL46,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL46,ONDANSETRON,HP_0002013,http://purl.obolibrary.org/obo/HP_0002013,Vomiting
+CHEMBL46,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL46,ONDANSETRON,HP_0002018,http://purl.obolibrary.org/obo/HP_0002018,Nausea
+CHEMBL46,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL46,ONDANSETRON,EFO_0006912,http://www.ebi.ac.uk/efo/EFO_0006912,Radiation-induced nausea and vomiting
+CHEMBL46,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL46,ONDANSETRON,EFO_0004888,http://www.ebi.ac.uk/efo/EFO_0004888,post operative nausea and vomiting
+CHEMBL46,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL46,ONDANSETRON,EFO_0006911,http://www.ebi.ac.uk/efo/EFO_0006911,Chemotherapy-induced nausea and vomiting
+CHEMBL499,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL499,TIMOLOL,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL650,METHYLPREDNISOLONE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL650,METHYLPREDNISOLONE,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL814,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL814,FLUVOXAMINE,EFO_1002014,http://www.ebi.ac.uk/efo/EFO_1002014,melancholia
+CHEMBL924,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL924,ZOLEDRONIC ACID,EFO_0000196,http://www.ebi.ac.uk/efo/EFO_0000196,metastatic prostate cancer
+CHEMBL924,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL924,ZOLEDRONIC ACID,EFO_0003854,http://www.ebi.ac.uk/efo/EFO_0003854,postmenopausal osteoporosis
+CHEMBL107,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL107,COLCHICINE,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL107,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL107,COLCHICINE,Orphanet_342,http://www.orpha.net/ORDO/Orphanet_342,Familial Mediterranean fever
+CHEMBL113,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL113,CAFFEINE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL1200449,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200449,TRIAMCINOLONE DIACETATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1200449,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200449,TRIAMCINOLONE DIACETATE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1200449,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200449,TRIAMCINOLONE DIACETATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1200449,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200449,TRIAMCINOLONE DIACETATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1201661,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201661,CALCITONIN SALMON RECOMBINANT,EFO_0003854,http://www.ebi.ac.uk/efo/EFO_0003854,postmenopausal osteoporosis
+CHEMBL1201780,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201780,CARGLUMIC ACID,Orphanet_927,http://www.orpha.net/ORDO/Orphanet_927,Hyperammonemia due to N-acetylglutamate synthase deficiency
+CHEMBL2105002,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2105002,ISOAMINILE,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL3707313,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3707313,TRIFAROTENE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL404520,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL404520,CHLORTETRACYCLINE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL604,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL604,CUPRIC SULFATE,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL604,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL604,CUPRIC SULFATE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL989,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL989,FLUOCINOLONE ACETONIDE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL989,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL989,FLUOCINOLONE ACETONIDE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL103,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL103,PROGESTERONE,EFO_0010269,http://www.ebi.ac.uk/efo/EFO_0010269,amenorrhea
+CHEMBL1183349,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1183349,ISAVUCONAZONIUM,EFO_0007380,http://www.ebi.ac.uk/efo/EFO_0007380,mucormycosis
+CHEMBL1189432,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1189432,OLOPATADINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1189432,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1189432,OLOPATADINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL1189432,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1189432,OLOPATADINE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL1263,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1263,SALMETEROL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1263,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1263,SALMETEROL,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL1530428,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1530428,DEXAMETHASONE ACETATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1530428,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1530428,DEXAMETHASONE ACETATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1530428,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1530428,DEXAMETHASONE ACETATE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1530428,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1530428,DEXAMETHASONE ACETATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL3304485,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3304485,TENAPANOR,EFO_0000555,http://www.ebi.ac.uk/efo/EFO_0000555,irritable bowel syndrome
+CHEMBL4297065,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4297065,SPINOSAD,MONDO_0003472,http://purl.obolibrary.org/obo/MONDO_0003472,lice infestation
+CHEMBL469,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL469,KETOROLAC,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL505,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL505,CHLORPHENIRAMINE,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL761,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL761,NAPHAZOLINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1201421,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201421,PEGAPTANIB SODIUM,EFO_0004683,http://www.ebi.ac.uk/efo/EFO_0004683,wet macular degeneration
+CHEMBL1502,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1502,PANTOPRAZOLE,HP_0100633,http://purl.obolibrary.org/obo/HP_0100633,Esophagitis
+CHEMBL1502,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1502,PANTOPRAZOLE,EFO_0007549,http://www.ebi.ac.uk/efo/EFO_0007549,Zollinger-Ellison Syndrome
+CHEMBL57,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL57,NEVIRAPINE,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL577736,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL577736,TYROTHRICIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL605846,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL605846,OLODATEROL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL686,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL686,MEFENAMIC ACID,HP_0100607,http://purl.obolibrary.org/obo/HP_0100607,Dysmenorrhea
+CHEMBL986,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL986,RETINOL,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL986,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL986,RETINOL,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1110,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1110,ALOSETRON,EFO_0000555,http://www.ebi.ac.uk/efo/EFO_0000555,irritable bowel syndrome
+CHEMBL1194325,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1194325,ACLIDINIUM,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1194325,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1194325,ACLIDINIUM,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL1200538,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200538,BETAMETHASONE ACETATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1200538,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200538,BETAMETHASONE ACETATE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1200538,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200538,BETAMETHASONE ACETATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1200538,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200538,BETAMETHASONE ACETATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1201186,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201186,BISMUTH SUBCITRATE POTASSIUM,EFO_0004607,http://www.ebi.ac.uk/efo/EFO_0004607,duodenal ulcer
+CHEMBL1201624,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201624,BERACTANT,EFO_1000644,http://www.ebi.ac.uk/efo/EFO_1000644,newborn respiratory distress syndrome
+CHEMBL1342,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1342,OXYBATE,EFO_0000614,http://www.ebi.ac.uk/efo/EFO_0000614,obsolete_narcolepsy with cataplexy
+CHEMBL1501,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1501,FLUOCINONIDE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1747,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1747,TOBRAMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1747,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1747,TOBRAMYCIN,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL1747,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1747,TOBRAMYCIN,Orphanet_586,http://www.orpha.net/ORDO/Orphanet_586,Cystic fibrosis
+CHEMBL2108638,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108638,RAXIBACUMAB,EFO_0000778,http://www.ebi.ac.uk/efo/EFO_0000778,anthrax infection
+CHEMBL251634,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL251634,FLUOCORTOLONE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1201544,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201544,IRON DEXTRAN,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL1201544,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201544,IRON DEXTRAN,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1201832,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201832,ROMIPLOSTIM,EFO_0007160,http://www.ebi.ac.uk/efo/EFO_0007160,autoimmune thrombocytopenic purpura
+CHEMBL1487,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1487,ATORVASTATIN,HP_0003124,http://purl.obolibrary.org/obo/HP_0003124,Hypercholesterolemia
+CHEMBL1487,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1487,ATORVASTATIN,EFO_0003913,http://www.ebi.ac.uk/efo/EFO_0003913,angina pectoris
+CHEMBL2218885,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2218885,VERTEPORFIN,EFO_0004683,http://www.ebi.ac.uk/efo/EFO_0004683,wet macular degeneration
+CHEMBL3989866,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989866,BICTEGRAVIR,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL485,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL485,CODEINE,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL654,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL654,MIRTAZAPINE,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL110,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL110,BENZNIDAZOLE,MONDO_0001444,http://purl.obolibrary.org/obo/MONDO_0001444,Chagas disease
+CHEMBL1200500,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200500,BECLOMETHASONE DIPROPIONATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1200500,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200500,BECLOMETHASONE DIPROPIONATE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1200500,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200500,BECLOMETHASONE DIPROPIONATE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1200666,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200666,CALCIPOTRIENE,EFO_1001494,http://www.ebi.ac.uk/efo/EFO_1001494,psoriasis vulgaris
+CHEMBL193240,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL193240,ROFLUMILAST,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL3301675,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3301675,LINACLOTIDE,EFO_0000555,http://www.ebi.ac.uk/efo/EFO_0000555,irritable bowel syndrome
+CHEMBL444633,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL444633,RIFABUTIN,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL509,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL509,MECLOFENAMIC ACID,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL52440,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL52440,DEXTROMETHORPHAN,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL52440,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL52440,DEXTROMETHORPHAN,EFO_0007214,http://www.ebi.ac.uk/efo/EFO_0007214,common cold
+CHEMBL549,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL549,CITALOPRAM,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL612,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL612,DEXTROAMPHETAMINE,EFO_0000614,http://www.ebi.ac.uk/efo/EFO_0000614,obsolete_narcolepsy with cataplexy
+CHEMBL612,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL612,DEXTROAMPHETAMINE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL637,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL637,VENLAFAXINE,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL1131,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1131,ACITRETIN,EFO_1001494,http://www.ebi.ac.uk/efo/EFO_1001494,psoriasis vulgaris
+CHEMBL118,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL118,CELECOXIB,HP_0100607,http://purl.obolibrary.org/obo/HP_0100607,Dysmenorrhea
+CHEMBL118,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL118,CELECOXIB,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL1201447,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201447,CALFACTANT,EFO_1000644,http://www.ebi.ac.uk/efo/EFO_1000644,newborn respiratory distress syndrome
+CHEMBL1201834,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201834,CANAKINUMAB,Orphanet_342,http://www.orpha.net/ORDO/Orphanet_342,Familial Mediterranean fever
+CHEMBL1374379,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1374379,BENZONATATE,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL1436,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1436,CEFUROXIME,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1590,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1590,PSEUDOEPHEDRINE,HP_0012735,http://purl.obolibrary.org/obo/HP_0012735,Cough
+CHEMBL1590,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1590,PSEUDOEPHEDRINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1590,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1590,PSEUDOEPHEDRINE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1590,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1590,PSEUDOEPHEDRINE,EFO_0007214,http://www.ebi.ac.uk/efo/EFO_0007214,common cold
+CHEMBL1657,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1657,TAZAROTENE,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL2028663,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2028663,DABRAFENIB,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL269732,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL269732,TACROLIMUS,HP_0000964,http://purl.obolibrary.org/obo/HP_0000964,Eczematoid dermatitis
+CHEMBL290960,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL290960,NIFURTIMOX,MONDO_0001444,http://purl.obolibrary.org/obo/MONDO_0001444,Chagas disease
+CHEMBL3391662,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3391662,PARITAPREVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL3989868,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989868,TUCATINIB,EFO_1000294,http://www.ebi.ac.uk/efo/EFO_1000294,HER2 Positive Breast Carcinoma
+CHEMBL914,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL914,FEXOFENADINE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1200572,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200572,MAGNESIUM OXIDE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1373,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1373,MODAFINIL,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL1680,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1680,OCTREOTIDE,EFO_1001485,http://www.ebi.ac.uk/efo/EFO_1001485,acromegaly
+CHEMBL372795,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL372795,STREPTOMYCIN,EFO_0007481,http://www.ebi.ac.uk/efo/EFO_0007481,septicemic plague
+CHEMBL372795,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL372795,STREPTOMYCIN,EFO_1001444,http://www.ebi.ac.uk/efo/EFO_1001444,Tularemia
+CHEMBL4594250,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4594250,NETARSUDIL,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL490,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL490,PAROXETINE,MONDO_0002009,http://purl.obolibrary.org/obo/MONDO_0002009,major depressive disorder
+CHEMBL512351,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL512351,BETRIXABAN,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL512351,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL512351,BETRIXABAN,EFO_0004286,http://www.ebi.ac.uk/efo/EFO_0004286,venous thromboembolism
+CHEMBL532,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL532,ERYTHROMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL532,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL532,ERYTHROMYCIN,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL1200406,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200406,DIMENHYDRINATE,HP_0002013,http://purl.obolibrary.org/obo/HP_0002013,Vomiting
+CHEMBL1201622,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201622,PORACTANT ALFA,EFO_1000644,http://www.ebi.ac.uk/efo/EFO_1000644,newborn respiratory distress syndrome
+CHEMBL1697733,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1697733,ACETYLCARNITINE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL1742991,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1742991,BENRALIZUMAB,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL196,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL196,ASCORBIC ACID,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL54,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL54,HALOPERIDOL,EFO_0004216,http://www.ebi.ac.uk/efo/EFO_0004216,conduct disorder
+CHEMBL54,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL54,HALOPERIDOL,EFO_0004895,http://www.ebi.ac.uk/efo/EFO_0004895,Tourette syndrome
+CHEMBL1021,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1021,NEPAFENAC,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1055,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1055,CHLORTHALIDONE,EFO_0003913,http://www.ebi.ac.uk/efo/EFO_0003913,angina pectoris
+CHEMBL1201438,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201438,ALDESLEUKIN,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL25105,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL25105,HEXAMIDINE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL25105,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL25105,HEXAMIDINE,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL3127326,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3127326,OMBITASVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL32,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL32,MOXIFLOXACIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL32,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL32,MOXIFLOXACIN,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL3544914,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3544914,TEZACAFTOR,Orphanet_586,http://www.orpha.net/ORDO/Orphanet_586,Cystic fibrosis
+CHEMBL386630,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL386630,TESTOSTERONE,HP_0000044,http://purl.obolibrary.org/obo/HP_0000044,Hypogonadotropic hypogonadism
+CHEMBL386630,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL386630,TESTOSTERONE,EFO_1001006,http://www.ebi.ac.uk/efo/EFO_1001006,Klinefelter's syndrome
+CHEMBL386630,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL386630,TESTOSTERONE,EFO_1001078,http://www.ebi.ac.uk/efo/EFO_1001078,orchitis
+CHEMBL4594244,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4594244,HYALURONATE SODIUM,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL75435,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL75435,DEXKETOPROFEN,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL1152,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1152,PREDNISOLONE ACETATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1152,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1152,PREDNISOLONE ACETATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1152,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1152,PREDNISOLONE ACETATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1152,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1152,PREDNISOLONE ACETATE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL1198,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1198,PRAMOXINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL1198,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1198,PRAMOXINE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1200557,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200557,MANGANESE SULFATE,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL1200557,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200557,MANGANESE SULFATE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1200617,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200617,RIMEXOLONE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1201754,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201754,RUFINAMIDE,Orphanet_2382,http://www.orpha.net/ORDO/Orphanet_2382,Lennox-Gastaut syndrome
+CHEMBL1512,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1512,FLUNISOLIDE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1512,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1512,FLUNISOLIDE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL38,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL38,TRETINOIN,EFO_0000224,http://www.ebi.ac.uk/efo/EFO_0000224,acute promyelocytic leukemia
+CHEMBL38,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL38,TRETINOIN,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL922,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL922,ADEFOVIR DIPIVOXIL,EFO_0004239,http://www.ebi.ac.uk/efo/EFO_0004239,chronic hepatitis B virus infection
+CHEMBL1077,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1077,BROMFENAC,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1159650,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1159650,CLOBETASOL PROPIONATE,EFO_1001494,http://www.ebi.ac.uk/efo/EFO_1001494,psoriasis vulgaris
+CHEMBL1201474,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201474,COLESTIPOL HYDROCHLORIDE,HP_0003124,http://purl.obolibrary.org/obo/HP_0003124,Hypercholesterolemia
+CHEMBL1201831,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201831,CERTOLIZUMAB PEGOL,EFO_0003898,http://www.ebi.ac.uk/efo/EFO_0003898,ankylosing spondylitis
+CHEMBL2108791,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2108791,TENECTEPLASE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL3989767,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989767,CALCITONIN SALMON,EFO_0003854,http://www.ebi.ac.uk/efo/EFO_0003854,postmenopausal osteoporosis
+CHEMBL1201760,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201760,BESIFLOXACIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL1287853,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1287853,FEDRATINIB,EFO_0002430,http://www.ebi.ac.uk/efo/EFO_0002430,primary myelofibrosis
+CHEMBL238804,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL238804,SELEXIPAG,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL238804,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL238804,SELEXIPAG,Orphanet_275766,http://www.orpha.net/ORDO/Orphanet_275766,Idiopathic pulmonary arterial hypertension
+CHEMBL698,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL698,TETRACAINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL698,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL698,TETRACAINE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL710,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL710,FINASTERIDE,EFO_0000284,http://www.ebi.ac.uk/efo/EFO_0000284,benign prostatic hyperplasia
+CHEMBL710,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL710,FINASTERIDE,EFO_0004191,http://www.ebi.ac.uk/efo/EFO_0004191,androgenetic alopecia
+CHEMBL741,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL741,LAMOTRIGINE,HP_0002069,http://purl.obolibrary.org/obo/HP_0002069,Bilateral tonic-clonic seizure
+CHEMBL741,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL741,LAMOTRIGINE,Orphanet_2382,http://www.orpha.net/ORDO/Orphanet_2382,Lennox-Gastaut syndrome
+CHEMBL1020,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1020,TOLMETIN,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL1201295,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201295,BITOLTEROL,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1540,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1540,PENCICLOVIR,EFO_1001347,http://www.ebi.ac.uk/efo/EFO_1001347,Herpes Labialis
+CHEMBL2109624,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2109624,CAPLACIZUMAB,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL2109624,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2109624,CAPLACIZUMAB,MONDO_0019740,http://purl.obolibrary.org/obo/MONDO_0019740,acquired thrombotic thrombocytopenic purpura
+CHEMBL1200865,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200865,LOTEPREDNOL ETABONATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1200865,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200865,LOTEPREDNOL ETABONATE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL3137343,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3137343,PEMBROLIZUMAB,EFO_0002617,http://www.ebi.ac.uk/efo/EFO_0002617,metastatic melanoma
+CHEMBL1144,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1144,PRAVASTATIN,HP_0003124,http://purl.obolibrary.org/obo/HP_0003124,Hypercholesterolemia
+CHEMBL1201605,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201605,DACLIZUMAB,EFO_0003929,http://www.ebi.ac.uk/efo/EFO_0003929,relapsing-remitting multiple sclerosis
+CHEMBL1201621,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201621,SOMATROPIN,EFO_0000180,http://www.ebi.ac.uk/efo/EFO_0000180,HIV-1 infection
+CHEMBL1201649,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201649,"ESTROGENS, CONJUGATED",EFO_0003854,http://www.ebi.ac.uk/efo/EFO_0003854,postmenopausal osteoporosis
+CHEMBL2010601,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2010601,IVACAFTOR,Orphanet_586,http://www.orpha.net/ORDO/Orphanet_586,Cystic fibrosis
+CHEMBL3099695,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3099695,OSILODROSTAT,EFO_1001110,http://www.ebi.ac.uk/efo/EFO_1001110,pituitary-dependent Cushing's disease
+CHEMBL477772,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL477772,PAZOPANIB,EFO_0003016,http://www.ebi.ac.uk/efo/EFO_0003016,collecting duct carcinoma
+CHEMBL477772,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL477772,PAZOPANIB,EFO_0000335,http://www.ebi.ac.uk/efo/EFO_0000335,chromophobe renal cell carcinoma
+CHEMBL608533,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL608533,MIDOSTAURIN,EFO_0007359,http://www.ebi.ac.uk/efo/EFO_0007359,mast-cell leukemia
+CHEMBL626,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL626,NAFTIFINE,EFO_0007512,http://www.ebi.ac.uk/efo/EFO_0007512,tinea pedis
+CHEMBL1467,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1467,ALLOPURINOL,EFO_0004274,http://www.ebi.ac.uk/efo/EFO_0004274,gout
+CHEMBL1491306,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1491306,BENZYLTHIOURACIL,HP_0000820,http://purl.obolibrary.org/obo/HP_0000820,Abnormality of the thyroid gland
+CHEMBL1497,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1497,BETAMETHASONE VALERATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1497,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1497,BETAMETHASONE VALERATE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1497,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1497,BETAMETHASONE VALERATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1497,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1497,BETAMETHASONE VALERATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1623,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1623,MECLIZINE,HP_0002321,http://purl.obolibrary.org/obo/HP_0002321,Vertigo
+CHEMBL256087,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL256087,MENTHOL,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL3707331,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3707331,ROLAPITANT,HP_0002018,http://purl.obolibrary.org/obo/HP_0002018,Nausea
+CHEMBL3707331,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3707331,ROLAPITANT,EFO_0006911,http://www.ebi.ac.uk/efo/EFO_0006911,Chemotherapy-induced nausea and vomiting
+CHEMBL563,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL563,FLURBIPROFEN,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL563,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL563,FLURBIPROFEN,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL691,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL691,ETHINYL ESTRADIOL,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL827,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL827,DEXMETHYLPHENIDATE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL877,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL877,TRANEXAMIC ACID,HP_0000132,http://purl.obolibrary.org/obo/HP_0000132,Menorrhagia
+CHEMBL192,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL192,SILDENAFIL,HP_0000802,http://purl.obolibrary.org/obo/HP_0000802,Impotence
+CHEMBL2107884,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2107884,RESLIZUMAB,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL374731,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL374731,TELBIVUDINE,EFO_0004239,http://www.ebi.ac.uk/efo/EFO_0004239,chronic hepatitis B virus infection
+CHEMBL108,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL108,CARBAMAZEPINE,EFO_1001219,http://www.ebi.ac.uk/efo/EFO_1001219,trigeminal neuralgia
+CHEMBL1200696,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200696,POTASSIUM PERCHLORATE,HP_0000820,http://purl.obolibrary.org/obo/HP_0000820,Abnormality of the thyroid gland
+CHEMBL1200823,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200823,IRON SUCROSE,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL1201431,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201431,DORNASE ALFA,Orphanet_586,http://www.orpha.net/ORDO/Orphanet_586,Cystic fibrosis
+CHEMBL2021423,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2021423,MAGNESIUM SULFATE ANHYDROUS,EFO_0001070,http://www.ebi.ac.uk/efo/EFO_0001070,folate deficiency
+CHEMBL2021423,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2021423,MAGNESIUM SULFATE ANHYDROUS,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL2368925,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2368925,DOLASETRON,HP_0002018,http://purl.obolibrary.org/obo/HP_0002018,Nausea
+CHEMBL2368925,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2368925,DOLASETRON,EFO_0004888,http://www.ebi.ac.uk/efo/EFO_0004888,post operative nausea and vomiting
+CHEMBL2368925,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2368925,DOLASETRON,EFO_0006911,http://www.ebi.ac.uk/efo/EFO_0006911,Chemotherapy-induced nausea and vomiting
+CHEMBL571,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL571,KETOPROFEN,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL844,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL844,BRIMONIDINE,EFO_1001069,http://www.ebi.ac.uk/efo/EFO_1001069,ocular hypertension
+CHEMBL844,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL844,BRIMONIDINE,EFO_1000760,http://www.ebi.ac.uk/efo/EFO_1000760,rosacea
+CHEMBL870,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL870,ALENDRONIC ACID,EFO_0003854,http://www.ebi.ac.uk/efo/EFO_0003854,postmenopausal osteoporosis
+CHEMBL1201231,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201231,PREDNISOLONE PHOSPHORIC ACID,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL1201747,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201747,ALCAFTADINE,EFO_0007141,http://www.ebi.ac.uk/efo/EFO_0007141,allergic conjunctivitis
+CHEMBL1452696,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1452696,FEPRAZONE,HP_0002829,http://purl.obolibrary.org/obo/HP_0002829,Arthralgia
+CHEMBL374975,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL374975,FUSIDIC ACID,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+CHEMBL484785,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL484785,CRISABOROLE,HP_0000964,http://purl.obolibrary.org/obo/HP_0000964,Eczematoid dermatitis
+CHEMBL79,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL79,LIDOCAINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL79,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL79,LIDOCAINE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL79,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL79,LIDOCAINE,EFO_0009846,http://www.ebi.ac.uk/efo/EFO_0009846,muscle cramp
+CHEMBL79,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL79,LIDOCAINE,EFO_1000941,http://www.ebi.ac.uk/efo/EFO_1000941,frozen shoulder
+CHEMBL90593,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL90593,PRASTERONE,HP_0100607,http://purl.obolibrary.org/obo/HP_0100607,Dysmenorrhea
+CHEMBL1200335,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200335,TESTOSTERONE ENANTHATE,HP_0000044,http://purl.obolibrary.org/obo/HP_0000044,Hypogonadotropic hypogonadism
+CHEMBL1473,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1473,FLUTICASONE PROPIONATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1473,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1473,FLUTICASONE PROPIONATE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1473,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1473,FLUTICASONE PROPIONATE,EFO_0003956,http://www.ebi.ac.uk/efo/EFO_0003956,seasonal allergic rhinitis
+CHEMBL1473,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1473,FLUTICASONE PROPIONATE,EFO_0006505,http://www.ebi.ac.uk/efo/EFO_0006505,chronic bronchitis
+CHEMBL1641,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1641,HYDROCORTISONE PHOSPHORIC ACID,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1641,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1641,HYDROCORTISONE PHOSPHORIC ACID,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1741,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1741,CLARITHROMYCIN,EFO_0004607,http://www.ebi.ac.uk/efo/EFO_0004607,duodenal ulcer
+CHEMBL2374220,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2374220,LEDIPASVIR,EFO_0004220,http://www.ebi.ac.uk/efo/EFO_0004220,chronic hepatitis C virus infection
+CHEMBL290106,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL290106,BITHIONOL,EFO_0003894,http://www.ebi.ac.uk/efo/EFO_0003894,acne
+CHEMBL46740,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL46740,BAZEDOXIFENE,EFO_0003854,http://www.ebi.ac.uk/efo/EFO_0003854,postmenopausal osteoporosis
+CHEMBL857,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL857,BIOTIN,HP_0001891,http://purl.obolibrary.org/obo/HP_0001891,Iron deficiency anemia
+CHEMBL862,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL862,GUANFACINE,EFO_0003888,http://www.ebi.ac.uk/efo/EFO_0003888,attention deficit hyperactivity disorder
+CHEMBL1200384,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200384,BETAMETHASONE DIPROPIONATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1200384,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200384,BETAMETHASONE DIPROPIONATE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1200384,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200384,BETAMETHASONE DIPROPIONATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,hemorrhoid
+CHEMBL1200384,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200384,BETAMETHASONE DIPROPIONATE,EFO_0005752,http://www.ebi.ac.uk/efo/EFO_0005752,eye inflammation
+CHEMBL1200384,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200384,BETAMETHASONE DIPROPIONATE,EFO_1001494,http://www.ebi.ac.uk/efo/EFO_1001494,psoriasis vulgaris
+CHEMBL1771,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1771,CLOPIDOGREL,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL1771,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1771,CLOPIDOGREL,EFO_1000985,http://www.ebi.ac.uk/efo/EFO_1000985,intermediate coronary syndrome
+CHEMBL1771,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1771,CLOPIDOGREL,EFO_0005672,http://www.ebi.ac.uk/efo/EFO_0005672,acute coronary syndrome
+CHEMBL1771,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1771,CLOPIDOGREL,EFO_0004265,http://www.ebi.ac.uk/efo/EFO_0004265,peripheral arterial disease
+CHEMBL2107885,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2107885,RETEPLASE,HP_0004419,http://purl.obolibrary.org/obo/HP_0004419,Recurrent thrombophlebitis
+CHEMBL2110774,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2110774,CHLORPHENOXAMINE,HP_0000989,http://purl.obolibrary.org/obo/HP_0000989,Pruritus
+CHEMBL298470,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL298470,TAFENOQUINE,EFO_0007445,http://www.ebi.ac.uk/efo/EFO_0007445,Plasmodium vivax malaria
+CHEMBL3039537,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3039537,SEBELIPASE ALFA,Orphanet_75234,http://www.orpha.net/ORDO/Orphanet_75234,Cholesteryl ester storage disease
+CHEMBL343448,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL343448,ROMIDEPSIN,EFO_0000211,http://www.ebi.ac.uk/efo/EFO_0000211,unspecified peripheral T-cell lymphoma
+CHEMBL713,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL713,ENTECAVIR,EFO_0004239,http://www.ebi.ac.uk/efo/EFO_0004239,chronic hepatitis B virus infection
+CHEMBL1200376,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200376,BETAMETHASONE BENZOATE,HP_0001742,http://purl.obolibrary.org/obo/HP_0001742,Nasal congestion
+CHEMBL1200376,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200376,BETAMETHASONE BENZOATE,HP_0006536,http://purl.obolibrary.org/obo/HP_0006536,Airway obstruction
+CHEMBL1200376,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200376,BETAMETHASONE BENZOATE,EFO_0009552,http://www.ebi.ac.uk/efo/EFO_0009552,""

@@ -1,0 +1,110 @@
+curl -L -v -H "Accept: application/rdf+xml" http://purl.obolibrary.org/obo/NCIT_C101216
+
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="https://ontobee.org/ontology/view/NCIT?iri=http://purl.obolibrary.org/obo/NCIT_C101216"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:ns3="http://purl.obolibrary.org/obo/">
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+    <AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/NCIT_P322"/>
+    <AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    <AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/NCIT_P325"/>
+    <AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/NCIT_P106"/>
+    <AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset"/>
+    <AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/NCIT_NHC0"/>
+    <AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/NCIT_P108"/>
+    <AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/NCIT_P207"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C101216 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C101216">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Myopathy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C118317"/>
+        <ns3:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A non-neoplastic disorder that affects the muscles. Representative examples include muscular dystrophy, metabolic myopathies, muscular atrophies, and dermatomyositis.</ns3:IAO_0000115>
+        <ns3:NCIT_P325 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A nontraumatic and nonneoplastic disease of the muscles.</ns3:NCIT_P325>
+        <ns3:NCIT_P322 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ACC/AHA</ns3:NCIT_P322>
+        <ns3:NCIT_NHC0 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C101216</ns3:NCIT_NHC0>
+        <ns3:NCIT_P207 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C3552487</ns3:NCIT_P207>
+        <ns3:NCIT_P106 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease or Syndrome</ns3:NCIT_P106>
+        <oboInOwl:hasExactSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Myopathy</oboInOwl:hasExactSynonym>
+        <ns3:NCIT_P108 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Myopathy</ns3:NCIT_P108>
+        <ns3:NCIT_P322 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NICHD</ns3:NCIT_P322>
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/NCIT_C167409"/>
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/NCIT_C90259"/>
+        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/NCIT_C99147"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C118317 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C118317">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-Neoplastic Muscle Disorder</rdfs:label>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C167409 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C167409">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ACC/AHA Pediatric and Congenital Cardiology EHR Terminology</rdfs:label>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C90259 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C90259">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NICHD Terminology</rdfs:label>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C99147 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C99147">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neonatal Research Network Terminology</rdfs:label>
+    </Class>
+</rdf:RDF>

@@ -1,0 +1,454 @@
+source,icd10,prefname
+C0010266,http://purl.bioontology.org/ontology/ICD10/G52.9,"Cranial nerve disorder, unspecified"
+C0042594,http://purl.bioontology.org/ontology/ICD10/H81,Disorders of vestibular function
+C0042594,http://purl.bioontology.org/ontology/ICD10/H81.9,"Disorder of vestibular function, unspecified"
+C0027121,http://purl.bioontology.org/ontology/ICD10/M60,Myositis
+C0027121,http://purl.bioontology.org/ontology/ICD10/M60.9,"Myositis, unspecified"
+C0242172,http://purl.bioontology.org/ontology/ICD10/N73.9,"Female pelvic inflammatory disease, unspecified"
+C0242172,http://purl.bioontology.org/ontology/ICD10/N70-N77.9,Inflammatory diseases of female pelvic organs
+C0152025,http://purl.bioontology.org/ontology/ICD10/G62.9,"Polyneuropathy, unspecified"
+C0015397,http://purl.bioontology.org/ontology/ICD10/H44,Disorders of globe
+C0015397,http://purl.bioontology.org/ontology/ICD10/H44.9,"Disorder of globe, unspecified"
+C0010278,http://purl.bioontology.org/ontology/ICD10/Q75.0,Craniosynostosis
+C0011884,http://purl.bioontology.org/ontology/ICD10/H36.0,Diabetic retinopathy
+C0027765,http://purl.bioontology.org/ontology/ICD10/G00-G99.9,Diseases of the nervous system
+C0018889,http://purl.bioontology.org/ontology/ICD10/B65-B83.9,Helminthiases
+C0018889,http://purl.bioontology.org/ontology/ICD10/B83.9,"Helminthiasis, unspecified"
+C0014877,http://purl.bioontology.org/ontology/ICD10/H50.0,Convergent concomitant strabismus
+C0015310,http://purl.bioontology.org/ontology/ICD10/H50.1,Divergent concomitant strabismus
+C0026847,http://purl.bioontology.org/ontology/ICD10/G12.9,"Spinal muscular atrophy, unspecified"
+C0037315,http://purl.bioontology.org/ontology/ICD10/G47.3,Sleep apnoea
+C0042769,http://purl.bioontology.org/ontology/ICD10/B34.9,"Viral infection, unspecified"
+C0042769,http://purl.bioontology.org/ontology/ICD10/B34,Viral infection of unspecified site
+C0002726,http://purl.bioontology.org/ontology/ICD10/E85,Amyloidosis
+C0002726,http://purl.bioontology.org/ontology/ICD10/E85.9,"Amyloidosis, unspecified"
+C0014544,http://purl.bioontology.org/ontology/ICD10/G40.9,"Epilepsy, unspecified"
+C0014544,http://purl.bioontology.org/ontology/ICD10/G40,Epilepsy
+C0011860,http://purl.bioontology.org/ontology/ICD10/E11,Non-insulin-dependent diabetes mellitus
+C0037773,http://purl.bioontology.org/ontology/ICD10/G11.4,Hereditary spastic paraplegia
+C0026769,http://purl.bioontology.org/ontology/ICD10/G35,Multiple sclerosis
+C0026850,http://purl.bioontology.org/ontology/ICD10/G71.0,Muscular dystrophy
+C0035309,http://purl.bioontology.org/ontology/ICD10/H35.9,"Retinal disorder, unspecified"
+C0085084,http://purl.bioontology.org/ontology/ICD10/G12.2,Motor neuron disease
+C0028754,http://purl.bioontology.org/ontology/ICD10/E66,Obesity
+C0028754,http://purl.bioontology.org/ontology/ICD10/E66.9,"Obesity, unspecified"
+C0020492,http://purl.bioontology.org/ontology/ICD10/M89.3,Hypertrophy of bone
+C0029124,http://purl.bioontology.org/ontology/ICD10/H47.2,Optic atrophy
+C0021831,http://purl.bioontology.org/ontology/ICD10/K63.9,"Disease of intestine, unspecified"
+C0085584,http://purl.bioontology.org/ontology/ICD10/G93.4,"Encephalopathy, unspecified"
+C0162674,http://purl.bioontology.org/ontology/ICD10/H49.4,Progressive external ophthalmoplegia
+C0079298,http://purl.bioontology.org/ontology/ICD10/Q81.0,Epidermolysis bullosa simplex
+C0026848,http://purl.bioontology.org/ontology/ICD10/G72.9,"Myopathy, unspecified"
+C0026848,http://purl.bioontology.org/ontology/ICD10/M60-M63.9,Disorders of muscles
+C0026848,http://purl.bioontology.org/ontology/ICD10/M62.9,"Disorder of muscle, unspecified"
+C0025517,http://purl.bioontology.org/ontology/ICD10/E70-E90.9,Metabolic disorders
+C0025517,http://purl.bioontology.org/ontology/ICD10/E88.9,"Metabolic disorder, unspecified"
+C0032285,http://purl.bioontology.org/ontology/ICD10/J18.9,"Pneumonia, unspecified"
+C0002871,http://purl.bioontology.org/ontology/ICD10/D64.9,"Anaemia, unspecified"
+C0035078,http://purl.bioontology.org/ontology/ICD10/N19,Unspecified renal failure
+C0035078,http://purl.bioontology.org/ontology/ICD10/N17-N19.9,Renal failure
+C0007682,http://purl.bioontology.org/ontology/ICD10/G96.9,"Disorder of central nervous system, unspecified"
+C0878544,http://purl.bioontology.org/ontology/ICD10/I42,Cardiomyopathy
+C0878544,http://purl.bioontology.org/ontology/ICD10/I42.9,"Cardiomyopathy, unspecified"
+C0023895,http://purl.bioontology.org/ontology/ICD10/K70-K77.9,Diseases of liver
+C0023895,http://purl.bioontology.org/ontology/ICD10/K76.9,"Liver disease, unspecified"
+C0154246,http://purl.bioontology.org/ontology/ICD10/E72.2,Disorders of urea cycle metabolism
+C0149931,http://purl.bioontology.org/ontology/ICD10/G43,Migraine
+C0149931,http://purl.bioontology.org/ontology/ICD10/G43.9,"Migraine, unspecified"
+C0020615,http://purl.bioontology.org/ontology/ICD10/E16.2,"Hypoglycaemia, unspecified"
+C0018378,http://purl.bioontology.org/ontology/ICD10/G61.0,Guillain-Barre syndrome
+C0027868,http://purl.bioontology.org/ontology/ICD10/G70.9,"Myoneural disorder, unspecified"
+C0011849,http://purl.bioontology.org/ontology/ICD10/E10-E14.9,Diabetes mellitus
+C0011849,http://purl.bioontology.org/ontology/ICD10/E14,Unspecified diabetes mellitus
+C0018799,http://purl.bioontology.org/ontology/ICD10/I51.9,"Heart disease, unspecified"
+C0020255,http://purl.bioontology.org/ontology/ICD10/G91,Hydrocephalus
+C0020255,http://purl.bioontology.org/ontology/ICD10/G91.9,"Hydrocephalus, unspecified"
+C0020538,http://purl.bioontology.org/ontology/ICD10/I10-I15.9,Hypertensive diseases
+C0085437,http://purl.bioontology.org/ontology/ICD10/G00.9,"Bacterial meningitis, unspecified"
+C0020490,http://purl.bioontology.org/ontology/ICD10/H52.0,Hypermetropia
+C0027092,http://purl.bioontology.org/ontology/ICD10/H52.1,Myopia
+C0004106,http://purl.bioontology.org/ontology/ICD10/H52.2,Astigmatism
+C0007222,http://purl.bioontology.org/ontology/ICD10/I51.6,"Cardiovascular disease, unspecified"
+C0036421,http://purl.bioontology.org/ontology/ICD10/M34.0,Progressive systemic sclerosis
+C0036421,http://purl.bioontology.org/ontology/ICD10/M34,Systemic sclerosis
+C0036421,http://purl.bioontology.org/ontology/ICD10/M34.9,"Systemic sclerosis, unspecified"
+C0001824,http://purl.bioontology.org/ontology/ICD10/D70,Agranulocytosis
+C0034951,http://purl.bioontology.org/ontology/ICD10/H52.7,"Disorder of refraction, unspecified"
+C0007785,http://purl.bioontology.org/ontology/ICD10/I63.9,"Cerebral infarction, unspecified"
+C0007785,http://purl.bioontology.org/ontology/ICD10/I63,Cerebral infarction
+C0494491,http://purl.bioontology.org/ontology/ICD10/G58.9,"Mononeuropathy, unspecified"
+C0020456,http://purl.bioontology.org/ontology/ICD10/R73.9,"Hyperglycaemia, unspecified"
+C0007193,http://purl.bioontology.org/ontology/ICD10/I42.0,Dilated cardiomyopathy
+C0002514,http://purl.bioontology.org/ontology/ICD10/E72.9,"Disorder of amino-acid metabolism, unspecified"
+C0155514,http://purl.bioontology.org/ontology/ICD10/H83.2,Labyrinthine dysfunction
+C0393593,http://purl.bioontology.org/ontology/ICD10/G24.9,"Dystonia, unspecified"
+C0393593,http://purl.bioontology.org/ontology/ICD10/G24,Dystonia
+C0027726,http://purl.bioontology.org/ontology/ICD10/N04,Nephrotic syndrome
+C0027726,http://purl.bioontology.org/ontology/ICD10/N04.9,"Nephrotic syndrome, unspecified"
+C0029882,http://purl.bioontology.org/ontology/ICD10/H66.9,"Otitis media, unspecified"
+C0032371,http://purl.bioontology.org/ontology/ICD10/A80.9,"Acute poliomyelitis, unspecified"
+C0032371,http://purl.bioontology.org/ontology/ICD10/A80,Acute poliomyelitis
+C0011603,http://purl.bioontology.org/ontology/ICD10/L30.9,"Dermatitis, unspecified"
+C0014130,http://purl.bioontology.org/ontology/ICD10/E34.9,"Endocrine disorder, unspecified"
+C0264490,http://purl.bioontology.org/ontology/ICD10/J96.0,Acute respiratory failure
+C0020428,http://purl.bioontology.org/ontology/ICD10/E26,Hyperaldosteronism
+C0020428,http://purl.bioontology.org/ontology/ICD10/E26.9,"Hyperaldosteronism, unspecified"
+C0030486,http://purl.bioontology.org/ontology/ICD10/G82.2,"Paraplegia, unspecified"
+C0007787,http://purl.bioontology.org/ontology/ICD10/G45.9,"Transient cerebral ischaemic attack, unspecified"
+C0005779,http://purl.bioontology.org/ontology/ICD10/D68.9,"Coagulation defect, unspecified"
+C0018802,http://purl.bioontology.org/ontology/ICD10/I50.0,Congestive heart failure
+C0024117,http://purl.bioontology.org/ontology/ICD10/J44.9,"Chronic obstructive pulmonary disease, unspecified"
+C0020676,http://purl.bioontology.org/ontology/ICD10/E03.9,"Hypothyroidism, unspecified"
+C0003873,http://purl.bioontology.org/ontology/ICD10/M06.9,"Rheumatoid arthritis, unspecified"
+C0033860,http://purl.bioontology.org/ontology/ICD10/L40.9,"Psoriasis, unspecified"
+C0033860,http://purl.bioontology.org/ontology/ICD10/L40,Psoriasis
+C0017601,http://purl.bioontology.org/ontology/ICD10/H40,Glaucoma
+C0017601,http://purl.bioontology.org/ontology/ICD10/H40.9,"Glaucoma, unspecified"
+C0017601,http://purl.bioontology.org/ontology/ICD10/H40-H42.9,Glaucoma
+C0005686,http://purl.bioontology.org/ontology/ICD10/N32.9,"Bladder disorder, unspecified"
+C0019693,http://purl.bioontology.org/ontology/ICD10/B24,Unspecified human immunodeficiency virus [HIV] disease
+C0019693,http://purl.bioontology.org/ontology/ICD10/B20-B24.9,Human immunodeficiency virus [HIV] disease
+C0012242,http://purl.bioontology.org/ontology/ICD10/K00-K93.9,Diseases of the digestive system
+C0012242,http://purl.bioontology.org/ontology/ICD10/K92.9,"Disease of digestive system, unspecified"
+C0155626,http://purl.bioontology.org/ontology/ICD10/I21.9,"Acute myocardial infarction, unspecified"
+C0155626,http://purl.bioontology.org/ontology/ICD10/I21,Acute myocardial infarction
+C0014175,http://purl.bioontology.org/ontology/ICD10/N80.9,"Endometriosis, unspecified"
+C0014175,http://purl.bioontology.org/ontology/ICD10/N80,Endometriosis
+C0032064,http://purl.bioontology.org/ontology/ICD10/A20.9,"Plague, unspecified"
+C0032064,http://purl.bioontology.org/ontology/ICD10/A20,Plague
+C0025281,http://purl.bioontology.org/ontology/ICD10/H81.0,Meniere's disease
+C0004623,http://purl.bioontology.org/ontology/ICD10/A49,Bacterial infection of unspecified site
+C0004623,http://purl.bioontology.org/ontology/ICD10/A49.9,"Bacterial infection, unspecified"
+C0029456,http://purl.bioontology.org/ontology/ICD10/M81.9,"Osteoporosis, unspecified"
+C0034065,http://purl.bioontology.org/ontology/ICD10/I26,Pulmonary embolism
+C0030920,http://purl.bioontology.org/ontology/ICD10/K27,"Peptic ulcer, site unspecified"
+C0009763,http://purl.bioontology.org/ontology/ICD10/H10.9,"Conjunctivitis, unspecified"
+C0009763,http://purl.bioontology.org/ontology/ICD10/H10,Conjunctivitis
+C0017152,http://purl.bioontology.org/ontology/ICD10/K29.7,"Gastritis, unspecified"
+C0024899,http://purl.bioontology.org/ontology/ICD10/Q82.2,Mastocytosis
+C0018939,http://purl.bioontology.org/ontology/ICD10/D75.9,"Disease of blood and blood-forming organs, unspecified"
+C0010692,http://purl.bioontology.org/ontology/ICD10/N30.9,"Cystitis, unspecified"
+C0010692,http://purl.bioontology.org/ontology/ICD10/N30,Cystitis
+C0011848,http://purl.bioontology.org/ontology/ICD10/E23.2,Diabetes insipidus
+C0040558,http://purl.bioontology.org/ontology/ICD10/B58,Toxoplasmosis
+C0040558,http://purl.bioontology.org/ontology/ICD10/B58.9,"Toxoplasmosis, unspecified"
+C0026603,http://purl.bioontology.org/ontology/ICD10/T75.3,Motion sickness
+C0006840,http://purl.bioontology.org/ontology/ICD10/B37,Candidiasis
+C0006840,http://purl.bioontology.org/ontology/ICD10/B37.9,"Candidiasis, unspecified"
+C0004153,http://purl.bioontology.org/ontology/ICD10/I70,Atherosclerosis
+C0004153,http://purl.bioontology.org/ontology/ICD10/I25.0,"Atherosclerotic cardiovascular disease, so described"
+C0021051,http://purl.bioontology.org/ontology/ICD10/D84.9,"Immunodeficiency, unspecified"
+C0085580,http://purl.bioontology.org/ontology/ICD10/I10,Essential (primary) hypertension
+C0024530,http://purl.bioontology.org/ontology/ICD10/B54,Unspecified malaria
+C0003864,http://purl.bioontology.org/ontology/ICD10/M13.9,"Arthritis, unspecified"
+C0002171,http://purl.bioontology.org/ontology/ICD10/L63,Alopecia areata
+C0002171,http://purl.bioontology.org/ontology/ICD10/L63.9,"Alopecia areata, unspecified"
+C0162820,http://purl.bioontology.org/ontology/ICD10/L23.9,"Allergic contact dermatitis, unspecified cause"
+C0162820,http://purl.bioontology.org/ontology/ICD10/L23,Allergic contact dermatitis
+C0157749,http://purl.bioontology.org/ontology/ICD10/M00-M03.9,Infectious arthropathies
+C0014868,http://purl.bioontology.org/ontology/ICD10/K20,Oesophagitis
+C0178238,http://purl.bioontology.org/ontology/ICD10/A00-A09.9,Intestinal infectious diseases
+C0028077,http://purl.bioontology.org/ontology/ICD10/H53.6,Night blindness
+C0006145,http://purl.bioontology.org/ontology/ICD10/N64.9,"Disorder of breast, unspecified"
+C0006145,http://purl.bioontology.org/ontology/ICD10/N60-N64.9,Disorders of breast
+C0028841,http://purl.bioontology.org/ontology/ICD10/H44.4,Hypotony of eye
+C0494559,http://purl.bioontology.org/ontology/ICD10/H80-H83.9,Diseases of inner ear
+C0494559,http://purl.bioontology.org/ontology/ICD10/H83.9,"Disease of inner ear, unspecified"
+C0021364,http://purl.bioontology.org/ontology/ICD10/N46,Male infertility
+C0005940,http://purl.bioontology.org/ontology/ICD10/M89.9,"Disorder of bone, unspecified"
+C0206062,http://purl.bioontology.org/ontology/ICD10/J84.9,"Interstitial pulmonary disease, unspecified"
+C0027059,http://purl.bioontology.org/ontology/ICD10/I51.4,"Myocarditis, unspecified"
+C0040128,http://purl.bioontology.org/ontology/ICD10/E07.9,"Disorder of thyroid, unspecified"
+C0040128,http://purl.bioontology.org/ontology/ICD10/E00-E07.9,Disorders of thyroid gland
+C0155223,http://purl.bioontology.org/ontology/ICD10/H04.0,Dacryoadenitis
+C0011311,http://purl.bioontology.org/ontology/ICD10/A90,Dengue fever [classical dengue]
+C0155616,http://purl.bioontology.org/ontology/ICD10/I15.9,"Secondary hypertension, unspecified"
+C0155616,http://purl.bioontology.org/ontology/ICD10/I15,Secondary hypertension
+C0019101,http://purl.bioontology.org/ontology/ICD10/A98.5,Haemorrhagic fever with renal syndrome
+C0026946,http://purl.bioontology.org/ontology/ICD10/B35-B49.9,Mycoses
+C0026946,http://purl.bioontology.org/ontology/ICD10/B49,Unspecified mycosis
+C0014457,http://purl.bioontology.org/ontology/ICD10/D72.1,Eosinophilia
+C0008311,http://purl.bioontology.org/ontology/ICD10/K83.0,Cholangitis
+C0020635,http://purl.bioontology.org/ontology/ICD10/E23.0,Hypopituitarism
+C0004626,http://purl.bioontology.org/ontology/ICD10/J15.9,"Bacterial pneumonia, unspecified"
+C0011616,http://purl.bioontology.org/ontology/ICD10/L25.9,"Unspecified contact dermatitis, unspecified cause"
+C0011616,http://purl.bioontology.org/ontology/ICD10/L25,Unspecified contact dermatitis
+C0030569,http://purl.bioontology.org/ontology/ICD10/G21,Secondary parkinsonism
+C0030569,http://purl.bioontology.org/ontology/ICD10/G21.9,"Secondary parkinsonism, unspecified"
+C0040156,http://purl.bioontology.org/ontology/ICD10/E05.9,"Thyrotoxicosis, unspecified"
+C0032273,http://purl.bioontology.org/ontology/ICD10/J64,Unspecified pneumoconiosis
+C0020502,http://purl.bioontology.org/ontology/ICD10/E21.3,"Hyperparathyroidism, unspecified"
+C0037928,http://purl.bioontology.org/ontology/ICD10/G95.9,"Disease of spinal cord, unspecified"
+C0152227,http://purl.bioontology.org/ontology/ICD10/H04.2,Epiphora
+C0009759,http://purl.bioontology.org/ontology/ICD10/H11.9,"Disorder of conjunctiva, unspecified"
+C0009759,http://purl.bioontology.org/ontology/ICD10/H10-H13.9,Disorders of conjunctiva
+C0022568,http://purl.bioontology.org/ontology/ICD10/H16.9,"Keratitis, unspecified"
+C0022568,http://purl.bioontology.org/ontology/ICD10/H16,Keratitis
+C0029134,http://purl.bioontology.org/ontology/ICD10/H46,Optic neuritis
+C0012739,http://purl.bioontology.org/ontology/ICD10/D65,Disseminated intravascular coagulation [defibrination syndrome]
+C0151436,http://purl.bioontology.org/ontology/ICD10/M31.0,Hypersensitivity angiitis
+C0042974,http://purl.bioontology.org/ontology/ICD10/D68.0,Von Willebrand's disease
+C0019087,http://purl.bioontology.org/ontology/ICD10/D69.9,"Haemorrhagic condition, unspecified"
+C1260873,http://purl.bioontology.org/ontology/ICD10/I35.9,"Aortic valve disorder, unspecified"
+C0002878,http://purl.bioontology.org/ontology/ICD10/D55-D59.9,Haemolytic anaemias
+C0011633,http://purl.bioontology.org/ontology/ICD10/M33.9,"Dermatopolymyositis, unspecified"
+C0011633,http://purl.bioontology.org/ontology/ICD10/M33,Dermatopolymyositis
+C0029434,http://purl.bioontology.org/ontology/ICD10/Q78.0,Osteogenesis imperfecta
+C0039585,http://purl.bioontology.org/ontology/ICD10/E34.5,Androgen resistance syndrome
+C0272242,http://purl.bioontology.org/ontology/ICD10/D84.1,Defects in the complement system
+C0020302,http://purl.bioontology.org/ontology/ICD10/Q15.0,Congenital glaucoma
+C0017919,http://purl.bioontology.org/ontology/ICD10/E74.0,Glycogen storage disease
+C0002876,http://purl.bioontology.org/ontology/ICD10/D64.4,Congenital dyserythropoietic anaemia
+C0008370,http://purl.bioontology.org/ontology/ICD10/K83.1,Obstruction of bile duct
+C0234398,http://purl.bioontology.org/ontology/ICD10/H47.6,Disorders of visual cortex
+C0008445,http://purl.bioontology.org/ontology/ICD10/Q77.3,Chondrodysplasia punctata
+C0013720,http://purl.bioontology.org/ontology/ICD10/Q79.6,Ehlers-Danlos syndrome
+C0034072,http://purl.bioontology.org/ontology/ICD10/I27.9,"Pulmonary heart disease, unspecified"
+C0010043,http://purl.bioontology.org/ontology/ICD10/H16.0,Corneal ulcer
+C0553604,http://purl.bioontology.org/ontology/ICD10/G71.1,Myotonic disorders
+C0014852,http://purl.bioontology.org/ontology/ICD10/K22.9,"Disease of oesophagus, unspecified"
+C0033806,http://purl.bioontology.org/ontology/ICD10/E20.1,Pseudohypoparathyroidism
+C0034089,http://purl.bioontology.org/ontology/ICD10/I37.0,Pulmonary valve stenosis
+C0155765,http://purl.bioontology.org/ontology/ICD10/I78,Diseases of capillaries
+C0155765,http://purl.bioontology.org/ontology/ICD10/I78.9,"Disease of capillaries, unspecified"
+C0036202,http://purl.bioontology.org/ontology/ICD10/D86.9,"Sarcoidosis, unspecified"
+C0036202,http://purl.bioontology.org/ontology/ICD10/D86,Sarcoidosis
+C0036508,http://purl.bioontology.org/ontology/ICD10/L21,Seborrhoeic dermatitis
+C0036508,http://purl.bioontology.org/ontology/ICD10/L21.9,"Seborrhoeic dermatitis, unspecified"
+C0009451,http://purl.bioontology.org/ontology/ICD10/G91.0,Communicating hydrocephalus
+C0039730,http://purl.bioontology.org/ontology/ICD10/D56.9,"Thalassaemia, unspecified"
+C0039730,http://purl.bioontology.org/ontology/ICD10/D56,Thalassaemia
+C0006705,http://purl.bioontology.org/ontology/ICD10/E83.5,Disorders of calcium metabolism
+C0030353,http://purl.bioontology.org/ontology/ICD10/H47.1,"Papilloedema, unspecified"
+C0022573,http://purl.bioontology.org/ontology/ICD10/H16.2,Keratoconjunctivitis
+C0700594,http://purl.bioontology.org/ontology/ICD10/M54.1,Radiculopathy
+C0008325,http://purl.bioontology.org/ontology/ICD10/K81,Cholecystitis
+C0008325,http://purl.bioontology.org/ontology/ICD10/K81.9,"Cholecystitis, unspecified"
+C0014527,http://purl.bioontology.org/ontology/ICD10/Q81,Epidermolysis bullosa
+C0014527,http://purl.bioontology.org/ontology/ICD10/Q81.9,"Epidermolysis bullosa, unspecified"
+C0152221,http://purl.bioontology.org/ontology/ICD10/H49,Paralytic strabismus
+C0152221,http://purl.bioontology.org/ontology/ICD10/H49.9,"Paralytic strabismus, unspecified"
+C0025289,http://purl.bioontology.org/ontology/ICD10/G03.9,"Meningitis, unspecified"
+C0026703,http://purl.bioontology.org/ontology/ICD10/E76.3,"Mucopolysaccharidosis, unspecified"
+C0035021,http://purl.bioontology.org/ontology/ICD10/A68,Relapsing fevers
+C0035021,http://purl.bioontology.org/ontology/ICD10/A68.9,"Relapsing fever, unspecified"
+C0003090,http://purl.bioontology.org/ontology/ICD10/M24.6,Ankylosis of joint
+C0022596,http://purl.bioontology.org/ontology/ICD10/L85.2,Keratosis punctata (palmaris et plantaris)
+C0010034,http://purl.bioontology.org/ontology/ICD10/H18.9,"Disorder of cornea, unspecified"
+C0152223,http://purl.bioontology.org/ontology/ICD10/H50.6,Mechanical strabismus
+C0029422,http://purl.bioontology.org/ontology/ICD10/Q78.9,"Osteochondrodysplasia, unspecified"
+C0040409,http://purl.bioontology.org/ontology/ICD10/K14,Diseases of tongue
+C0040409,http://purl.bioontology.org/ontology/ICD10/K14.9,"Disease of tongue, unspecified"
+C0023308,http://purl.bioontology.org/ontology/ICD10/H27.9,"Disorder of lens, unspecified"
+C0023308,http://purl.bioontology.org/ontology/ICD10/H25-H28.9,Disorders of lens
+C0154748,http://purl.bioontology.org/ontology/ICD10/G57.0,Lesion of sciatic nerve
+C0031090,http://purl.bioontology.org/ontology/ICD10/K05.6,"Periodontal disease, unspecified"
+C0016977,http://purl.bioontology.org/ontology/ICD10/K82.9,"Disease of gallbladder, unspecified"
+C0030517,http://purl.bioontology.org/ontology/ICD10/E21.5,"Disorder of parathyroid gland, unspecified"
+C0005424,http://purl.bioontology.org/ontology/ICD10/K83.9,"Disease of biliary tract, unspecified"
+C0156147,http://purl.bioontology.org/ontology/ICD10/K50.1,Crohn's disease of large intestine
+C0019348,http://purl.bioontology.org/ontology/ICD10/B00,Herpesviral [herpes simplex] infections
+C0022904,http://purl.bioontology.org/ontology/ICD10/H04.9,"Disorder of lacrimal system, unspecified"
+C0022904,http://purl.bioontology.org/ontology/ICD10/H04,Disorders of lacrimal system
+C0012715,http://purl.bioontology.org/ontology/ICD10/E83.1,Disorders of iron metabolism
+C0037899,http://purl.bioontology.org/ontology/ICD10/E75.3,"Sphingolipidosis, unspecified"
+C0033581,http://purl.bioontology.org/ontology/ICD10/N41,Inflammatory diseases of prostate
+C0033581,http://purl.bioontology.org/ontology/ICD10/N41.9,"Inflammatory disease of prostate, unspecified"
+C0029771,http://purl.bioontology.org/ontology/ICD10/K86.8,Other specified diseases of pancreas
+C0409974,http://purl.bioontology.org/ontology/ICD10/L93,Lupus erythematosus
+C0149512,http://purl.bioontology.org/ontology/ICD10/J01.9,"Acute sinusitis, unspecified"
+C0149512,http://purl.bioontology.org/ontology/ICD10/J01,Acute sinusitis
+C2980104,http://purl.bioontology.org/ontology/ICD10/B36.9,"Superficial mycosis, unspecified"
+C0029582,http://purl.bioontology.org/ontology/ICD10/J95-J99.9,Other diseases of the respiratory system
+C0029582,http://purl.bioontology.org/ontology/ICD10/J98,Other respiratory disorders
+C0041333,http://purl.bioontology.org/ontology/ICD10/A18.1,Tuberculosis of genitourinary system
+C0030807,http://purl.bioontology.org/ontology/ICD10/L10.9,"Pemphigus, unspecified"
+C0030807,http://purl.bioontology.org/ontology/ICD10/L10,Pemphigus
+C0031707,http://purl.bioontology.org/ontology/ICD10/E83.3,Disorders of phosphorus metabolism
+C0027339,http://purl.bioontology.org/ontology/ICD10/L60,Nail disorders
+C0027339,http://purl.bioontology.org/ontology/ICD10/L60.9,"Nail disorder, unspecified"
+C0037354,http://purl.bioontology.org/ontology/ICD10/B03,Smallpox
+C0155774,http://purl.bioontology.org/ontology/ICD10/I82,Other venous embolism and thrombosis
+C0264776,http://purl.bioontology.org/ontology/ICD10/I07.9,"Tricuspid valve disease, unspecified"
+C0264776,http://purl.bioontology.org/ontology/ICD10/I07,Rheumatic tricuspid valve diseases
+C0029595,http://purl.bioontology.org/ontology/ICD10/E79.8,Other disorders of purine and pyrimidine metabolism
+Other disorders of purine and pyrimidine metabolism,http://purl.bioontology.org/ontology/ICD10/E79.8,Other disorders of purine and pyrimidine metabolism
+C0029872,http://purl.bioontology.org/ontology/ICD10/H43.3,Other vitreous opacities
+C0004771,http://purl.bioontology.org/ontology/ICD10/A44.9,"Bartonellosis, unspecified"
+C0004771,http://purl.bioontology.org/ontology/ICD10/A44,Bartonellosis
+C0023510,http://purl.bioontology.org/ontology/ICD10/D72.9,"Disorder of white blood cells, unspecified"
+C0029454,http://purl.bioontology.org/ontology/ICD10/Q78.2,Osteopetrosis
+C0079294,http://purl.bioontology.org/ontology/ICD10/Q81.2,Epidermolysis bullosa dystrophica
+C0023786,http://purl.bioontology.org/ontology/ICD10/E76.0,"Mucopolysaccharidosis, type I"
+C0154860,http://purl.bioontology.org/ontology/ICD10/H35.5,Hereditary retinal dystrophy
+C0154777,http://purl.bioontology.org/ontology/ICD10/H44.5,Degenerated conditions of globe
+C0152198,http://purl.bioontology.org/ontology/ICD10/H52.5,Disorders of accommodation
+C0155428,http://purl.bioontology.org/ontology/ICD10/H68.0,Eustachian salpingitis
+C0026113,http://purl.bioontology.org/ontology/ICD10/L74.3,"Miliaria, unspecified"
+C2711630,http://purl.bioontology.org/ontology/ICD10/D81,Combined immunodeficiencies
+C2711630,http://purl.bioontology.org/ontology/ICD10/D81.9,"Combined immunodeficiency, unspecified"
+C0027927,http://purl.bioontology.org/ontology/ICD10/A52.3,"Neurosyphilis, unspecified"
+C0029607,http://purl.bioontology.org/ontology/ICD10/J43.8,Other emphysema
+C0039131,http://purl.bioontology.org/ontology/ICD10/A50.9,"Congenital syphilis, unspecified"
+C0039131,http://purl.bioontology.org/ontology/ICD10/A50,Congenital syphilis
+C0033740,http://purl.bioontology.org/ontology/ICD10/B50-B64.9,Protozoal diseases
+C0033740,http://purl.bioontology.org/ontology/ICD10/B64,Unspecified protozoal disease
+C0015423,http://purl.bioontology.org/ontology/ICD10/H02.9,"Disorder of eyelid, unspecified"
+C0022578,http://purl.bioontology.org/ontology/ICD10/H18.6,Keratoconus
+C0023343,http://purl.bioontology.org/ontology/ICD10/A30.9,"Leprosy, unspecified"
+C0023343,http://purl.bioontology.org/ontology/ICD10/A30,Leprosy [Hansen's disease]
+C0013447,http://purl.bioontology.org/ontology/ICD10/H93.9,"Disorder of ear, unspecified"
+C0019338,http://purl.bioontology.org/ontology/ICD10/B08.5,Enteroviral vesicular pharyngitis
+C0033575,http://purl.bioontology.org/ontology/ICD10/N42.9,"Disorder of prostate, unspecified"
+C0031115,http://purl.bioontology.org/ontology/ICD10/I79.2,Peripheral angiopathy in diseases classified elsewhere
+C0154653,http://purl.bioontology.org/ontology/ICD10/G03.1,Chronic meningitis
+C0700251,http://purl.bioontology.org/ontology/ICD10/G54.0,Brachial plexus disorders
+C0029888,http://purl.bioontology.org/ontology/ICD10/H66,Suppurative and unspecified otitis media
+C0029888,http://purl.bioontology.org/ontology/ICD10/H66.4,"Suppurative otitis media, unspecified"
+C0152097,http://purl.bioontology.org/ontology/ICD10/J98.6,Disorders of diaphragm
+C0155261,http://purl.bioontology.org/ontology/ICD10/H05.1,Chronic inflammatory disorders of orbit
+C0043388,http://purl.bioontology.org/ontology/ICD10/A66.9,"Yaws, unspecified"
+C0043388,http://purl.bioontology.org/ontology/ICD10/A66,Yaws
+C0259800,http://purl.bioontology.org/ontology/ICD10/H44.0,Purulent endophthalmitis
+C0155686,http://purl.bioontology.org/ontology/ICD10/I40.9,"Acute myocarditis, unspecified"
+C0155686,http://purl.bioontology.org/ontology/ICD10/I40,Acute myocarditis
+C0157705,http://purl.bioontology.org/ontology/ICD10/L04.9,"Acute lymphadenitis, unspecified"
+C0157705,http://purl.bioontology.org/ontology/ICD10/L04,Acute lymphadenitis
+C0016085,http://purl.bioontology.org/ontology/ICD10/B74,Filariasis
+C0016085,http://purl.bioontology.org/ontology/ICD10/B74.9,"Filariasis, unspecified"
+C0149881,http://purl.bioontology.org/ontology/ICD10/N45,Orchitis and epididymitis
+C0017412,http://purl.bioontology.org/ontology/ICD10/N50.9,"Disorder of male genital organs, unspecified"
+C0017412,http://purl.bioontology.org/ontology/ICD10/N40-N51.9,Diseases of male genital organs
+C0029831,http://purl.bioontology.org/ontology/ICD10/H50.8,Other specified strabismus
+C0339436,http://purl.bioontology.org/ontology/ICD10/H35.3,Degeneration of macula and posterior pole
+C0265057,http://purl.bioontology.org/ontology/ICD10/I80.0,Phlebitis and thrombophlebitis of superficial vessels of lower extremities
+C0038041,http://purl.bioontology.org/ontology/ICD10/A77.9,"Spotted fever, unspecified"
+C0038041,http://purl.bioontology.org/ontology/ICD10/A77,Spotted fever [tick-borne rickettsioses]
+C0155490,http://purl.bioontology.org/ontology/ICD10/H71,Cholesteatoma of middle ear
+C0036133,http://purl.bioontology.org/ontology/ICD10/N70,Salpingitis and oophoritis
+C0036133,http://purl.bioontology.org/ontology/ICD10/N70.9,"Salpingitis and oophoritis, unspecified"
+C0007302,http://purl.bioontology.org/ontology/ICD10/M94.9,"Disorder of cartilage, unspecified"
+C0007302,http://purl.bioontology.org/ontology/ICD10/M91-M94.9,Chondropathies
+C0027030,http://purl.bioontology.org/ontology/ICD10/B87,Myiasis
+C0027030,http://purl.bioontology.org/ontology/ICD10/B87.9,"Myiasis, unspecified"
+C0038986,http://purl.bioontology.org/ontology/ICD10/L74,Eccrine sweat disorders
+C0038986,http://purl.bioontology.org/ontology/ICD10/L74.9,"Eccrine sweat disorder, unspecified"
+C0155118,http://purl.bioontology.org/ontology/ICD10/H18.4,Corneal degeneration
+C0029182,http://purl.bioontology.org/ontology/ICD10/H05,Disorders of orbit
+C0029182,http://purl.bioontology.org/ontology/ICD10/H05.9,"Disorder of orbit, unspecified"
+C0271446,http://purl.bioontology.org/ontology/ICD10/H65.9,"Nonsuppurative otitis media, unspecified"
+C0271446,http://purl.bioontology.org/ontology/ICD10/H65,Nonsuppurative otitis media
+C0155145,http://purl.bioontology.org/ontology/ICD10/H10.4,Chronic conjunctivitis
+C0041825,http://purl.bioontology.org/ontology/ICD10/H73.9,"Disorder of tympanic membrane, unspecified"
+C0158997,http://purl.bioontology.org/ontology/ICD10/P61.5,Transient neonatal neutropenia
+C0155727,http://purl.bioontology.org/ontology/ICD10/I65.9,Occlusion and stenosis of unspecified precerebral artery
+C0036412,http://purl.bioontology.org/ontology/ICD10/H15.9,"Disorder of sclera, unspecified"
+C0036412,http://purl.bioontology.org/ontology/ICD10/H15,Disorders of sclera
+C0156264,http://purl.bioontology.org/ontology/ICD10/N21,Calculus of lower urinary tract
+C0156264,http://purl.bioontology.org/ontology/ICD10/N21.9,"Calculus of lower urinary tract, unspecified"
+C0085109,http://purl.bioontology.org/ontology/ICD10/H16.4,Corneal neovascularization
+C0008521,http://purl.bioontology.org/ontology/ICD10/H31.9,"Disorder of choroid, unspecified"
+C0264765,http://purl.bioontology.org/ontology/ICD10/I05.9,"Mitral valve disease, unspecified"
+C0264765,http://purl.bioontology.org/ontology/ICD10/I05,Rheumatic mitral valve diseases
+C0155087,http://purl.bioontology.org/ontology/ICD10/H16.3,Interstitial and deep keratitis
+C0085438,http://purl.bioontology.org/ontology/ICD10/G02.1,Meningitis in mycoses
+C0029785,http://purl.bioontology.org/ontology/ICD10/N48.8,Other specified disorders of penis
+C0158445,http://purl.bioontology.org/ontology/ICD10/M92,Other juvenile osteochondrosis
+C0037997,http://purl.bioontology.org/ontology/ICD10/D73,Diseases of spleen
+C0037997,http://purl.bioontology.org/ontology/ICD10/D73.9,"Disease of spleen, unspecified"
+C0264694,http://purl.bioontology.org/ontology/ICD10/I25.9,"Chronic ischaemic heart disease, unspecified"
+C0264694,http://purl.bioontology.org/ontology/ICD10/I25,Chronic ischaemic heart disease
+C0154870,http://purl.bioontology.org/ontology/ICD10/H30.0,Focal chorioretinal inflammation
+C0021099,http://purl.bioontology.org/ontology/ICD10/L01.0,Impetigo [any organism] [any site]
+C0021099,http://purl.bioontology.org/ontology/ICD10/L01,Impetigo
+C0011636,http://purl.bioontology.org/ontology/ICD10/B35,Dermatophytosis
+C0011636,http://purl.bioontology.org/ontology/ICD10/B35.9,"Dermatophytosis, unspecified"
+C0155287,http://purl.bioontology.org/ontology/ICD10/H47.7,"Disorder of visual pathways, unspecified"
+C0041806,http://purl.bioontology.org/ontology/ICD10/D89.9,"Disorder involving the immune mechanism, unspecified"
+C0029119,http://purl.bioontology.org/ontology/ICD10/B48.7,Opportunistic mycoses
+C0029644,http://purl.bioontology.org/ontology/ICD10/M46,Other inflammatory spondylopathies
+C1320640,http://purl.bioontology.org/ontology/ICD10/H35.4,Peripheral retinal degeneration
+C0155795,http://purl.bioontology.org/ontology/ICD10/I86.2,Pelvic varices
+C0001621,http://purl.bioontology.org/ontology/ICD10/E27.9,"Disorder of adrenal gland, unspecified"
+C0034212,http://purl.bioontology.org/ontology/ICD10/L08.0,Pyoderma
+C0155937,http://purl.bioontology.org/ontology/ICD10/K05.0,Acute gingivitis
+C0029706,http://purl.bioontology.org/ontology/ICD10/H81.3,Other peripheral vertigo
+C0155435,http://purl.bioontology.org/ontology/ICD10/H69,Other disorders of Eustachian tube
+C0041969,http://purl.bioontology.org/ontology/ICD10/N36.9,"Urethral disorder, unspecified"
+C0154780,http://purl.bioontology.org/ontology/ICD10/H44.3,Other degenerative disorders of globe
+C0002874,http://purl.bioontology.org/ontology/ICD10/D61.9,"Aplastic anaemia, unspecified"
+C0242490,http://purl.bioontology.org/ontology/ICD10/M77.9,"Enthesopathy, unspecified"
+C0154730,http://purl.bioontology.org/ontology/ICD10/G52,Disorders of other cranial nerves
+C0008513,http://purl.bioontology.org/ontology/ICD10/H30,Chorioretinal inflammation
+C0008513,http://purl.bioontology.org/ontology/ICD10/H30.9,"Chorioretinal inflammation, unspecified"
+C0029770,http://purl.bioontology.org/ontology/ICD10/K03.8,Other specified diseases of hard tissues of teeth
+C0013592,http://purl.bioontology.org/ontology/ICD10/H02.1,Ectropion of eyelid
+C0155699,http://purl.bioontology.org/ontology/ICD10/I43.8,Cardiomyopathy in other diseases classified elsewhere
+C0152226,http://purl.bioontology.org/ontology/ICD10/H02.2,Lagophthalmos
+C0002881,http://purl.bioontology.org/ontology/ICD10/D58.9,"Hereditary haemolytic anaemia, unspecified"
+C0149523,http://purl.bioontology.org/ontology/ICD10/N30.0,Acute cystitis
+C0004030,http://purl.bioontology.org/ontology/ICD10/B44.9,"Aspergillosis, unspecified"
+C0004030,http://purl.bioontology.org/ontology/ICD10/B44,Aspergillosis
+C0040451,http://purl.bioontology.org/ontology/ICD10/K03.3,Pathological resorption of teeth
+C0029531,http://purl.bioontology.org/ontology/ICD10/H26,Other cataract
+C0085700,http://purl.bioontology.org/ontology/ICD10/M94.2,Chondromalacia
+C0041473,http://purl.bioontology.org/ontology/ICD10/A75.0,Epidemic louse-borne typhus fever due to Rickettsia prowazekii
+C0155020,http://purl.bioontology.org/ontology/ICD10/H54,Blindness and low vision
+C0036416,http://purl.bioontology.org/ontology/ICD10/H15.0,Scleritis
+C0015464,http://purl.bioontology.org/ontology/ICD10/G51.9,"Disorder of facial nerve, unspecified"
+C0015464,http://purl.bioontology.org/ontology/ICD10/G51,Facial nerve disorders
+C0035326,http://purl.bioontology.org/ontology/ICD10/H34.9,"Retinal vascular occlusion, unspecified"
+C0035326,http://purl.bioontology.org/ontology/ICD10/H34,Retinal vascular occlusions
+C0022893,http://purl.bioontology.org/ontology/ICD10/H83.0,Labyrinthitis
+C0017606,http://purl.bioontology.org/ontology/ICD10/H40.2,Primary angle-closure glaucoma
+C0040436,http://purl.bioontology.org/ontology/ICD10/K03.2,Erosion of teeth
+C0154189,http://purl.bioontology.org/ontology/ICD10/E16,Other disorders of pancreatic internal secretion
+C0013292,http://purl.bioontology.org/ontology/ICD10/K31.5,Obstruction of duodenum
+C0030756,http://purl.bioontology.org/ontology/ICD10/B85.2,"Pediculosis, unspecified"
+C0018190,http://purl.bioontology.org/ontology/ICD10/A58,Granuloma inguinale
+C0005743,http://purl.bioontology.org/ontology/ICD10/H10.5,Blepharoconjunctivitis
+C1305122,http://purl.bioontology.org/ontology/ICD10/I71.5,"Thoracoabdominal aortic aneurysm, ruptured"
+C0006309,http://purl.bioontology.org/ontology/ICD10/A23,Brucellosis
+C0006309,http://purl.bioontology.org/ontology/ICD10/A23.9,"Brucellosis, unspecified"
+C0017675,http://purl.bioontology.org/ontology/ICD10/K14.0,Glossitis
+C0155389,http://purl.bioontology.org/ontology/ICD10/H61.0,Perichondritis of external ear
+C0034087,http://purl.bioontology.org/ontology/ICD10/I37,Pulmonary valve disorders
+C0034087,http://purl.bioontology.org/ontology/ICD10/I37.9,"Pulmonary valve disorder, unspecified"
+C0014013,http://purl.bioontology.org/ontology/ICD10/J86,Pyothorax
+C0040147,http://purl.bioontology.org/ontology/ICD10/E06.9,"Thyroiditis, unspecified"
+C0040147,http://purl.bioontology.org/ontology/ICD10/E06,Thyroiditis
+C0036262,http://purl.bioontology.org/ontology/ICD10/B86,Scabies
+C0155964,http://purl.bioontology.org/ontology/ICD10/K14.4,Atrophy of tongue papillae
+C0032763,http://purl.bioontology.org/ontology/ICD10/K91.1,Postgastric surgery syndromes
+C0154199,http://purl.bioontology.org/ontology/ICD10/E32.9,"Disease of thymus, unspecified"
+C0154199,http://purl.bioontology.org/ontology/ICD10/E32,Diseases of thymus
+C0030326,http://purl.bioontology.org/ontology/ICD10/M79.3,"Panniculitis, unspecified"
+C0029850,http://purl.bioontology.org/ontology/ICD10/J93.1,Other spontaneous pneumothorax
+C0156268,http://purl.bioontology.org/ontology/ICD10/N30.2,Other chronic cystitis
+C0155567,http://purl.bioontology.org/ontology/ICD10/I06.0,Rheumatic aortic stenosis
+C0023760,http://purl.bioontology.org/ontology/ICD10/K13.0,Diseases of lips
+C0155176,http://purl.bioontology.org/ontology/ICD10/H01.1,Noninfectious dermatoses of eyelid
+C0162823,http://purl.bioontology.org/ontology/ICD10/L24,Irritant contact dermatitis
+C0162823,http://purl.bioontology.org/ontology/ICD10/L24.9,"Irritant contact dermatitis, unspecified cause"
+C0016034,http://purl.bioontology.org/ontology/ICD10/N60.1,Diffuse cystic mastopathy
+C0268274,http://purl.bioontology.org/ontology/ICD10/E75.0,GM2 gangliosidosis
+C0018789,http://purl.bioontology.org/ontology/ICD10/I25.3,Aneurysm of heart
+C0155388,http://purl.bioontology.org/ontology/ICD10/H60-H62.9,Diseases of external ear
+C0155388,http://purl.bioontology.org/ontology/ICD10/H61.9,"Disorder of external ear, unspecified"
+C0029485,http://purl.bioontology.org/ontology/ICD10/L70.8,Other acne
+C0156257,http://purl.bioontology.org/ontology/ICD10/N20.2,Calculus of kidney with calculus of ureter
+C0156257,http://purl.bioontology.org/ontology/ICD10/N20,Calculus of kidney and ureter
+C0339129,http://purl.bioontology.org/ontology/ICD10/H04.3,Acute and unspecified inflammation of lacrimal passages
+C0410005,http://purl.bioontology.org/ontology/ICD10/M72.4,Pseudosarcomatous fibromatosis
+C0410005,http://purl.bioontology.org/ontology/ICD10/M72.3,Nodular fasciitis
+C0003175,http://purl.bioontology.org/ontology/ICD10/A22,Anthrax
+C0003175,http://purl.bioontology.org/ontology/ICD10/A22.9,"Anthrax, unspecified"
+C0011608,http://purl.bioontology.org/ontology/ICD10/L13.0,Dermatitis herpetiformis
+C0477317,http://purl.bioontology.org/ontology/ICD10/D69.4,Other primary thrombocytopenia
+C0023281,http://purl.bioontology.org/ontology/ICD10/B55,Leishmaniasis
+C0023281,http://purl.bioontology.org/ontology/ICD10/B55.9,"Leishmaniasis, unspecified"
+C0009768,http://purl.bioontology.org/ontology/ICD10/H10.0,Mucopurulent conjunctivitis
+C0019112,http://purl.bioontology.org/ontology/ICD10/I84,Haemorrhoids
+C0344297,http://purl.bioontology.org/ontology/ICD10/H31.1,Choroidal degeneration
+C0154893,http://purl.bioontology.org/ontology/ICD10/H31.2,Hereditary choroidal dystrophy
+C0155239,http://purl.bioontology.org/ontology/ICD10/H04.4,Chronic inflammation of lacrimal passages

@@ -1,2 +1,2 @@
-# SIMPATHIC2
-Code and Public Data for the SIMPATHIC Project
+# SIMPATHIC
+Open-source code for the SIMPATHIC project

@@ -1,0 +1,44 @@
+RADBOUD
+Disease-Therapeutic
+DOID/HP/MONDO/  --> EFO/MONDO/OTAR
+DOID_7551,https://api.disease-ontology.org/v1/terms/DOID_7551,gonorrhea,EFO_0005741,http://www.ebi.ac.uk/efo/EFO_0005741,infectious disease
+
+
+DiseaseID
+DOID/HP/MONDO --> label
+radboudid,guid,label
+DOID_7551,https://api.disease-ontology.org/v1/terms/DOID_7551,gonorrhea
+
+
+Drug-Disease
+CHEMBL - HPO/DOID/MONDO, etc.
+radboudsource,sourceguid,sourcelabel,radboudtarget,targetguid,targetlabel
+CHEMBL1200656,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200656,NATAMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+
+
+Drug-Drugtype
+radboudsource,sourceguid,sourcelabel,targettype
+radboudsource,sourceguid,sourcelabel,targettype
+CHEMBL1200656,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200656,NATAMYCIN,http://rdf.ebi.ac.uk/terms/chembl#SmallMolecule
+
+
+Drug-Gene
+CHEMBL -> ENSG
+radboudsource,sourceguid,target,targetguid
+CHEMBL1201746,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201746,ENSG00000228716,http://purl.uniprot.org/uniprot/P40238
+
+
+Gene-Uniprot
+ENSG - UP
+source,ensembl,opentargets,uniprot,taxon,prefname
+DOID_7551,ENSG00000058085,http://purl.uniprot.org/opentargets/ENSG00000010810,http://purl.uniprot.org/uniprot/P06241,http://purl.uniprot.org/taxonomy/9606,Tyrosine-protein kinase Fyn
+
+
+
+
+
+
+
+
+BIOVISTA
+

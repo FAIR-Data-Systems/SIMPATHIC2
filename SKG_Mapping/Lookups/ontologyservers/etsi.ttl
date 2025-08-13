@@ -1,0 +1,63 @@
+@prefix :      <https://saref.etsi.org/saref4city/> .
+@prefix s4city: <https://saref.etsi.org/saref4city/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix saref: <https://saref.etsi.org/core/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosp: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix time:  <http://www.w3.org/2006/time#> .
+@prefix vann:  <http://purl.org/vocab/vann/> .
+@prefix prov:  <http://www.w3.org/ns/prov#> .
+@prefix cpsv:  <http://purl.org/vocab/cpsv#> .
+
+s4city:KeyPerformanceIndicatorAssessment
+        a                               owl:Class , rdfs:Resource ;
+        rdfs:comment                    "A Key Performance Indicator assessment represents the assessment of a KPI calculated by a given agent in a given time."@en ;
+        rdfs:isDefinedBy                <https://saref.etsi.org/saref4city/v1.1.2/> ;
+        rdfs:label                      "Key performance indicator assessment"@en ;
+        rdfs:subClassOf                 [ a                  owl:Restriction ;
+                                          owl:allValuesFrom  saref:FeatureOfInterest ;
+                                          owl:onProperty     s4city:assesses
+                                        ] ;
+        rdfs:subClassOf                 [ a                  owl:Restriction ;
+                                          owl:allValuesFrom  xsd:dateTime ;
+                                          owl:onProperty     s4city:hasExpirationDate
+                                        ] ;
+        rdfs:subClassOf                 [ a                  owl:Restriction ;
+                                          owl:allValuesFrom  time:TemporalEntity ;
+                                          owl:onProperty     s4city:refersToTime
+                                        ] ;
+        rdfs:subClassOf                 [ a                  owl:Restriction ;
+                                          owl:allValuesFrom  xsd:dateTime ;
+                                          owl:onProperty     s4city:hasLastUpdateDate
+                                        ] ;
+        rdfs:subClassOf                 [ a                  owl:Restriction ;
+                                          owl:allValuesFrom  s4city:KeyPerformanceIndicator ;
+                                          owl:onProperty     s4city:quantifiesKPI
+                                        ] ;
+        rdfs:subClassOf                 [ a                  owl:Restriction ;
+                                          owl:allValuesFrom  xsd:dateTime ;
+                                          owl:onProperty     s4city:hasCreationDate
+                                        ] ;
+        rdfs:subClassOf                 [ a                owl:Restriction ;
+                                          owl:cardinality  "1"^^xsd:nonNegativeInteger ;
+                                          owl:onProperty   saref:hasValue
+                                        ] ;
+        rdfs:subClassOf                 [ a                  owl:Restriction ;
+                                          owl:allValuesFrom  saref:UnitOfMeasure ;
+                                          owl:onProperty     saref:isMeasuredIn
+                                        ] ;
+        rdfs:subClassOf                 [ a                  owl:Restriction ;
+                                          owl:allValuesFrom  saref:Measurement ;
+                                          owl:onProperty     s4city:isDerivedFrom
+                                        ] ;
+        rdfs:subClassOf                 [ a                  owl:Restriction ;
+                                          owl:allValuesFrom  s4city:Agent ;
+                                          owl:onProperty     s4city:isAssessedBy
+                                        ] ;
+        <http://example.org/isUsedBy>   <https://saref.etsi.org/saref4watr/v1.1.1/> ;
+        <http://example.org/localName>  "KeyPerformanceIndicatorAssessment" .

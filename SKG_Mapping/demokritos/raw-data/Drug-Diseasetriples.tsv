@@ -1,0 +1,701 @@
+﻿Drug	Drug_id	Disease	Disease_id
+2,2-dichloro-1,1-difluoroethyl difluoromethyl ether	C0613621	Hereditary Diseases	C0019247
+Valproic Acid	C0042291	Neurodegenerative Disorders	C0524851
+Monoamine Oxidase Inhibitors	C0026457	Neurodegenerative Disorders	C0524851
+ethyl acetate	C0059747	Neurodegenerative Disorders	C0524851
+PNU-282987	C1567285	Neurodegenerative Disorders	C0524851
+Caffeine	C0006644	Neurodegenerative Disorders	C0524851
+Methanol	C0001963	Neurodegenerative Disorders	C0524851
+Coumarins	C0010207	Neurodegenerative Disorders	C0524851
+Therapeutic brand of coal tar	C0723712	Neurodegenerative Disorders	C0524851
+Xanthine derivatives, psychostimulants, agents used for ADHD and nootropics	C3541953	Neurodegenerative Disorders	C0524851
+Cholinesterase Inhibitors	C0008425	Neurodegenerative Disorders	C0524851
+Butylated Hydroxytoluene	C0006507	Neurodegenerative Disorders	C0524851
+resveratrol	C0073096	Neurodegenerative Disorders	C0524851
+Bactrim	C0591139	Neurodegenerative Disorders	C0524851
+Sodium Valproate	C0037567	Neurodegenerative Disorders	C0524851
+Alkaloids	C0002062	Neurodegenerative Disorders	C0524851
+Marihuana	C0024808	Neurodegenerative Disorders	C0524851
+fucoidan	C0060794	Neurodegenerative Disorders	C0524851
+coenzyme Q10	C0056077	Neurodegenerative Disorders	C0524851
+Therapeutic brand of coal tar	C0723712	Rare Diseases	C0678236
+Acetazolamide	C0000981	Cerebellar Diseases	C0007760
+Amantadine	C0002403	Movement Disorders	C0026650
+Valproate	C0080356	Movement Disorders	C0026650
+Marihuana	C0024808	Movement Disorders	C0026650
+Cannabinoids	C0006864	Movement Disorders	C0026650
+oxybutynin	C0069805	Movement Disorders	C0026650
+Acetylcholine	C0001041	Parkinsonian Disorders	C0242422
+cabergoline	C0107994	Parkinsonian Disorders	C0242422
+Bromocriptine	C0006230	Parkinsonian Disorders	C0242422
+Dantrolene	C0010976	Machado-Joseph Disease	C0024408
+Niacin	C0027996	Machado-Joseph Disease	C0024408
+Bactrim	C0591139	Machado-Joseph Disease	C0024408
+resveratrol	C0073096	Machado-Joseph Disease	C0024408
+Sodium Butyrate	C0142812	Machado-Joseph Disease	C0024408
+BDA-410	C3492623	Machado-Joseph Disease	C0024408
+aripiprazole	C0299792	Machado-Joseph Disease	C0024408
+Riluzole	C0073379	Machado-Joseph Disease	C0024408
+coenzyme Q10	C0056077	Machado-Joseph Disease	C0024408
+Sodium Valproate	C0037567	Machado-Joseph Disease	C0024408
+Vinca Alkaloids	C0042672	Machado-Joseph Disease	C0024408
+Citalopram	C0008845	Machado-Joseph Disease	C0024408
+Befiradol	C2825610	Machado-Joseph Disease	C0024408
+Glucose	C0017725	Machado-Joseph Disease	C0024408
+Dopamine Hydrochloride	C0282151	Machado-Joseph Disease	C0024408
+daidzein	C0057090	Machado-Joseph Disease	C0024408
+Choline	C0008405	Machado-Joseph Disease	C0024408
+Lactate	C0376261	Machado-Joseph Disease	C0024408
+Trimethoprim-Sulfamethoxazole Combination	C0041044	Machado-Joseph Disease	C0024408
+Dopamine	C0013030	Machado-Joseph Disease	C0024408
+Budesonide	C0054201	Machado-Joseph Disease	C0024408
+Clozapine	C0009079	Deglutition Disorders	C0011168
+rivastigmine	C0649350	Deglutition Disorders	C0011168
+Galantamine	C0016967	Alzheimer's Disease	C0002395
+donepezil	C0527316	Alzheimer's Disease	C0002395
+Quercetin	C0034392	Alzheimer's Disease	C0002395
+Cholinesterase Inhibitors	C0008425	Alzheimer's Disease	C0002395
+Memantine	C0025242	Alzheimer's Disease	C0002395
+Therapeutic brand of coal tar	C0723712	Alzheimer's Disease	C0002395
+rivastigmine	C0649350	Alzheimer's Disease	C0002395
+indole	C0021236	Alzheimer's Disease	C0002395
+Tacrine	C0039245	Alzheimer's Disease	C0002395
+phthalocyanine	C0070971	Alzheimer's Disease	C0002395
+Catechin	C0007404	Alzheimer's Disease	C0002395
+Ascorbic Acid	C0003968	Alzheimer's Disease	C0002395
+Dopamine Hydrochloride	C0282151	Parkinson Disease	C0030567
+Pramipexole	C0074710	Parkinson Disease	C0030567
+Therapeutic brand of coal tar	C0723712	Parkinson Disease	C0030567
+ropinirole	C0244821	Parkinson Disease	C0030567
+Metric	C0699680	Parkinson Disease	C0030567
+safinamide	C1098261	Parkinson Disease	C0030567
+Benserazide	C0005014	Parkinson Disease	C0030567
+rivastigmine	C0649350	Parkinson Disease	C0030567
+istradefylline	C0673470	Parkinson Disease	C0030567
+zonisamide	C0078844	Parkinson Disease	C0030567
+Marihuana	C0024808	Parkinson Disease	C0030567
+tamsulosin	C0257343	Parkinson Disease	C0030567
+atomoxetine	C0076823	Parkinson Disease	C0030567
+Fluoxetine	C0016365	Parkinson Disease	C0030567
+Dopamine	C0013030	Parkinson Disease	C0030567
+cabergoline	C0107994	Parkinson Disease	C0030567
+Theophylline	C0039771	Parkinson Disease	C0030567
+Caffeine	C0006644	Parkinson Disease	C0030567
+eltoprazine	C0082384	Dyskinetic syndrome	C0013384
+Caffeine	C0006644	Dyskinetic syndrome	C0013384
+Acetaminophen	C0000970	Dyskinetic syndrome	C0013384
+brimonidine	C0525227	Disorder of eye	C0015397
+Cannabinoids	C0006864	multiple pathologies	C0679225
+Allopurinol	C0002144	multiple pathologies	C0679225
+Nicotine	C0028040	cerebellar function	C0742034
+ropinirole	C0244821	early idiopathic parkinson's disease	C0694564
+Gangliosides	C0017082	brain dysfunction	C0262405
+Glycosaminoglycans	C0017973	Lysosomal Storage Diseases	C0085078
+rosmarinic acid	C0073590	nervous system disorder	C0027765
+Therapeutic brand of coal tar	C0723712	nervous system disorder	C0027765
+donepezil	C0527316	nervous system disorder	C0027765
+Marihuana	C0024808	nervous system disorder	C0027765
+Solifenacin	C1099677	nervous system disorder	C0027765
+duloxetine	C0245561	nervous system disorder	C0027765
+epalrestat	C0095278	Helminthiasis	C0018889
+bortezomib	C1176309	Helminthiasis	C0018889
+aripiprazole	C0299792	Helminthiasis	C0018889
+FRUIT EXTRACTS	C0772257	Helminthiasis	C0018889
+ropinirole	C0244821	Restless Legs Syndrome	C0035258
+Dipyridamole	C0012582	Restless Legs Syndrome	C0035258
+Pramipexole	C0074710	Restless Legs Syndrome	C0035258
+amsonic acid	C0051767	Restless Legs Syndrome	C0035258
+Opioids	C0242402	Restless Legs Syndrome	C0035258
+gabapentin	C0060926	Restless Legs Syndrome	C0035258
+gabapentin enacarbil	C2700226	Restless Legs Syndrome	C0035258
+epalrestat	C0095278	Peripheral Neuropathy	C0031117
+formoterol	C0060657	Asthma	C0004096
+umeclidinium	C3661274	Asthma	C0004096
+Albuterol	C0001927	Asthma	C0004096
+salmeterol	C0073992	Asthma	C0004096
+Leukotriene Antagonists	C0595726	Asthma	C0004096
+Glycopyrrolate	C0017970	Asthma	C0004096
+montelukast	C0298130	Asthma	C0004096
+Adrenal Cortex Hormones	C0001617	Asthma	C0004096
+tiotropium	C0213771	Asthma	C0004096
+2,5-dichloro-4-bromophenol	C0045550	Asthma	C0004096
+resveratrol	C0073096	Friedreich Ataxia	C0016719
+epalrestat	C0095278	Neuropathy	C0442874
+Cannabinoids	C0006864	Neuropathy	C0442874
+duloxetine	C0245561	Neuropathy	C0442874
+Acetaminophen	C0000970	Neuropathy	C0442874
+tizanidine	C0146011	Neuropathy	C0442874
+Paclitaxel	C0144576	Neuropathy	C0442874
+Carbidopa	C0006982	Neuropathy	C0442874
+atomoxetine	C0076823	Sleep Apnea, Obstructive	C0520679
+oxybutynin	C0069805	Sleep Apnea, Obstructive	C0520679
+butylscopolamine bromide	C0006519	Sleep Apnea, Obstructive	C0520679
+Amiodarone	C0002598	Virus Diseases	C0042769
+Fluoxetine	C0016365	Virus Diseases	C0042769
+Acetylcholine	C0001041	Amyloidosis	C0002726
+Carbidopa	C0006982	Chronic pain	C0150055
+Cannabinoids	C0006864	Chronic pain	C0150055
+Cannabis Preparation	C0939898	Chronic pain	C0150055
+Marihuana	C0024808	Chronic pain	C0150055
+Tetrahydrocannabinol	C0039663	Chronic pain	C0150055
+6-bromo-2-naphthyl sulfate	C0099085	Epilepsy	C0014544
+topiramate	C0076829	Epilepsy	C0014544
+felbamate	C0060135	Epilepsy	C0014544
+clobazam	C0055891	Epilepsy	C0014544
+pyridoxine	C0034272	Epilepsy	C0014544
+Traumeel S	C0968917	Epilepsy	C0014544
+sennosides, USP	C0074332	Epilepsy	C0014544
+Carbidopa	C0006982	Epilepsy	C0014544
+Tetrahydrocannabinol	C0039663	Epilepsy	C0014544
+lorcaserin	C2350948	Epilepsy	C0014544
+Amiodarone	C0002598	Epilepsy	C0014544
+Citalopram	C0008845	Epilepsy	C0014544
+Fluvoxamine	C0085228	Epilepsy	C0014544
+milnacipran	C1533126	Epilepsy	C0014544
+Bupropion	C0085208	Epilepsy	C0014544
+duloxetine	C0245561	Epilepsy	C0014544
+Sertraline	C0074393	Epilepsy	C0014544
+Pyridoxal	C0034263	Epilepsy	C0014544
+Pyridoxal Phosphate	C0034266	Epilepsy	C0014544
+Cannabidiol	C0006863	Epilepsy	C0014544
+Acetazolamide	C0000981	Epilepsy	C0014544
+perampanel	C2698764	Epilepsy	C0014544
+Propranolol	C0033497	Opsoclonus	C0242567
+Clonazepam	C0009011	Opsoclonus	C0242567
+Adrenal Cortex Hormones	C0001617	Opsoclonus	C0242567
+glimepiride	C0061323	Diabetes Mellitus, Non-Insulin-Dependent	C0011860
+Metformin	C0025598	Diabetes Mellitus, Non-Insulin-Dependent	C0011860
+sitagliptin	C1565750	Diabetes Mellitus, Non-Insulin-Dependent	C0011860
+empagliflozin	C3490348	Diabetes Mellitus, Non-Insulin-Dependent	C0011860
+quetiapine	C0123091	Diabetes Mellitus, Non-Insulin-Dependent	C0011860
+ractopamine	C0072954	Diabetes Mellitus, Non-Insulin-Dependent	C0011860
+Curare	C0010463	Motor Neuron Disease, Lower	C0270764
+Sugammadex	C1700695	Dystrophia myotonica 1	C2931688
+Rocuronium	C0209337	Dystrophia myotonica 1	C2931688
+Dopamine	C0013030	Brain Diseases	C0006111
+Fluoxetine	C0016365	Dopa-Responsive Dystonia	C1851920
+Metformin	C0025598	Hyperinsulinism	C0020459
+pioglitazone	C0071097	Hyperinsulinism	C0020459
+duloxetine	C0245561	Incontinence	C0021167
+oxybutynin	C0069805	Incontinence	C0021167
+bemethyl	C0053083	Muscular Dystrophy	C0026850
+Adrenal Cortex Hormones	C0001617	Diabetes	C0011847
+Metformin	C0025598	Diabetes	C0011847
+Ethanol	C0001962	Diabetes	C0011847
+modafinil	C0066677	Narcolepsy	C0027404
+pitolisant	C3529928	Narcolepsy	C0027404
+Carbidopa	C0006982	Obesity	C0028754
+Marijuana derivative	C0304395	Obesity	C0028754
+Tetrahydrocannabinol	C0039663	Obesity	C0028754
+clobenzorex	C0055894	Obesity	C0028754
+Folic Acid	C0016410	Obesity	C0028754
+Buspirone	C0006462	Anorexia	C0003123
+Sugammadex	C1700695	Respiratory Failure	C1145670
+Heparin	C0019134	Intestinal Diseases	C0021831
+Mediator brand of benfluorex hydrochloride	C0127400	Encephalopathies	C0085584
+glimepiride	C0061323	Myotonic Dystrophy	C0027126
+Metformin	C0025598	Myotonic Dystrophy	C0027126
+Atracurium	C0004234	Myotonic Dystrophy	C0027126
+Indomethacin	C0021246	Myotonic Dystrophy	C0027126
+Clomipramine	C0009010	Myotonic Dystrophy	C0027126
+Fentanyl	C0015846	Myotonic Dystrophy	C0027126
+Glucose	C0017725	Myotonic Dystrophy	C0027126
+sevoflurane	C0074414	Myotonic Dystrophy	C0027126
+pioglitazone	C0071097	Myotonic Dystrophy	C0027126
+Morphine	C0026549	Myotonic Dystrophy	C0027126
+Vecuronium	C0242531	Myotonic Dystrophy	C0027126
+Testosterone	C0039601	Myotonic Dystrophy	C0027126
+remifentanil	C0246631	Myotonic Dystrophy	C0027126
+Dantrolene Sodium	C0010977	Myotonic Dystrophy	C0027126
+Propofol	C0033487	Myotonic Dystrophy	C0027126
+Hydrocortisone	C0020268	Myotonic Dystrophy	C0027126
+mivacurium	C0066621	Myotonic Dystrophy	C0027126
+Opioids	C0242402	Myotonic Dystrophy	C0027126
+Epinephrine	C0014563	Myotonic Dystrophy	C0027126
+Propofol	C0033487	Myopathy	C0026848
+Lidocaine	C0023660	Myopathy	C0026848
+Mediator brand of benfluorex hydrochloride	C0127400	Myopathy	C0026848
+Sugars	C0242209	Metabolic Diseases	C0025517
+BETAHISTINE	C0005301	Metabolic Diseases	C0025517
+trans-dichlorobis(azomycin)platinum II	C0146413	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844
+Glycopyrrolate	C0017970	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844
+Fluticasone propionate	C0117996	Pneumonia	C0032285
+rivastigmine	C0649350	Pneumonia	C0032285
+Adrenal Cortex Hormones	C0001617	Pneumonia	C0032285
+Sugammadex	C1700695	Pneumonia	C0032285
+Arbaclofen	C2983924	Pneumonia	C0032285
+Beclomethasone Dipropionate	C0004906	Pneumonia	C0032285
+Benzodiazepines	C0005064	Pneumonia	C0032285
+Dopamine	C0013030	Inflammatory disorder	C1290884
+donepezil	C0527316	Inflammatory disorder	C1290884
+idebenone	C0123163	Mitochondrial Diseases	C0751651
+Therapeutic brand of coal tar	C0723712	Mitochondrial Diseases	C0751651
+Adrenal Cortex Hormones	C0001617	Mitochondrial Diseases	C0751651
+Apomorphine	C0003596	Mitochondrial Diseases	C0751651
+EPI-743	C3491843	Mitochondrial Diseases	C0751651
+Valproic Acid	C0042291	Mitochondrial Diseases	C0751651
+coenzyme Q10	C0056077	Mitochondrial Diseases	C0751651
+EPI-743	C3491843	Leigh Disease	C0023264
+Dichloroacetate	C0012066	Leigh Disease	C0023264
+everolimus	C0541315	Leigh Disease	C0023264
+idebenone	C0123163	Leigh Disease	C0023264
+Sodium Pyruvate	C1576824	Cytochrome-c Oxidase Deficiency	C0268237
+Glucose	C0017725	Leigh syndrome , French Canadian type	C1857355
+Lactate	C0376261	Acidosis, Lactic	C0001125
+idebenone	C0123163	Optic Atrophy, Hereditary, Leber	C0917796
+everolimus	C0541315	Non-Neoplastic Pediatric Disorder	C2982732
+formoterol	C0060657	Cerebrovascular accident	C0038454
+Fluoxetine	C0016365	Cerebrovascular accident	C0038454
+montelukast	C0298130	Cerebrovascular accident	C0038454
+Noscapine	C0028426	Cerebrovascular accident	C0038454
+clopidogrel	C0070166	Cerebrovascular accident	C0038454
+Aspirin	C0004057	Cerebrovascular accident	C0038454
+Sotalol	C0037707	Kidney Failure	C0035078
+Atenolol	C0004147	Kidney Failure	C0035078
+Lactate	C0376261	Lesion of brain	C0221505
+Organic acids, Gynecological	C3541407	Macrocephaly	C0221355
+Phenobarbital	C0031412	Tonic, clonic seizures	C0494475
+mirabegron	C2983812	Cardiomyopathies	C0878544
+Losartan	C0126174	Cardiomyopathies	C0878544
+naratriptan	C0540623	Migraine Disorders	C0149931
+Sumatriptan	C0075632	Migraine Disorders	C0149931
+Chlorpromazine	C0008286	Migraine Disorders	C0149931
+Prochlorperazine	C0033229	Migraine Disorders	C0149931
+Triptans	C1567966	Migraine Disorders	C0149931
+Ergotamine	C0014710	Migraine Disorders	C0149931
+Ketamine	C0022614	Migraine Disorders	C0149931
+Cannabinoids	C0006864	Migraine Disorders	C0149931
+Memantine	C0025242	Migraine Disorders	C0149931
+Progesterone	C0033308	Migraine Disorders	C0149931
+Estrogens	C0014939	Migraine Disorders	C0149931
+Marihuana	C0024808	Migraine Disorders	C0149931
+Almotriptan malate	C0937898	Migraine Disorders	C0149931
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	C0360714	Migraine Disorders	C0149931
+atorvastatin	C0286651	Migraine Disorders	C0149931
+Glucose	C0017725	Hypoglycemia	C0020615
+Sulfonylurea Compounds	C0038766	Hypoglycemia	C0020615
+Lactate	C0376261	Brain Diseases, Metabolic	C0006112
+Edrophonium Chloride	C0013617	Ptosis	C0033377
+pyridoxine	C0034272	Status Epilepticus	C0038220
+Levocarnitine	C0087163	Glutaric aciduria, type 1	C0268595
+glutaric acid	C0061506	Glutaric aciduria, type 1	C0268595
+hydroxyethyl starch 130-0.4	C3495434	Glutaric aciduria, type 1	C0268595
+Quinine	C0034417	Glutaric aciduria, type 1	C0268595
+Lactate	C0376261	Blindness, Cortical	C0155320
+migalastat	C2698220	Kidney Diseases	C0022658
+bemethyl	C0053083	Neuromuscular Diseases	C0027868
+Rocuronium	C0209337	Neuromuscular Diseases	C0027868
+Testosterone	C0039601	Neuromuscular Diseases	C0027868
+landiolol	C0905464	Septicemia	C0036690
+phthalocyanine	C0070971	Diabetes Mellitus	C0011849
+carvedilol	C0054836	Liver Cirrhosis	C0023890
+Doxazosin	C0114873	Liver Cirrhosis	C0023890
+Prazosin	C0032912	Liver Cirrhosis	C0023890
+Propranolol	C0033497	Liver Cirrhosis	C0023890
+4-(3-chlorophenylsulfanyl)piperidine hydrochloride	C0765956	Varicosity	C0042345
+migalastat	C2698220	Heart Diseases	C0018799
+carvedilol	C0054836	Heart Diseases	C0018799
+Propranolol	C0033497	Heart Diseases	C0018799
+Glucose	C0017725	Kidney Failure, Chronic	C0022661
+Thioctic Acid	C0023791	Phenylketonurias	C0031485
+Polyethylene Glycol 400	C0032478	Phenylketonurias	C0031485
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	Phenylketonurias	C0031485
+Amprenavir	C0754188	Phenylketonurias	C0031485
+cinnamic acid	C0055753	Phenylketonurias	C0031485
+Sapropterin dihydrochloride	C1996349	Phenylketonurias	C0031485
+doconexent	C2348308	Phenylketonurias	C0031485
+Kuvan	C1995652	Phenylketonurias	C0031485
+Norepinephrine	C0028351	Phenylketonurias	C0031485
+Metric	C0699680	Phenylketonurias	C0031485
+oleyloxyethylphosphorylcholine	C0645102	Phenylketonurias	C0031485
+Dopamine	C0013030	Phenylketonurias	C0031485
+trans-dichlorobis(azomycin)platinum II	C0146413	Phenylketonurias	C0031485
+3,4-Methylenedioxyamphetamine	C0000379	Phenylketonurias	C0031485
+alpha Tocopherol	C0969677	Phenylketonurias	C0031485
+Glucose	C0017725	Phenylketonurias	C0031485
+Vitamin A	C0042839	Phenylketonurias	C0031485
+Trimethoprim-Sulfamethoxazole Combination	C0041044	Phenylketonurias	C0031485
+Vitamins	C0042890	Phenylketonurias	C0031485
+Folic Acid	C0016410	Phenylketonurias	C0031485
+Betaine	C0005304	Phenylketonurias	C0031485
+Melatonin	C0025219	Phenylketonurias	C0031485
+Ubiquinone	C0041536	Phenylketonurias	C0031485
+Polyethylene Glycols	C0032483	Phenylketonurias	C0031485
+Phosphonoacetic Acid	C0031681	Phenylketonurias	C0031485
+Inositol	C0021547	Phenylketonurias	C0031485
+Fish Oils	C0016157	Phenylketonurias	C0031485
+Folate	C0178638	Phenylketonurias	C0031485
+stevioside	C0075246	Phenylketonurias	C0031485
+coenzyme Q10	C0056077	Phenylketonurias	C0031485
+Ascorbic Acid	C0003968	Phenylketonurias	C0031485
+Vitamin B 12	C0042845	Phenylketonurias	C0031485
+Levocarnitine	C0087163	Phenylketonurias	C0031485
+Choline	C0008405	Phenylketonurias	C0031485
+Oleic Acid	C0028928	Phenylketonurias	C0031485
+Leucovorin	C0023413	Phenylketonuria II	C0268465
+Methotrexate	C0025677	Phenylketonuria II	C0268465
+Carbamazepine	C0006949	Superior Oblique Myokymia	C0423092
+Amlodipine	C0051696	Hypertensive disease	C0020538
+Thiazides	C0541746	Hypertensive disease	C0020538
+Propranolol	C0033497	Hypertensive disease	C0020538
+Nadolol	C0027302	Hypertensive disease	C0020538
+darifenacin	C0529351	Hypertensive disease	C0020538
+lercanidipine	C0526399	Hypertensive disease	C0020538
+Metoprolol	C0025859	Hypertensive disease	C0020538
+Minoxidil	C0026196	Hypertensive disease	C0020538
+carvedilol	C0054836	Hypertensive disease	C0020538
+Sotalol	C0037707	Hypertensive disease	C0020538
+Doxazosin	C0114873	Hypertensive disease	C0020538
+Vitamin D	C0042866	Hypertensive disease	C0020538
+nebivolol	C0068475	Hypertensive disease	C0020538
+Aldosterone	C0002006	Hypertensive disease	C0020538
+Atenolol	C0004147	Hypertensive disease	C0020538
+Terazosin	C0076107	Hypertensive disease	C0020538
+resveratrol	C0073096	Hypertensive disease	C0020538
+Bisoprolol	C0053799	Hypertensive disease	C0020538
+Labetalol	C0022860	Hypertensive disease	C0020538
+clopidogrel	C0070166	Hypertensive disease	C0020538
+Albuterol	C0001927	Severe malnutrition	C0311276
+Ephedrine	C0014479	Severe malnutrition	C0311276
+Dopamine Hydrochloride	C0282151	Primary disease	C0277554
+Pentoxifylline	C0030899	endothelial dysfunction	C0856169
+Genistein	C0061202	endothelial dysfunction	C0856169
+Nadolol	C0027302	Chronic Kidney Insufficiency	C0403447
+Allopurinol	C0002144	Chronic kidney disease stage 5	C2316810
+epalrestat	C0095278	Congenital Disorders	C0242354
+Glucose	C0017725	Congenital Disorders	C0242354
+Atropine	C0004259	Myopia	C0027092
+diazonaphthalenedisulfonic acid	C0057753	Respiration Disorders	C0035204
+Therapeutic brand of coal tar	C0723712	Cardiovascular Diseases	C0007222
+Propranolol	C0033497	Cardiovascular Diseases	C0007222
+Antihistamines	C0003360	Cardiovascular Diseases	C0007222
+Tetrahydrocannabinol	C0039663	Cardiovascular Diseases	C0007222
+Cannabinoids	C0006864	Cardiovascular Diseases	C0007222
+Marihuana	C0024808	Cardiovascular Diseases	C0007222
+Ethanol	C0001962	Cardiovascular Diseases	C0007222
+nitisinone	C0173083	Tyrosinemia, Type I	C0268490
+Ephedrine	C0014479	Myasthenic Syndromes, Congenital	C0751882
+DIAMINOPYRIDINE	C2345912	Myasthenic Syndromes, Congenital	C0751882
+Sugammadex	C1700695	Myasthenic Syndromes, Congenital	C0751882
+Albuterol	C0001927	Myasthenic Syndromes, Congenital	C0751882
+Cholinesterase Inhibitors	C0008425	Myasthenic Syndromes, Congenital	C0751882
+Cholinesterase Inhibitors	C0008425	Myasthenia Gravis	C0026896
+Pyridostigmine Bromide	C0034262	Myasthenia Gravis	C0026896
+Albuterol	C0001927	Myasthenia Gravis	C0026896
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	C0360714	Myasthenia Gravis	C0026896
+AM 2389	C2976633	STUVE-WIEDEMANN SYNDROME	C0796176
+Testosterone	C0039601	Hypogonadism	C0020619
+Ginkgo biloba extract 761	C0119187	Absence Epilepsy	C0014553
+Polysaccharides	C0032594	Cirrhosis	C1623038
+carvedilol	C0054836	Cirrhosis	C1623038
+Propranolol	C0033497	Cirrhosis	C1623038
+satavaptan	C2607958	Cirrhosis	C1623038
+4-(3-chlorophenylsulfanyl)piperidine hydrochloride	C0765956	Cirrhosis	C1623038
+pyridoxine	C0034272	Convulsions in the newborn	C0159020
+landiolol	C0905464	Critical Illness	C0010340
+Muscimol	C0026818	Cerebral Infarction	C0007785
+Metformin	C0025598	Hyperglycemia	C0020456
+Sulpiride	C0038803	Hyperglycemia	C0020456
+Bromocriptine	C0006230	Hyperglycemia	C0020456
+cabergoline	C0107994	Hyperglycemia	C0020456
+Histamine Antagonists	C0019590	Hyperglycemia	C0020456
+Dopamine Hydrochloride	C0282151	Hyperglycemia	C0020456
+Polysaccharides	C0032594	Hepatitis	C0019158
+pentamethylmelamine	C0070302	Congenital disorder of glycosylation type 1A	C0349653
+Aspirin	C0004057	Transient Ischemic Attack	C0007787
+clopidogrel	C0070166	Transient Ischemic Attack	C0007787
+Clozapine	C0009079	Sialorrhea	C0037036
+aripiprazole	C0299792	Sialorrhea	C0037036
+prasugrel	C1620287	Myocardial Infarction	C0027051
+Aspirin	C0004057	Myocardial Infarction	C0027051
+Marihuana	C0024808	Dermatologic disorders	C0037274
+Timolol	C0040233	Dermatologic disorders	C0037274
+Cannabinoids	C0006864	Dermatologic disorders	C0037274
+tegaserod	C0537147	Irritable Bowel Syndrome	C0022104
+Buspirone	C0006462	Irritable Bowel Syndrome	C0022104
+duloxetine	C0245561	Irritable Bowel Syndrome	C0022104
+Dopamine	C0013030	Irritable Bowel Syndrome	C0022104
+Paroxetine	C0070122	Strudwick syndrome	C0700635
+Mannose	C0024742	Blood Coagulation Disorders	C0005779
+duloxetine	C0245561	Overactive Bladder	C0878773
+Cannabinoids	C0006864	Overactive Bladder	C0878773
+Rotigotine	C1700683	Overactive Bladder	C0878773
+Cannabinoids	C0006864	Degenerative polyarthritis	C0029408
+MILK FAT	C0991850	Painful Bladder Syndrome	C1720830
+Acetone	C0001002	Painful Bladder Syndrome	C1720830
+DAPI	C0057142	Painful Bladder Syndrome	C1720830
+Octoxynol-9	C0133689	Painful Bladder Syndrome	C1720830
+Ethanol	C0001962	Painful Bladder Syndrome	C1720830
+Tromethamine	C0041175	Painful Bladder Syndrome	C1720830
+Triton X-100	C0146951	Painful Bladder Syndrome	C1720830
+paraform	C0070066	Painful Bladder Syndrome	C1720830
+Tweens	C0041420	Painful Bladder Syndrome	C1720830
+donepezil	C0527316	Osteoporosis with pseudoglioma	C0432252
+Budesonide	C0054201	Chronic Obstructive Airway Disease	C0024117
+Adrenal Cortex Hormones	C0001617	Chronic Obstructive Airway Disease	C0024117
+Propranolol	C0033497	Chronic Obstructive Airway Disease	C0024117
+Bisoprolol	C0053799	Chronic Obstructive Airway Disease	C0024117
+fluticasone	C0082607	Chronic Obstructive Airway Disease	C0024117
+Albuterol	C0001927	Chronic Obstructive Airway Disease	C0024117
+tiotropium	C0213771	Chronic Obstructive Airway Disease	C0024117
+aclidinium	C2699757	Chronic Obstructive Airway Disease	C0024117
+formoterol fumarate	C0771469	Chronic Obstructive Airway Disease	C0024117
+umeclidinium	C3661274	Chronic Obstructive Airway Disease	C0024117
+Roflumilast	C0965618	Chronic Obstructive Airway Disease	C0024117
+carvedilol	C0054836	Chronic Obstructive Airway Disease	C0024117
+Glycopyrrolate	C0017970	Chronic Obstructive Airway Disease	C0024117
+olodaterol	C2934193	Chronic Obstructive Airway Disease	C0024117
+aclidinium bromide	C2699758	Chronic Obstructive Airway Disease	C0024117
+formoterol	C0060657	Chronic Obstructive Airway Disease	C0024117
+Theophylline	C0039771	Chronic Obstructive Airway Disease	C0024117
+tiotropium bromide	C1306772	Chronic Obstructive Airway Disease	C0024117
+salmeterol	C0073992	Chronic Obstructive Airway Disease	C0024117
+Prednisone	C0032952	Chronic Obstructive Airway Disease	C0024117
+Korean ginseng preparation	C0873137	Coffin-Siris syndrome	C0265338
+Naloxone	C0027358	Hemodynamic instability	C0948268
+GTS 21	C0258259	Respiratory Distress Syndrome, Adult	C0035222
+Metoprolol	C0025859	Respiratory Distress Syndrome, Adult	C0035222
+dabigatran etexilate	C1571583	Atrial Fibrillation	C0004238
+Warfarin	C0043031	Atrial Fibrillation	C0004238
+Morphine	C0026549	Hypothyroidism	C0020676
+Marihuana	C0024808	Hypothyroidism	C0020676
+Spironolactone	C0037982	Heart failure	C0018801
+Theophylline	C0039771	Heart failure	C0018801
+valsartan	C0216784	Heart failure	C0018801
+Sotalol	C0037707	Heart failure	C0018801
+carvedilol	C0054836	Heart failure	C0018801
+ivabradine	C0257190	Heart failure	C0018801
+Epinephrine	C0014563	Heart failure	C0018801
+Metformin	C0025598	Heart failure	C0018801
+Dobutamine	C0012963	Heart failure	C0018801
+nebivolol	C0068475	Heart failure	C0018801
+Bisoprolol	C0053799	Heart failure	C0018801
+Bisoprolol	C0053799	Chronic heart failure	C0264716
+Cholinesterase Inhibitors	C0008425	Dementia, Vascular	C0011269
+varenicline	C1569608	Dyssomnias	C0700201
+Propranolol	C0033497	Dyssomnias	C0700201
+Nicotine	C0028040	Dyssomnias	C0700201
+Ranitidine	C0034665	Gastrointestinal Diseases	C0017178
+Marihuana	C0024808	Gastrointestinal Diseases	C0017178
+Sugammadex	C1700695	Observation of Neuromuscular Block	C0700323
+Neostigmine	C0027679	Observation of Neuromuscular Block	C0700323
+vortioxetine	C3661282	Sexual Dysfunction	C0549622
+lansoprazole	C0050940	Rheumatoid Arthritis	C0003873
+Adrenal Cortex Hormones	C0001617	Rheumatoid Arthritis	C0003873
+Thiazide Diuretics	C0012802	Psoriasis	C0033860
+Sodium Butyrate	C0142812	Colitis	C0009319
+Fluoxetine	C0016365	Colitis	C0009319
+Marihuana	C0024808	Headache Disorders	C0393735
+Sorbitol	C0037688	Diabetic Neuropathies	C0011882
+epalrestat	C0095278	Diabetic Neuropathies	C0011882
+Timolol Maleate	C0087093	Glaucoma	C0017601
+brimonidine	C0525227	Glaucoma	C0017601
+Prostaglandins, Synthetic	C0033568	Glaucoma	C0017601
+carboxyamido-triazole	C0064494	Glaucoma	C0017601
+Brimonidine tartrate	C0077768	Glaucoma	C0017601
+Carteolol	C0007299	Glaucoma	C0017601
+Timolol	C0040233	Glaucoma	C0017601
+duloxetine	C0245561	Urinary Stress Incontinence	C0042025
+rimonabant	C1142933	SVEINSSON CHORIORETINAL ATROPHY	C1862382
+Adrenal Cortex Hormones	C0001617	copd exacerbation	C0740304
+Budesonide / formoterol	C1276807	copd exacerbation	C0740304
+Methotrexate	C0025677	Urticaria	C0042109
+levocetirizine	C1174893	Urticaria	C0042109
+tofacitinib	C2930696	Urticaria	C0042109
+Antihistamines	C0003360	Influenza in Birds	C0016627
+silodosin	C1870115	Urologic Diseases	C0042075
+urapidil	C0077857	Urologic Diseases	C0042075
+tamsulosin	C0257343	Intraoperative floppy iris syndrome	C1688637
+Epinephrine	C0014563	Intraoperative floppy iris syndrome	C1688637
+Atropine	C0004259	Intraoperative floppy iris syndrome	C1688637
+Norepinephrine	C0028351	Inferior Wall Myocardial Infarction	C0340305
+Oxidopamine	C0085196	dopamine beta hydroxylase deficiency	C0342687
+prasugrel	C1620287	Acute Coronary Syndrome	C0948089
+clopidogrel	C0070166	Acute Coronary Syndrome	C0948089
+Fluvoxamine	C0085228	Severe Acute Respiratory Syndrome	C1175175
+ramosetron	C0526950	Complex Regional Pain Syndromes	C0458219
+Carbidopa	C0006982	Chronic inflammatory disorder	C1290886
+tamsulosin	C0257343	Priapism	C0033117
+Triptans	C1567966	cardiovascular risk factor	C0850624
+Metric	C0699680	Papillon-Lefevre Disease	C0030360
+Marihuana	C0024808	Endometriosis	C0014175
+quinagolide	C0256089	Endometriosis	C0014175
+Loratadine	C0065180	Gastric hemorrhage	C0235325
+Timolol	C0040233	Ocular Hypertension	C0028840
+brimonidine	C0525227	Ocular Hypertension	C0028840
+latanoprost	C0090306	Ocular Hypertension	C0028840
+Timolol	C0040233	Glaucoma, Primary Open Angle	C0339573
+brimonidine	C0525227	Glaucoma, Open-Angle	C0017612
+Paroxetine	C0070122	Functional Gastrointestinal Disorders	C0559031
+Pramipexole	C0074710	Hyperphenylalaninemia, Non-Phenylketonuric	C0751436
+Sapropterin dihydrochloride	C1996349	Classical phenylketonuria	C0751434
+Mediator brand of benfluorex hydrochloride	C0127400	Hyperphenylalaninaemia	C0751435
+Phosphonoacetic Acid	C0031681	Hyperphenylalaninaemia	C0751435
+Sapropterin dihydrochloride	C1996349	Hyperphenylalaninaemia	C0751435
+Trimethoprim-Sulfamethoxazole Combination	C0041044	Hyperphenylalaninaemia	C0751435
+Cerebrosides	C0007805	Hyperphenylalaninaemia	C0751435
+Gangliosides	C0017082	Hyperphenylalaninaemia	C0751435
+Dimethindene	C0012390	Dermatitis, Atopic	C0011615
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	Hashimoto Disease	C0677607
+Genistein	C0061202	Arteriosclerosis	C0003850
+Metoprolol	C0025859	Arteriosclerosis	C0003850
+mirabegron	C2983812	Arteriosclerosis	C0003850
+Nicotine	C0028040	Arteriosclerosis	C0003850
+Antihistamines	C0003360	Chronic urticaria	C0263338
+bepotastine besilate	C1723019	Chronic urticaria	C0263338
+levocetirizine	C1174893	Chronic urticaria	C0263338
+Antihistamines	C0003360	Allergic disposition	C3539909
+Bromocriptine	C0006230	Hyperprolactinemia	C0020514
+amsonic acid	C0051767	Hyperprolactinemia	C0020514
+cabergoline	C0107994	Hyperprolactinemia	C0020514
+Bromocriptine	C0006230	Galactorrhea	C3665358
+Albuterol	C0001927	airway disease	C0699949
+sildenafil	C0529793	Erectile dysfunction	C0242350
+yohimbine	C0724441	Erectile dysfunction	C0242350
+mirabegron	C2983812	Ureterolithiasis	C0041952
+silodosin	C1870115	Ureterolithiasis	C0041952
+naftopidil	C0083701	Ureterolithiasis	C0041952
+Memantine	C0025242	Horizontal dissociated gaze palsy	C0344247
+Losartan	C0126174	Chronic Kidney Diseases	C1561643
+mirabegron	C2983812	Chronic Kidney Diseases	C1561643
+Marihuana	C0024808	motor disorder	C0221163
+Anti-Histamine	C1961851	Cutaneous hypersensitivity	C0585186
+Suvorexant	C3179535	Chronic Insomnia	C0751249
+Trazodone	C0040805	Chronic Insomnia	C0751249
+mirabegron	C2983812	Nance-Horan syndrome	C0796085
+clopidogrel	C0070166	Coronary Arteriosclerosis	C0010054
+nebivolol	C0068475	Coronary Arteriosclerosis	C0010054
+Bisoprolol	C0053799	Coronary Arteriosclerosis	C0010054
+nebivolol	C0068475	Myocardial Ischemia	C0151744
+Bisoprolol	C0053799	Myocardial Ischemia	C0151744
+Albuterol	C0001927	Chronic lung disease	C0746102
+salmeterol	C0073992	Chronic lung disease	C0746102
+formoterol	C0060657	Chronic lung disease	C0746102
+Thiazide Diuretics	C0012802	cardiac event	C0741923
+prasugrel	C1620287	post mi	C0856742
+bilastine	C1101148	Allergic condition	C0851444
+Aspirin	C0004057	Arterial thrombosis	C0151942
+Butoxamine	C0006493	Periodontitis	C0031099
+Propranolol	C0033497	Chylous effusion	C0013691
+Lovastatin	C0024027	Adrenoleukodystrophy	C0162309
+Lorenzo's oil	C0212874	Adrenoleukodystrophy	C0162309
+Carbidopa	C0006982	Familial cold urticaria	C0343068
+rifaximin	C0073374	Hepatic Encephalopathy	C0019151
+Allopurinol	C0002144	Hepatic Encephalopathy	C0019151
+Clozapine	C0009079	Pneumocystis jiroveci pneumonia	C1535939
+Epinephrine	C0014563	Angioedemas, Hereditary	C0019243
+Histamine Antagonists	C0019590	Autonomic neuropathy	C0259749
+Procainamide	C0033216	Lupus Erythematosus, Systemic	C0024141
+cevimeline	C0093437	Sjogren's Syndrome	C1527336
+Albuterol	C0001927	Acute colitis	C2118460
+Domperidone	C0013015	Gastroparesis	C0152020
+Metoclopramide	C0025853	Gastroparesis	C0152020
+sepiapterin	C0074349	Fish-Eye Disease	C0342895
+Cholecalciferol	C0008318	Vitamin D Deficiency	C0042870
+acetamide	C0050423	Kidney Failure, Acute	C0022660
+Adrenal Cortex Hormones	C0001617	Recurrent disease	C0277556
+Anti-Histamine	C1961851	Recurrent disease	C0277556
+Raloxifene	C0244404	Severe visual impairment	C1301509
+cabergoline	C0107994	Ovarian Hyperstimulation Syndrome	C0085083
+Calcium Gluconate	C0006699	Ovarian Hyperstimulation Syndrome	C0085083
+Cetrotide	C0939290	Ovarian Hyperstimulation Syndrome	C0085083
+Metformin	C0025598	Ovarian Hyperstimulation Syndrome	C0085083
+mirabegron	C2983812	VITREORETINOPATHY, NEOVASCULAR INFLAMMATORY	C1860404
+landiolol	C0905464	Supraventricular tachycardia	C0039240
+landiolol	C0905464	Inappropriate sinus tachycardia	C1881170
+Citalopram	C0008845	Acute pancreatitis	C0001339
+Fluoxetine	C0016365	Acute pancreatitis	C0001339
+Antihistamines	C0003360	early pregnancy	C0747845
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	Melnick-Needles Syndrome	C0025237
+Antihistamines	C0003360	Motion Sickness	C0026603
+Brimonidine tartrate	C0077768	Ocular hyperemia	C0155169
+Adrenal Cortex Hormones	C0001617	Candidiasis	C0006840
+Albuterol	C0001927	Muscular Dystrophy, Facioscapulohumeral	C0238288
+Timolol	C0040233	Pyogenic granuloma	C0085653
+Morphine	C0026549	Hyperthyroidism	C0020550
+Marihuana	C0024808	Hyperthyroidism	C0020550
+bilastine	C1101148	Hypoplastic enamel-onycholysis-hypohidrosis syndrome	C0406735
+DIAMINOPYRIDINE	C2345912	Lambert-Eaton Myasthenic Syndrome	C0022972
+tempol	C0045283	Hypercholesterolemia	C0020443
+Fexofenadine hydrochloride	C0771752	Chronic idiopathic urticaria	C0578870
+landiolol	C0905464	Acute heart failure	C0264714
+Levosimendan	C0246904	Acute heart failure	C0264714
+valsartan	C0216784	Acute heart failure	C0264714
+Risperidone	C0073393	Male sexual dysfunction	C1112443
+Mediator brand of benfluorex hydrochloride	C0127400	Arthritis	C0003864
+glycocyamine	C0061626	Juvenile-Onset Vitelliform Macular Dystrophy	C2745945
+tandospirone	C0074676	Rett Syndrome	C0035372
+Allopurinol	C0002144	Polycystic Ovary Syndrome	C0032460
+Fexofenadine hydrochloride	C0771752	Hay fever	C0018621
+Adrenal Cortex Hormones	C0001617	Acute asthma	C0582415
+Cetirizine	C0055147	Acute urticaria	C0234935
+Epinephrine	C0014563	Aortic Valve Stenosis	C0003507
+yohimbine	C0724441	Atrioventricular conduction disorder	C1627362
+loteprednol etabonate	C0126177	Hypertensive emergency	C0745136
+Nicardipine	C0028005	Acute Cerebrovascular Accidents	C0751956
+Labetalol	C0022860	Acute Cerebrovascular Accidents	C0751956
+Amiodarone	C0002598	Sustained ventricular tachycardia	C0750197
+Thiazides	C0541746	Nephrolithiasis	C0392525
+Dimethyl Sulfoxide	C0012403	Hemoglobin H Disease	C3161174
+Versed	C0042553	Cataract, congenital, with microcornea or slight microphthalmia	C2930878
+Praziquantel	C0032911	Schistosomiasis	C0036323
+Vitamin A	C0042839	Stable angina	C0340288
+ivabradine	C0257190	Stable angina	C0340288
+Theophylline	C0039771	Thin basement membrane disease	C0403440
+Bicuculline	C0005372	DIARRHEA 5, WITH TUFTING ENTEROPATHY, CONGENITAL	C2750737
+Acetaminophen	C0000970	Akathisia, Tardive	C0162549
+Vitamin E	C0042874	Hepatic impairment	C0948807
+Melatonin	C0025219	Hepatic impairment	C0948807
+Ascorbic Acid	C0003968	Hepatic impairment	C0948807
+pitolisant	C3529928	Cataplexy	C0007384
+Cannabinoids	C0006864	Renal tubular acidosis	C0001126
+Tetrahydrocannabinol	C0039663	Chronic nonmalignant pain	C3662064
+Carbidopa	C0006982	Chronic nonmalignant pain	C3662064
+Mannose	C0024742	Protein-Losing Enteropathies	C0033680
+ivabradine	C0257190	Thyrotoxicosis	C0040156
+epalrestat	C0095278	Diabetic peripheral neuropathy	C0740447
+bilastine	C1101148	Toxic Shock Syndrome	C0600327
+Thiazides	C0541746	idiopathic hypercalciuria	C0543800
+Carbidopa	C0006982	Chronic arthritis	C0263680
+Naloxone	C0027358	Central nervous system depression (disorder)	C0151559
+Propranolol	C0033497	hyperthyroid symptom	C0745143
+Sodium Valproate	C0037567	Chronic headache disorder	C2316225
+Midazolam	C0026056	Seizures, Clonic	C0234535
+Pyridoxal Phosphate	C0034266	EPILEPSY, PYRIDOXINE-DEPENDENT	C1849508
+Pyridoxal Phosphate	C0034266	Hypophosphatasia	C0020630
+Vitamin B 12	C0042845	Cystathionine beta-Synthase Deficiency Disease	C0751202
+Docosahexaenoic Acids	C0012968	Peroxisomal Disorders	C0282528
+phenyl butyrate	C3848590	Peroxisomal Disorders	C0282528
+Lovastatin	C0024027	Peroxisomal Disorders	C0282528
+doconexent	C2348308	Peroxisomal Disorders	C0282528
+Ascorbate	C0178487	Sucrase-isomaltase deficiency, congenital	C1283620
+Levocarnitine	C0087163	Hypoglycemic episodes	C0745153
+Mannose	C0024742	Congenital disorder of glycosylation type 1B	C1865145
+Polysaccharides	C0032594	Hereditary fructose intolerance syndrome	C0016751
+Polysaccharides	C0032594	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Ii	C1842836
+Glucose	C0017725	Wasting	C0235394
+Lorenzo's oil	C0212874	Zellweger Syndrome	C0043459
+brinzolamide	C0673966	Macular Edema, Cystoid	C0024440
+Acetazolamide	C0000981	Macular Edema, Cystoid	C0024440
+diosmetin	C0114217	Disorder of vein	C0235522
+Prostaglandins	C0033554	Infantile Refsum Disease (disorder)	C0282527
+lamotrigine	C0064636	Non dystrophic myotonia	C1828221
+ranolazine	C0073633	Non dystrophic myotonia	C1828221
+Tocainide	C0085237	Myotonic Disorders	C0553604
+Phenytoin	C0031507	Myotonic Disorders	C0553604
+Mexiletine	C0025887	Myotonic Disorders	C0553604
+Disopyramide	C0012702	Myotonic Disorders	C0553604
+migalastat	C2698220	Fabry Disease	C0002986
+Choline	C0008405	Congenital Myotonic Dystrophy	C0410226
+Mediator brand of benfluorex hydrochloride	C0127400	Isaacs syndrome	C0242287
+pioglitazone	C0071097	Reactive hypoglycemia	C0271710
+Fluoxetine	C0016365	Myasthenic Syndromes, Congenital, Slow Channel	C0751885
+Diazepam	C0012010	Apneic attack	C0474454
+Methotrexate	C0025677	Juvenile arthritis	C3495559
+Hydroxocobalamin	C0020316	Cobalamin C disease	C0342723
+Carbamazepine	C0006949	Non-Convulsive Status Epilepticus	C0751523
+Benzodiazepines	C0005064	Non-Convulsive Status Epilepticus	C0751523
+Phenolsulfonphthalein	C0031430	Epidermolysis Bullosa Simplex Superficialis	C1843477
+cholesteryl sulfate	C0055565	Congenital ichthyosis	C0020758
+linezolid	C0663241	diabetic ulcer	C0743150
+Vitamins	C0042890	Selenium deficiency	C0238421

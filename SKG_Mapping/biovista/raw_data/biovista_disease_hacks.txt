@@ -1,0 +1,3 @@
+Must add hyphen to PYRIDOXINE DEPENDENT EPILEPSY -> PYRIDOXINE-DEPENDENT EPILEPSY
+
+Ended up using Grok to make the mapping, since it seems to know the rlationship, but was not able to sjhow me a path

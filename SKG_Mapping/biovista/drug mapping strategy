@@ -1,0 +1,53 @@
+Need to check the compound ID in the new biovista dataset!!!  This is from my original mappings
+
+Strip the C0 from the beginning of the name.. ugh!
+
+
+(base) osboxes@osboxes:~$ curl -X GET "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/79148" -H "Accept: application/json"
+
+
+Pubchem for a CID
+"urn": {
+            "label": "IUPAC Name",
+            "name": "Preferred",
+            "datatype": 1,
+            "version": "2.7.0",
+            "software": "Lexichem TK",
+            "source": "OpenEye Scientific Software",
+            "release": "2025.04.14"
+          },
+          "value": {
+            "sval": "butane-1,4-dithiol"
+          }
+        },
+
+
+
+PATH
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/xref/RegistryID/D019307/cids/JSON
+{
+  "IdentifierList": {
+    "CID": [
+      3542
+    ]
+  }
+}
+
+
+then 
+
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3542/JSON
+
+{
+          "urn": {
+            "label": "IUPAC Name",
+            "name": "Preferred",
+            "datatype": 1,
+            "version": "2.7.0",
+            "software": "Lexichem TK",
+            "source": "OpenEye Scientific Software",
+            "release": "2025.04.14"
+          },
+          "value": {
+            "sval": "5-(2-methylpiperazin-1-yl)sulfonylisoquinoline"
+          }

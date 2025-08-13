@@ -1,0 +1,146 @@
+﻿Gene	Gene_id	Pathway	Pathway_id
+ATXN3 gene	C1538301	macromolecule modification	C2752381
+ATXN3 gene	C1538301	Deubiquitination	C1157996
+ATXN3 gene	C1538301	chymotrypsin activity	C1150252
+BCL2 gene	C0376515	DNA Fragmentation	C0376669
+IMPACT gene	C1825598	Pulmonary function	C0231921
+IMPACT gene	C1825598	gonadotropin hormone-releasing hormone activity	C1149487
+IMPACT gene	C1825598	5-hydroxytryptamine uptake	C1621749
+IMPACT gene	C1825598	insulin activity	C1145751
+RENBP gene	C1419339	heart development	C1749797
+Alleles	C0002085	L-ascorbate oxidase activity	C1151319
+TP53 gene	C0079419	Deacetylation	C1511737
+TFEB gene	C1420699	Nuclear Translocation	C1518440
+CD5 gene	C1413227	chymotrypsin activity	C1150252
+Locus	C1708726	cofactor biosynthetic process	C1523208
+PARP1 gene	C1538577	Protein phosphorylation	C1158886
+APOE gene	C1412481	L-ascorbate oxidase activity	C1151319
+Homologous Gene	C1334043	lipid phosphatase activity	C1323635
+SIRT1 gene	C1423062	Deacetylation	C1511737
+SIRT1 gene	C1423062	deacetylase activity	C1149763
+SLC6A4 gene	C1420214	Palmitoylation	C0598435
+SLC6A4 gene	C1420214	5-hydroxytryptamine uptake	C1621749
+CST12P gene	C3539520	nucleotidase activity	C1149915
+PNKP gene	C1418707	ATM Signaling Pathway	C1510698
+P2RY13 gene	C1538559	phosphoglycerate dehydrogenase activity	C1151254
+MBNL1 gene	C1417055	protein activity	C1537044
+MBNL1 gene	C1417055	central nervous system function	C0683212
+MBNL1 gene	C1417055	Polyadenylation	C0949765
+MBNL1 gene	C1417055	Histone Deacetylation	C1156201
+MBNL1 gene	C1417055	ubiquitin-specific protease activity	C1150158
+GBA gene	C1414998	glucosylceramidase activity	C1149759
+CLOCK gene	C1413503	ERK1-2 Pathway	C3179231
+S100B gene	C1419790	Nervous System Physiological Phenomena	C0027767
+DMPK gene	C1414085	Cardiac conduction	C0232217
+DMPK gene	C1414085	Protein phosphorylation	C1158886
+CEBPD gene	C1413324	heart development	C1749797
+EIF4E wt Allele	C3539643	Proteasome Pathway	C1752727
+ECHS1 gene	C1414247	isoleucine metabolic process	C1156804
+ECHS1 gene	C1414247	valine catabolic process	C1156700
+COX15 gene	C1413632	Hydrophobic Interactions	C0678607
+COX15 gene	C1413632	heme binding	C1148616
+TACO1 gene	C1824568	cytochrome c oxidase activity	C1151057
+DLD gene	C1414063	pyruvate dehydrogenase (lipoamide) activity	C1151633
+SLC39A8 gene	C1427169	central nervous system function	C0683212
+SLC39A8 gene	C1427169	Bone Development	C0005939
+GCDH gene	C1415009	cofactor binding	C1323251
+GCDH gene	C1415009	benzoyl-CoA catabolic process	C3546982
+GCDH gene	C1415009	lysine metabolic process	C1156798
+NPTX2 gene	C1417813	ATP Hydrolysis	C1510699
+PRRT2 wt Allele	C3539645	protein stabilization	C1327386
+PRRT2 wt Allele	C3539645	Protein phosphorylation	C1158886
+NDUFB3 gene	C1417635	homocysteine metabolic process	C1327009
+LONP1 gene	C1825868	ATP Hydrolysis	C1510699
+CPT1A gene	C1413688	gamma-aminobutyric acid biosynthetic process	C1621915
+Tumor Suppressor Genes	C0079427	Wnt beta-Catenin Signaling Pathway	C3178960
+PET100 gene	C3541664	cytochrome c oxidase biogenesis	C1158940
+CCDC115 gene	C1824644	iron metabolism	C0596803
+P2RY12 gene	C1425330	G-protein coupled purinergic nucleotide receptor activity	C1152760
+LPAR3 wt Allele	C3812695	smooth muscle contraction	C1155937
+MAP3K5 gene	C1417014	JUN kinase activity	C1150587
+DRD1 gene	C1333250	cAMP-mediated signaling	C1155589
+BDNF gene	C1332408	biochemical mechanism	C0678659
+IRF6 wt Allele	C2697656	Tyrosine Phosphorylation	C1519726
+P2RX7 gene	C1418215	G-protein coupled purinergic nucleotide receptor activity	C1152760
+TBX4 wt Allele	C3813609	indole-3-glycerol-phosphate lyase activity	C2247518
+NPC2 gene	C1422736	cholesterol metabolism	C1156530
+ITM2B gene	C1416512	Proteolytic Processing	C1514570
+GLYAT gene	C1422172	Glycolysis/Gluconeogenesis Pathway	C1512230
+FNDC5 gene	C1426803	Cardiovascular Physiological Phenomena	C0007227
+GPR55 gene	C1415245	Adrenergic receptor function	C0544650
+CACNA1S gene	C1413064	Intracellular Signaling Process	C1516359
+ADORA2A gene	C1412246	DNA Fragmentation	C0376669
+CHPT1 wt Allele	C3539603	dolichol biosynthetic process	C1157360
+PLCB1 gene	C1423830	Adipogenesis	C0596843
+SLC27A1 gene	C1420163	Adipogenesis	C0596843
+WAS wt Allele	C1705616	Gene Regulatory Networks	C1720950
+CACNA1C gene	C1413057	Protein Kinase Protein Phosphorylation	C1514557
+HRH1 gene	C1439351	protein kinase C signaling	C2611302
+ASS1 gene	C1825092	Secondary Metabolism	C0260000
+TRPV2 gene	C1425290	channel activity	C1153410
+PRKCD gene	C1418916	glutathione peroxidase activity	C1151528
+TCF21 gene	C1420638	Adipogenesis	C0596843
+TACR1 gene	C1420565	lung development	C1160389
+NRSN2 gene	C1826472	Receptor Signaling	C1514762
+RORC gene	C1419603	Protein phosphorylation	C1158886
+HSD11B1 wt Allele	C3715113	protein galactosylation	C1159287
+Synthetic Genes	C0017374	Nervous System Physiological Phenomena	C0027767
+RAPGEF3 gene	C1424450	Receptor Signaling	C1514762
+SLC12A3 gene	C1420092	Receptor Signaling	C1514762
+SYNPR gene	C1424339	gamma-aminobutyric acid biosynthetic process	C1621915
+SLC6A11 gene	C1420208	gamma-aminobutyric acid biosynthetic process	C1621915
+SLC38A3 gene	C1442750	gamma-aminobutyric acid biosynthetic process	C1621915
+DDX6 gene	C0812257	ATP Hydrolysis	C1510699
+DDX6 gene	C0812257	Increased Protein Synthesis [PE]	C1372531
+RARRES2 gene	C1419274	AMPK activity	C3546468
+PTS gene	C1419129	tetrahydrobiopterin biosynthetic process	C1157041
+HMOX2 gene	C1415620	Carbohydrate Metabolism	C0302820
+LOR gene	C1416897	lysine catabolism	C1156685
+PDE5A gene	C1418424	Penile Erection	C0030847
+RAPGEF4 gene	C1424447	Receptor Signaling	C1514762
+GNE gene	C1428183	receptor function	C0920644
+MIXL1 gene	C1421951	SV40 T-antigen	C2243368
+SAMD4A gene	C1826968	Increased Protein Synthesis [PE]	C1372531
+HCAR1 gene	C1415263	Glycogenolysis	C0596624
+HCAR1 gene	C1415263	glycogen metabolic process	C0599784
+CDKL5 gene	C1420484	Inhibitory Postsynaptic Currents	C2350182
+CDKL5 gene	C1420484	Excitatory synaptic transmission	C0234107
+ALG14 gene	C1823173	protein activity	C1537044
+ALDH7A1 gene	C1412691	lysine catabolism	C1156685
+AASS gene	C1424938	lysine catabolism	C1156685
+SIRT5 gene	C1423065	lysine catabolism	C1156685
+NGLY1 gene	C1425023	proteasome complex disassembly	C3824143
+NGLY1 gene	C1425023	Endoplasmic Reticulum-Associated Degradation	C3178997
+NGLY1 gene	C1425023	erad	C1157980
+NGLY1 gene	C1425023	protein deglycosylation	C1157972
+MPI gene	C1417244	mannose biosynthetic process	C1156338
+PMM2 gene	C1418674	N-Glycan Biosynthesis Pathway	C0596625
+PMM2 gene	C1418674	molecular recognition	C0599844
+PMM2 gene	C1418674	phosphomannomutase activity	C1150368
+TMEM199 gene	C1425293	iron metabolism	C0596803
+ALG13 gene	C1823172	protein activity	C1537044
+PGM1 gene	C1418516	nucleotide-sugar biosynthetic process	C1157685
+ATP6AP2 gene	C1425435	V-ATPase assembly	C2610718
+MAN2C1 gene	C1416998	mannosidase activity	C1150076
+VMA21 gene	C2681112	V-ATPase assembly	C2610718
+MAGT1 gene	C2239666	protein disulfide isomerase activity	C1150347
+ATP2A1 gene	C1412637	Intracellular Signaling Process	C1516359
+ERN1 gene	C1414444	glycogen metabolic process	C0599784
+ERN1 gene	C1414444	Glycogenolysis	C0596624
+ALDH18A1 gene	C1538262	proline biosynthetic process	C1156627
+PEX2 gene	C1419149	Bile Acid Biosynthesis Pathway	C1157403
+PEX3 gene	C1418477	Membrane Protein Traffic	C1513112
+SRSF1 gene	C1419989	ion binding	C1752728
+MBNL2 gene	C1424516	Nuclear Translocation	C1518440
+HSPB2 gene	C1415768	autophosphorylation	C0813988
+HSPB2 gene	C1415768	kinase activity	C1150423
+Oncogenes	C0029016	Wnt beta-Catenin Signaling Pathway	C3178960
+PMS2 gene	C0879391	ATP Hydrolysis	C1510699
+CELF2 gene	C1413825	thymus development	C1655797
+GPNMB gene	C1415205	Dephosphorylation	C3160734
+REXO1L1P gene	C1826799	protein disulfide isomerase activity	C1150347
+PDSS1 gene	C1843919	Ubiquinone Biosynthesis Pathway	C1157248
+EHD1 gene	C1414318	Membrane Fusion	C0025246
+EHD3 gene	C1414320	Membrane Fusion	C0025246
+FGF19 gene	C1414603	Bile Acid Biosynthesis Pathway	C1157403
+FAH gene	C1414525	neurotransmitter biosynthesis	C0597062

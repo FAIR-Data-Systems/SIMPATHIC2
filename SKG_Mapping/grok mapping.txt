@@ -1,0 +1,204 @@
+RADBOUD
+Disease-Therapeutic
+DOID/HP/MONDO/  --> EFO/MONDO/OTAR
+DOID_7551,https://api.disease-ontology.org/v1/terms/DOID_7551,gonorrhea,EFO_0005741,http://www.ebi.ac.uk/efo/EFO_0005741,infectious disease
+
+
+DiseaseID
+DOID/HP/MONDO --> label
+radboudid,guid,label
+DOID_7551,https://api.disease-ontology.org/v1/terms/DOID_7551,gonorrhea
+
+
+Drug-Disease
+CHEMBL - HPO/DOID/MONDO, etc.
+radboudsource,sourceguid,sourcelabel,radboudtarget,targetguid,targetlabel
+CHEMBL1200656,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200656,NATAMYCIN,EFO_1001888,http://www.ebi.ac.uk/efo/EFO_1001888,eye infection
+I totally get wanting to keep your ontology woes brief and not derail the embedding fun—let’s make this quick and targeted!  You’re dealing with two data sources: one using ChEBI identifiers for molecules, and another with descriptive strings that you can map to ChEMBL or MeSH identifiers, but you need to bridge these to ChEBI identifiers to align your semantic knowledge graphs (SKGs). This is a common challenge in cheminformatics due to the fragmented identifier landscape, especially with your biologists’ messy use of terms (like HPO for diseases—yikes!). Below, I’ll outline a practical path to map ChEMBL and MeSH to ChEBI identifiers, leveraging available tools and databases, while keeping it concise. I’ve also considered recent cheminformatics resources to ensure robust mappings.
+
+Mapping ChEMBL and MeSH to ChEBI: The Path
+ChEBI, ChEMBL, and MeSH use different identifier systems, but there are tools and databases that facilitate cross-mapping, primarily through chemical structures (e.g., InChI, InChIKey) or direct ID mappings. Here’s how to navigate:
+1. Mapping ChEMBL to ChEBI
+ChEMBL and ChEBI are closely linked, as ChEMBL often assigns ChEBI IDs to its compounds and integrates with PubChem, which connects to ChEBI.
+
+Primary Method: UniChem:
+Tool: UniChem (https://www.ebi.ac.uk/unichem/) is a free, web-based service for mapping chemical identifiers across databases, including ChEMBL to ChEBI.
+
+How:
+Input your ChEMBL IDs (e.g., CHEMBL25 for aspirin) into UniChem’s web interface or API.
+
+Select “ChEMBL” as the source and “ChEBI” as the target.
+
+UniChem uses Standard InChI to map structures, returning corresponding ChEBI IDs (e.g., CHEBI:15365 for aspirin).
+
+Batch processing supports up to thousands of IDs.
+
+Why It Works: ChEMBL is a PubChem submission source, and ChEBI-to-PubChem links are reciprocal. UniChem maintains up-to-date mappings (updated every ~3 months for ChEMBL).
+
+API Example:
+python
+
+from bioservices import UniChem
+uni = UniChem()
+mapping = uni.get_mapping("chembl", "chebi")
+chembl_id = "CHEMBL25"
+chebi_id = mapping.get(chembl_id)  # Returns CHEBI:15365
+
+ 
+
+Limitations: Some ChEMBL compounds (e.g., non-small molecules like antibodies) may lack ChEBI IDs.
+
+Alternative: ChEMBL Interface:
+Use the ChEMBL web interface (https://www.ebi.ac.uk/chembl/) “Advanced Search” to input a list of ChEMBL IDs and retrieve associated ChEBI IDs directly. Supports up to 200k IDs.
+
+How: Go to Advanced Search > Upload ChEMBL IDs > Download results with ChEBI mappings.
+
+Why: ChEMBL curates ChEBI IDs for many compounds, especially small molecules.
+
+Fallback: PubChem:
+If UniChem misses mappings, query PubChem (https://pubchem.ncbi.nlm.nih.gov/) with ChEMBL IDs to get PubChem CIDs, then retrieve ChEBI IDs from PubChem’s cross-references.
+
+How: Use PubChem’s Identifier Exchange Service (https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi) or API.
+
+Why: ChEMBL and ChEBI are PubChem sources, with reciprocal SID/CID links.
+
+2. Mapping MeSH to ChEBI
+MeSH (Medical Subject Headings) is trickier, as it’s a controlled vocabulary for biomedical concepts, not strictly chemical structures, and direct MeSH-to-ChEBI mappings are sparse (covering only ~14.4% of ChEBI). Here’s how to bridge them:
+
+Primary Method: PubChem Identifier Exchange:
+Tool: PubChem’s Identifier Exchange Service (https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi).
+
+How:
+Convert your descriptive strings to MeSH IDs (e.g., D000082 for aspirin).
+
+Input MeSH IDs into the Identifier Exchange Service, selecting “MeSH” as the source and “ChEBI” as the target.
+
+Retrieve ChEBI IDs (e.g., CHEBI:15365 for aspirin).
+
+Batch processing is supported via the web interface or PUG-REST API.
+
+Why: PubChem includes MeSH-to-PubChem CID mappings and ChEBI cross-references, acting as a bridge.
+
+API Example:
+bash
+
+curl -X POST "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/D000082/xrefs/RegistryID/JSON" \
+-H "Content-Type: application/json" \
+-d '{"name":"D000082"}'
+
+Parse the response for ChEBI IDs under “RegistryID” (e.g., CHEBI:15365).
+
+Limitations: Coverage is limited; many MeSH terms (e.g., broad concepts or non-small molecules) lack ChEBI equivalents.
+
+Alternative: Chemical Translation Service (CTS):
+Tool: CTS (http://cts.fiehnlab.ucdavis.edu/) for batch conversion of chemical identifiers.
+
+How:
+Input MeSH IDs or descriptive strings (if resolvable to MeSH).
+
+Select “MeSH” or “Name” as input and “ChEBI” as output.
+
+Download results as CSV/XLS with ChEBI mappings.
+
+Why: CTS supports MeSH, ChEBI, and other IDs, using InChI/InChIKey for structure-based mapping. It’s user-friendly for biologists and handles batch conversions.
+
+Limitations: Descriptive strings may need preprocessing to resolve to MeSH IDs accurately.
+
+Enhanced Mapping with PubMedBERT:
+For incomplete MeSH-to-ChEBI mappings, use a hybrid approach combining PubMedBERT with ChEBI ontology, as described in recent research.
+
+How:
+Use a dictionary-based method to map descriptive strings to MeSH IDs.
+
+Apply an ontology-enhanced PubMedBERT model to disambiguate and link MeSH to ChEBI, improving coverage by ~47.1% over BioPortal.
+
+Implementation: Requires coding (e.g., Python with Hugging Face Transformers) and access to ChEBI/PubChem data. Contact chembl-help@ebi.ac.uk for guidance on integrating PubMedBERT.
+
+Why: This method leverages NLP to handle ambiguous MeSH terms, ideal for your SKG alignment needs.
+
+3. Handling Descriptive Strings
+Since your second source uses descriptive strings mapped to ChEMBL or MeSH, you’ll need to resolve these first:
+To ChEMBL:
+Use ChEMBL’s web interface or API to search for strings (e.g., “aspirin”) and retrieve ChEMBL IDs (e.g., CHEMBL25).
+
+Then map to ChEBI via UniChem or ChEMBL Interface (see above).
+
+To MeSH:
+Query PubChem or CTS with strings to get MeSH IDs (e.g., “aspirin” → D000082).
+
+Map to ChEBI using PubChem or CTS.
+
+Tip: Standardize strings (e.g., replace Greek letters with English, like “alpha” for α) to improve matching.
+
+4. Practical Workflow
+Step 1: Split your second source’s descriptive strings into two sets: those mapping to ChEMBL IDs and those to MeSH IDs.
+
+Step 2: For ChEMBL IDs:
+Use UniChem (web or API) to batch convert to ChEBI IDs.
+
+Fallback: ChEMBL Interface or PubChem.
+
+Step 3: For MeSH IDs:
+Use PubChem Identifier Exchange (web or API) for batch conversion to ChEBI IDs.
+
+Alternative: CTS for simpler batch processing.
+
+Advanced: Implement PubMedBERT for better coverage if needed.
+
+Step 4: Merge results with your ChEBI-based source, ensuring consistent URIs in your SKG.
+
+Tools:
+UniChem: Best for ChEMBL-to-ChEBI, batch-friendly.
+
+PubChem: Versatile for MeSH-to-ChEBI and string resolution.
+
+CTS: User-friendly for both, handles strings.
+
+PubMedBERT: Advanced for MeSH gaps, requires coding.
+
+5. Tips for Your SKG
+Validate Mappings: Check InChI/InChIKeys to ensure structural equivalence, as identifiers can be ambiguous (e.g., “floxuridine” differs between ChEBI and ChEMBL).
+
+Handle Gaps: If MeSH-to-ChEBI mappings are missing, use PubChem CIDs as an intermediate step or consult ChEBI’s ontology for related terms.
+
+Automate: Script the process with Python (e.g., bioservices for UniChem, PUG-REST for PubChem) to handle large datasets.
+
+Contact EBI: For complex cases, email chembl-help@ebi.ac.uk or chebi-help@ebi.ac.uk for expert advice.
+
+Expected Outcome
+ChEMBL-to-ChEBI: High success rate (>90% for small molecules) via UniChem or ChEMBL Interface.
+
+MeSH-to-ChEBI: Moderate success (~50–60% due to limited coverage), improved with PubMedBERT or CTS.
+
+SKG Alignment: Unified ChEBI-based terminology for your merged SKG, despite those biologists’ messy HPO misuse! 
+
+If you share a sample ChEMBL/MeSH ID or descriptive string, I can test a mapping for you. Otherwise, use UniChem for ChEMBL and PubChem/CTS for MeSH, and you’ll align those SKGs like a pro. Back to your embedding—excited for your results! 
+
+
+
+Drug-Drugtype
+radboudsource,sourceguid,sourcelabel,targettype
+radboudsource,sourceguid,sourcelabel,targettype
+CHEMBL1200656,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200656,NATAMYCIN,http://rdf.ebi.ac.uk/terms/chembl#SmallMolecule
+
+
+Drug-Gene
+CHEMBL -> ENSG
+radboudsource,sourceguid,target,targetguid
+CHEMBL1201746,http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1201746,ENSG00000228716,http://purl.uniprot.org/uniprot/P40238
+
+
+Gene-Uniprot
+ENSG - UP
+source,ensembl,opentargets,uniprot,taxon,prefname
+DOID_7551,ENSG00000058085,http://purl.uniprot.org/opentargets/ENSG00000010810,http://purl.uniprot.org/uniprot/P06241,http://purl.uniprot.org/taxonomy/9606,Tyrosine-protein kinase Fyn
+
+
+
+
+
+
+
+
+BIOVISTA
+

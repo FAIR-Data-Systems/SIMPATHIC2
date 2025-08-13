@@ -1,0 +1,11 @@
+
+<% @questions.each_key do |classid| %>
+
+<owl:Class rdf:about="<%= @prefix %><%= classid %>">
+<rdfs:subClassOf rdf:resource="<%= @prefix %><%= @questionnairetype %>"/>
+<dc:description ><%= @questions[classid] %></dc:description>
+<dc:identifier>adc:<%= classid %></dc:identifier>
+<rdfs:label><%= @questions[classid] %></rdfs:label>
+</owl:Class>
+
+<% end %>

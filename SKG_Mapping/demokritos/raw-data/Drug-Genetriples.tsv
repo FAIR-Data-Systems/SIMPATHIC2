@@ -1,0 +1,739 @@
+﻿Drug	Drug_id	Gene	Gene_id
+Dopamine Hydrochloride	C0282151	UCP1 gene	C1421313
+Dopamine Hydrochloride	C0282151	PPARA gene	C1418776
+Dopamine Hydrochloride	C0282151	PPP1R12A gene	C1417581
+Dopamine Hydrochloride	C0282151	NLRP1 wt Allele	C3538756
+Dopamine Hydrochloride	C0282151	SLC6A3 wt Allele	C3813713
+Dopamine Hydrochloride	C0282151	CFP gene	C1418482
+Dopamine Hydrochloride	C0282151	IMPACT gene	C1825598
+Dopamine Hydrochloride	C0282151	DRD1 gene	C1333250
+Dopamine Hydrochloride	C0282151	ATXN3 gene	C1538301
+Dopamine Hydrochloride	C0282151	SLC18A2 gene	C1420115
+Dopamine Hydrochloride	C0282151	ATXN2L gene	C1538300
+Dopamine	C0013030	CFP gene	C1418482
+Dopamine	C0013030	NLRP1 wt Allele	C3538756
+Dopamine	C0013030	Wild Type	C1883559
+Dopamine	C0013030	TPH1 gene	C1420870
+Dopamine	C0013030	NGLY1 gene	C1425023
+Dopamine	C0013030	SMAD5-AS1 gene	C2239937
+Dopamine	C0013030	OPN4 gene	C1422657
+Dopamine	C0013030	SLC6A3 wt Allele	C3813713
+Dopamine	C0013030	GRIA1 gene	C1415287
+Dopamine	C0013030	TMEM173 gene	C1823437
+Dopamine	C0013030	GRIN2A gene	C1415299
+Dopamine	C0013030	GRIN2B gene	C1415300
+Dopamine	C0013030	SLC6A4 gene	C1420214
+Dopamine	C0013030	CRH gene	C1366488
+Dopamine	C0013030	CAMKK1 gene	C1413104
+Dopamine	C0013030	GSK3B gene	C1415321
+Dopamine	C0013030	XIAP gene	C1337109
+Dopamine	C0013030	CYP2D6 gene	C1332830
+Dopamine	C0013030	LPO gene	C1416903
+Dopamine	C0013030	DDC gene	C1413943
+Choline	C0008405	SLC5A7 gene	C1422359
+Trehalose	C0040815	DSC3 gene	C1414158
+coenzyme Q10	C0056077	COQ2 gene	C1824776
+coenzyme Q10	C0056077	ETFDH gene	C1414473
+coenzyme Q10	C0056077	GTF2H1 gene	C1333723
+1-cyclohexyl-3-(2-(4-morpholinyl)ethyl)carbodiimide tosylate	C0110177	DMPK gene	C1414085
+Mediator brand of benfluorex hydrochloride	C0127400	RBFOX2 gene	C1419304
+Mediator brand of benfluorex hydrochloride	C0127400	PHEX gene	C1418526
+Mediator brand of benfluorex hydrochloride	C0127400	PEX13 gene	C1418474
+Mediator brand of benfluorex hydrochloride	C0127400	MAOB gene	C1417002
+Mediator brand of benfluorex hydrochloride	C0127400	CFP gene	C1418482
+Mediator brand of benfluorex hydrochloride	C0127400	BIN1 gene	C1332412
+Mediator brand of benfluorex hydrochloride	C0127400	MTCH2 gene	C1425005
+Mediator brand of benfluorex hydrochloride	C0127400	MTCH1 gene	C1425004
+Mediator brand of benfluorex hydrochloride	C0127400	SLC13A3 gene	C1422640
+Mediator brand of benfluorex hydrochloride	C0127400	SLC29A1 gene	C1420171
+Mediator brand of benfluorex hydrochloride	C0127400	MBNL1 gene	C1417055
+Mediator brand of benfluorex hydrochloride	C0127400	SLC14A2 gene	C1420099
+Mediator brand of benfluorex hydrochloride	C0127400	PPARGC1A gene	C1418779
+Mediator brand of benfluorex hydrochloride	C0127400	CELF1 gene	C1413824
+Mediator brand of benfluorex hydrochloride	C0127400	CLCN1 gene	C1413450
+Mediator brand of benfluorex hydrochloride	C0127400	PRRT2 wt Allele	C3539645
+Mediator brand of benfluorex hydrochloride	C0127400	EPGN gene	C1825057
+Mediator brand of benfluorex hydrochloride	C0127400	CHRM1 gene	C1332758
+Mediator brand of benfluorex hydrochloride	C0127400	PACS2 gene	C1538564
+Mediator brand of benfluorex hydrochloride	C0127400	CEBPD gene	C1413324
+Mediator brand of benfluorex hydrochloride	C0127400	SMO gene	C1364142
+Mediator brand of benfluorex hydrochloride	C0127400	PRKCD gene	C1418916
+Mediator brand of benfluorex hydrochloride	C0127400	CNR1 gene	C1413554
+Mediator brand of benfluorex hydrochloride	C0127400	MYOD1 gene	C1417574
+Mediator brand of benfluorex hydrochloride	C0127400	CYBB gene	C1413844
+Mediator brand of benfluorex hydrochloride	C0127400	ATXN3 gene	C1538301
+Mediator brand of benfluorex hydrochloride	C0127400	MYOG gene	C1417575
+Mediator brand of benfluorex hydrochloride	C0127400	TP53 gene	C0079419
+Mediator brand of benfluorex hydrochloride	C0127400	UBQLN2 gene	C1421305
+Ethanol	C0001962	CFP gene	C1418482
+Ethanol	C0001962	NLRP1 wt Allele	C3538756
+Ethanol	C0001962	SLC6A9 gene	C1420220
+Ethanol	C0001962	CNR2 gene	C1413555
+Ethanol	C0001962	NELFCD gene	C1423842
+Ethanol	C0001962	GARS gene	C1414988
+Ethanol	C0001962	MYO5A gene	C1417565
+Ethanol	C0001962	TSPO gene	C1823521
+3,4-Methylenedioxyamphetamine	C0000379	TMEM258 gene	C3540116
+3,4-Methylenedioxyamphetamine	C0000379	DAD1 gene	C1413900
+3,4-Methylenedioxyamphetamine	C0000379	PSMD1 gene	C1419027
+3,4-Methylenedioxyamphetamine	C0000379	OST4 gene	C2829972
+3,4-Methylenedioxyamphetamine	C0000379	SLC33A1 gene	C1412113
+3,4-Methylenedioxyamphetamine	C0000379	DDOST gene	C1413949
+3,4-Methylenedioxyamphetamine	C0000379	PRB1 gene	C1418866
+3,4-Methylenedioxyamphetamine	C0000379	FBXL20 gene	C1539487
+Therapeutic brand of coal tar	C0723712	IMPACT gene	C1825598
+Therapeutic brand of coal tar	C0723712	SAMD4A gene	C1826968
+Valproate	C0080356	SIRT1 gene	C1423062
+resveratrol	C0073096	SIRT1 gene	C1423062
+resveratrol	C0073096	SYK gene	C1335892
+rivastigmine	C0649350	IMPACT gene	C1825598
+antineoplaston A10	C0052080	LHFPL5 gene	C1427457
+Citalopram	C0008845	PTS gene	C1419129
+Citalopram	C0008845	PPARGC1B gene	C1428918
+Citalopram	C0008845	BAI3 gene	C1332376
+Citalopram	C0008845	PSEN1 gene	C1418985
+daidzein	C0057090	ATXN3 gene	C1538301
+Disulfiram	C0012772	ATXN3 gene	C1538301
+Ryanodine	C0035983	TLX2 gene	C1415651
+varenicline	C1569608	BAX gene	C0812198
+varenicline	C1569608	NLRP1 wt Allele	C3538756
+Chloroquine	C0008269	SQSTM1 gene	C1420393
+Chloroquine	C0008269	MBNL1 gene	C1417055
+Acetylcholine	C0001041	Enzyme Gene	C1333402
+Acetylcholine	C0001041	IMPACT gene	C1825598
+Acetylcholine	C0001041	LPAR3 wt Allele	C3812695
+Acetylcholine	C0001041	NLRP1 wt Allele	C3538756
+aripiprazole	C0299792	BRD1 gene	C1412820
+aripiprazole	C0299792	SRI gene	C1420401
+Valproic Acid	C0042291	PEX2 gene	C1419149
+licochalcone A	C0125821	PPARGC1A gene	C1418779
+licochalcone A	C0125821	SOD2 gene	C1420307
+licochalcone A	C0125821	Candidate Disease Gene	C1332838
+licochalcone A	C0125821	CYCS gene	C1426584
+Docusate	C1692318	Regulon	C0206522
+Dithiothreitol	C0012789	ELF4 gene	C1414377
+Dithiothreitol	C0012789	LOR gene	C1416897
+Dithiothreitol	C0012789	SLC35G5 gene	C3469830
+Dithiothreitol	C0012789	EIF2S1 wt Allele	C3539639
+Dithiothreitol	C0012789	MAGT1 gene	C2239666
+Hoechst 33258	C0878435	MBNL1 gene	C1417055
+Vitamin K 3	C0025270	GCDH gene	C1415009
+Glucose	C0017725	Genes, Microbial	C3658343
+Glucose	C0017725	PPARA gene	C1418776
+Glucose	C0017725	UCP1 gene	C1421313
+Glucose	C0017725	AMD1 wt Allele	C3539530
+Glucose	C0017725	AKR1A1 wt Allele	C3715044
+Glucose	C0017725	GMPPA gene	C1539585
+Glucose	C0017725	Alleles	C0002085
+Glucose	C0017725	NGLY1 gene	C1425023
+Glucose	C0017725	PMM2 gene	C1418674
+Glucose	C0017725	CTF1 gene	C1332801
+Glucose	C0017725	ATXN3 gene	C1538301
+Glucose	C0017725	NDUFS8 gene	C1417651
+Glucose	C0017725	GFPT1 gene	C1415046
+Glucose	C0017725	C7orf49 gene	C1824234
+Morphine	C0026549	IMPACT gene	C1825598
+Morphine	C0026549	HCRTR1 gene	C1415501
+Morphine	C0026549	CNR1 gene	C1413554
+Morphine	C0026549	MGLL gene	C1442515
+Diazepam	C0012010	SRGN gene	C1418888
+Diazepam	C0012010	SLC12A2 gene	C1420091
+Lactate	C0376261	NDUFS4 gene	C1417647
+Lactate	C0376261	SURF1 gene	C1420527
+Lactate	C0376261	MTSS1 gene	C1426941
+Lactate	C0376261	PDK1 wt Allele	C3541424
+Lactate	C0376261	MTCP1 gene	C1334535
+Lactate	C0376261	PDHA1 gene	C1418437
+Lactate	C0376261	FATE1 gene	C1539479
+Polyethylene Glycols	C0032483	PMM2 gene	C1418674
+Fluoxetine	C0016365	DOK7 gene	C1824957
+Fluoxetine	C0016365	SLC6A4 gene	C1420214
+Fluoxetine	C0016365	TMBIM4 gene	C1823290
+Fluoxetine	C0016365	Wild Type	C1883559
+Fluoxetine	C0016365	SRI gene	C1420401
+Fluoxetine	C0016365	PENK gene	C1418457
+Dimethyl Sulfoxide	C0012403	TSPO gene	C1823521
+Dimethyl Sulfoxide	C0012403	CASC3 gene	C1424704
+Dimethyl Sulfoxide	C0012403	HCRTR2 gene	C1415502
+Dimethyl Sulfoxide	C0012403	HCRTR1 gene	C1415501
+Dimethyl Sulfoxide	C0012403	Transgenes	C0282641
+Dimethyl Sulfoxide	C0012403	Alleles	C0002085
+Dimethyl Sulfoxide	C0012403	DPPA3 gene	C1426084
+Glycerin	C0017861	TSPO gene	C1823521
+trimethyloxamine	C0077194	FMO3 gene	C1414645
+potassium oxonate	C0393003	SLC6A3 wt Allele	C3813713
+Norepinephrine	C0028351	PINK1 gene	C1422771
+Norepinephrine	C0028351	GRIA1 gene	C1415287
+Norepinephrine	C0028351	LPO gene	C1416903
+Ethidium Bromide	C0019873	CLCN1 gene	C1413450
+Ethidium Bromide	C0019873	NGLY1 gene	C1425023
+Biogenic Amines	C0005496	LIN7A gene	C1425075
+Folate	C0178638	NDUFB3 gene	C1417635
+Folate	C0178638	MUT gene	C1417504
+Folate	C0178638	NLRP1 wt Allele	C3538756
+Urea	C0041942	PMM2 gene	C1418674
+Urea	C0041942	Wild Type	C1883559
+Clofibrate	C0009002	NDUFS4 gene	C1417647
+Megestrol	C0025175	MT-ND5 gene	C1537994
+Sugars	C0242209	ERN1 gene	C1414444
+Ubiquinone	C0041536	Wild Type	C1883559
+Blood lactate	C3824990	NDUFS4 gene	C1417647
+Blood lactate	C3824990	HNRNPD wt Allele	C3540626
+Polysaccharides	C0032594	MAN1B1 gene	C1416994
+Polysaccharides	C0032594	NGLY1 gene	C1425023
+Polysaccharides	C0032594	ALG1 gene	C1425428
+Polysaccharides	C0032594	ELF4 gene	C1414377
+Polysaccharides	C0032594	PGM1 gene	C1418516
+Polysaccharides	C0032594	PMM2 gene	C1418674
+Polysaccharides	C0032594	MGAT2 gene	C1417134
+Polysaccharides	C0032594	GYPA gene	C1367455
+Polysaccharides	C0032594	MAN2A2 gene	C1416996
+Polysaccharides	C0032594	TMEM199 gene	C1425293
+Polysaccharides	C0032594	CCDC115 gene	C1824644
+Polysaccharides	C0032594	DDOST gene	C1413949
+Polysaccharides	C0032594	MPI gene	C1417244
+Polysaccharides	C0032594	VWF gene	C1336938
+Polysaccharides	C0032594	GORAB gene	C1822658
+Polysaccharides	C0032594	FBXO2 gene	C1422076
+Polysaccharides	C0032594	GTPBP1 gene	C1415351
+Polysaccharides	C0032594	FBXO6 gene	C1422080
+Polysaccharides	C0032594	NLRP3 gene	C1424250
+Polysaccharides	C0032594	MAA gene	C1416953
+Polysaccharides	C0032594	PDCD6 gene	C1418406
+Polysaccharides	C0032594	DHDDS gene	C1427027
+Polysaccharides	C0032594	NFE2L1 gene	C1417700
+Polysaccharides	C0032594	EAF2 gene	C1427926
+Polysaccharides	C0032594	LEMD3 gene	C1537562
+Polysaccharides	C0032594	SLC35A2 gene	C1420188
+Polysaccharides	C0032594	KCNMA1 gene	C1416602
+Thioctic Acid	C0023791	LIPT1 gene	C1428876
+Biotin	C0005575	SLC19A3 gene	C1424138
+Flunarizine	C0016295	TSC22D3 wt Allele	C3539618
+Lactic acid	C0064582	PYCR1 gene	C1419152
+Lactic acid	C0064582	ALDH18A1 gene	C1538262
+Succinic Acid	C0075429	NDUFS4 gene	C1417647
+Scopolamine	C0036442	SAA4 gene	C1419802
+Scopolamine	C0036442	CFP gene	C1418482
+Scopolamine	C0036442	STX2 gene	C1823140
+Adrenal Cortex Hormones	C0001617	NEUROD1 gene	C1417683
+Adrenal Cortex Hormones	C0001617	NBL1 gene	C0919442
+Propranolol	C0033497	CYP2D6 gene	C1332830
+Propranolol	C0033497	CASP3 gene	C1413132
+Isoflurane	C0022180	NDUFS4 gene	C1417647
+perampanel	C2698764	PTEN gene	C0694888
+olanzapine	C0171023	CDK9 gene	C1413290
+olanzapine	C0171023	SRI gene	C1420401
+Organic acids, Gynecological	C3541407	GCDH gene	C1415009
+pentamethylmelamine	C0070302	PMM2 gene	C1418674
+pentamethylmelamine	C0070302	Alleles	C0002085
+Sucrose	C0038636	DSG1 gene	C1414168
+Sucrose	C0038636	TSPO gene	C1823521
+Formaldehyde	C0016564	DMPK gene	C1414085
+Formaldehyde	C0016564	TSPO gene	C1823521
+Formaldehyde	C0016564	SAMD4A gene	C1826968
+Formaldehyde	C0016564	LGALS4 gene	C1416832
+Ketamine	C0022614	NLRP3 gene	C1424250
+Ketamine	C0022614	S100A10 wt Allele	C3538774
+Ketamine	C0022614	DRD1 gene	C1333250
+Midazolam	C0026056	ETM2 gene	C1414475
+Midazolam	C0026056	BCHE gene	C1412756
+Bupropion	C0085208	FXYD1 gene	C1414874
+Pramipexole	C0074710	DRD3 gene	C1414148
+Aspirin	C0004057	P2RY12 gene	C1425330
+Aspirin	C0004057	IMPACT gene	C1825598
+Aspirin	C0004057	CALD1 wt Allele	C3813548
+Memantine	C0025242	GRIN2C gene	C1415301
+Memantine	C0025242	PISD gene	C1418591
+Cannabidiol	C0006863	DRD2 gene	C1333253
+Carbidopa	C0006982	CBS gene	C1439329
+Carbidopa	C0006982	DSE gene	C1427359
+Carbidopa	C0006982	HCRTR1 gene	C1415501
+Carbidopa	C0006982	STRA13 gene	C1420488
+Carbidopa	C0006982	CSN2 gene	C1384512
+Carbidopa	C0006982	CNR1 gene	C1413554
+Carbidopa	C0006982	CNR2 gene	C1413555
+Carbidopa	C0006982	S1PR3 gene	C1414255
+Carbidopa	C0006982	CAV2 wt Allele	C1707075
+MK-801	C0813872	HCRTR2 gene	C1415502
+MK-801	C0813872	IMPACT gene	C1825598
+Glycopyrrolate	C0017970	LAMA1 gene	C1416775
+Sorbitol	C0037688	PMM2 gene	C1418674
+TCS OX2 29	C3492123	HCRTR1 gene	C1415501
+TCS OX2 29	C3492123	HCRTR2 gene	C1415502
+TCS OX2 29	C3492123	OXR1 gene	C1423755
+Carbachol	C0006945	MSN gene	C1417371
+Nicotine	C0028040	LHB gene	C1416842
+Nicotine	C0028040	P2RY1 gene	C1418217
+amsonic acid	C0051767	DRD2 wt Allele	C1707622
+Metoprolol	C0025859	TP53 gene	C0079419
+Metoprolol	C0025859	IFNAR1 wt Allele	C1708407
+Metoprolol	C0025859	ACE gene	C1413931
+Metoprolol	C0025859	HMOX1 gene	C1415619
+mirabegron	C2983812	AGTR1 gene	C1439284
+mirabegron	C2983812	SLC12A1 gene	C1420090
+mirabegron	C2983812	AQP2 gene	C1412492
+mirabegron	C2983812	ADRB1 gene	C1439273
+mirabegron	C2983812	EEF1B2P2 gene	C1414290
+Paclitaxel	C0144576	AKR1A1 wt Allele	C3715044
+Paclitaxel	C0144576	ABCB1 gene	C0376622
+Quinpirole	C0072892	DIO2 gene	C1414052
+Quinpirole	C0072892	DRD2 gene	C1333253
+donepezil	C0527316	STAT3 gene	C1367307
+donepezil	C0527316	NLRP3 gene	C1424250
+donepezil	C0527316	HIF1A wt Allele	C1704838
+donepezil	C0527316	CFP gene	C1418482
+donepezil	C0527316	ARHGAP9 gene	C1422424
+donepezil	C0527316	SNX33 gene	C1822710
+donepezil	C0527316	PRKCG gene	C1418919
+Muscimol	C0026818	SLC12A5 gene	C1422213
+alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid	C0051318	GCDH gene	C1415009
+Benzodiazepines	C0005064	HCRTR2 gene	C1415502
+Benzodiazepines	C0005064	TSPO gene	C1823521
+Epoprostenol	C0033567	PTGIS gene	C1419071
+Isoproterenol	C0022245	CREB1 gene	C1413702
+Isoproterenol	C0022245	PRKACA gene	C1418901
+Isoproterenol	C0022245	ALPL gene	C1412364
+Isoproterenol	C0022245	PDE4A gene	C1418420
+Isoproterenol	C0022245	RUNX2 gene	C1419771
+1,3-dipropyl-8-cyclopentylxanthine	C0088321	ADRB1 gene	C1439273
+SCH 58261	C0387956	SNAP25 gene	C1420270
+SCH 58261	C0387956	SLC17A6 gene	C1424492
+CGS 21680	C0055233	GABRQ gene	C1422662
+Antihistamines	C0003360	HCRTR2 gene	C1415502
+Antihistamines	C0003360	TRPV2 gene	C1425290
+Antihistamines	C0003360	Cancer-predisposing genes	C0919453
+Anti-Histamine	C1961851	TLR4 gene	C1336636
+Anti-Histamine	C1961851	IL13 gene	C1334103
+azelastine	C0052762	ACE2 gene	C1422064
+Sepranolone	C0376202	CFP gene	C1418482
+Sepranolone	C0376202	OLFM1 gene	C1424808
+Sepranolone	C0376202	TLR4 gene	C1336636
+Dihydrotestosterone	C0038148	SRD5A1 gene	C1420395
+Solifenacin	C1099677	EEF1B2P2 gene	C1414290
+Solifenacin	C1099677	AES gene	C1412268
+dalfampridine	C0000477	MSN gene	C1417371
+dalfampridine	C0000477	HMI gene	C1415618
+Sertraline	C0074393	HTR2B gene	C1415810
+Sertraline	C0074393	TRIT1 gene	C1426839
+cabergoline	C0107994	KDR gene	C1334306
+cabergoline	C0107994	PTP4A3 gene	C1419090
+Cannabinoids	C0006864	SYNGAP1 gene	C1420546
+Cannabinoids	C0006864	SMAD5-AS1 gene	C2239937
+Cannabinoids	C0006864	CNR2 gene	C1413555
+Cannabinoids	C0006864	CNR1 gene	C1413554
+Cannabinoids	C0006864	GPR55 gene	C1415245
+Cannabinoids	C0006864	ANLN gene	C1422396
+Cannabinoids	C0006864	FATE1 gene	C1539479
+Cannabinoids	C0006864	MGLL gene	C1442515
+Cannabinoids	C0006864	TRIM32 gene	C1424232
+indole	C0021236	HSF1 gene	C1415749
+Amphetamine	C0002658	IMPACT gene	C1825598
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	CFP gene	C1418482
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	HTR2A gene	C1415809
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	GRIA1 gene	C1415287
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	GRIA2 gene	C1415288
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	SGCA gene	C1420005
+Tetrahydrocannabinol	C0039663	CFP gene	C1418482
+Tetrahydrocannabinol	C0039663	UBA7 gene	C1421270
+Tetrahydrocannabinol	C0039663	CSN2 gene	C1384512
+Tetrahydrocannabinol	C0039663	CNR1 gene	C1413554
+Tetrahydrocannabinol	C0039663	MEF2C gene	C1417102
+Tetrahydrocannabinol	C0039663	CNR2 gene	C1413555
+Tetrahydrocannabinol	C0039663	ANLN gene	C1422396
+Tetrahydrocannabinol	C0039663	SBDS gene	C1426244
+Marihuana	C0024808	CFP gene	C1418482
+Marihuana	C0024808	CEL gene	C1413336
+Marihuana	C0024808	TCFL5 gene	C1420648
+Marihuana	C0024808	ANLN gene	C1422396
+Marihuana	C0024808	SULT1E1 wt Allele	C3811127
+Marihuana	C0024808	GPER1 gene	C1415223
+Marihuana	C0024808	IMPACT gene	C1825598
+Marihuana	C0024808	CNR2 gene	C1413555
+Marihuana	C0024808	CNR1 gene	C1413554
+Marihuana	C0024808	DNPH1 gene	C1427424
+Psilocybine	C0033850	IMPACT gene	C1825598
+Dexmedetomidine	C0113293	MALAT1 gene	C1537647
+Escitalopram	C1099456	CYP2C19 gene	C1332828
+Escitalopram	C1099456	PPARGC1B gene	C1428918
+Escitalopram	C1099456	CYP2D6 gene	C1332830
+Escitalopram	C1099456	SLC6A4 gene	C1420214
+Escitalopram	C1099456	NMU gene	C1334887
+Escitalopram	C1099456	SNORD50A gene	C1822955
+Escitalopram	C1099456	RAB3D gene	C1419208
+Escitalopram	C1099456	GRM2 gene	C1415306
+Escitalopram	C1099456	SAT1 wt Allele	C1705827
+Escitalopram	C1099456	GAD1 gene	C1414925
+Cholinesterase Inhibitors	C0008425	HTR6 gene	C1415815
+Cholinesterase Inhibitors	C0008425	BACE1 gene	C1412727
+Cholinesterase Inhibitors	C0008425	RAB3D gene	C1419208
+Hydrocortisone	C0020268	GTS gene	C1415353
+Hydrocortisone	C0020268	STX2 gene	C1823140
+Hydrocortisone	C0020268	PMM2 gene	C1418674
+temozolomide	C0076080	SRL gene	C1420403
+Imipramine	C0020934	GRM5 gene	C1333712
+Phenylephrine	C0031469	IMPACT gene	C1825598
+Methyl Methanesulfonate	C0025706	MYH6 gene	C1417541
+Paroxetine	C0070122	PRB1 gene	C1418866
+Paroxetine	C0070122	NLRP1 wt Allele	C3538756
+Paroxetine	C0070122	KCNA3 gene	C1416546
+Paroxetine	C0070122	CYP2D6 gene	C1332830
+Paroxetine	C0070122	FNDC5 gene	C1426803
+Metoclopramide	C0025853	HTR4 gene	C1415813
+clopidogrel	C0070166	CALD1 wt Allele	C3813548
+clopidogrel	C0070166	CYP2C19 gene	C1332828
+clopidogrel	C0070166	P2RY12 gene	C1425330
+prasugrel	C1620287	CALD1 wt Allele	C3813548
+prasugrel	C1620287	P2RY12 gene	C1425330
+prasugrel	C1620287	F2R gene	C1366449
+8-Hydroxy-2-(di-n-propylamino)tetralin	C0050079	ETM2 gene	C1414475
+fostriecin	C0118175	CFP gene	C1418482
+fostriecin	C0118175	TST gene	C1421210
+fostriecin	C0118175	STX2 gene	C1823140
+Progesterone	C0033308	HSD17B4 gene	C1415740
+Trazodone	C0040805	HCRTR2 gene	C1415502
+Sugammadex	C1700695	PPCS gene	C1826654
+Sugammadex	C1700695	TBX4 wt Allele	C3813609
+Corticosterone	C0010124	CFP gene	C1418482
+Corticosterone	C0010124	PENK gene	C1418457
+Curcumin	C0010467	CNR1 gene	C1413554
+Almorexant	C1871407	HCRTR1 gene	C1415501
+lurasidone	C2003424	HTR7 gene	C1415816
+lurasidone	C2003424	TRIM32 gene	C1424232
+Agomelatine	C0971637	NOTCH1 gene	C1334889
+Agomelatine	C0971637	GAD1 gene	C1414925
+Mirtazapine	C0049506	HCRTR2 gene	C1415502
+formoterol	C0060657	EGR1 gene	C1414314
+formoterol	C0060657	ROCK1 gene	C1335631
+formoterol	C0060657	RHOA gene	C0812234
+Chitosan	C0162969	CFP gene	C1418482
+Albuterol	C0001927	DOK7 gene	C1824957
+Albuterol	C0001927	COLQ gene	C1413603
+Albuterol	C0001927	NPY4R gene	C1418858
+Albuterol	C0001927	SLC12A3 gene	C1420092
+Albuterol	C0001927	LAMA1 gene	C1416775
+quetiapine	C0123091	CDK9 gene	C1413290
+Haloperidol	C0018546	FTH1 gene	C1414833
+Pimozide	C0031935	EGR1 gene	C1414314
+Sulpiride	C0038803	NLRP1 wt Allele	C3538756
+Sulpiride	C0038803	IMPACT gene	C1825598
+Sulpiride	C0038803	DRD2 gene	C1333253
+Tiapride	C0040180	IFNG gene	C1334085
+Tiapride	C0040180	ACACA wt Allele	C3541413
+carvedilol	C0054836	EVL gene	C1426797
+carvedilol	C0054836	CYP2D6 gene	C1332830
+carvedilol	C0054836	SAG gene	C1419805
+Tramadol	C0040610	CD200 gene	C1540289
+Opioids	C0242402	MGLL gene	C1442515
+tamsulosin	C0257343	CYP2D6 gene	C1332830
+Suvorexant	C3179535	HCRTR2 gene	C1415502
+Pyridostigmine	C0034261	SLC3A1 gene	C1420191
+Pyridostigmine	C0034261	PREPL gene	C1538715
+Phenolics	C0359916	STX2 gene	C1823140
+Pentazocine	C0030873	OPRK1 gene	C1417963
+Oxidopamine	C0085196	ATOX1 gene	C1412627
+Oxidopamine	C0085196	ATP7A gene	C1412688
+paraform	C0070066	TSPO gene	C1823521
+paraform	C0070066	MBNL1 gene	C1417055
+paraform	C0070066	PFDN5 gene	C1418486
+paraform	C0070066	NGLY1 gene	C1425023
+Quercetin	C0034392	SYK gene	C1335892
+Berberine	C0005117	NDUFS8 gene	C1417651
+Levobunolol	C0006388	KRT3 gene	C1416740
+Fluvoxamine	C0085228	TMBIM4 gene	C1823290
+Methanol	C0001963	NEB gene	C1417656
+Ellagic Acid	C0013900	BACE1 gene	C1412727
+fesoterodine	C2343853	AES gene	C1412268
+fasudil	C0062068	ROCK2 gene	C1419598
+Hydroxymethylglutaryl-CoA Reductase Inhibitors	C0360714	FOXM1 gene	C1414685
+Pregnenolone	C0373704	FDXR gene	C1414575
+Pregnenolone	C0373704	DPPA3 gene	C1426084
+Pregnenolone	C0373704	CNR1 gene	C1413554
+paxilline	C0083955	MMP2 gene	C1334522
+Guanabenz	C0018312	AXIN2 gene	C1332126
+2,5-dichloro-4-bromophenol	C0045550	PRRT2 wt Allele	C3539645
+Methylphenidate	C0025810	SPTA1 gene	C1420385
+Methylphenidate	C0025810	CFP gene	C1418482
+Methylphenidate	C0025810	SLC6A4 gene	C1420214
+ICI 118551	C0063278	PRKD1 gene	C1538716
+Monoamine Oxidase Inhibitors	C0026457	EPR1 gene	C1414436
+Testosterone	C0039601	TAC3 gene	C1420564
+Pyridostigmine Bromide	C0034262	Alleles	C0002085
+BA 2	C0658102	CFP gene	C1418482
+Colforsin	C0917964	ASIC1 gene	C1412115
+Colforsin	C0917964	KCNE1 gene	C1416563
+Clomipramine	C0009010	CYP2C19 gene	C1332828
+Ritanserin	C0085260	PAX6 gene	C1418276
+Ritanserin	C0085260	DGKA gene	C1414029
+compound 17	C0605315	HTR6 gene	C1415815
+Famotidine	C0015620	GSDMD gene	C1539620
+decynium 22	C0220596	SLC29A4 gene	C1427914
+lorcaserin	C2350948	NLRP1 wt Allele	C3538756
+lorcaserin	C2350948	IMPACT gene	C1825598
+Pimavanserin	C1722267	TRIM32 gene	C1424232
+aaptamine	C0623266	DRD4 gene	C1333254
+NS398	C1567346	GRM5 gene	C1333712
+Acetazolamide	C0000981	PMM2 gene	C1418674
+Acetazolamide	C0000981	UHMK1 gene	C1540160
+WAY 100635	C0290799	TRIM32 gene	C1424232
+Cortisone	C0010137	IDO1 gene	C1416433
+Pulmonary Surfactants	C0034085	TPPP3 gene	C2240116
+Dihematoporphyrin Ether	C0058031	ELF4 gene	C1414377
+1,2-diacylglycerol	C0043791	TRPC6 gene	C1421173
+Pyridoxal Phosphate	C0034266	GAD1 gene	C1414925
+Pyridoxal Phosphate	C0034266	PNPO gene	C1538689
+tolterodine	C0388753	AES gene	C1412268
+aprepitant	C1176306	B3GAT1 gene	C1412716
+aprepitant	C1176306	SLC6A3 wt Allele	C3813713
+rimonabant	C1142933	NPS gene	C1836075
+rimonabant	C1142933	CNR1 gene	C1413554
+rimonabant	C1142933	GTF2H1 gene	C1333723
+rimonabant	C1142933	CNR2 gene	C1413555
+Ephedrine	C0014479	COLQ gene	C1413603
+Kainate	C0205812	GCDH gene	C1415009
+Kainate	C0205812	KARS gene	C1416540
+oxybutynin	C0069805	AES gene	C1412268
+ranolazine	C0073633	SCN5A gene	C1419864
+vilazodone	C1530072	SLC6A4 gene	C1420214
+Dextromethorphan	C0011816	Wild Type	C1883559
+Bromocriptine	C0006230	MAPK11 gene	C1366875
+Bromocriptine	C0006230	MAPK12 gene	C1366897
+Bromocriptine	C0006230	MAPK13 gene	C1366898
+Bromocriptine	C0006230	STAT3 gene	C1367307
+Prostaglandins	C0033554	ATP7B gene	C1412689
+SCH 23390	C0080138	NLRP1 wt Allele	C3538756
+SCH 23390	C0080138	GRIN2B gene	C1415300
+SCH 23390	C0080138	GRIN2A gene	C1415299
+SCH 23390	C0080138	IMPACT gene	C1825598
+Estrogens	C0014939	MSN gene	C1417371
+Estrogens	C0014939	IMPACT gene	C1825598
+Estrogens	C0014939	NDUFS8 gene	C1417651
+Estrogens	C0014939	CYP1A2 gene	C1332826
+Estrogens	C0014939	MYC gene	C0086661
+Estrogens	C0014939	GPER1 gene	C1415223
+Pyrilamine	C0034282	SCN9A gene	C1419867
+Thienopyridines	C2936588	P2RY1 gene	C1418217
+vortioxetine	C3661282	HTR7 gene	C1415816
+Pilocarpine	C0031923	GRIK2 gene	C1415294
+Pirenzepine	C0031978	Neomycin resistance gene	C1366752
+Amantadine	C0002403	TST gene	C1421210
+LY 294002	C0251991	RAP1B gene	C1419266
+LY 294002	C0251991	P2RY1 gene	C1418217
+maltose tetrapalmitate	C0065610	BCL2 gene	C0376515
+SB-334867	C1097132	HCRTR1 gene	C1415501
+ramelteon	C1565316	HCRTR2 gene	C1415502
+JTE 907	C0965044	GPR55 gene	C1415245
+JTE 907	C0965044	CNR2 gene	C1413555
+Sumatriptan	C0075632	VIPR2 gene	C1421452
+Sumatriptan	C0075632	GNAI1 gene	C1415142
+HU 210	C0526470	CNR1 gene	C1413554
+Pregnanolone	C0033008	UNC13A gene	C1427949
+Estradiol	C0014912	AP5B1 gene	C3280555
+Estradiol	C0014912	SLC5A7 gene	C1422359
+Estradiol	C0014912	SLC18A3 gene	C1420116
+Phenethylamines	C0031399	MAOB gene	C1417002
+Aversion	C2825146	LHB gene	C1416842
+Aversion	C2825146	CNR1 gene	C1413554
+DAPI	C0057142	GCLC wt Allele	C1704697
+DAPI	C0057142	LGALS4 gene	C1416832
+roscovitine	C0536217	CDK5 gene	C1332735
+Metformin	C0025598	ELF4 gene	C1414377
+Metformin	C0025598	NGLY1 gene	C1425023
+Metformin	C0025598	ZNF77 gene	C1421834
+prucalopride	C0913506	TAC1 gene	C1420563
+ganaxolone	C0537150	TYRO3 wt Allele	C1705701
+Thiazides	C0541746	RAPH1 gene	C1422646
+promegapoietin	C0678075	PEX19 gene	C1419147
+promegapoietin	C0678075	PEX16 gene	C1418476
+promegapoietin	C0678075	PEX2 gene	C1419149
+promegapoietin	C0678075	Wild Type	C1883559
+promegapoietin	C0678075	IMPACT gene	C1825598
+promegapoietin	C0678075	ALYREF gene	C1425988
+promegapoietin	C0678075	PHEX gene	C1418526
+chelerythrine	C0055278	PRRT2 wt Allele	C3539645
+Oats preparation	C0939905	STX2 gene	C1823140
+Loratadine	C0065180	TRPV2 gene	C1425290
+Loratadine	C0065180	JUN gene	C0162508
+O,O-diisopropyl-S-benzylthiophosphate	C0064368	P2RX7 gene	C1418215
+Terbutaline	C0039542	FAM64A gene	C1825121
+Black and White	C1609177	PHEX gene	C1418526
+Isoflavones	C0022179	CNR1 gene	C1413554
+Genistein	C0061202	CNR1 gene	C1413554
+umeclidinium	C3661274	LAMA1 gene	C1416775
+Buspirone	C0006462	MVD gene	C1417507
+Product base	C0360301	SLC22A2 gene	C1420137
+Product base	C0360301	SLCO1B1 gene	C1420131
+Product base	C0360301	SLCO1B3 gene	C1420132
+Product base	C0360301	SLC47A1 gene	C1853262
+Product base	C0360301	SLC47A2 gene	C1853261
+Product base	C0360301	SLC22A6 gene	C1420141
+Product base	C0360301	ABCB11 gene	C1412070
+desloratadine	C0908935	HRH1 gene	C1439351
+CGP 55845	C0250350	Wild Type	C1883559
+Heroin	C0011892	IGSF6 gene	C1416375
+Phentolamine	C0031448	IMPACT gene	C1825598
+Phentolamine	C0031448	PTMS gene	C1419086
+Phentolamine	C0031448	SLC1A2 gene	C1420120
+Anti-Diarrheal	C0718565	CNR1 gene	C1413554
+Oxycodone	C0030049	B3GAT1 gene	C1412716
+thienopyridine	C1120149	P2RY12 gene	C1425330
+preladenant	C2698875	CPB2 gene	C1413666
+Ovarian hormone	C0729511	GPER1 gene	C1415223
+Ovarian hormone	C0729511	TP63 gene	C1422009
+Cotinine	C0010194	NLRP1 wt Allele	C3538756
+Cisatracurium	C1096766	AQP5 gene	C1412495
+Cisatracurium	C1096766	CACNA1C gene	C1413057
+Pyrimethamine	C0034283	SLC47A2 gene	C1853261
+Pyrimethamine	C0034283	SLC47A1 gene	C1853262
+amthamine	C0171368	SHH gene	C1335824
+Dimaprit	C0058185	SHH gene	C1335824
+Methaqualone	C0025627	TBX4 wt Allele	C3813609
+Methaqualone	C0025627	MAOB gene	C1417002
+darifenacin	C0529351	AES gene	C1412268
+Astemizole	C0085170	TRPV2 gene	C1425290
+clemizole	C0008931	TRPV2 gene	C1425290
+propiverine	C0138666	AES gene	C1412268
+geraniol	C0061223	ELAVL2 gene	C1414372
+Methylatropine nitrate	C0128170	NTSR1 gene	C1417870
+Tetrabenazine	C0039623	SLC18A2 gene	C1420115
+rupatadine	C0534301	CLU gene	C1413514
+4-diphenylacetoxy-1,1-dimethylpiperidinium	C0048255	TLR4 gene	C1336636
+tiagabine	C0068897	SLC6A1 gene	C1420206
+catharanthine	C0054863	TPM3 wt Allele	C3273659
+Tetradecanoylphorbol Acetate	C0039654	PRRT2 wt Allele	C3539645
+Lorazepam	C0024002	SRSF6 gene	C1419997
+Dutasteride	C0754659	LMOD1 gene	C1416886
+tadalafil	C1176316	SLC27A4 wt Allele	C3811063
+Levamisole	C0023556	Wild Type	C1883559
+SK&F 81297	C0084563	GRIN2B gene	C1415300
+SK&F 81297	C0084563	GRIN2A gene	C1415299
+Moxidectin	C0163557	ABCB1 gene	C0376622
+abamectin	C0066646	NES gene	C1417679
+Alprazolam	C0002333	CTSL1 wt Allele	C1707163
+Terpineol	C0348029	CNR1 gene	C1413554
+Rauwolscine	C0242546	NPY6R gene	C1417819
+Rauwolscine	C0242546	NPY4R gene	C1418858
+Four-Way	C0720523	PMM2 gene	C1418674
+Sodium Tetradecyl Sulfate	C0037556	GTS gene	C1415353
+Sodium Tetradecyl Sulfate	C0037556	SLC5A7 gene	C1422359
+Mannose	C0024742	ICAM1 gene	C1334074
+Mannose	C0024742	LAMP1 gene	C1416788
+Mannose	C0024742	SLC35C1 gene	C1426768
+Mannose	C0024742	AKR1A1 wt Allele	C3715044
+Mannose	C0024742	PMM2 gene	C1418674
+Mannose	C0024742	CD14 gene	C1367477
+Mannose	C0024742	ALG12 gene	C1426190
+Mannose	C0024742	SMAD5-AS1 gene	C2239937
+Mannose	C0024742	MPI gene	C1417244
+JWH-133	C0968642	CNR2 gene	C1413555
+JNJ 7777120	C1456750	HRH1 gene	C1439351
+JNJ 7777120	C1456750	HRH4 gene	C1424950
+Brivaracetam	C1699861	SV2A gene	C1427005
+imidafenacin	C1876226	AES gene	C1412268
+Carbonyl Cyanide p-Trifluoromethoxyphenylhydrazone	C0007044	MNT gene	C1417222
+Dehydroascorbic Acid	C0011177	CHAF1A wt Allele	C3812373
+sildenafil	C0529793	ITGB3 gene	C1416498
+CGP 36216	C0971841	LHB gene	C1416842
+Liver Extract	C0023899	GCDH gene	C1415009
+Metronidazole	C0025872	IMPACT gene	C1825598
+Metronidazole	C0025872	ETHE1 gene	C1428025
+Edetic Acid	C0013618	SULT1E1 gene	C1420459
+Edetic Acid	C0013618	TSPO gene	C1823521
+ethylene diurea	C0059804	ASAH1 wt Allele	C3539770
+Losartan	C0126174	ACE gene	C1413931
+Cinnarizine	C0008803	TSC22D3 wt Allele	C3539618
+Dimenhydrinate	C0012381	KCNA5 gene	C1416548
+rosuvastatin	C0965129	HMOX1 gene	C1415619
+Vorinostat	C0672708	DMPK gene	C1414085
+Vorinostat	C0672708	ATP2A1 gene	C1412637
+Vorinostat	C0672708	MBNL1 gene	C1417055
+Tromethamine	C0041175	TSPO gene	C1823521
+Tromethamine	C0041175	SLC6A3 wt Allele	C3813713
+Tromethamine	C0041175	SLC6A4 gene	C1420214
+Keppra	C0876060	SV2A gene	C1427005
+tempol	C0045283	EIF4E wt Allele	C3539643
+flesinoxan	C0060454	HTR1A gene	C1415803
+5-Trimethoxyamphetamine	C0301363	PYROXD2 gene	C1428119
+Docosahexaenoic Acids	C0012968	PHEX gene	C1418526
+SK&F 96365	C0142554	TRPM4 gene	C1425223
+YM 58483	C1456443	PDE5A wt Allele	C2987167
+dapagliflozin	C2353951	IMPACT gene	C1825598
+asiatic acid	C0081660	PPARGC1A gene	C1418779
+asiatic acid	C0081660	SIRT2 wt Allele	C3539783
+Tween 20	C0041415	SLC33A1 gene	C1412113
+Primidone	C0033148	TRPM3 gene	C1425222
+Etodolac	C0059865	IRF1 gene	C1366516
+Vitamin B 12	C0042845	MMACHC gene	C1826260
+Retinoids	C0035339	DPPA3 gene	C1426084
+9-phenanthrol	C0292873	TRPM4 gene	C1425223
+short-acting benzodiazepines	C0682884	HCRTR2 gene	C1415502
+N(G)-iminoethylornithine	C0083535	ARHGAP35 gene	C1415304
+pyridoxine	C0034272	PNPO gene	C1538689
+pyridoxine	C0034272	ALDH7A1 gene	C1412691
+Nicorandil	C0068700	CALD1 wt Allele	C3813548
+BRL 44408	C0107190	NLRP1 wt Allele	C3538756
+Agar	C0001771	SLC5A8 gene	C1426025
+dolutegravir	C3253985	MAOB gene	C1417002
+Isopropyl Alcohol	C0022237	NEB gene	C1417656
+sesamol	C0074406	PISD gene	C1418591
+BPS	C2740858	EEF1B2P2 gene	C1414290
+bortezomib	C1176309	NGLY1 gene	C1425023
+bortezomib	C1176309	Wild Type	C1883559
+1-(2-(4-(4-fluoro-benzoyl)-piperidin-1-yl)-ethyl)-3,3-dimethyl-1,2-dihydro-indol-2-one	C1566043	TRIM32 gene	C1424232
+tripterine	C0084866	PMM2 gene	C1418674
+Amiloride	C0002502	P2RX7 gene	C1418215
+syringin	C0075710	STS gene	C1420490
+3-(2-cyano-3-(trifluoromethyl)phenoxy)phenyl-4,4,4-trifluoro-1-butanesulfonate	C1567066	CNR1 gene	C1413554
+SR 57227A	C0219736	CFP gene	C1418482
+Busulfan	C0006463	MBNL1 gene	C1417055
+atglistatin	C3713362	PNPLA2 gene	C1538686
+letrozole	C0246421	IMPACT gene	C1825598
+doconexent	C2348308	PEX2 gene	C1419149
+nalfurafine	C2825264	HCRTR1 gene	C1415501
+latanoprost	C0090306	ACTC1 gene	C1825843
+indiplon	C1173066	GSK3B gene	C1415321
+Proscillaridin	C0033513	IMPACT gene	C1825598
+prolinedithiocarbamate	C0084183	ADORA2B gene	C1412247
+glutaric acid	C0061506	AASS gene	C1424938
+glutaric acid	C0061506	TBATA gene	C1428114
+glutaric acid	C0061506	GCDH gene	C1415009
+epalrestat	C0095278	PMM2 gene	C1418674
+Cholic Acid	C0055568	AKR1D1 gene	C1412328
+Cholic Acid	C0055568	HSD3B7 gene	C1425449
+Cholic Acid	C0055568	PEX2 gene	C1419149
+Chenodeoxycholic Acid	C0008024	NR1H4 gene	C1417825
+Chenodeoxycholic Acid	C0008024	AKR1D1 gene	C1412328
+Chenodeoxycholic Acid	C0008024	HSD3B7 gene	C1425449
+Chenodeoxycholic Acid	C0008024	PEX2 gene	C1419149
+Triton X-100	C0146951	TSPO gene	C1823521
+Triton X-100	C0146951	DSG1 gene	C1414168
+17-alpha-Hydroxyprogesterone	C0045010	DYM gene	C1539322
+tideglusib	C3273375	GSK3B gene	C1415321
+Pentamidine	C0030863	MBNL1 gene	C1417055
+Calcitriol	C0006674	MBNL1 gene	C1417055
+Notuss	C0722157	LGALS4 gene	C1416832
+Phenylbutazone	C0031463	MBNL1 gene	C1417055
+1,2-di-(4-sulfamidophenyl)-4-butylpyrazolidine-3,5-dione	C0603200	DMPK gene	C1414085
+Ro 31-8220	C0084393	CELF1 gene	C1413824
+Ro 31-8220	C0084393	PRRT2 wt Allele	C3539645
+Ro 31-8220	C0084393	MBNL1 gene	C1417055
+YEAST EXTRACT	C0873195	ATXN3 gene	C1538301
+EX 527	C2935082	TP53 gene	C0079419
+Polybrene	C0282194	CELF1 gene	C1413824
+Phenylmethylsulfonyl Fluoride	C0031493	GCDH gene	C1415009
+sulforafan	C0163159	NGLY1 gene	C1425023
+sulforafan	C0163159	KEAP1 gene	C1427969
+homocamptothecin	C0769341	NPC2 gene	C1422736
+MLN2238	C3467949	NGLY1 gene	C1425023
+chloroflurenol-methyl	C0055412	RBFOX2 gene	C1419304
+CP 91149	C0671834	ERN1 gene	C1414444
+CP 91149	C0671834	PSMD5 gene	C1419036
+Pravastatin	C0085542	SMO gene	C1364142
+All-Trans-Retinol	C0087161	DHRS7B gene	C1824930
+1-(saligenin cyclic phospho)-9-biotinyldiaminononane	C0257357	DDX6 gene	C0812257
+FAR 90X2	C3467746	CELF1 gene	C1413824
+FAR 90X2	C3467746	ELF2 gene	C1414376
+dilomofungin	C3851669	MBNL1 gene	C1417055
+vernakalant	C2001572	KCNA5 gene	C1416548
+N-propionylprocainamide	C0068273	AAVS1 gene	C1412056
+tetrahydropterin	C0076281	Wild Type	C1883559
+Orotic Acid	C0029300	LRP2 wt Allele	C3811119

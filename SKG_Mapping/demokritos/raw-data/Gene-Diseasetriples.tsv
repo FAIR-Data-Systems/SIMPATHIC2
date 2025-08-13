@@ -1,0 +1,974 @@
+﻿Gene	Gene_id	Disease	Disease_id
+WASF1 gene	C1421479	Hereditary Diseases	C0019247
+PGD gene	C1418504	Hereditary Diseases	C0019247
+NGLY1 gene	C1425023	Hereditary Diseases	C0019247
+Wild Type	C1883559	Hereditary Diseases	C0019247
+mutant gene	C0678941	Hereditary Diseases	C0019247
+TRIP11 gene	C1421146	Hereditary Diseases	C0019247
+ATXN3 gene	C1538301	Hereditary Diseases	C0019247
+NDUFS8 gene	C1417651	Hereditary Diseases	C0019247
+AR wt Allele	C1705240	Hereditary Diseases	C0019247
+MT-TA gene	C1537998	Hereditary Diseases	C0019247
+LY86 gene	C1424584	Hereditary Diseases	C0019247
+PRB1 gene	C1418866	Neurodegenerative Disorders	C0524851
+MARK4 gene	C1422048	Neurodegenerative Disorders	C0524851
+NEFL gene	C1417668	Neurodegenerative Disorders	C0524851
+FUS gene	C1414860	Neurodegenerative Disorders	C0524851
+CCT3 gene	C1413195	Neurodegenerative Disorders	C0524851
+BACE1 gene	C1412727	Neurodegenerative Disorders	C0524851
+SURF1 gene	C1420527	Neurodegenerative Disorders	C0524851
+ATXN3 gene	C1538301	Neurodegenerative Disorders	C0524851
+FOXRED1 gene	C1825311	Neurodegenerative Disorders	C0524851
+IMPACT gene	C1825598	Neurodegenerative Disorders	C0524851
+ECHS1 gene	C1414247	Neurodegenerative Disorders	C0524851
+HRH4 gene	C1424950	Neurodegenerative Disorders	C0524851
+CNR2 gene	C1413555	Neurodegenerative Disorders	C0524851
+NMS gene	C1744687	Neurodegenerative Disorders	C0524851
+NGF gene	C1417719	Neurodegenerative Disorders	C0524851
+AR wt Allele	C1705240	Neurodegenerative Disorders	C0524851
+TARDBP gene	C1420588	Neurodegenerative Disorders	C0524851
+APOE gene	C1412481	Neurodegenerative Disorders	C0524851
+UBQLN2 gene	C1421305	Neurodegenerative Disorders	C0524851
+PPID gene	C1418797	Neurodegenerative Disorders	C0524851
+CASK gene	C1413128	Rare Diseases	C0678236
+Genome	C0017428	Rare Diseases	C0678236
+PMM2 gene	C1418674	Rare Diseases	C0678236
+PGM3 gene	C1418518	Rare Diseases	C0678236
+PREPL gene	C1538715	Rare Diseases	C0678236
+NGLY1 gene	C1425023	Rare Diseases	C0678236
+ALG1 gene	C1425428	Rare Diseases	C0678236
+PGAP3 gene	C1538624	Rare Diseases	C0678236
+mutant gene	C0678941	Rare Diseases	C0678236
+ADAR gene	C1412215	Rare Diseases	C0678236
+IMPACT gene	C1825598	Rare Diseases	C0678236
+TMEM165 gene	C1823430	Rare Diseases	C0678236
+ATXN3 gene	C1538301	Heredodegenerative Disorders, Nervous System	C0751870
+NEFL gene	C1417668	Cerebral atrophy	C0235946
+ATXN3 gene	C1538301	Cerebellar Diseases	C0007760
+SGCA gene	C1420005	Cerebellar Diseases	C0007760
+PMM2 gene	C1418674	Ataxia, Spinocerebellar	C0087012
+SIRT1 gene	C1423062	Ataxia, Spinocerebellar	C0087012
+ATXN3 gene	C1538301	Machado-Joseph Disease Type III	C0751670
+LY6E gene	C1334353	Cardiac Arrest	C0018790
+mutant gene	C0678941	Cardiac Arrest	C0018790
+NEFL gene	C1417668	Cardiac Arrest	C0018790
+VCP gene	C1421437	Cardiac Arrest	C0018790
+TBP wt Allele	C1705304	Cardiac Arrest	C0018790
+LRP2 wt Allele	C3811119	Movement Disorders	C0026650
+VPS13C gene	C1428142	Movement Disorders	C0026650
+LRP2 wt Allele	C3811119	Parkinsonian Disorders	C0242422
+TBP wt Allele	C1705304	Parkinsonian Disorders	C0242422
+RAB3D gene	C1419208	Parkinsonian Disorders	C0242422
+TSC22D3 wt Allele	C3539618	Parkinsonian Disorders	C0242422
+POLG gene	C1418731	Sensory neuropathy	C0151313
+NPY gene	C1417815	Machado-Joseph Disease	C0024408
+SIRT1 gene	C1423062	Machado-Joseph Disease	C0024408
+SLC6A4 gene	C1420214	Machado-Joseph Disease	C0024408
+NCOA6 gene	C1367177	Machado-Joseph Disease	C0024408
+Genetic Loci	C0678933	Machado-Joseph Disease	C0024408
+mutant gene	C0678941	Machado-Joseph Disease	C0024408
+Wild Type	C1883559	Machado-Joseph Disease	C0024408
+ATXN3 gene	C1538301	Machado-Joseph Disease	C0024408
+Alleles	C0002085	Machado-Joseph Disease	C0024408
+IMPACT gene	C1825598	Machado-Joseph Disease	C0024408
+ATXN2 gene	C1538299	Machado-Joseph Disease	C0024408
+MJD gene	C1417173	Machado-Joseph Disease	C0024408
+NEFL gene	C1417668	Machado-Joseph Disease	C0024408
+CEL gene	C1413336	Machado-Joseph Disease	C0024408
+Locus	C1708726	Machado-Joseph Disease	C0024408
+PNKP gene	C1418707	Machado-Joseph Disease	C0024408
+KPNB1 gene	C1416705	Machado-Joseph Disease	C0024408
+KPNA3 gene	C1416701	Machado-Joseph Disease	C0024408
+ELAVL2 gene	C1414372	Machado-Joseph Disease	C0024408
+ITPR2 gene	C1416518	Machado-Joseph Disease	C0024408
+BECN1 gene	C1412785	Machado-Joseph Disease	C0024408
+IVNS1ABP gene	C1424660	Machado-Joseph Disease	C0024408
+APOE gene	C1412481	Machado-Joseph Disease	C0024408
+MEG3 gene	C1422767	Machado-Joseph Disease	C0024408
+DIDO1 gene	C1824935	Machado-Joseph Disease	C0024408
+MAL gene	C1416989	Machado-Joseph Disease	C0024408
+EIF4E wt Allele	C3539643	Machado-Joseph Disease	C0024408
+Genome, Mitochondrial	C1819716	Machado-Joseph Disease	C0024408
+UCHL1 gene	C1421309	Machado-Joseph Disease	C0024408
+SAR1A gene	C1419815	Machado-Joseph Disease	C0024408
+TP53 gene	C0079419	Machado-Joseph Disease	C0024408
+ACTG1 gene	C1412149	Machado-Joseph Disease	C0024408
+PARK2 gene	C1418270	Machado-Joseph Disease	C0024408
+CACNA1A gene	C1456413	Machado-Joseph Disease	C0024408
+MTR gene	C1417453	Machado-Joseph Disease	C0024408
+C7orf49 gene	C1824234	Machado-Joseph Disease	C0024408
+C9orf72 gene	C1428691	Machado-Joseph Disease	C0024408
+DLGAP2 gene	C1414068	Machado-Joseph Disease	C0024408
+RBFOX3 gene	C3146324	Machado-Joseph Disease	C0024408
+WASF1 gene	C1421479	Machado-Joseph Disease	C0024408
+CST7 gene	C1413776	Machado-Joseph Disease	C0024408
+GEN1 gene	C2239486	Machado-Joseph Disease	C0024408
+DNAJB1 gene	C1415791	Machado-Joseph Disease	C0024408
+CAST gene	C1413137	Machado-Joseph Disease	C0024408
+OGT gene	C1417945	Machado-Joseph Disease	C0024408
+NMS gene	C1744687	Machado-Joseph Disease	C0024408
+CA8 gene	C1413051	Machado-Joseph Disease	C0024408
+SLC6A3 wt Allele	C3813713	Machado-Joseph Disease	C0024408
+NFKB1 gene	C1417708	Machado-Joseph Disease	C0024408
+ELANE wt Allele	C3538705	Machado-Joseph Disease	C0024408
+AR wt Allele	C1705240	Machado-Joseph Disease	C0024408
+OMD gene	C1417948	Machado-Joseph Disease	C0024408
+LY6E gene	C1334353	Machado-Joseph Disease	C0024408
+ATXN1 gene	C1538298	Machado-Joseph Disease	C0024408
+CERS4 gene	C3469890	Machado-Joseph Disease	C0024408
+ASL gene	C1412582	Machado-Joseph Disease	C0024408
+PARD3 gene	C1423939	Machado-Joseph Disease	C0024408
+ATN1 gene	C1540211	Machado-Joseph Disease	C0024408
+ITGB1 gene	C1416496	Machado-Joseph Disease	C0024408
+GTF2I gene	C1415347	Machado-Joseph Disease	C0024408
+HSP90AA1 gene	C1825534	Machado-Joseph Disease	C0024408
+SCA2 gene	C1419834	Machado-Joseph Disease	C0024408
+TSPO gene	C1823521	Machado-Joseph Disease	C0024408
+ATP2B3 wt Allele	C3811222	Machado-Joseph Disease	C0024408
+Gene Feature	C1517495	Machado-Joseph Disease	C0024408
+ADC gene	C1826409	Machado-Joseph Disease	C0024408
+PDYN gene	C1418447	Spinocerebellar Ataxia Type 1	C0752120
+ATXN1 gene	C1538298	Spinocerebellar Ataxia Type 1	C0752120
+ATXN3 gene	C1538301	Spinocerebellar Ataxia Type 1	C0752120
+Alleles	C0002085	Spinocerebellar Ataxia Type 1	C0752120
+SAR1A gene	C1419815	Spinocerebellar Ataxia Type 1	C0752120
+INA gene	C1416431	Spinocerebellar Ataxia Type 1	C0752120
+VCP gene	C1421437	Spinocerebellar Ataxia Type 1	C0752120
+CACNA1A gene	C1456413	Spinocerebellar Ataxia Type 1	C0752120
+LY6E gene	C1334353	Spinocerebellar Ataxia Type 1	C0752120
+SCN5A gene	C1419864	Deglutition Disorders	C0011168
+LY86 gene	C1424584	Deglutition Disorders	C0011168
+MMP8 wt Allele	C1704924	Deglutition Disorders	C0011168
+NGLY1 gene	C1425023	Atrophy of cerebellum	C0740279
+PMM2 gene	C1418674	Atrophy of cerebellum	C0740279
+MAOB gene	C1417002	Alzheimer's Disease	C0002395
+MGLL gene	C1442515	Alzheimer's Disease	C0002395
+FAAH gene	C1414512	Alzheimer's Disease	C0002395
+HTT gene	C1415504	Alzheimer's Disease	C0002395
+NPS gene	C1836075	Alzheimer's Disease	C0002395
+SH2D1A gene	C1420017	Alzheimer's Disease	C0002395
+YWHAQ gene	C1421563	Alzheimer's Disease	C0002395
+GBA gene	C1414998	Parkinson Disease	C0030567
+IMPACT gene	C1825598	Parkinson Disease	C0030567
+PINK1 gene	C1422771	Parkinson Disease	C0030567
+PARK2 gene	C1418270	Parkinson Disease	C0030567
+NDUFS8 gene	C1417651	Parkinson Disease	C0030567
+HCRT gene	C1415500	Parkinson Disease	C0030567
+SAR1A gene	C1419815	Parkinson Disease	C0030567
+CELF1 gene	C1413824	Muscular Atrophy	C0026846
+RBFOX1 gene	C1854634	Muscular Atrophy	C0026846
+DMD gene	C1414083	Muscular Atrophy	C0026846
+SAMD4A gene	C1826968	Muscular Atrophy	C0026846
+MBNL1 gene	C1417055	Muscular Atrophy	C0026846
+Transgenes	C0282641	Muscular Atrophy	C0026846
+HTT gene	C1415504	Huntington Disease	C0020179
+AR wt Allele	C1705240	Huntington Disease	C0020179
+FAN1 gene	C3147283	Huntington Disease	C0020179
+PMM2 gene	C1418674	Photoreceptor degeneration	C1998028
+MBNL1 gene	C1417055	Autosomal dominant hereditary disorder	C0265385
+TGM6 gene	C1539956	Cerebellar function	C0742034
+ATP2B3 wt Allele	C3811222	Dentatorubral-Pallidoluysian Atrophy	C0751781
+ATXN1 gene	C1538298	Spinocerebellar Ataxia Type 6 (disorder)	C0752124
+ATXN3 gene	C1538301	Spinocerebellar Ataxia Type 6 (disorder)	C0752124
+CACNA1A gene	C1456413	Spinocerebellar Ataxia Type 6 (disorder)	C0752124
+SAR1A gene	C1419815	Spinocerebellar Ataxia Type 6 (disorder)	C0752124
+LY6E gene	C1334353	Spinocerebellar Ataxia Type 6 (disorder)	C0752124
+SLC25A46 gene	C1822755	early disease onset	C0814120
+STRA13 gene	C1420488	brain dysfunction	C0262405
+GBA gene	C1414998	Lysosomal Storage Diseases	C0085078
+ST8SIA4 gene	C1539876	Late-Onset Disorders	C0376415
+PEX6 gene	C1418478	Late-Onset Disorders	C0376415
+PTS gene	C1419129	nervous system disorder	C0027765
+LPAR3 wt Allele	C3812695	nervous system disorder	C0027765
+SLC35A2 gene	C1420188	nervous system disorder	C0027765
+SRD5A3 gene	C2240046	nervous system disorder	C0027765
+ATN1 gene	C1540211	nervous system disorder	C0027765
+AR wt Allele	C1705240	nervous system disorder	C0027765
+MT-ATP6 gene	C1537983	nervous system disorder	C0027765
+PNKP gene	C1418707	nervous system disorder	C0027765
+APTX gene	C1423885	nervous system disorder	C0027765
+Genes, Mitochondrial	C1563761	nervous system disorder	C0027765
+COX15 gene	C1413632	nervous system disorder	C0027765
+MT-ND6 gene	C1537995	nervous system disorder	C0027765
+LY6E gene	C1334353	Spinocerebellar Ataxia Type 7	C0752125
+NFE2L1 gene	C1417700	Helminthiasis	C0018889
+HHAT gene	C1539668	Helminthiasis	C0018889
+NGLY1 gene	C1425023	Helminthiasis	C0018889
+PMM2 gene	C1418674	Helminthiasis	C0018889
+LGALS4 gene	C1416832	Heparin-induced thrombocytopenia	C0272285
+HCRTR2 gene	C1415502	Heparin-induced thrombocytopenia	C0272285
+FXYD1 gene	C1414874	Restless Legs Syndrome	C0035258
+IMPACT gene	C1825598	Restless Legs Syndrome	C0035258
+P2RY12 gene	C1425330	Peripheral Neuropathy	C0031117
+PMM2 gene	C1418674	Peripheral Neuropathy	C0031117
+LAMA1 gene	C1416775	Asthma	C0004096
+IMPACT gene	C1825598	Asthma	C0004096
+TAC3 gene	C1420564	Asthma	C0004096
+IL13 gene	C1334103	Asthma	C0004096
+C7orf49 gene	C1824234	Spinocerebellar Ataxia 10	C1963674
+SAR1A gene	C1419815	Spinocerebellar Ataxia 10	C1963674
+ATXN3 gene	C1538301	Hereditary Neurodegenerative Disorder	C3273225
+PHEX gene	C1418526	Inclusion Body Myositis (disorder)	C0238190
+RP1L1 gene	C1423850	Spastic syndrome	C0270814
+ATXN3 gene	C1538301	Cerebellar degeneration	C0262404
+Alleles	C0002085	Spinal Muscular Atrophy	C0026847
+DMD gene	C1414083	Muscular Dystrophy, Duchenne	C0013264
+UTRN gene	C1421412	Muscular Dystrophy, Duchenne	C0013264
+ATXN2 gene	C1538299	Spinocerebellar Ataxia Type 2	C0752121
+Homologous Gene	C1334043	Friedreich Ataxia	C0016719
+NGLY1 gene	C1425023	Neuropathy	C0442874
+DRG1 gene	C1414151	Neuropathy	C0442874
+MT-ATP6 gene	C1537983	Neuropathy	C0442874
+SURF1 gene	C1420527	Neuropathy	C0442874
+SNAP29 gene	C1420271	Neuropathy	C0442874
+WNK1 gene	C1538110	Neuropathy	C0442874
+ECHS1 gene	C1414247	Virus Diseases	C0042769
+ATXN3 gene	C1538301	Virus Diseases	C0042769
+HTR1E gene	C1415807	Pituitary Diseases	C0032002
+HTR1F gene	C1415808	Pituitary Diseases	C0032002
+NLRP1 wt Allele	C3538756	Chronic pain	C0150055
+P2RY12 gene	C1425330	Chronic pain	C0150055
+RBFOX3 gene	C3146324	Epilepsy	C0014544
+CLCN1 gene	C1413450	Epilepsy	C0014544
+ALYREF gene	C1425988	Epilepsy	C0014544
+Alleles	C0002085	Epilepsy	C0014544
+RBFOX1 gene	C1854634	Epilepsy	C0014544
+ALG13 gene	C1823172	Epilepsy	C0014544
+NARS2 gene	C1826350	Epilepsy	C0014544
+KCNQ2 gene	C1416614	Epilepsy	C0014544
+KCNT1 gene	C1425836	Epilepsy	C0014544
+P2RY12 gene	C1425330	Epilepsy	C0014544
+NGLY1 gene	C1425023	Epilepsy	C0014544
+mutant gene	C0678941	Epilepsy	C0014544
+AMELX gene	C1412382	Strabismus	C0038379
+LONP1 gene	C1825868	Depletion of mitochondrial DNA	C0342782
+ADRB3 gene	C1439274	Diabetes Mellitus, Non-Insulin-Dependent	C0011860
+P2RY12 gene	C1425330	Diabetes Mellitus, Non-Insulin-Dependent	C0011860
+DHDDS gene	C1427027	Retinal Degeneration	C0035304
+TARDBP gene	C1420588	GRN-related frontotemporal dementia	C3811918
+MBNL1 gene	C1417055	Dystrophia myotonica 1	C2931688
+CDK12 gene	C1824794	Dystrophia myotonica 1	C2931688
+DMPK gene	C1414085	Dystrophia myotonica 1	C2931688
+Kinase Family Gene	C1334324	Dystrophia myotonica 1	C2931688
+IMPACT gene	C1825598	Dystrophia myotonica 1	C2931688
+CELF2 gene	C1413825	Dystrophia myotonica 1	C2931688
+GAA gene	C1414899	Dystrophia myotonica 1	C2931688
+LIMCH1 gene	C2239652	Dystrophia myotonica 1	C2931688
+CELF1 gene	C1413824	Dystrophia myotonica 1	C2931688
+MLH1 wt Allele	C1704807	Peroxisome Biogenesis Disorder, Complementation Group G	C1864172
+Homologous Gene	C1334043	Spastic Paraplegia, Hereditary	C0037773
+GPR173 gene	C1539609	Brain Diseases	C0006111
+SLC18A2 gene	C1420115	Brain Diseases	C0006111
+GCH1 gene	C1415012	Dopa-Responsive Dystonia	C1851920
+PPARGC1A gene	C1418779	Muscular Dystrophy	C0026850
+MTCP1 gene	C1334535	Muscular Dystrophy	C0026850
+FKTN gene	C1414558	Muscular Dystrophy	C0026850
+POMGNT1 gene	C1826644	Muscular Dystrophy	C0026850
+FKRP gene	C1425226	Muscular Dystrophy	C0026850
+CNR1 gene	C1413554	Diabetes	C0011847
+LPAR3 wt Allele	C3812695	Diabetes	C0011847
+MT-ND1 gene	C1537989	Diabetes	C0011847
+NDUFS8 gene	C1417651	Diabetes	C0011847
+ORAI3 gene	C1823407	Diabetes	C0011847
+ORAI1 gene	C1823405	Diabetes	C0011847
+VMA21 gene	C2681112	Fatty Liver	C0015695
+Alleles	C0002085	Narcolepsy	C0027404
+IMPACT gene	C1825598	Obesity	C0028754
+MAN1B1 gene	C1416994	Obesity	C0028754
+NPS gene	C1836075	Obesity	C0028754
+FGR gene	C0919478	Obesity	C0028754
+CNR1 gene	C1413554	Obesity	C0028754
+C4orf51 gene	C2828846	Anorexia	C0003123
+PRF1 gene	C1418887	Anorexia	C0003123
+UTP20 gene	C1823612	Anorexia	C0003123
+MGAM gene	C1417132	Anorexia	C0003123
+DMPK gene	C1414085	Respiratory Failure	C1145670
+SRI gene	C1420401	Neonatal Abstinence Syndrome	C0027609
+Retinoic Acid Response Element	C1514917	External Ophthalmoplegia	C0162292
+Myotonic dystrophy gene	C1508293	Azoospermia	C0004509
+Retinoic Acid Response Element	C1514917	Disorder of macula of retina	C0730362
+Locus	C1708726	Autosomal Dominant Parkinsonism	C0752098
+PHF5A gene	C1425228	Muscular Dystrophy, Oculopharyngeal	C0270952
+Alleles	C0002085	Congenital chromosomal disease	C0008626
+ELAVL2 gene	C1414372	Encephalopathies	C0085584
+PGD gene	C1418504	Encephalopathies	C0085584
+SLC19A3 gene	C1424138	Encephalopathies	C0085584
+NDUFS2 gene	C1417645	Encephalopathies	C0085584
+POLG gene	C1418731	Encephalopathies	C0085584
+Genome, Mitochondrial	C1819716	Encephalopathies	C0085584
+SCO2 gene	C1419873	Encephalopathies	C0085584
+MELAS gene	C1417109	Chronic progressive external ophthalmoplegia	C0162674
+KSS gene	C1416765	Chronic progressive external ophthalmoplegia	C0162674
+SLC19A3 gene	C1424138	Acute encephalopathy	C1306587
+CLCN1 gene	C1413450	Myotonic Dystrophy	C0027126
+Alleles	C0002085	Myotonic Dystrophy	C0027126
+Genes, Dominant	C0017342	Myotonic Dystrophy	C0027126
+CKM gene	C1413435	Myotonic Dystrophy	C0027126
+Locus	C1708726	Myotonic Dystrophy	C0027126
+DMPK gene	C1414085	Myotonic Dystrophy	C0027126
+APOC2 gene	C1412477	Myotonic Dystrophy	C0027126
+Kinase Family Gene	C1334324	Myotonic Dystrophy	C0027126
+Transgenes	C0282641	Myotonic Dystrophy	C0027126
+MBNL1 gene	C1417055	Myotonic Dystrophy	C0027126
+Major Histocompatibility Complex	C0024518	Myotonic Dystrophy	C0027126
+RENBP gene	C1419339	Myotonic Dystrophy	C0027126
+PTS gene	C1419129	Myotonic Dystrophy	C0027126
+SIX5 gene	C1420076	Myotonic Dystrophy	C0027126
+MBNL3 gene	C1427004	Myotonic Dystrophy	C0027126
+RBFOX1 gene	C1854634	Myotonic Dystrophy	C0027126
+RBFOX2 gene	C1419304	Myotonic Dystrophy	C0027126
+SRSF1 gene	C1419989	Myotonic Dystrophy	C0027126
+SCN5A gene	C1419864	Myotonic Dystrophy	C0027126
+DDX5 gene	C1413963	Myotonic Dystrophy	C0027126
+PEPD gene	C1418462	Myotonic Dystrophy	C0027126
+PRNP gene	C1418941	Myotonic Dystrophy	C0027126
+ENO3 gene	C1414405	Myotonic Dystrophy	C0027126
+Genetic Loci	C0678933	Myotonic Dystrophy	C0027126
+DMWD gene	C1414088	Myotonic Dystrophy	C0027126
+GSK3B gene	C1415321	Myotonic Dystrophy	C0027126
+CA3 gene	C1413044	Myotonic Dystrophy	C0027126
+CELF1 gene	C1413824	Myotonic Dystrophy	C0027126
+THM gene	C1420725	Myotonic Dystrophy	C0027126
+LAMA2 gene	C1416776	Myotonic Dystrophy	C0027126
+INSR gene	C1334133	Myotonic Dystrophy	C0027126
+SLC14A2 gene	C1420099	Myotonic Dystrophy	C0027126
+PAX3 gene	C1335192	Waardenburg Syndrome	C3266898
+KARS gene	C1416540	Charcot-Marie-Tooth Disease	C0007959
+NGLY1 gene	C1425023	Myopathy	C0026848
+RBM24 gene	C1538790	Myopathy	C0026848
+LAMA2 gene	C1416776	Myopathy	C0026848
+Candidate Disease Gene	C1332838	Myopathy	C0026848
+MTCP1 gene	C1334535	Myopathy	C0026848
+MBNL3 gene	C1427004	Myopathy	C0026848
+ACTA1 gene	C1412136	Myopathy	C0026848
+MBNL1 gene	C1417055	Myopathy	C0026848
+mutant gene	C0678941	Myopathy	C0026848
+RBFOX2 gene	C1419304	Myopathy	C0026848
+HINT1 gene	C1415545	Myopathy	C0026848
+VMA21 gene	C2681112	Myopathy	C0026848
+NARS2 gene	C1826350	Myopathy	C0026848
+CELF1 gene	C1413824	Myopathy	C0026848
+PPARGC1A gene	C1418779	Myopathy	C0026848
+SAMD4A gene	C1826968	Myopathy	C0026848
+FMR1 gene	C1414649	Fragile X Syndrome	C0016667
+Transgenes	C0282641	Metabolic Diseases	C0025517
+AASS gene	C1424938	Metabolic Diseases	C0025517
+SLC10A7 gene	C1822740	Metabolic Diseases	C0025517
+MARK4 gene	C1422048	Metabolic Diseases	C0025517
+GMDS gene	C1415129	Metabolic Diseases	C0025517
+NDUFS8 gene	C1417651	Metabolic Diseases	C0025517
+SLC19A3 gene	C1424138	Generalized dystonia	C1848954
+PAH gene	C1418251	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844
+Locus	C1708726	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844
+ACADM gene	C1412107	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844
+DNAJC12 gene	C1539297	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844
+Alleles	C0002085	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844
+PTS gene	C1419129	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844
+USP19 gene	C1421396	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844
+NDUFS4 gene	C1417647	Pneumonia	C0032285
+P2RY12 gene	C1425330	Inflammatory disorder	C1290884
+ADORA3 gene	C1412251	Inflammatory disorder	C1290884
+IFNA1 gene	C1415900	Inflammatory disorder	C1290884
+NGLY1 gene	C1425023	Inflammatory disorder	C1290884
+Homologous Gene	C1334043	Inflammatory disorder	C1290884
+MELAS gene	C1417109	Mitochondrial Diseases	C0751651
+NDUFV1 gene	C1417652	Mitochondrial Diseases	C0751651
+MGME1 gene	C1424082	Mitochondrial Diseases	C0751651
+POLG2 gene	C1418732	Mitochondrial Diseases	C0751651
+MT-TA gene	C1537998	Mitochondrial Diseases	C0751651
+NDUFAF5 gene	C1423817	Mitochondrial Diseases	C0751651
+NDUFAF3 gene	C1824156	Mitochondrial Diseases	C0751651
+PNPT1 gene	C1427960	Mitochondrial Diseases	C0751651
+PYROXD2 gene	C1428119	Mitochondrial Diseases	C0751651
+Protein coding gene	C3839127	Mitochondrial Diseases	C0751651
+IMPACT gene	C1825598	Mitochondrial Diseases	C0751651
+LHON gene	C1416849	Mitochondrial Diseases	C0751651
+ECHS1 gene	C1414247	Mitochondrial Diseases	C0751651
+NDUFS4 gene	C1417647	Mitochondrial Diseases	C0751651
+KSS gene	C1416765	Mitochondrial Diseases	C0751651
+NDUFB8 gene	C1417640	Mitochondrial Diseases	C0751651
+SLC25A46 gene	C1822755	Leigh Disease	C0023264
+MT-ND1 gene	C1537989	Leigh Disease	C0023264
+SCO2 gene	C1419873	Leigh Disease	C0023264
+SURF1 gene	C1420527	Leigh Disease	C0023264
+NDUFS4 gene	C1417647	Leigh Disease	C0023264
+PGD gene	C1418504	Leigh Disease	C0023264
+MT-ATP6 gene	C1537983	Leigh Disease	C0023264
+NDUFAF5 gene	C1423817	Leigh Disease	C0023264
+MT-ND6 gene	C1537995	Leigh Disease	C0023264
+MAL gene	C1416989	Leigh Disease	C0023264
+SLC19A3 gene	C1424138	Leigh Disease	C0023264
+GFM2 gene	C1539561	Leigh Disease	C0023264
+Homologous Gene	C1334043	Leigh Disease	C0023264
+TACO1 gene	C1824568	Leigh Disease	C0023264
+IARS2 gene	C1825559	Leigh Disease	C0023264
+NDUFS3 gene	C1417646	Leigh Disease	C0023264
+NARS2 gene	C1826350	Leigh Disease	C0023264
+PDHA1 gene	C1418437	Leigh Disease	C0023264
+Oxidoreductase Gene	C1335186	Leigh Disease	C0023264
+Genes, Mitochondrial	C1563761	Leigh Disease	C0023264
+NDUFAF6 gene	C1824247	Leigh Disease	C0023264
+ATPase Gene	C1706675	Leigh Disease	C0023264
+DFNB94 gene	C3147084	Leigh Disease	C0023264
+FOXRED1 gene	C1825311	Leigh Disease	C0023264
+NDUFAF3 gene	C1824156	Leigh Disease	C0023264
+NDUFAF4 gene	C1427260	Leigh Disease	C0023264
+AARS gene	C1412054	Leigh Disease	C0023264
+LHON gene	C1416849	Leigh Disease	C0023264
+NDUFS8 gene	C1417651	Leigh Disease	C0023264
+LRPPRC gene	C1423677	Leigh Disease	C0023264
+AGO2 gene	C1414333	Leigh Disease	C0023264
+Genome, Mitochondrial	C1819716	Leigh Disease	C0023264
+PTCD3 gene	C1826731	Leigh Disease	C0023264
+ECHS1 gene	C1414247	Leigh Disease	C0023264
+SDHA gene	C1419906	Leigh Disease	C0023264
+Genome	C0017428	Leigh Disease	C0023264
+IMPACT gene	C1825598	Leigh Disease	C0023264
+Gene Feature	C1517495	Leigh Disease	C0023264
+PNPT1 gene	C1427960	Leigh Disease	C0023264
+MT-CYB gene	C1537988	Leigh Disease	C0023264
+mutant gene	C0678941	Leigh Disease	C0023264
+MT-ND3 gene	C1537991	Leigh Disease	C0023264
+CEP290 gene	C1824725	Familial aplasia of the vermis	C0431399
+SLC19A3 gene	C1424138	Basal ganglia disease, biotin-responsive	C1843807
+SURF1 gene	C1420527	Cytochrome-c Oxidase Deficiency	C0268237
+Retinoic Acid Response Element	C1514917	Cytochrome-c Oxidase Deficiency	C0268237
+LRPPRC gene	C1423677	Cytochrome-c Oxidase Deficiency	C0268237
+TACO1 gene	C1824568	Cytochrome-c Oxidase Deficiency	C0268237
+COX8A gene	C1413661	Cytochrome-c Oxidase Deficiency	C0268237
+SCO2 gene	C1419873	Cytochrome-c Oxidase Deficiency	C0268237
+NDUFS2 gene	C1417645	Hypertrophic Cardiomyopathy	C0007194
+SCO2 gene	C1419873	Hypertrophic Cardiomyopathy	C0007194
+PMM2 gene	C1418674	Pyotraumatic dermatitis	C0263214
+LRPPRC gene	C1423677	Leigh syndrome , French Canadian type	C1857355
+PPARGC1A gene	C1418779	Leigh syndrome , French Canadian type	C1857355
+MRC1 wt Allele	C3538741	Leigh syndrome , French Canadian type	C1857355
+MELAS gene	C1417109	Mitochondrial Myopathies	C0162670
+MT-ND5 gene	C1537994	Mitochondrial Myopathies	C0162670
+MRRF gene	C1417252	Mitochondrial Myopathies	C0162670
+ECHS1 gene	C1414247	Acidosis, Lactic	C0001125
+NDUFS4 gene	C1417647	Acidosis, Lactic	C0001125
+LRPPRC gene	C1423677	Acidosis, Lactic	C0001125
+Alleles	C0002085	Failure to Thrive	C0015544
+RFT1 gene	C1538829	Failure to Thrive	C0015544
+MELAS gene	C1417109	Optic Atrophy, Hereditary, Leber	C0917796
+IMPACT gene	C1825598	Optic Atrophy, Hereditary, Leber	C0917796
+AICDA wt Allele	C3540469	Optic Atrophy, Hereditary, Leber	C0917796
+Genes, Mitochondrial	C1563761	Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency	C0342776
+LRPPRC gene	C1423677	Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency	C0342776
+NDUFAF5 gene	C1423817	Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency	C0342776
+NDUFA12 gene	C1826391	Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency	C0342776
+NDUFB8 gene	C1417640	Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency	C0342776
+NDUFA1 gene	C1417620	Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency	C0342776
+MT-ND5 gene	C1537994	Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency	C0342776
+TSFM gene	C1421196	Multisystem disorder	C0559758
+NGLY1 gene	C1425023	Multisystem disorder	C0559758
+CNBP wt Allele	C3273677	Multisystem disorder	C0559758
+PISD gene	C1418591	Cerebrovascular accident	C0038454
+P2RY12 gene	C1425330	Cerebrovascular accident	C0038454
+LAMB2 gene	C1416781	Kidney Failure	C0035078
+NDUFS4 gene	C1417647	Lesion of brain	C0221505
+NDUFS4 gene	C1417647	MITOCHONDRIAL COMPLEX I DEFICIENCY	C1838979
+NDUFAF6 gene	C1824247	MITOCHONDRIAL COMPLEX I DEFICIENCY	C1838979
+NDUFV1 gene	C1417652	MITOCHONDRIAL COMPLEX I DEFICIENCY	C1838979
+CALD1 gene	C1413086	Macrocephaly	C0221355
+NDUFV1 gene	C1417652	Leukodystrophy	C0023520
+WASF1 gene	C1421479	Tonic, clonic seizures	C0494475
+MELAS gene	C1417109	Mitochondrial Encephalomyopathies	C0162666
+Retinoic Acid Response Element	C1514917	Mitochondrial Encephalomyopathies	C0162666
+MT-ND5 gene	C1537994	Mitochondrial Encephalomyopathies	C0162666
+C10orf2 gene	C1418458	Mitochondrial Encephalomyopathies	C0162666
+NDUFS4 gene	C1417647	Cns lesion	C0742468
+P2RX4 gene	C1418213	CNS disorder	C0007682
+HRH4 gene	C1424950	CNS disorder	C0007682
+NDUFV1 gene	C1417652	Epilepsies, Myoclonic	C0014550
+MT-TK gene	C1538006	Epilepsies, Myoclonic	C0014550
+MELAS gene	C1417109	Mitochondrial encephalopathy	C1852373
+ECHS1 gene	C1414247	Mitochondrial encephalopathy	C1852373
+Candidate Disease Gene	C1332838	Cardiomyopathies	C0878544
+RBM24 gene	C1538790	Cardiomyopathies	C0878544
+NDUFS2 gene	C1417645	Cardiomyopathies	C0878544
+NDUFV2 gene	C1417653	Cardiomyopathies	C0878544
+PMM2 gene	C1418674	Cardiomyopathies	C0878544
+PGM1 gene	C1418516	Cardiomyopathies	C0878544
+AGTR1 gene	C1439284	Cardiomyopathies	C0878544
+PEX2 gene	C1419149	Liver diseases	C0023895
+VMA21 gene	C2681112	Liver diseases	C0023895
+PMM2 gene	C1418674	Liver diseases	C0023895
+CCDC115 gene	C1824644	Liver diseases	C0023895
+ATP6AP1 gene	C1412687	Liver diseases	C0023895
+TMEM199 gene	C1425293	Liver diseases	C0023895
+Exome	C3178814	Leukoencephalopathies	C0270612
+Orthologous Gene	C1335144	Leukoencephalopathies	C0270612
+NDUFV1 gene	C1417652	Leukoencephalopathies	C0270612
+MBNL1 gene	C1417055	Systemic disease	C0442893
+IMPACT gene	C1825598	Migraine Disorders	C0149931
+TBATA gene	C1428114	Migraine Disorders	C0149931
+SPRTN gene	C1823744	Migraine Disorders	C0149931
+XCL1 gene	C1363878	Migraine Disorders	C0149931
+HFE gene	C1384665	Liver Failure	C0085605
+TRMU gene	C1823502	Liver Failure	C0085605
+POLG gene	C1418731	Liver Failure	C0085605
+PMM2 gene	C1418674	Hypoglycemia	C0020615
+PPL gene	C1418813	Hypoglycemia	C0020615
+MT-ND3 gene	C1537991	Maternally Inherited Leigh Syndrome	C2931092
+MT-ATP6 gene	C1537983	MILS	C0872216
+CRX gene	C1413723	Retinitis Pigmentosa	C0035334
+NDUFA1 gene	C1417620	spinal cord involvement	C0748903
+NDUFV1 gene	C1417652	Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	C1970180
+ECHS1 gene	C1414247	Cyst	C0010709
+LRPPRC gene	C1423677	Brain Diseases, Metabolic	C0006112
+DFNB94 gene	C3147084	Mitochondrial Respiratory Chain Deficiencies	C0949857
+ECHS1 gene	C1414247	Mitochondrial Respiratory Chain Deficiencies	C0949857
+PHEX gene	C1418526	Inborn Errors of Metabolism	C0025521
+CYP2C19 gene	C1332828	Ischemic stroke	C0948008
+ATXN3 gene	C1538301	Ischemic stroke	C0948008
+SURF1 gene	C1420527	Hypertrichosis	C0020555
+AMELX gene	C1412382	Ptosis	C0033377
+MMD gene	C1417198	Pelizaeus-Merzbacher Disease	C0205711
+DHTKD1 gene	C1428130	Glutaric aciduria, type 1	C0268595
+GCDH gene	C1415009	Glutaric aciduria, type 1	C0268595
+mutant gene	C0678941	Glutaric aciduria, type 1	C0268595
+GCDH gene	C1415009	Congenital neurologic anomalies	C0497552
+MT-ATP6 gene	C1537983	Complex V deficiency	C0342779
+KSS gene	C1416765	Kearns-Sayre syndrome	C0022541
+NPPA gene	C1417807	Kearns-Sayre syndrome	C0022541
+GOSR2 gene	C1415180	Myoclonic Epilepsies, Progressive	C0751778
+SLC19A3 gene	C1424138	Thiamine Deficiency	C0039841
+DYM gene	C1539322	metabolic disturbance	C0746556
+MPV17 gene	C1417247	Diffuse Cerebral Sclerosis of Schilder	C0007795
+LAMB2 gene	C1416781	Kidney Diseases	C0022658
+MELAS gene	C1417109	MERRF Syndrome	C0162672
+KSS gene	C1416765	MERRF Syndrome	C0162672
+DAG1 gene	C1413902	Neuromuscular Diseases	C0027868
+BGN gene	C1412792	Neuromuscular Diseases	C0027868
+PROS1 wt Allele	C3813209	Neuromuscular Diseases	C0027868
+MBNL1 gene	C1417055	Neuromuscular Diseases	C0027868
+IMPACT gene	C1825598	Neuromuscular Diseases	C0027868
+NDUFS8 gene	C1417651	Septicemia	C0036690
+P2RY12 gene	C1425330	Septicemia	C0036690
+MELAS gene	C1417109	Diabetes Mellitus	C0011849
+MT-ND6 gene	C1537995	Diabetes Mellitus	C0011849
+TBX4 wt Allele	C3813609	Liver Cirrhosis	C0023890
+COA4 gene	C1824732	Central Core Myopathy (disorder)	C0751951
+GCDH gene	C1415009	Organic aciduria	C0241775
+CACNA1S gene	C1413064	Varicosity	C0042345
+IMPACT gene	C1825598	Phenylketonurias	C0031485
+T gene	C1420562	Phenylketonurias	C0031485
+RAB3D gene	C1419208	Phenylketonurias	C0031485
+PAH gene	C1418251	Phenylketonurias	C0031485
+SLC6A19 gene	C1428660	Phenylketonurias	C0031485
+NBL1 gene	C0919442	Phenylketonurias	C0031485
+SLC5A7 gene	C1422359	Phenylketonurias	C0031485
+Alleles	C0002085	Phenylketonurias	C0031485
+SMARCB1 gene	C0812273	Phenylketonurias	C0031485
+INDUCIBLE cAMP EARLY REPRESSOR	C1852403	Phenylketonurias	C0031485
+Open Reading Frames	C0079941	Phenylketonurias	C0031485
+ALLC gene	C1424945	Phenylketonurias	C0031485
+CYP51A1 gene	C1413892	Phenylketonurias	C0031485
+HYPERPHENYLALANINEMIA, NON-PKU	C2676533	Phenylketonurias	C0031485
+LRSAM1 gene	C1428449	Phenylketonurias	C0031485
+Retinoic Acid Response Element	C1514917	Phenylketonurias	C0031485
+PHENYLKETONURIA, ARG408TRP	C2676525	Phenylketonurias	C0031485
+TMC8 gene	C1823292	Phenylketonurias	C0031485
+DPF2 gene	C1419344	Phenylketonurias	C0031485
+CYBB gene	C1413844	Phenylketonurias	C0031485
+MAOB gene	C1417002	Phenylketonurias	C0031485
+RAPH1 gene	C1422646	Phenylketonurias	C0031485
+GCLC wt Allele	C1704697	Phenylketonurias	C0031485
+MYCBP gene	C1417525	Phenylketonurias	C0031485
+G6PD gene	C1333652	Phenylketonurias	C0031485
+OLFM1 gene	C1424808	Phenylketonurias	C0031485
+Wild Type	C1883559	Phenylketonurias	C0031485
+C7orf49 gene	C1824234	Phenylketonurias	C0031485
+STMN1 gene	C1416797	Phenylketonurias	C0031485
+TYR gene	C1421250	Phenylketonurias	C0031485
+MYOC gene	C1417573	Phenylketonurias	C0031485
+Genetic Structures	C1136352	Phenylketonurias	C0031485
+HPRT1 gene	C1415701	Phenylketonurias	C0031485
+Gene Feature	C1517495	Phenylketonurias	C0031485
+QDPR gene	C1419182	Phenylketonuria II	C0268465
+FGR gene	C0919478	Hypertensive disease	C0020538
+DDC gene	C1413943	Severe malnutrition	C0311276
+SURF1 gene	C1420527	Severe malnutrition	C0311276
+LHON gene	C1416849	Severe malnutrition	C0311276
+THAP1 gene	C1427163	Dystonia 6, torsion (disorder)	C1414216
+PEX26 gene	C1427818	Nonsyndromic Deafness	C3711374
+NARS2 gene	C1826350	Nonsyndromic Deafness	C3711374
+Homologous Gene	C1334043	Mendelian disorders	C1285355
+Retinoic Acid Response Element	C1514917	Mendelian disorders	C1285355
+PHEX gene	C1418526	Mendelian disorders	C1285355
+ALG1 gene	C1425428	Epileptic spasms	C3263982
+RFT1 gene	C1538829	Sensorineural Hearing Loss (disorder)	C0018784
+ALG11 gene	C1876205	Sensorineural Hearing Loss (disorder)	C0018784
+PEX26 gene	C1427818	Sensorineural Hearing Loss (disorder)	C0018784
+GMPPB gene	C1539586	Overlap syndrome	C0410000
+ALG9 gene	C1538263	Infantile spasms	C0037769
+UROD wt Allele	C2987231	Retinal Dystrophies	C0854723
+SRD5A3 gene	C2240046	Retinal Dystrophies	C0854723
+mutant gene	C0678941	Retinal Dystrophies	C0854723
+Orthologous Gene	C1335144	Retinal Dystrophies	C0854723
+GPR17 wt Allele	C1704993	Dwarfism	C0013336
+SLC10A7 gene	C1822740	Congenital Disorders	C0242354
+SUMF1 gene	C1539893	Congenital Disorders	C0242354
+STT3B gene	C1823139	Congenital Disorders	C0242354
+DPAGT1 gene	C1414133	Congenital Disorders	C0242354
+NGLY1 gene	C1425023	Congenital Disorders	C0242354
+MOGS gene	C1832467	Congenital Disorders	C0242354
+SRD5A3 gene	C2240046	Congenital Disorders	C0242354
+SSR4 gene	C1420431	Congenital Disorders	C0242354
+PMM2 gene	C1418674	Congenital Disorders	C0242354
+SLC35A2 gene	C1420188	Congenital Disorders	C0242354
+OGT gene	C1417945	Congenital Disorders	C0242354
+IMPACT gene	C1825598	Congenital Disorders	C0242354
+SLC39A8 gene	C1427169	Congenital Disorders	C0242354
+ALG6 gene	C1427953	Congenital Disorders	C0242354
+TMEM165 gene	C1823430	Congenital Disorders	C0242354
+SLC35A1 gene	C1420187	Congenital Disorders	C0242354
+DPM3 gene	C1414139	Congenital Disorders	C0242354
+ALG11 gene	C1876205	Congenital Disorders	C0242354
+SLC35C1 gene	C1426768	Congenital Disorders	C0242354
+Gene Feature	C1517495	Congenital Disorders	C0242354
+DRD2 gene	C1333253	Myopia	C0027092
+TRIP11 gene	C1421146	Skeletal dysplasia	C0410528
+CSGALNACT1 gene	C2239313	Skeletal dysplasia	C0410528
+TFAM gene	C1420696	Anemia of prematurity	C0158996
+SEPT4 gene	C1539747	Cardiovascular Diseases	C0007222
+P2RY12 gene	C1425330	Cardiovascular Diseases	C0007222
+LPAR3 wt Allele	C3812695	Cardiovascular Diseases	C0007222
+FGR gene	C0919478	Cardiovascular Diseases	C0007222
+GOSR2 gene	C1415180	Cardiovascular Diseases	C0007222
+IGF1 gene	C1334089	Cardiovascular Diseases	C0007222
+PYCR1 gene	C1419152	Cutis Laxa	C0010495
+RASA1 wt Allele	C2984552	Graves Disease	C0018213
+PRPF6 gene	C1826706	Muscular dystrophy congenital, merosin negative	C1263858
+SURF1 gene	C1420527	Muscular dystrophy congenital, merosin negative	C1263858
+PDHA1 gene	C1418437	Muscular dystrophy congenital, merosin negative	C1263858
+SLC18A3 gene	C1420116	Myasthenias	C0947912
+COX15 gene	C1413632	Infantile cardiomyopathy	C1854776
+COLQ gene	C1413603	Myasthenic Syndromes, Congenital	C0751882
+SLC18A3 gene	C1420116	Myasthenic Syndromes, Congenital	C0751882
+GFPT1 gene	C1415046	Myasthenic Syndromes, Congenital	C0751882
+ALG14 gene	C1823173	Myasthenic Syndromes, Congenital	C0751882
+CHAT gene	C1413376	Myasthenic Syndromes, Congenital	C0751882
+AGRN gene	C1412285	Myasthenic Syndromes, Congenital	C0751882
+PDCD6 gene	C1418406	Myasthenic Syndromes, Congenital	C0751882
+RAPSN gene	C1419271	Myasthenic Syndromes, Congenital	C0751882
+DPAGT1 gene	C1414133	Myasthenic Syndromes, Congenital	C0751882
+DOK7 gene	C1824957	Myasthenic Syndromes, Congenital	C0751882
+CHRNE gene	C1413412	Myasthenic Syndromes, Congenital	C0751882
+SCN4A gene	C1419862	Myasthenic Syndromes, Congenital	C0751882
+ECHS1 gene	C1414247	MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS	C1858854
+LRP4 gene	C1416916	Myasthenia Gravis	C0026896
+LRPPRC gene	C1423677	Mitochondrial cardiomyopathy	C3532239
+LIPT2 gene	C2829636	Maple Syrup Urine Disease	C0024776
+LIAS gene	C1424272	Maple Syrup Urine Disease	C0024776
+INDUCIBLE cAMP EARLY REPRESSOR	C1852403	Maple Syrup Urine Disease	C0024776
+TYR gene	C1421250	Maple Syrup Urine Disease	C0024776
+CASQ2 gene	C1413135	muscle degeneration	C0234958
+MBNL1 gene	C1417055	muscle degeneration	C0234958
+AOC1 gene	C1412100	muscle degeneration	C0234958
+DMPK gene	C1414085	Hypogonadism	C0020619
+CSTB gene	C1332798	Neuropathy ataxia and retinis pigmentosa	C1328349
+MPV17 gene	C1417247	Glycogen Storage Disease Type V	C0017924
+MPV17 gene	C1417247	NAVAJO NEUROHEPATOPATHY	C1850406
+IMPACT gene	C1825598	Cirrhosis	C1623038
+S100A10 wt Allele	C3538774	Ubiquinone dehydrogenase deficiency	C0342778
+ARX gene	C1425272	Early infantile epileptic encephalopathy with suppression bursts	C0393706
+MIR155 gene	C1537811	Cerebral Infarction	C0007785
+MBNL1 gene	C1417055	Cardiomyopathy, Dilated	C0007193
+TTN gene	C1421222	Cardiomyopathy, Dilated	C0007193
+ALG6 gene	C1427953	Cardiomyopathy, Dilated	C0007193
+IGHD5-12 gene	C1415963	Cardiomyopathy, Dilated	C0007193
+ATXN8OS gene	C1825850	Unverricht-Lundborg Syndrome	C0751785
+SLC6A19 gene	C1428660	Amino Acid Metabolism, Inborn Errors	C0002514
+GCDH gene	C1415009	Amino Acid Metabolism, Inborn Errors	C0002514
+CHAF1A wt Allele	C3812373	Hyperuricemia	C0740394
+NDUFAF5 gene	C1423817	Gastroesophageal reflux disease	C0017168
+IMPACT gene	C1825598	Gastroesophageal reflux disease	C0017168
+FOXD3 gene	C1414672	Complex nervous system disease or syndrome	C0541441
+SLC35A2 gene	C1420188	Epilepsies, Partial	C0014547
+SRD5A3 gene	C2240046	Dermatitis	C0011603
+ALG1 gene	C1425428	Dermatitis	C0011603
+GGT1 gene	C1415053	Hepatitis	C0019158
+BCAT1 gene	C1412751	Hepatitis	C0019158
+RPLP2 gene	C1419693	Hepatitis	C0019158
+PCDH19 gene	C1422530	Epileptic encephalopathy	C0543888
+ALG13 gene	C1823172	Epileptic encephalopathy	C0543888
+MAN1B1 gene	C1416994	Epileptic encephalopathy	C0543888
+PMM2 gene	C1418674	Protein Deficiency	C0033626
+SLCO2A1 gene	C1420129	Congenital disorder of glycosylation type 1A	C0349653
+MPI gene	C1417244	Congenital disorder of glycosylation type 1A	C0349653
+PMM2 gene	C1418674	Congenital disorder of glycosylation type 1A	C0349653
+VANGL2 gene	C1423541	Congenital disorder of glycosylation type 1A	C0349653
+CYP2C19 gene	C1332828	Transient Ischemic Attack	C0007787
+IMPACT gene	C1825598	Sialorrhea	C0037036
+HTR3A gene	C1333933	Irritable Bowel Syndrome	C0022104
+SAT1 wt Allele	C1705827	Irritable Bowel Syndrome	C0022104
+ATXN3 gene	C1538301	Irritable Bowel Syndrome	C0022104
+SLC5A7 gene	C1422359	Irritable Bowel Syndrome	C0022104
+DSG1 gene	C1414168	Painful Bladder Syndrome	C1720830
+SLC22A16 gene	C1426843	Chronic Obstructive Airway Disease	C0024117
+IMPACT gene	C1825598	Chronic Obstructive Airway Disease	C0024117
+LAMA1 gene	C1416775	Chronic Obstructive Airway Disease	C0024117
+IMPACT gene	C1825598	Heart failure	C0018801
+NDUFS4 gene	C1417647	Heart failure	C0018801
+TAC1 wt Allele	C1705924	Heart failure	C0018801
+LY86 gene	C1424584	Heart failure	C0018801
+INDUCIBLE cAMP EARLY REPRESSOR	C1852403	Isovaleryl-CoA dehydrogenase deficiency	C0268575
+HCRTR2 gene	C1415502	Dyssomnias	C0700201
+HRH1 gene	C1439351	Gastrointestinal Diseases	C0017178
+PDE5A wt Allele	C2987167	Observation of Neuromuscular Block	C0700323
+P2RX1 gene	C1418211	Colitis	C0009319
+P2RY12 gene	C1425330	Colitis	C0009319
+RGS10 gene	C1419368	Colitis	C0009319
+LAMA1 gene	C1416775	Familial dilated cardiomyopathy	C0340427
+ARIH1 gene	C1412533	Diabetic Neuropathies	C0011882
+TYRO3 gene	C1367457	Glaucoma	C0017601
+Retinoic Acid Response Element	C1514917	Glaucoma	C0017601
+CNR1 gene	C1413554	SVEINSSON CHORIORETINAL ATROPHY	C1862382
+Alleles	C0002085	Urologic Diseases	C0042075
+ELAVL2 gene	C1414372	Fibrosis, Liver	C0239946
+CNR1 gene	C1413554	Renal fibrosis	C0151650
+IMPACT gene	C1825598	Congenital vascular anomaly	C1961121
+P2RY12 gene	C1425330	Acute Coronary Syndrome	C0948089
+HRH4 gene	C1424950	Chronic inflammatory disorder	C1290886
+PEX26 gene	C1427818	Papillon-Lefevre Disease	C0030360
+LY86 gene	C1424584	Endometriosis	C0014175
+PAH gene	C1418251	Classical phenylketonuria	C0751434
+PAH gene	C1418251	Hyperphenylalaninaemia	C0751435
+Genes, Recessive	C0017361	Hyperphenylalaninaemia	C0751435
+DNAJC12 gene	C1539297	Hyperphenylalaninaemia	C0751435
+SPR gene	C1420371	Hyperphenylalaninaemia	C0751435
+QDPR gene	C1419182	Hyperphenylalaninaemia	C0751435
+VIL1 gene	C1421449	Hyperphenylalaninaemia	C0751435
+Alleles	C0002085	Hyperphenylalaninaemia	C0751435
+C7orf49 gene	C1824234	Hyperphenylalaninaemia	C0751435
+GCH1 gene	C1415012	Hyperphenylalaninaemia	C0751435
+DPAGT1 gene	C1414133	Hashimoto Disease	C0677607
+PMM2 gene	C1418674	Peroxisome Biogenesis Disorder, Complementation Group C	C1832232
+MUC16 gene	C1423594	Peroxisome Biogenesis Disorder, Complementation Group C	C1832232
+KCNT1 gene	C1425836	Peroxisome Biogenesis Disorder, Complementation Group C	C1832232
+ERCC3 gene	C1333357	PHOTOPAROXYSMAL RESPONSE 1	C1868677
+GTF2H5 gene	C1539623	PHOTOPAROXYSMAL RESPONSE 1	C1868677
+FNDC5 gene	C1426803	Hyperprolactinemia	C0020514
+DMPK gene	C1414085	Erectile dysfunction	C0242350
+TBX4 wt Allele	C3813609	Chronic liver disease	C0341439
+VMA21 gene	C2681112	Chronic liver disease	C0341439
+CNR1 gene	C1413554	Chronic Kidney Diseases	C1561643
+CALD1 wt Allele	C3813548	Chronic Kidney Diseases	C1561643
+SPR gene	C1420371	motor disorder	C0221163
+DDC gene	C1413943	Deficiency of aromatic-L-amino-acid decarboxylase	C1291564
+P2RY1 gene	C1418217	Coronary Arteriosclerosis	C0010054
+PORCN gene	C1538703	Lewy Body Disease	C0752347
+RAB5A gene	C1419212	Lewy Body Disease	C0752347
+HEPATIC PROTEIN	C1840635	Alcoholic Liver Diseases	C0023896
+MGLL gene	C1442515	Cat eye syndrome	C0265493
+FAM132B gene	C2239422	Impaired glucose tolerance	C0271650
+DLX4 gene	C1414078	Impaired glucose tolerance	C0271650
+AHSG gene	C1412296	Allergic condition	C0851444
+LAMA1 gene	C1416775	Lung Diseases, Obstructive	C0600260
+MUC5AC gene	C1417497	Necrotizing Enterocolitis	C0520459
+PVRL1 gene	C1419142	Disorder of ejaculation	C0235969
+PCSK7 gene	C1418392	Adrenoleukodystrophy	C0162309
+PEX2 gene	C1419149	Adrenoleukodystrophy	C0162309
+ABCD1 gene	C1412084	Adrenoleukodystrophy	C0162309
+NEFL gene	C1417668	Adrenoleukodystrophy	C0162309
+ENPP2 gene	C1414408	Hepatic Encephalopathy	C0019151
+IL13 gene	C1334103	Peptic Ulcer	C0030920
+LMOD1 gene	C1416886	Pneumocystis jiroveci pneumonia	C1535939
+DIO2 gene	C1414052	Pneumocystis jiroveci pneumonia	C1535939
+P2RY12 gene	C1425330	Old myocardial infarction	C0155668
+NGLY1 gene	C1425023	Lupus Erythematosus, Systemic	C0024141
+PMM2 gene	C1418674	Lupus Erythematosus, Systemic	C0024141
+IL13 gene	C1334103	Gastritis	C0017152
+NLGN3 gene	C1422546	Gastrointestinal dysfunction	C0679407
+LY96 gene	C1424783	Gastroparesis	C0152020
+ELF4 gene	C1414377	Hyperostosis, Diffuse Idiopathic Skeletal	C0020498
+MAGT1 gene	C2239666	Hyperostosis, Diffuse Idiopathic Skeletal	C0020498
+PRRT2 wt Allele	C3539645	Chronic Fatigue Syndrome	C0015674
+MGLL gene	C1442515	Carbamoyl-Phosphate Synthase I Deficiency Disease	C0751753
+DST gene	C1539312	Infestation by Phthirus pubis	C0030759
+IL13 gene	C1334103	Viral respiratory infection	C0729531
+HTR2C gene	C1415811	Obesity, Morbid	C0028756
+HTR2C gene	C1415811	Childhood Obesity	C3645710
+NMNAT1 gene	C1425150	Macular degeneration	C0024437
+IMPACT gene	C1825598	Primary biliary cirrhosis	C0008312
+MMD gene	C1417198	Muscular Dystrophy, Facioscapulohumeral	C0238288
+PMM2 gene	C1418674	Immunologic Deficiency Syndromes	C0021051
+HCRT gene	C1415500	Thalamic infarction	C1611171
+DMPK gene	C1414085	Dyslipidemias	C0242339
+SREBF1 gene	C1420398	Hypercholesterolemia	C0020443
+PIGN gene	C1418568	Fryns syndrome	C0220730
+LPAR3 wt Allele	C3812695	Malaria	C0024530
+MTHFR gene	C0919427	Hyperhomocysteinemia	C0598608
+REG3A wt Allele	C3538851	Persistent pulmonary hypertension	C1135361
+SLC6A3 wt Allele	C3813713	Ileitis	C0020877
+DRD2 gene	C1333253	Ileitis	C0020877
+CDKL5 gene	C1420484	Rett Syndrome	C0035372
+LPAR3 wt Allele	C3812695	Cestode Infections	C0007894
+SURF1 gene	C1420527	PARKINSON DISEASE, LATE-ONSET	C3160718
+DSE gene	C1427359	Aortic Valve Stenosis	C0003507
+ATXN3 gene	C1538301	Acute Cerebrovascular Accidents	C0751956
+LY86 gene	C1424584	Left ventricular systolic dysfunction	C1277187
+PEBP1 gene	C1826565	Ventricular arrhythmia	C0085612
+CHRNA9 gene	C1422395	Nevi flammei, familial multiple	C2931029
+SLC18A3 gene	C1420116	Nevi flammei, familial multiple	C2931029
+DYM gene	C1539322	Nevi flammei, familial multiple	C2931029
+CHRNA7 gene	C1413406	Nevi flammei, familial multiple	C2931029
+LYNX1 gene	C1537627	Nevi flammei, familial multiple	C2931029
+DRD1 gene	C1333250	heart inflammation	C0744673
+PIR gene	C1538650	OROFACIAL CLEFT 1	C1861537
+CELF1 gene	C1413824	Male infertility	C0021364
+ANTXR1 wt Allele	C3540546	Seckel syndrome	C0265202
+LRP4 gene	C1416916	Bone Diseases	C0005940
+NCF1 gene	C1417608	Dejerine-Sottas Disease (disorder)	C0011195
+NOX4 gene	C1417771	Dejerine-Sottas Disease (disorder)	C0011195
+CYBB gene	C1413844	Dejerine-Sottas Disease (disorder)	C0011195
+UROD wt Allele	C2987231	Widespread Disease	C0849867
+GFPT1 gene	C1415046	Pentalogy of Cantrell	C0559483
+HEPATIC PROTEIN	C1840635	Nonalcoholic Steatohepatitis	C3241937
+TMEM43 gene	C1540016	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 5 (disorder)	C1858379
+HM13 gene	C1424276	Mycoses	C0026946
+HCRT gene	C1415500	Cataplexy	C0007384
+LAMA1 gene	C1416775	Eosinophilia	C0014457
+IL13 gene	C1334103	asthma chronic	C0877430
+PNOC gene	C1418716	Acute myocardial ischemia	C0746731
+RYR1 gene	C1419778	POLYCYSTIC KIDNEY DISEASE 1	C3149841
+CGA gene	C1413366	Motility disorder of intestine	C0400865
+AMD1 wt Allele	C3539530	Dehydration	C0011175
+CASQ2 gene	C1413135	Stress-induced polymorphic ventricular tachycardia	C2677794
+TNIK gene	C1428997	Endogenous Hyperinsulinism	C1257963
+BRAF gene	C0812241	Endogenous Hyperinsulinism	C1257963
+KDR gene	C1334306	Endogenous Hyperinsulinism	C1257963
+RPLP2 gene	C1419693	Viral hepatitis	C0042721
+BCAT1 gene	C1412751	Viral hepatitis	C0042721
+GGT1 gene	C1415053	Viral hepatitis	C0042721
+IMPACT gene	C1825598	Taste Disorders	C0039338
+Alleles	C0002085	Sensory deficit	C0748618
+NGLY1 gene	C1425023	Adrenal gland hypofunction	C0001623
+KSS gene	C1416765	Adrenal gland hypofunction	C0001623
+GMPPA gene	C1539585	Adrenal gland hypofunction	C0001623
+PMM2 gene	C1418674	Congenital disorder of glycosylation, type 2C	C0398739
+BOMBAY PHENOTYPE	C1859408	Congenital disorder of glycosylation, type 2C	C0398739
+MAN1B1 gene	C1416994	Neonatal stroke	C1299567
+PTS gene	C1419129	6-pyruvoyl-tetrahydropterin synthase deficiency	C0878676
+ALDH7A1 gene	C1412691	EPILEPSY, PYRIDOXINE-DEPENDENT	C1849508
+PEX6 gene	C1418478	Peroxisomal Disorders	C0282528
+PEX1 gene	C1418469	Peroxisomal Disorders	C0282528
+PHEX gene	C1418526	Peroxisomal Disorders	C0282528
+PEX2 gene	C1419149	Peroxisomal Disorders	C0282528
+SNAP29 gene	C1420271	Cerebral dysgenesis	C0456144
+ACADM gene	C1412107	Medium-chain acyl-coenzyme A dehydrogenase deficiency	C0220710
+IMPACT gene	C1825598	Medium-chain acyl-coenzyme A dehydrogenase deficiency	C0220710
+SORD gene	C1420311	Galactosemias	C0016952
+PMM2 gene	C1418674	Galactosemias	C0016952
+GCDH gene	C1415009	Galactosemias	C0016952
+AMD1 wt Allele	C3539530	Ketonuria	C0162275
+NGLY1 gene	C1425023	Autosomal recessive hereditary disorder	C0265388
+SIX5 gene	C1420076	Nuclear cataract	C0392557
+NGLY1 gene	C1425023	CONGENITAL DISORDER OF DEGLYCOSYLATION	C3808991
+LRP2 wt Allele	C3811119	CONGENITAL DISORDER OF DEGLYCOSYLATION	C3808991
+PIGM gene	C1425829	Congenital disorder of glycosylation type 1B	C1865145
+KLKB1 gene	C1416681	Hyperkeratosis	C0870082
+MOGS gene	C1832467	Congenital Disorder Of Glycosylation, Type IIB	C1853736
+MAN1B1 gene	C1416994	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Ii	C1842836
+TMEM165 gene	C1823430	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Ii	C1842836
+PMM2 gene	C1418674	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Ii	C1842836
+MPDU1 gene	C1417235	Ichthyoses	C0020757
+SNAP29 gene	C1420271	Ichthyoses	C0020757
+KLKB1 gene	C1416681	Exfoliative dermatitis	C0011606
+ALG1 gene	C1425428	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Ix	C3810067
+GOLGB1 gene	C1415178	Cleft Palate	C0008925
+COL13A1 gene	C1413573	Myasthenic Syndrome	C0549225
+PPAN gene	C1418773	Myasthenic Syndrome	C0549225
+SYT2 gene	C1420557	Myasthenic Syndrome	C0549225
+COG1 gene	C1416821	Congenital disorder of glycosylation, type 2G	C2931011
+VANGL2 gene	C1423541	Congenital disorder of glycosylation, type 2G	C2931011
+MAGT1 gene	C2239666	X-Linked Combined Immunodeficiency Diseases	C1279481
+ATP6AP1 gene	C1412687	Hydrops Fetalis, Non-Immune	C0455988
+DPM3 gene	C1414139	alpha-Dystroglycanopathies	C2936406
+MAGT1 gene	C2239666	Primary immune deficiency disorder	C0398686
+NGLY1 gene	C1425023	Aspartylglucosaminuria	C0268225
+PMM2 gene	C1418674	multi-organ disease	C1141933
+MTSS1 gene	C1426941	Hereditary Multiple Exostoses	C0015306
+POMT1 gene	C1418752	Walker-Warburg congenital muscular dystrophy	C0265221
+PEX2 gene	C1419149	Pseudo-Zellweger syndrome	C1533628
+mutant gene	C0678941	Zellweger Spectrum	C3658299
+PEX1 gene	C1418469	Zellweger Spectrum	C3658299
+PEX10 gene	C1418470	Zellweger Spectrum	C3658299
+PHEX gene	C1418526	Peroxisome biogenesis disorders	C1832200
+PEX1 gene	C1418469	Peroxisome biogenesis disorders	C1832200
+PEX13 gene	C1418474	Peroxisome biogenesis disorders	C1832200
+GNPAT gene	C1415166	Chondrodysplasia Punctata, Rhizomelic	C0282529
+PEX2 gene	C1419149	Adrenoleukodystrophy, Neonatal	C0282525
+PEX26 gene	C1427818	PEROXISOME BIOGENESIS DISORDER, COMPLEMENTATION GROUP 8	C3553950
+PEX2 gene	C1419149	Peroxisome Biogenesis Disorder, Complementation Group 1	C1865803
+PEX1 gene	C1418469	Peroxisome Biogenesis Disorder, Complementation Group 1	C1865803
+DCX gene	C1413938	Malformations of Cortical Development, Group II	C1837249
+PEX2 gene	C1419149	Steatohepatitis	C2711227
+MBNL1 gene	C1417055	Dystrophia myotonica 2	C2931689
+RBFOX2 gene	C1419304	Dystrophia myotonica 2	C2931689
+RBFOX1 gene	C1854634	Dystrophia myotonica 2	C2931689
+ZNF9 gene	C1421847	Dystrophia myotonica 2	C2931689
+APOC2 gene	C1412477	myotonic muscular dystrophy	C0242007
+Alleles	C0002085	Myotonic Disorders	C0553604
+BIN1 gene	C1332412	Centronuclear myopathy	C0175709
+GAA gene	C1414899	Fabry Disease	C0002986
+NAT8 gene	C1425280	Fabry Disease	C0002986
+MBNL1 gene	C1417055	Myotonia Congenita	C0027127
+SCN4A gene	C1419862	Myotonia Congenita	C0027127
+Candidate Disease Gene	C1332838	Malignant hyperpyrexia due to anesthesia	C0024591
+RYR1 gene	C1419778	Malignant hyperpyrexia due to anesthesia	C0024591
+EIF2S1 gene	C1414334	Low phospholipid-associated cholelithiasis	C2609268
+MBNL1 gene	C1417055	Heart Block	C0018794
+LY96 gene	C1424783	Facioscapulohumeral muscular dystrophy 1a	C1834673
+IMPACT gene	C1825598	Restrictive lung disease	C0085581
+ACTA1 gene	C1412136	Sarcoidosis	C0036202
+ACTA1 gene	C1412136	Amyloid myopathy	C0342618
+TTN wt Allele	C3538714	Gingivitis	C0017574
+MBNL1 gene	C1417055	IMMUNODEFICIENCY 13	C3809768
+MBNL3 gene	C1427004	IMMUNODEFICIENCY 13	C3809768
+SRSF1 gene	C1419989	SPINOCEREBELLAR ATAXIA 31 (disorder)	C1861736
+FCGRT gene	C1414557	Hypoproteinemia, Hypercatabolic	C1855796
+Human gene	C0314604	Muscular Dystrophy, Congenital, Type 1D	C1837229
+PGD gene	C1418504	Single-Gene Defects	C0037176
+Candidate Disease Gene	C1332838	Kartagener Syndrome	C0022521
+LAMB2 gene	C1416781	Pierson syndrome	C1836876
+CHRND gene	C1413411	Myasthenic Syndromes, Congenital, Slow Channel	C0751885
+LAMB2 gene	C1416781	Steroid-resistant nephrotic syndrome	C0403397
+LRP4 gene	C1416916	SCLEROSTEOSIS 2	C3280402
+RAPSN gene	C1419271	Congenital Myasthenic Syndromes, Postsynaptic	C0751883
+CHRNG gene	C1413413	MULTIPLE PTERYGIUM SYNDROME, LETHAL TYPE	C1854678
+KARS gene	C1416540	DEAFNESS, AUTOSOMAL RECESSIVE 89	C3151351
+MYO7A gene	C1417569	DEAFNESS, AUTOSOMAL RECESSIVE 2	C1838701
+HEPATIC PROTEIN	C1840635	Primary sclerosing cholangitis	C0566602
+AASS gene	C1424938	Hyperlysinemias	C0268553
+BCAT1 gene	C1412751	Hepatitis, Autoimmune	C0241910
+GGT1 gene	C1415053	Hepatitis, Autoimmune	C0241910
+RPLP2 gene	C1419693	Hepatitis, Autoimmune	C0241910
+SLC16A1 gene	C1420102	Lymphangiectasis	C0024214
+PMM2 gene	C1418674	Lymphangiectasis	C0024214
+XYLT1 gene	C1423546	BARATELA-SCOTT SYNDROME	C3550876
+FAM64A gene	C1825121	Sandhoff Disease	C0036161
+NGLY1 gene	C1425023	Mineralocorticoid deficiency	C1955743
+VANGL2 gene	C1423541	trisomy 8 mosaic	C1096527
+NGLY1 gene	C1425023	Motor Neuron Disease, Upper	C0521659
+ELOVL1 gene	C1422635	Cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome	C1836033
+STX16 gene	C1420496	Pseudohypoparathyroidism Type 1B	C2932715
+GTF2H5 gene	C1539623	Congenital ichthyosis	C0020758
+ERCC3 gene	C1333357	Congenital ichthyosis	C0020758
+ABCA12 gene	C1422805	Harlequin type ichthyosis	C0598226
+IMPACT gene	C1825598	Lipofuscinosis	C0268279
+Homologous Gene	C1334043	Miller Dieker syndrome	C0265219
+Transgenes	C0282641	Epiphyseal dysplasia, multiple, 1	C1838280
+Cyclic AMP Response Element	C1511573	Oculocerebrorenal Syndrome	C0028860
+OCRL gene	C1417931	Oculocerebrorenal Syndrome	C0028860
+GPNMB gene	C1415205	Anterior segment mesenchymal dysgenesis	C1862839
+MCOLN1 gene	C1421947	Corneal Dystrophy, Lisch Epithelial	C2749050
+Gene Feature	C1517495	CARDIOMYOPATHY, FAMILIAL RESTRICTIVE, 1 (disorder)	C1861861
+TNNI3 gene	C1420826	CARDIOMYOPATHY, FAMILIAL RESTRICTIVE, 1 (disorder)	C1861861
+NEFL gene	C1417668	spinal cord degeneration	C0748901
+ENPP2 gene	C1414408	Hepatic ascites	C0401037
+PCBD1 gene	C1418296	Transient hyperphenylalaninemia	C0268464
+PCBD1 gene	C1418296	Hyperphenylalaninemia with primapterinuria	C1849700

@@ -1,0 +1,2798 @@
+Drug	Drug_id	Drug_type	Drug_type_id
+Lysine	C0024337	protein	null
+Levodopa	C0023570	protein	null
+Zinostatin	C0027597	protein	null
+Taurine	C0039350	protein	null
+Glutamine	C0017797	protein	null
+Tryptophan	C0041249	protein	null
+MG 132	C0246694	protein	null
+Dopa	C0013023	protein	null
+Endopeptidases	C0030946	protein	null
+AMINO ACIDS/PROTEINS	C1874187	protein	null
+calpastatin	C0054534	protein	null
+Histone deacetylase inhibitor	C1512474	protein	null
+Threonine	C0040005	protein	null
+Recombinant Interferon-gamma	C0021740	protein	null
+Fibrinogen	C0016006	protein	null
+tetanus toxoid helper peptide	C1515333	protein	null
+Amino Acids	C0002520	protein	null
+Amyloid Proteins	C1456454	protein	null
+Phosphocreatine	C0031634	protein	null
+Aminobutyric Acid	C0220780	protein	null
+calpeptin	C0108192	protein	null
+Argipressin	C0003779	protein	null
+Glycine	C0017890	protein	null
+Serine	C0036720	protein	null
+Interferons	C0021747	protein	null
+IL1RN protein, human	C1504688	protein	null
+Interleukin-12	C0123759	protein	null
+Recombinant Interferon-alpha Inducible Protein 10	C1522712	protein	null
+Botulinum Toxins	C0006055	protein	null
+Glutathione Disulfide	C0061516	protein	null
+Glutamic Acid	C0061472	protein	null
+Touchdown	C0912256	protein	null
+ethyl cysteine	C0059760	protein	null
+Insulin	C0021641	protein	null
+Methionine	C0025646	protein	null
+Superoxide Dismutase	C0038838	protein	null
+taltirelin hydrate	C0961704	protein	null
+Gelatin	C0017237	protein	null
+Interleukin 1 Receptor Antagonist Protein	C1704264	protein	null
+fluorodopa F 18	C0244672	protein	null
+Tyrosine	C0041485	protein	null
+Immune Sera	C0020960	protein	null
+Valine	C0042285	protein	null
+Immunoglobulins, Intravenous	C0085297	protein	null
+N-(3-N-(benzyloxycarbonyl)amino-1-carboxypropyl)leucyl-O-methyltyrosine N-methylamide	C0067503	protein	null
+CI 4	C0387382	protein	null
+Interferon Type I	C0021743	protein	null
+Citrulline	C0008864	protein	null
+Acetylcysteine	C0001047	protein	null
+Arginine	C0003765	protein	null
+Rubella virus vaccine	C0035923	protein	null
+Leucine	C0023401	protein	null
+Carnitine	C0007258	protein	null
+Fibrin	C0015982	protein	null
+Glucagon	C0017687	protein	null
+Baclofen	C0004609	protein	null
+Reduced Glutathione	C0034917	protein	null
+Buthionine Sulfoximine	C0054252	protein	null
+Thyroid preparations	C0279175	protein	null
+Follicle Stimulating Hormone	C0733758	protein	null
+Isoleucine	C0022192	protein	null
+Vigabatrin	C0048044	protein	null
+Aminobutyrate	C0178474	protein	null
+Histidine	C0019602	protein	null
+Diazooxonorleucine	C0012020	protein	null
+rituximab	C0393022	protein	null
+Triiodothyronine	C0041014	protein	null
+Vasopressins	C0042413	protein	null
+S-Adenosylmethionine	C0036002	protein	null
+kinase inhibitor	C3537035	protein	null
+mitochondrial uncoupling protein 2	C0536847	protein	null
+Immunoglobulins	C0021027	protein	null
+humanin	C0966511	protein	null
+Trypsin Inhibitors	C0041242	protein	null
+Ornithine, (L)-Isomer	C0887117	protein	null
+N-Methylaspartate	C0079883	protein	null
+Oxytocin	C0030095	protein	null
+Botulinum Toxin Type A	C0006050	protein	null
+pregabalin	C0657912	protein	null
+Thyrotropin-Releasing Hormone	C0040162	protein	null
+Prolactin	C0033371	protein	null
+Phenylalanine	C0031453	protein	null
+Angiotensin II	C0003009	protein	null
+PKA inhibitor	C0243459	protein	null
+Corticotropin	C0001655	protein	null
+D-cycloserine	C0815039	protein	null
+5-Hydroxytryptophan	C0000578	protein	null
+Human Interleukin-10 (Nonglycosylated)	C2983956	protein	null
+tocilizumab	C1609165	protein	null
+proctolin	C0072059	protein	null
+Somatostatin	C0037659	protein	null
+Aspartame	C0003999	protein	null
+Sincalide	C0037167	protein	null
+Hydroxyproline	C0020388	protein	null
+adrenomedullin	C0215825	protein	null
+Sodium Glutamate	C0037511	protein	null
+motilin	C0026594	protein	null
+Atosiban	C0164398	protein	null
+Luteinizing Hormone	C0023607	protein	null
+aloxistatin	C0902566	protein	null
+omalizumab	C0966225	protein	null
+interleukin-1beta-converting enzyme inhibitor	C0168318	protein	null
+Amylases	C0002712	protein	null
+Cystine	C0010682	protein	null
+Lipase	C0023764	protein	null
+TRYPSIN	C0041236	protein	null
+Caseins	C0007332	protein	null
+certolizumab pegol	C1872109	protein	null
+Thrombin	C0040018	protein	null
+Hyaluronidase	C0020197	protein	null
+Octreotide	C0028833	protein	null
+Leuprolide	C0085272	protein	null
+Leuprolide Acetate	C0700596	protein	null
+Gonadotropins	C0018061	protein	null
+Gonadorelin	C0023610	protein	null
+Monoclonal Antibody HuM291	C0879551	protein	null
+Penicillamine	C0030817	protein	null
+Albumin Human, USP	C0304925	protein	null
+Glycoside Hydrolases	C0017976	protein	null
+polysaccharide peptide	C0296773	protein	null
+alpha-Methyltyrosine	C0051427	protein	null
+Digestive Enzymes	C0544420	protein	null
+Transforming Growth Factor Beta 1	C1704256	protein	null
+recombinant human bone morphogenetic protein-2	C1445578	protein	null
+compound 20	C0056212	protein	null
+2-Amino-5-phosphonovalerate	C0000254	protein	null
+Captopril	C0006938	protein	null
+Recombinant Interleukin-6	C1527132	protein	null
+ranpirnase	C0069919	protein	null
+Interleukin-7	C0021761	protein	null
+soy protein isolate	C0677666	protein	null
+Cyclosporine	C0010592	protein	null
+whey protein	C0078479	protein	null
+Pregnant Mare Serum Gonadotropins	C1136247	protein	null
+Chorionic Gonadotropin	C0018062	protein	null
+Angiotensins	C0003018	protein	null
+saporin	C0244777	protein	null
+Lioresal	C0699999	protein	null
+adalimumab	C1122087	protein	null
+cerebrolysin	C0055108	protein	null
+SD 62	C0650999	protein	null
+desmopressin	C0011701	protein	null
+Corticotropin-Releasing Hormone	C0010132	protein	null
+Amino Acids, Essential	C0002525	protein	null
+Cholecystokinin	C0008328	protein	null
+Factor VIII	C0015506	protein	null
+muscarinic toxin 7	C0964038	protein	null
+Recombinant Granulocyte-Macrophage Colony-Stimulating Factors	C0376563	protein	null
+infliximab	C0666743	protein	null
+Immunoglobulin G	C0020852	protein	null
+Alpha-glucosidase	C0002272	protein	null
+CHYMOTRYPSIN	C0008742	protein	null
+GVS 111	C0534769	protein	null
+Natriuretic Peptides	C1144709	protein	null
+Thyrotropin	C0040160	protein	null
+Prolactin Release-Inhibiting Hormone	C0033373	protein	null
+Nesiritide	C0054015	protein	null
+H 77	C0062041	protein	null
+liraglutide	C1456408	protein	null
+methylarginyl-lysyl-prolyl-tryptophyl-tert-leucyl-leucyl-ethyl ester	C0128167	protein	null
+prohibitin	C0084178	protein	null
+neuromedin S	C1566901	protein	null
+Pancreatic lipase	C0443469	protein	null
+Gastric Inhibitory Polypeptide	C0017132	protein	null
+messenger protein	C0169911	protein	null
+premier	C0309847	protein	null
+Interferon Type II	C0021745	protein	null
+angiotensin I (1-7)	C0103306	protein	null
+cyanoginosin LR	C0056661	protein	null
+Mucin-1 protein	C0057628	protein	null
+GM 6001	C0210353	protein	null
+bevacizumab	C0796392	protein	null
+mecysteine	C0065850	protein	null
+Recombinant Transforming Growth Factor-Beta 1	C1515406	protein	null
+Thyroxine	C0040165	protein	null
+pasireotide	C1872203	protein	null
+ranibizumab	C1566537	protein	null
+Parathyroid Hormone	C0030520	protein	null
+Calcitonin	C0006668	protein	null
+L-leucyl-L-leucine methyl ester	C0281255	protein	null
+Growth Hormone	C0037663	protein	null
+Somatostatin analog	C0732165	protein	null
+Alanine, DL-	C1648700	protein	null
+LIVER FRACTION	C0982262	protein	null
+Urokinase	C0042071	protein	null
+Adenosylmethionine	C3826787	protein	null
+Fenclonine	C0030135	protein	null
+siltuximab	C1609931	protein	null
+Pancreatic enzyme	C0920330	protein	null
+Urinary Bladder Tumor Antigen	C1519830	protein	null
+Dysport	C0591427	protein	null
+Metyrosine	C0886584	protein	null
+Enalapril	C0014025	protein	null
+exenatide	C0167117	protein	null
+Streptokinase	C0038418	protein	null
+DENR protein, human	C0675739	protein	null
+Carnosine	C0007267	protein	null
+Lisinopril	C0065374	protein	null
+Protein Hydrolysates	C0033631	protein	null
+antagonist G	C0381385	protein	null
+CELLULASE	C0007641	protein	null
+theanine	C0076380	protein	null
+Dopachrome isomerase	C0114832	protein	null
+phosphoprotein phosphatase inhibitor 1	C0650866	protein	null
+Enkephalin, Ala(2)-MePhe(4)-Gly(5)-	C0525773	protein	null
+BRAF inhibitor	C3838813	protein	null
+Tyrosine Hydroxylase Inhibitor	C1519723	protein	null
+Methyl aspartate	C3825340	protein	null
+Incretins	C1562292	protein	null
+DDAVP	C0701195	protein	null
+OL 17	C0133780	protein	null
+phaclofen	C0070499	protein	null
+Ferritin	C0015879	protein	null
+tramiprosate	C0062961	protein	null
+Chlorophenylalanine	C3826571	protein	null
+glucagon-like peptide 1 (7-36)amide	C0061359	protein	null
+bivalirudin	C0168273	protein	null
+Antithrombins	C0003440	protein	null
+L-Selenomethionine	C1517683	protein	null
+threonyl-lysyl-proline	C0076549	protein	null
+abobotulinumtoxinA	C2719424	protein	null
+HOE 140	C0082926	protein	null
+COLLAGENASE	C0162745	protein	null
+Soy	C2756587	protein	null
+onabotulinumtoxinA	C2719767	protein	null
+tyrosyl-arginyl-phenylalanyl-lysinamide	C0077580	protein	null
+urinastatin	C0077906	protein	null
+Silk	C0074529	protein	null
+Plasminogen	C0032140	protein	null
+Gastrin	C0376180	protein	null
+Recombinant Interleukin-1	C1522428	protein	null
+Tissue factor pathway inhibitor	C0164707	protein	null
+butyloxycarbonyl-phenylalanyl-leucyl-lysine	C0623798	protein	null
+alteplase	C0032143	protein	null
+Recombinant Interleukins	C1527200	protein	null
+mepolizumab	C0969324	protein	null
+SB 30	C0084468	protein	null
+N-phthaloyl-4-aminobutyric acid	C0083693	protein	null
+N,N-dimethylarginine	C0067385	protein	null
+Antivenin	C0003450	protein	null
+Ornithine	C0029277	protein	null
+mullerian-inhibiting hormone	C0066928	protein	null
+Intrinsic factor	C0021918	protein	null
+Vasopressin (USP)	C1705480	protein	null
+pegvisomant	C0913469	protein	null
+Gonadotropin-Releasing Hormone Analog	C1268900	protein	null
+factor XIII	C0015528	protein	null
+Aminolevulinic Acid	C0002563	protein	null
+AD 5	C0050718	protein	null
+jasplakinolide	C0165117	protein	null
+Coagulation protein	C1292266	protein	null
+Insulin-Like Growth Factor Binding Protein 3	C0123707	protein	null
+trastuzumab	C0728747	protein	null
+digoxin antibodies Fab fragments	C0700607	protein	null
+BQ 788	C0253336	protein	null
+Fibroblast Growth Factor 7	C0064294	protein	null
+crotalphine	C2607211	protein	null
+DISCOVERY -4	C0308842	protein	null
+Recombinant Interferon Beta	C0751599	protein	null
+Interferon-beta	C0015980	protein	null
+alpha-aminobutyric acid	C0054314	protein	null
+O 1602	C3253490	protein	null
+Antiplasmin	C0003410	protein	null
+Plasmin	C0016016	protein	null
+ubenimex	C0053355	protein	null
+Azaserine	C0004480	protein	null
+von Willebrand factor	C0042971	protein	null
+omega-N-Methylarginine	C0069477	protein	null
+Soy Proteins	C0074926	protein	null
+velaglucerase alfa	C2919267	protein	null
+gloverin	C0664622	protein	null
+BQ 123	C0379142	protein	null
+dimethylglycine	C0058265	protein	null
+Dopal	C1517852	protein	null
+Serpins	C0036764	protein	null
+alpha-fluoromethylhistidine	C0051363	protein	null
+alemtuzumab	C0383429	protein	null
+Pancreatin	C0030304	protein	null
+Recombinant Macrophage Colony-Stimulating Factor	C1524095	protein	null
+eluxadoline	C3712232	protein	null
+linaclotide	C2000261	protein	null
+abatacept	C1619966	protein	null
+Methyldopa	C0025741	protein	null
+Posterior Pituitary Hormones	C0032017	protein	null
+N-acetyl-aspartyl-glutamate	C0130693	protein	null
+Cancer Vaccines	C0376659	protein	null
+prolylarginine	C0164296	protein	null
+pembrolizumab	C3658706	protein	null
+benzyloxycarbonylvalyl-alanyl-aspartyl fluoromethyl ketone	C0383779	protein	null
+gamma-Aminobutyrate	C0178649	protein	null
+Amino-Arginine	C1510863	protein	null
+Protein C	C0033621	protein	null
+factor IX	C0015491	protein	null
+Antithrombin III	C0003438	protein	null
+Blood Coagulation Factor	C0005789	protein	null
+PROTEIN C CONCENTRATE	C3854178	protein	null
+Tamm-Horsfall protein	C0077918	protein	null
+beta-Galactosidase	C0005220	protein	null
+Immunoglobulin D	C0020843	protein	null
+Prothrombin	C0033706	protein	null
+Recombinant Immune Globulin	C1527233	protein	null
+Meprin	C0733413	protein	null
+factor VII	C0015502	protein	null
+synacthen	C0592151	protein	null
+Mouse monoclonal antibody	C0359168	protein	null
+alpha 1-proteinase inhibitor, human	C0795657	protein	null
+diphenylhexatrienylpropanoylhydrazylstachyose	C0636099	protein	null
+thyroid (USP)	C0040134	protein	null
+chymostatin	C0055676	protein	null
+leupeptin	C0064858	protein	null
+Antipain	C0003403	protein	null
+Pentagastrin	C0030859	protein	null
+Basal insulin	C0650607	protein	null
+Epidermal Growth Factor	C0242275	protein	null
+Secretin	C0036534	protein	null
+mecasermin	C0904505	protein	null
+Antigens, Synthetic	C0039115	protein	null
+Recombinant Human Growth Hormone	C0384570	protein	null
+32-33 split proinsulin	C0165908	protein	null
+Kininogenase	C0022478	protein	null
+Thyroglobulin	C0040123	protein	null
+C-C Motif Chemokine 23	C0538072	protein	null
+growth hormone, bovine	C0520986	protein	null
+Mimosine	C0026153	protein	null
+tPA-PAI complex	C0522326	protein	null
+Erythropoietin	C0014822	protein	null
+Hypothalamic Releasing Factor	C0020660	protein	null
+eculizumab	C1541483	protein	null
+Leucine / Phenylalanine	C2736424	protein	null
+benzyloxycarbonylleucyl-leucyl-leucine aldehyde	C0105729	protein	null
+Thyrotropin-Releasing Hormone Analogue	C2699938	protein	null
+Nonessential amino acid	C0311461	protein	null
+M200	C2987578	protein	null
+oncogene protein E7, Human papillomavirus type 16	C0069508	protein	null
+6-Aminocaproic Acid	C0000608	protein	null
+hypotaurine	C0063235	protein	null
+Interferon-alpha	C0002199	protein	null
+N-Acetylcysteinamide	C1452654	protein	null
+Human rubella immunoglobulin	C1827835	protein	null
+Protamines	C0033603	protein	null
+vasopressin, 1-(1-mercaptocyclohexaneacetic acid)-2-(O- methyl-L-tyrosine)-8-L-arginine-	C0078080	protein	null
+Aprotinin	C0003641	protein	null
+myristoyl-L-methionine	C0757631	protein	null
+HLA-DRB1 antigen	C0122040	protein	null
+Chorulon	C0008527	protein	null
+basiliximab	C0676831	protein	null
+acetyl-aspartyl-glutamyl-valyl-aspartic acid p-nitroanilide	C0967499	protein	null
+Globulin-N	C0086348	protein	null
+Etanercept	C0717758	protein	null
+AD 20	C0050714	protein	null
+fragment X	C0118228	protein	null
+IP 20	C0063833	protein	null
+protein phosphatase inhibitor-2	C0072389	protein	null
+Amino acid supplement	C0556082	protein	null
+pantothenate	C0178793	protein	null
+Carglumic acid	C1318649	protein	null
+Insulin, Long-Acting	C0304870	protein	null
+Lioresal Intrathecal	C0721369	protein	null
+Integrator, veterinary brand name drug	C0309311	protein	null
+carfilzomib	C2001856	protein	null
+Gamma globulin serum	C0305052	protein	null
+Immunoglobulin G, Human	C2702333	protein	null
+Complement Inactivating Agents	C1564892	protein	null
+Saposin D	C0074043	protein	null
+Immune Globulin (Human)	C0358321	protein	null
+Bromelains	C0006217	protein	null
+Tetanus immune globulin, human	C0305058	protein	null
+AMP-activated protein kinase kinase	C0252214	protein	null
+Puregon	C0593515	protein	null
+Menopur	C0595531	protein	null
+Pregnyl	C0699381	protein	null
+jacalin	C0064133	protein	null
+casein hydrolysate	C0054845	protein	null
+M15 protein	C0168944	protein	null
+bovine serum albumin fraction v	C1646313	protein	null
+Antibodies, Bispecific	C0206492	protein	null
+eltrombopag	C1831905	protein	null
+TC 13	C0075874	protein	null
+TRYPSIN-CHYMOTRYPSIN	C0993235	protein	null
+Iletin I	C3180941	protein	null
+Tryptar preparation	C0544421	protein	null
+leucinal	C0064781	protein	null
+Hyaluronidase, Bovine	C1615665	protein	null
+Endo-Porter	C1722709	protein	null
+Interferon Alfa-2a	C0021734	protein	null
+Insulin Aspart	C1708521	protein	null
+NovoLog	C0939412	protein	null
+calcium proteins	C2064889	protein	null
+Protein supplement	C0770246	protein	null
+Recombinant Fibroblast Growth Factor-2	C1522505	protein	null
+Regular Insulin, Human	C0795635	protein	null
+Recombinant Interferon Alfa	C0751598	protein	null
+Insulin, Beef	C0304866	protein	null
+HER-2-neu peptide vaccine	C0879250	protein	null
+Recombinant Growth Hormone	C0376560	protein	null
+Abufne	C1448340	protein	null
+cysteine hydrochloride	C0724565	protein	null
+D-Glutamate	C0112117	protein	null
+Gamimune	C0162506	protein	null
+Gamimune N	C0162507	protein	null
+Endobulin	C0086217	protein	null
+Gammonativ	C0086334	protein	null
+Gammagard	C0086333	protein	null
+Iveegam	C0086491	protein	null
+Intraglobin	C0086482	protein	null
+Intraglobin F	C0086483	protein	null
+Modified Immune Globulin (Anti-Echovirus Antibody)	C0086636	protein	null
+Sandoglobulin	C0086952	protein	null
+Venoglobulin	C0087151	protein	null
+Venoglobulin-I	C0087152	protein	null
+Venimmune	C4704924	protein	null
+Gamunex	C1451114	protein	null
+Intravenous Immunoglobulins, Human	C3494178	protein	null
+Alphaglobin	C0524776	protein	null
+Endorphenyl	C0751433	protein	null
+Cordilox	C0010007	protein	null
+Mvasi	C4694346	protein	null
+Avastin	C1135130	protein	null
+bevacizumab-awwb	C4529301	protein	null
+Somatofalk	C0205952	protein	null
+Stilamin	C0205953	protein	null
+Iletin	C0020884	protein	null
+Sodium Insulin	C0037520	protein	null
+Novolin	C0028467	protein	null
+Acignost	C0001136	protein	null
+Peptavlon	C0702012	protein	null
+gamma-Fibrinogen	C0017032	protein	null
+Proterelin Tartrate Hydrate	C3661504	protein	null
+Abbott-38579	C0701790	protein	null
+Relefact TRH	C0699182	protein	null
+Thypinone	C0699184	protein	null
+Protirelin Tartrate (1:1)	C0040164	protein	null
+Stimu-TSH	C2713580	protein	null
+Thyroliberin	C2713581	protein	null
+TRH Prem	C2713579	protein	null
+Antepan	C2713578	protein	null
+Eltroxin	C0591440	protein	null
+levothyroxine sodium	C0079691	protein	null
+Levo-T	C0721340	protein	null
+Levoxyl	C0721346	protein	null
+Levothroid	C0721345	protein	null
+Dexnon	C1450012	protein	null
+L-Thyrox	C1450017	protein	null
+Thyrax	C1450019	protein	null
+Tiroxina Leo	C1450025	protein	null
+Synthroid	C0728762	protein	null
+Levothyroid	C0733849	protein	null
+Eltroxine	C0733848	protein	null
+Levoxine	C0733850	protein	null
+Unithroid	C0939521	protein	null
+Eferox	C1450013	protein	null
+L-Thyroxine Roche	C1450016	protein	null
+Levothyroxin Deladande	C1450018	protein	null
+L-Thyroxin beta	C1450014	protein	null
+Levothyrox	C1450020	protein	null
+Synthrox	C1450023	protein	null
+L-Thyroxin Henning	C1450015	protein	null
+Berlthyrox	C1450011	protein	null
+Novothyrox	C1450021	protein	null
+liothyronine sodium	C0546882	protein	null
+Cytomel	C0010826	protein	null
+Taurine Zinc Salt (2:1)	C0969648	protein	null
+Taurine Hydrochloride	C0949433	protein	null
+Taurine, Monopotassium Salt	C0949434	protein	null
+Levopa	C0700880	protein	null
+Dopar	C0720022	protein	null
+Larodopa	C0699991	protein	null
+Dopaflex	C1449995	protein	null
+Neoton	C0600301	protein	null
+Phosphocreatine, Disodium Salt	C0949402	protein	null
+acetyl-L-leucyl-L-leucyl-L-arginal	C0101149	protein	null
+Natpara	C3883368	protein	null
+Argipressin Tannate	C0282062	protein	null
+leupeptin, (S)-isomer	C0955390	protein	null
+leupeptin, monoacetate, (S)-isomer	C0955391	protein	null
+protease	C5200997	protein	null
+Biogonadil	C0005499	protein	null
+Choriogonin	C0008500	protein	null
+human chorionic gonadotropin	C1141639	protein	null
+Gonabion	C0018048	protein	null
+streptodornase	C0038415	protein	null
+Protein Kinase Inhibitors	C1449702	protein	null
+OL 27-400	C0878526	protein	null
+CsA-Neoral	C0699602	protein	null
+Sandimmune	C0699604	protein	null
+Sandimmun Neoral	C0699603	protein	null
+Neoral	C0699605	protein	null
+SQ-28,555	C0543474	protein	null
+Fosinopril, (1(S*(S*)),2 alpha,4 beta)-Isomer	C0886709	protein	null
+Fosinopril, (1(S*(R*)),2 alpha,4 alpha)-(D-Pro)-Isomer	C0886710	protein	null
+Tenso Stop	C1567478	protein	null
+Hiperlex	C1567479	protein	null
+Monopril	C0728957	protein	null
+aspartate magnesium hydrochloride	C0004011	protein	null
+magnesium aspartate	C0543448	protein	null
+Mg-5-Longoral	C0024470	protein	null
+Magnesiocard	C0677518	protein	null
+calcium aspartate	C0949222	protein	null
+potassium aspartate	C0032823	protein	null
+Activase	C0701942	protein	null
+Actilyse	C0678113	protein	null
+Cystatin B	C0075212	protein	null
+Cystatins	C0010646	protein	null
+Zomacton	C0592544	protein	null
+Norditropin	C0699617	protein	null
+Genotropin	C0699616	protein	null
+Nutropin	C0699619	protein	null
+Maxomat	C1564129	protein	null
+Cryo-Tropin	C1564130	protein	null
+Saizen	C0699618	protein	null
+Omnitrope	C1724675	protein	null
+Humatrope	C0684259	protein	null
+Serostim	C1963199	protein	null
+Lactaid	C0733877	protein	null
+Lactrase	C0721296	protein	null
+Dairyaid	C1564491	protein	null
+Lactogest	C1564492	protein	null
+deoxyribonucleases	C0011522	protein	null
+BNT-162C2	C5417956	protein	null
+BNT-162A1	C5398044	protein	null
+BNT-162B1	C5417955	protein	null
+Abdavomeran	C5446355	protein	null
+Gammalon	C0733457	protein	null
+Natrecor	C1170421	protein	null
+copeptins	C0056279	protein	null
+Lysosomal alpha-Glucosidase	C1706105	protein	null
+REGN-727	C5226665	protein	null
+Praluent	C4046859	protein	null
+Cystatin C (substance)	C0071744	protein	null
+Iplex	C1697533	protein	null
+Acidin-Pepsin	C0001120	protein	null
+Codotussyl	C1449424	protein	null
+Exomuc	C1449433	protein	null
+Frekatuss	C1449434	protein	null
+Fabrol	C0591477	protein	null
+Acetylcystein Atid	C1449411	protein	null
+Airbron	C1449415	protein	null
+Lindocetyl	C1449439	protein	null
+Mucosil	C1449443	protein	null
+Siccoral	C1449405	protein	null
+Acemuc	C1449406	protein	null
+Acetylcystein Trom	C1449413	protein	null
+Acetyst	C1449414	protein	null
+Fluprowit	C1449419	protein	null
+Bisolvon NAC	C1449421	protein	null
+Broncho-Fips	C1449422	protein	null
+Cystamucil	C1449425	protein	null
+Eurespiran	C1449432	protein	null
+M-Pectil	C1449440	protein	null
+mentopin Acetylcystein	C1449442	protein	null
+NAC AL	C1449408	protein	null
+Acetylcystein Heumann	C1449412	protein	null
+Azubronchin	C1449417	protein	null
+Dampo Mucopect	C1449430	protein	null
+durabronchal	C1449431	protein	null
+Jenacystein	C1449437	protein	null
+lysine acetate	C0024339	protein	null
+lysine hydrochloride	C0024340	protein	null
+Enisyl	C0917917	protein	null
+N-acetyl-1-aspartylglutamic acid, (L)-isomer ion	C0954195	protein	null
+NAAGA sodium salt	C0131674	protein	null
+Zy 15109	C0149497	protein	null
+isospaglumic acid	C0771562	protein	null
+ZY 15106	C0243992	protein	null
+Naaxia	C0611592	protein	null
+N-acetyl-1-aspartylglutamic acid, magnesium salt	C0954194	protein	null
+Endoglycosidases	C3537242	protein	null
+Liquimeth	C0701428	protein	null
+Pedameth	C0030749	protein	null
+Kybernin	C0651143	protein	null
+Atenativ	C1448439	protein	null
+Antithrombin III-Alpha	C1448437	protein	null
+Thrombate III	C0723738	protein	null
+alpha 1-antitrypsin	C0002191	protein	null
+Prolastin	C0701947	protein	null
+Zemaira	C1330611	protein	null
+CD59 protein, human	C1504686	protein	null
+beta,gamma-Thrombin	C0005177	protein	null
+beta-Thrombin	C0005285	protein	null
+Thrombostat	C0702033	protein	null
+Thrombinar	C0702032	protein	null
+Thrombin-JMI	C1099324	protein	null
+gamma-Thrombin	C0017052	protein	null
+Magnesium Sarcosylate	C0024479	protein	null
+Sarcosine Hydrochloride	C0949416	protein	null
+Sarcosine Monosodium Salt	C0949417	protein	null
+Lebic	C1449610	protein	null
+Gen-Baclofen	C1449611	protein	null
+Baclofne-Irex	C1449613	protein	null
+Atrofen	C1449614	protein	null
+Apo-Baclofen	C1449615	protein	null
+Baclofen AWD	C1449616	protein	null
+Nu-Baclo	C1449608	protein	null
+PMS-Baclofen	C1449609	protein	null
+Ba-34,647	C0729183	protein	null
+Clofen	C1449612	protein	null
+gamma-interferon	C3539881	protein	null
+L-Tryptophan-ratiopharm	C1564483	protein	null
+Lyphan	C1564484	protein	null
+PMS-Tryptophan	C1564485	protein	null
+Ardeydorm	C1564481	protein	null
+Trofan	C0740118	protein	null
+Tryptacin	C0740120	protein	null
+Tryptan	C0740119	protein	null
+RU 49637	C0659677	protein	null
+Ro-23-6019	C0919268	protein	null
+S Amet	C1448336	protein	null
+Samyr	C1448470	protein	null
+Gumbaral	C0086378	protein	null
+Amino Acid Chloromethyl Ketones	C0002512	protein	null
+FK 009	C3658188	protein	null
+Ac-ZVAD-FMK	C0971245	protein	null
+Sabril	C0592085	protein	null
+Sabrilex	C4704936	protein	null
+Oculinum	C0700701	protein	null
+Neuronox	C4704930	protein	null
+Meditoxin	C2745432	protein	null
+Vistabex	C5200832	protein	null
+Vistabel	C5200833	protein	null
+Priorix	C0732248	protein	null
+roxadustat	C4310578	protein	null
+Mabthera	C1314901	protein	null
+IDEC-C2B8 Antibody	C0295415	protein	null
+Rituxan	C0732355	protein	null
+Pitressin	C0699128	protein	null
+Becn1 protein, mouse	C1447699	protein	null
+acetylleucyl-leucyl-norleucinal	C0081446	protein	null
+anakinra	C0245109	protein	null
+Antril	C0245110	protein	null
+Leftose	C0023215	protein	null
+TA 0910	C0084707	protein	null
+(1-methyl-4,5-dihydroorotyl)-histidyl-prolinamide	C0087288	protein	null
+S-ethyl glutathione	C0073870	protein	null
+Dihydroxyphenylalanine Hydrochloride, (2:1)	C0949284	protein	null
+binetrakin	C3486572	protein	null
+PAMP(1-20)NH2	C0257633	protein	null
+Xolair	C1174773	protein	null
+Hermesetas Gold	C1257724	protein	null
+Goldswite	C1257723	protein	null
+Nozucar	C1257725	protein	null
+Canderel	C1257722	protein	null
+Milisucre	C1257726	protein	null
+ado-trastuzumab emtansine	C2935436	protein	null
+huN901-DM1	C1328107	protein	null
+Herceptin	C0338204	protein	null
+trastuzumab-qyyp	C4764376	protein	null
+Trazimera	C4764377	protein	null
+DS-8201a	C4287766	protein	null
+trastuzumab deruxtecan	C4726900	protein	null
+gonadorelin hydrochloride	C0701919	protein	null
+Fenclonine Hydrobromide	C0887065	protein	null
+Fenclonine, (D)-Isomer	C0887063	protein	null
+Fenclonine (L)-Isomer	C0916751	protein	null
+CP-10,188	C0729242	protein	null
+Demser	C0591337	protein	null
+alpha-Methyltyrosine Hydrochloride	C0949560	protein	null
+Racemetirosine	C0949561	protein	null
+Kryptocur	C0699450	protein	null
+Dirigestran	C0699449	protein	null
+gonadorelin acetate	C0701918	protein	null
+Factrel	C0306166	protein	null
+Cystorelin	C0308762	protein	null
+magnesium pidolate	C0381600	protein	null
+NN 2211	C1099192	protein	null
+Victoza	C2732208	protein	null
+Selenomethionine, (+,-)-Isomer	C0886959	protein	null
+Selenomethionine, (S)-Isomer	C0886960	protein	null
+Selenomethionine, (R)-Isomer	C0886958	protein	null
+Selenomethionine Hydrochloride, (S)-Isomer	C0886961	protein	null
+selenomethionine	C0036584	protein	null
+Syntocinon	C0592155	protein	null
+Pitocin	C0733348	protein	null
+RWJ-22164	C0078129	protein	null
+ORF-22164	C0285141	protein	null
+NG-Nitroarginine Methyl Ester, D-Orn-Isomer	C0886628	protein	null
+NG-Nitroarginine Methyl Ester, L-Orn-Isomer, Monohydrochloride	C0949558	protein	null
+azzalure	C4310350	protein	null
+O-desethyl-belnacasan	C5690704	protein	null
+VX-765 hemiketal	C5690706	protein	null
+VRT-043198	C5690705	protein	null
+belnacasan	C5419285	protein	null
+alpha-Amylases	C0002245	protein	null
+Alpha-Amylase Bayer	C1564486	protein	null
+Maxilase	C1564487	protein	null
+Mégamylase	C1564488	protein	null
+Tubulin Inhibitors	C1563758	protein	null
+Angiotensin II, Ile(5)-	C0051871	protein	null
+Angiotensin II, Val(5)-	C0750914	protein	null
+Renitec	C0600128	protein	null
+enalapril maleate	C0700452	protein	null
+MK-421	C0014026	protein	null
+Il1rn protein, mouse	C1505677	protein	null
+4-(4-fluorophenyl)-2-(4-methylsulfinylphenyl)-5-(4-pyridyl)-1H-imidazole	C1434972	protein	null
+sodium caseinate	C0037488	protein	null
+alpha-casozepine	C4549174	protein	null
+Sandostatin	C0678117	protein	null
+SMS 201-995	C0728977	protein	null
+octreotide acetate	C0724649	protein	null
+Leuprolide Monoacetate	C0886797	protein	null
+Leuprolide, (DL-Leu)-Isomer	C0886796	protein	null
+TAP-144	C0086550	protein	null
+Lupron	C0701459	protein	null
+A-43818	C0701460	protein	null
+Leuprolide, (L-Leu)-Isomer	C0886795	protein	null
+Enantone	C0524775	protein	null
+peptide YY (3-36)	C0070359	protein	null
+incobotulinumtoxinA	C2930113	protein	null
+Xeomin	C2744602	protein	null
+NT 201	C1688539	protein	null
+p-Aminosalicylic Acid Monosodium Salt	C0887058	protein	null
+methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3-methylbutanoate	C4307344	protein	null
+onabotulinum toxin A	C4743433	protein	null
+Desmopressin Monoacetate	C0887409	protein	null
+Desmogalen	C1578463	protein	null
+desmopressin acetate	C0086135	protein	null
+Adiuretin SD	C0701196	protein	null
+Adiuretin	C0701197	protein	null
+Minirin	C2603382	protein	null
+Apo-Desmopressin	C1720759	protein	null
+Nocutil	C1720760	protein	null
+sacubitril	C4033447	protein	null
+Levulan	C1449662	protein	null
+N-cis-2,6-dimethylpiperidinocarbonyl-gamma-methylleucyl-tryptophyl(COOMe)-norleucine	C0253335	protein	null
+N-2,6-dimethylpiperidinocarbonyl-gamma-MeLeu-Trp(COOMe)-Nle-ONa	C0253334	protein	null
+theanine, (D)-isomer	C0972002	protein	null
+theanine, (DL)-isomer	C0954003	protein	null
+spartalizumab	C4682406	protein	null
+PDR-001	C4053607	protein	null
+MK-3475	C3660977	protein	null
+Keytruda	C3855203	protein	null
+SCH-900475	C3812223	protein	null
+Kisspeptin-10	C1721258	protein	null
+RX-783006	C0525779	protein	null
+FPF1070	C0282840	protein	null
+Renacenz	C5545151	protein	null
+Fibrogammin	C1564746	protein	null
+Thrombolysin	C0733564	protein	null
+Vaccines, Recombinant	C0034862	protein	null
+Semisynthetic Vaccines	C0036634	protein	null
+Molecular Vaccines	C0026384	protein	null
+Vaccines, Synthetic	C0042213	protein	null
+brain-derived neurotrophic factor, human	C3486709	protein	null
+Humulin S	C0020172	protein	null
+Soybean Proteins	C0950114	protein	null
+SQ-19,844	C0733459	protein	null
+Kinevac	C0733458	protein	null
+dimethylglycine, monopotassium salt	C0970191	protein	null
+dimethylglycine, calcium salt	C0953778	protein	null
+dimethylglycine monohydrochloride	C0953777	protein	null
+dimethylglycine, sodium salt	C0953776	protein	null
+Campath 1H	C1178562	protein	null
+Campath	C0939276	protein	null
+Lemtrada	C3860145	protein	null
+cocaine hydrolase	C5198009	protein	null
+AZD1222	C5383286	protein	null
+Aldomet	C0591055	protein	null
+Dopamet	C0591404	protein	null
+Hydopa	C1563856	protein	null
+Meldopa	C1563857	protein	null
+Apo-Methyldopa	C1563855	protein	null
+Nu-Medopa	C1563858	protein	null
+Sembrina	C1563859	protein	null
+Dopegyt	C0729239	protein	null
+methyldopate	C0025744	protein	null
+belatacept	C1619962	protein	null
+Orencia	C1700021	protein	null
+Nulojix	C3160359	protein	null
+LEA29Y	C1120969	protein	null
+Copper Penicillaminate	C0009976	protein	null
+Cuprenil	C0699484	protein	null
+Cuprimine	C0699483	protein	null
+Metalcaptase	C0025536	protein	null
+aducanumab	C4043101	protein	null
+aducanumab-avwa	C5455414	protein	null
+Aduhelm	C5455420	protein	null
+BIIB-037	C4519523	protein	null
+CCK-33	C0086004	protein	null
+MEDI4736	C3641122	protein	null
+durvalumab	C4055109	protein	null
+Imfinzi	C4473954	protein	null
+S-Nitrosoglutathione	C0073898	protein	null
+SAR231893	C3658854	protein	null
+REGN668	C3660995	protein	null
+Dupixent	C4325130	protein	null
+Alphacutanée	C1564766	protein	null
+Avazyme	C1564765	protein	null
+Alpha-Chymotrypsin Choay	C1564767	protein	null
+Pepsin 1	C0030910	protein	null
+pepsin A	C0030909	protein	null
+Pepsin 3	C0030911	protein	null
+Ropocamptide	C5418159	protein	null
+CAP18 lipopolysaccharide-binding protein	C0108282	protein	null
+Bac4 Protein, Bos taurus	C0754729	protein	null
+microcystin-LR	C4742289	protein	null
+toxin I, cyanobacterium	C4742290	protein	null
+Lucentis	C1721374	protein	null
+IBI 308	C4329335	protein	null
+sintilimab	C4760864	protein	null
+Collagenase Inhibitor	C0056117	protein	null
+beta-alanine	C0000392	protein	null
+beta-Alanine Hydrochloride	C0949459	protein	null
+beta-Alanine, Monosodium Salt	C0949462	protein	null
+beta-Alanine, Monopotassium Salt	C0949461	protein	null
+beta-Alanine, Calcium Salt (2:1)	C0949460	protein	null
+BAT-1806	C5564824	protein	null
+MSB11456	C5226663	protein	null
+RHPM-1	C5227770	protein	null
+RO-4877533	C5227772	protein	null
+Roactemra	C3272237	protein	null
+RG-1569	C2830231	protein	null
+Actemra	C2740854	protein	null
+botulinum toxin type B	C0006051	protein	null
+AC 2993 LAR	C1174290	protein	null
+Bydureon	C3257792	protein	null
+AC 2993	C1174289	protein	null
+Byetta	C1636686	protein	null
+Kidney Plasminogen Activator	C0086506	protein	null
+Single-Chain Urokinase-Type Plasminogen Activator	C0086987	protein	null
+Renokinase	C0701940	protein	null
+Abbokinase	C0701941	protein	null
+erythro-3,4-Dihydroxyphenylserine	C0520488	protein	null
+Droxidopa, (DL-Tyr)-Isomer	C0887675	protein	null
+3,4-Dihydroxyphenylserine	C0917718	protein	null
+B2036-PEG	C0768710	protein	null
+Somavert	C1174777	protein	null
+N-methyl-DL-aspartate	C4549824	protein	null
+beta-(4-chlorophenyl)-3-aminopropylphosphonic acid	C0105805	protein	null
+Tromasin	C0700917	protein	null
+SGK1 protein, rat	C1614461	protein	null
+MR 20	C0899376	protein	null
+Miraclid	C0128555	protein	null
+UTI(68)	C5779583	protein	null
+C1 esterase inhibitor (human)	C2366367	protein	null
+Cinryze	C2366371	protein	null
+C1 esterase inhibitor	C0540301	protein	null
+Glu-Plasminogen	C0086350	protein	null
+PLG protein	C5574739	protein	null
+Avelizin	C0699214	protein	null
+Awelysin	C0699215	protein	null
+Distreptase	C0699217	protein	null
+Kabivitrum	C0699218	protein	null
+Streptodecase	C0699219	protein	null
+Streptase	C0699213	protein	null
+Kabikinase	C0699212	protein	null
+Celiase	C0699216	protein	null
+obinutuzumab	C2742503	protein	null
+tositumomab	C0879399	protein	null
+abciximab	C0288672	protein	null
+Integrilin	C0950902	protein	null
+collagenase Clostridium histolyticum	C0009053	protein	null
+collagenase clostridium histolyticum-aaes	C5398049	protein	null
+Intrifiban	C4256156	protein	null
+eptifibatide	C0253563	protein	null
+caplacizumab	C3713057	protein	null
+caplacizumab-yhdp	C4759080	protein	null
+azficel-T	C3162437	protein	null
+antihemophilic factor, human recombinant	C2732002	protein	null
+Octocog alfa	C1691209	protein	null
+factor VIIa	C0015505	protein	null
+coagulation factor VIIa (recombinant)-jncw	C5244559	protein	null
+Nonacog gamma	C4512069	protein	null
+coagulation factor XIII a-subunit (recombinant)	C3709760	protein	null
+antihemophilic factor (recombinant), PEGylated-aucl	C4723218	protein	null
+factor IX complex	C4048712	protein	null
+coagulation factor IX recombinant immunoglobulin G1 fusion protein	C3818700	protein	null
+Recombinant coagulation factor VIII	C5438574	protein	null
+eptacog alfa activated	C0795575	protein	null
+nonacog alfa	C2826076	protein	null
+turoctocog alfa	C3529563	protein	null
+fibrinogen, human	C2587184	protein	null
+antihemophilic factor (recombinant) pegylated	C4083872	protein	null
+prothrombin, human	C2828369	protein	null
+anti-inhibitor coagulant complex	C0982025	protein	null
+antihemophilic factor, porcine B-domain truncated recombinant	C3859426	protein	null
+von Willebrand factor, human	C0795677	protein	null
+factor VII, human	C2826077	protein	null
+coagulation factor IX, human	C0724584	protein	null
+antihemophilic factor, human	C0700346	protein	null
+albutrepenonacog alfa	C4084478	protein	null
+emicizumab-kxwh	C4534627	protein	null
+antihemophilic factor, human recombinant residues 743-1636 deleted	C0966500	protein	null
+Human Coagulation Factor VIII/Von Willebrand Factor Complex	C2732016	protein	null
+andexanet alfa	C4079904	protein	null
+factor XIII, human	C2979805	protein	null
+coagulation factor X, human	C2826078	protein	null
+factor VIII, human	C1307126	protein	null
+Trenonacog alfa	C4550957	protein	null
+emicizumab	C4278463	protein	null
+coagulation factor IX (recombinant), glycopegylated	C3883805	protein	null
+Beroctocog alfa	C4718976	protein	null
+damoctocog alfa pegol	C4723219	protein	null
+argatroban anhydrous	C2698183	protein	null
+Transamine	C0040636	protein	null
+argatroban	C0048470	protein	null
+protein C, human	C1949480	protein	null
+Antithrombin III (human) concentrate IV	C5834396	protein	null
+antithrombin III, human	C0724532	protein	null
+ancrod	C0002823	protein	null
+tenecteplase	C0872913	protein	null
+drotrecogin alfa	C1170000	protein	null
+drotrecogin alfa (activated), lyophilized	C1170744	protein	null
+salivary plasminogen activator alpha 1, Desmodus rotundus	C0141449	protein	null
+Bovine plasmin	C4255566	protein	null
+Plasmin (bos taurus)	C4490317	protein	null
+peginterferon alfa-2a	C0391001	protein	null
+interferon alfa-n1	C0699817	protein	null
+protein S, human	C2002622	protein	null
+reteplase	C0256103	protein	null
+anistreplase	C0078956	protein	null
+ANTITHROMBIN III,RECOMBINANT	C2684100	protein	null
+antithrombin alfa	C2316217	protein	null
+interferon beta-1b	C0244713	protein	null
+rituximab-pvvr	C5195655	protein	null
+ibritumomab tiuxetan	C0877880	protein	null
+interferon alfa-n3	C1621234	protein	null
+peginterferon alfa-2b	C0796545	protein	null
+Interferon Gamma-1b, Recombinant	C1579322	protein	null
+interferon gamma-1b	C0021741	protein	null
+SH-polypeptide-46	C4256158	protein	null
+ILT-101	C5417947	protein	null
+aldesleukin	C0218986	protein	null
+gemtuzumab ozogamicin	C1533699	protein	null
+recombinant interferon beta-1b	C0244714	protein	null
+interferon alfacon-1	C0164613	protein	null
+rituximab-abbs	C4741328	protein	null
+rituximab-arrx	C5432357	protein	null
+Intron A	C0751600	protein	null
+interferon alfa-2b	C0021735	protein	null
+Intron A (Interferon α2b)	C4721542	protein	null
+desirudin	C0378366	protein	null
+lepirudin	C0772394	protein	null
+melphalan	C0025241	protein	null
+mercaptopurine anhydrous	C1881785	protein	null
+Melphalanum	C1513105	protein	null
+Interferon Omega-1, human	C4281722	protein	null
+ADO-TRASTUZUMAB	C3643461	protein	null
+blinatumomab	C3853839	protein	null
+Dinutuximab beta	C4722567	protein	null
+dinutuximab	C0281581	protein	null
+peginterferon beta-1a	C3848580	protein	null
+Pegylated human interferon A-2B	C4519803	protein	null
+interferon omega 1	C0083028	protein	null
+Monoclonal antibody ch14.18	C5201238	protein	null
+ropeginterferon alfa-2b	C4542175	protein	null
+padeliporfin	C2698706	protein	null
+BAX 855	C4309815	protein	null
+cetuximab	C0995188	protein	null
+Aerosolized pooled immune globulin	C5834386	protein	null
+adalimumab-afzb	C5221181	protein	null
+ropeginterferon alfa-2b-njft	C5561179	protein	null
+Rurioctocog alfa pegol	C4765024	protein	null
+mosunetuzumab	C4763385	protein	null
+Intravenous immunoglobulin (IVIg)	C5834387	protein	null
+adalimumab-atto	C4535390	protein	null
+adalimumab-adaz	C4740830	protein	null
+adalimumab-bwwd	C5195654	protein	null
+infliximab-qbtx	C4541569	protein	null
+infliximab-axxq	C5222083	protein	null
+infliximab-dyyb	C4238106	protein	null
+adalimumab-fkjp	C5398047	protein	null
+adalimumab-adbm	C4530556	protein	null
+infliximab-abda	C4490035	protein	null
+trastuzumab-pkrb	C4741882	protein	null
+trastuzumab-anns	C5187552	protein	null
+efalizumab	C1174995	protein	null
+Thymoglobulin	C0730920	protein	null
+palivizumab	C0672596	protein	null
+panitumumab	C0879427	protein	null
+h5G1.1-scFv	C4508850	protein	null
+pexelizumab	C0916853	protein	null
+monoclonal antibody LL2	C0281743	protein	null
+bectumomab	C0382120	protein	null
+Monoclonal antibody B43.13	C5201003	protein	null
+adecatumumab	C1741817	protein	null
+MAb hMN14	C5442161	protein	null
+fontolizumab	C1682646	protein	null
+trastuzumab-dttb	C4758794	protein	null
+trastuzumab-dkst	C4541579	protein	null
+muromonab-CD3	C0085379	protein	null
+ovine digoxin immune fab	C4083129	protein	null
+rabbit anti-human T-lymphocyte globulin	C0359156	protein	null
+natalizumab	C1172734	protein	null
+daclizumab	C0663182	protein	null
+Anti-VEGF Humanized Monoclonal Antibody	C5399960	protein	null
+ABX-EGF MAb	C5441978	protein	null
+galiximab	C1098262	protein	null
+afelimomab	C0966666	protein	null
+epratuzumab	C1120776	protein	null
+oregovomab	C0664207	protein	null
+IGN 311	C1722442	protein	null
+labetuzumab	C1517701	protein	null
+matuzumab	C1328134	protein	null
+bavituximab	C1707382	protein	null
+rozrolimupab	C3181260	protein	null
+Girentuximab	C3536795	protein	null
+monoclonal antibody XTL001	C1173476	protein	null
+briakinumab	C2744325	protein	null
+iratumumab	C1327954	protein	null
+ramucirumab	C2742502	protein	null
+farletuzumab	C2700602	protein	null
+veltuzumab	C2746054	protein	null
+ustekinumab	C1608841	protein	null
+PRO-542	C0995194	protein	null
+MYO-029	C4282167	protein	null
+Stamulumab	C1721391	protein	null
+CT-011	C3665678	protein	null
+leronlimab	C4730999	protein	null
+glembatumumab vedotin	C2935736	protein	null
+olaratumab	C2698152	protein	null
+IPH-2101	C2703118	protein	null
+TB 402	C3177966	protein	null
+obiltoxaximab	C4224790	protein	null
+NAV 1800	C5139879	protein	null
+otelixizumab	C2935224	protein	null
+5F11 monoclonal antibody	C5700252	protein	null
+enokizumab	C3273705	protein	null
+7F3com-2H2	C5201206	protein	null
+inotuzumab ozogamicin	C1567130	protein	null
+HuLuc63	C4521041	protein	null
+Chimeric anti-CD105 antibody	C5139961	protein	null
+coltuximab ravtansine	C4508929	protein	null
+2C4 antibody	C1434409	protein	null
+Siplizumab	C1328709	protein	null
+sibrotuzumab	C1260215	protein	null
+Lerdelimumab	C1259830	protein	null
+reslizumab	C1869620	protein	null
+eldelumab	C4308878	protein	null
+lumiliximab	C1327944	protein	null
+canakinumab	C2718773	protein	null
+ipilimumab	C1367202	protein	null
+nimotuzumab	C1570308	protein	null
+clenoliximab	C0909596	protein	null
+Anti-Cripto-DM4	C5139973	protein	null
+BIIB015	C2713087	protein	null
+sonepcizumab	C2699489	protein	null
+motavizumab	C2713599	protein	null
+elotuzumab	C1832049	protein	null
+carotuximab	C4727597	protein	null
+XMAB-2513	C4044346	protein	null
+lucatumumab	C2980061	protein	null
+pertuzumab	C1328025	protein	null
+apolizumab	C1122758	protein	null
+Bivatuzumab	C5441925	protein	null
+lexatumumab	C1721684	protein	null
+Humanized OKT3	C5226648	protein	null
+teplizumab	C2743673	protein	null
+volociximab	C1541160	protein	null
+HuMax-CD20	C1541395	protein	null
+golimumab	C2353893	protein	null
+SGN-30 monoclonal antibody	C1328236	protein	null
+cAC10-vcMMAE	C4760489	protein	null
+secukinumab	C3179547	protein	null
+nivolumab	C3657270	protein	null
+lymphocyte immune globulin, anti-thymocyte globulin, equine	C2756957	protein	null
+daratumumab	C2346801	protein	null
+necitumumab	C2352806	protein	null
+ixekizumab	C3489764	protein	null
+ravulizumab	C4550350	protein	null
+varicella-zoster immune globulin	C0078049	protein	null
+bapineuzumab	C2698328	protein	null
+Denintuzumab mafodotin	C4086238	protein	null
+depatuxizumab mafodotin	C4477221	protein	null
+onartuzumab	C2826110	protein	null
+teplizumab-mzwv	C5761814	protein	null
+catumaxomab	C1831854	protein	null
+denosumab	C1690432	protein	null
+ofatumumab	C1832027	protein	null
+HuMax-CD20, 2F2	C5201176	protein	null
+BRENTUXIMAB	C3247294	protein	null
+brentuximab vedotin	C2973446	protein	null
+belimumab	C1723401	protein	null
+raxibacumab	C2717174	protein	null
+vedolizumab	C2742797	protein	null
+dulaglutide	C3179549	protein	null
+anthrax immune globulin, human	C4059023	protein	null
+idarucizumab	C3885063	protein	null
+evolocumab	C3529352	protein	null
+ravulizumab-cwvz	C4745432	protein	null
+atezolizumab	C4055433	protein	null
+tetanus immune globulin	C4048265	protein	null
+varicella zoster immune globulin (human)	C1372952	protein	null
+conatumumab	C2346822	protein	null
+tabalumab	C2984518	protein	null
+ficlatuzumab	C2703138	protein	null
+figitumumab	C2713009	protein	null
+visilizumab	C3887822	protein	null
+urelumab	C1831875	protein	null
+patritumab	C3897976	protein	null
+tarextumab	C4053948	protein	null
+gevokizumab	C3179523	protein	null
+GS-6624	C3266945	protein	null
+simtuzumab	C4054022	protein	null
+fasinumab	C4519593	protein	null
+ganitumab	C2980089	protein	null
+etaracizumab	C2350723	protein	null
+polatuzumab vedotin	C4078806	protein	null
+vanucizumab	C4331496	protein	null
+tanezumab	C2346819	protein	null
+fezakinumab	C2981359	protein	null
+fresolimumab	C2987643	protein	null
+Indusatumab vedotin	C4519726	protein	null
+Anti-FOLR1-monoclonal-antibody-maytansinoid-conjugate-IMGN-853	C5770888	protein	null
+mogamulizumab	C2987603	protein	null
+solanezumab	C2935150	protein	null
+LY2062430	C2935151	protein	null
+SAR153191	C4519528	protein	null
+REGN88	C4519527	protein	null
+tremelimumab	C2351038	protein	null
+brodalumab	C3491331	protein	null
+sirukumab	C3254570	protein	null
+lampalizumab	C4054668	protein	null
+guselkumab	C3852217	protein	null
+dalotuzumab	C2987605	protein	null
+emibetuzumab	C4519736	protein	null
+ublituximab	C4083151	protein	null
+ligelizumab	C4041919	protein	null
+seribantumab	C4042753	protein	null
+landogrozumab	C4519737	protein	null
+romosozumab	C3661283	protein	null
+romosozumab-aqqg	C4765888	protein	null
+vadastuximab talirine	C4086942	protein	null
+lebrikizumab	C2981360	protein	null
+varlilumab	C3896974	protein	null
+avelumab	C4055417	protein	null
+crenezumab	C3493199	protein	null
+rilotumumab	C2743963	protein	null
+AMG 102	C1879711	protein	null
+anifrolumab-fnia	C5550556	protein	null
+anifrolumab	C4519739	protein	null
+ocrelizumab	C1882138	protein	null
+gantenerumab	C2982066	protein	null
+lorvotuzumab mertansine	C2987530	protein	null
+fulranumab	C2981231	protein	null
+Sotatercept	C2699571	protein	null
+Duligotuzumab	C4055111	protein	null
+tralokinumab	C3658667	protein	null
+etrolizumab	C3177463	protein	null
+zalutumumab	C1831978	protein	null
+polatuzumab vedotin-piiq	C5140554	protein	null
+inclacumab	C4078374	protein	null
+cixutumumab	C2699335	protein	null
+ascrinvacumab	C4519598	protein	null
+GS-5745	C3827124	protein	null
+labetuzumab govitecan	C4519108	protein	null
+ensituximab	C2983727	protein	null
+dusigitumab	C4519591	protein	null
+GC1008	C1832030	protein	null
+bococizumab	C4043705	protein	null
+mirvetuximab soravtansine	C4288736	protein	null
+mirvetuximab soravtansine-gynx	C5710447	protein	null
+mavrilimumab	C2987425	protein	null
+blosozumab	C3885232	protein	null
+dacetuzumab	C2742509	protein	null
+lumretuzumab	C4310393	protein	null
+ibalizumab-uiyk	C4689607	protein	null
+intetumumab	C1881068	protein	null
+sifalimumab	C2986882	protein	null
+ecromeximab	C1831744	protein	null
+concizumab	C3494079	protein	null
+rontalizumab	C2987428	protein	null
+mogamulizumab-kpkc	C4719632	protein	null
+plozalizumab	C4287798	protein	null
+inebilizumab	C4519594	protein	null
+inebilizumab-cdon	C5384327	protein	null
+CAM-3001	C3468001	protein	null
+bimagrumab	C3899948	protein	null
+Tovetumab	C4519596	protein	null
+ibalizumab	C1434792	protein	null
+carlumab	C2346793	protein	null
+demcizumab	C2698134	protein	null
+Abituzumab	C4519733	protein	null
+KW2871	C4551947	protein	null
+crotedumab	C4519735	protein	null
+depatuxizumab	C1872017	protein	null
+amatuximab	C2987611	protein	null
+BMS-945429	C4760811	protein	null
+sacituzumab govitecan-hziy	C5244401	protein	null
+bimekizumab	C4519734	protein	null
+robatumumab	C4721939	protein	null
+namilumab	C3273714	protein	null
+clazakizumab	C4077748	protein	null
+ozanezumab	C3885499	protein	null
+sacituzumab govitecan	C4086837	protein	null
+milatuzumab	C2716103	protein	null
+rovalpituzumab tesirine	C4507507	protein	null
+MT203	C5201207	protein	null
+racotumomab	C2986854	protein	null
+tregalizumab	C4519743	protein	null
+olokizumab	C3885146	protein	null
+bezlotoxumab	C4291320	protein	null
+edrecolomab	C0279218	protein	null
+cytomegalovirus immune globulin, human	C4281720	protein	null
+IMMU-MN3	C5200977	protein	null
+tildrakizumab-asmn	C4691413	protein	null
+tildrakizumab	C4043954	protein	null
+burosumab-twza	C4691480	protein	null
+burosumab	C4301607	protein	null
+erenumab-aooe	C4692289	protein	null
+erenumab	C4542165	protein	null
+eptinezumab	C4694272	protein	null
+Sulesomab	C0529257	protein	null
+besilesomab	C3660637	protein	null
+galcanezumab-gnlm	C4731561	protein	null
+fanolesomab	C1572727	protein	null
+lecanemab	C5242453	protein	null
+Immunoglobulin G1, anti-(human beta-amyloid protofibril) (human-mus musculus monoclonal BAN2401 heavy chain), disulfide with human-mus musculus monoclonal BAN2401 light chain, dimer	C4718967	protein	null
+lanadelumab	C4505508	protein	null
+lanadelumab-flyo	C4723206	protein	null
+parsatuzumab	C4054246	protein	null
+emactuzumab	C4078926	protein	null
+89Zr-bevacizumab	C2826356	protein	null
+refanezumab	C4726669	protein	null
+UCB7665	C5226617	protein	null
+RA-18C3	C5139938	protein	null
+pamrevlumab	C5139936	protein	null
+margetuximab	C4053695	protein	null
+MLTA3698A	C4760786	protein	null
+gremubamab	C5139896	protein	null
+tafasitamab	C5139916	protein	null
+Ipafricept	C3640817	protein	null
+fremanezumab	C4549503	protein	null
+galcanezumab	C4694273	protein	null
+cemiplimab-rwlc	C4731528	protein	null
+cemiplimab	C4724806	protein	null
+emapalumab-lzsg	C4740903	protein	null
+emapalumab	C4740904	protein	null
+risankizumab	C4505511	protein	null
+risankizumab-rzaa	C4766117	protein	null
+camrelizumab	C4682408	protein	null
+setrusumab	C4726749	protein	null
+gancotamab	C5139892	protein	null
+Anti-mesothelin antibody-drug conjugate BAY 94-9343	C3273944	protein	null
+anetumab ravtansine	C4045305	protein	null
+isatuximab-irfc	C5241853	protein	null
+isatuximab	C4330502	protein	null
+Icrucumab	C2698155	protein	null
+codrituzumab	C4507381	protein	null
+brolucizumab-dbll	C5209992	protein	null
+brolucizumab	C4550124	protein	null
+xentuzumab	C4508939	protein	null
+lintuzumab	C1311738	protein	null
+Vobarilizumab	C4727769	protein	null
+MEGF0444A	C2983767	protein	null
+rozanolixizumab	C4726717	protein	null
+bermekimab	C4542166	protein	null
+opicinumab	C4550038	protein	null
+fam-trastuzumab deruxtecan-nxki	C5222084	protein	null
+margetuximab-cmkb	C5432368	protein	null
+Dalantercept	C2981815	protein	null
+pateclizumab	C3529178	protein	null
+tafasitamab-cxix	C5399324	protein	null
+OMP-54F28	C4049114	protein	null
+frovocimab	C5139891	protein	null
+MEDI9929	C5226649	protein	null
+tigatuzumab	C2973415	protein	null
+telisotuzumab vedotin	C4743550	protein	null
+PF-05082566	C3529795	protein	null
+ponezumab	C3273712	protein	null
+abrilumab	C4528222	protein	null
+AMG-157	C5227766	protein	null
+tezepelumab	C4550163	protein	null
+utomilumab	C4331488	protein	null
+zolbetuximab	C2827697	protein	null
+suvratoxumab	C4726796	protein	null
+nemolizumab	C4505530	protein	null
+gedivumab	C5139893	protein	null
+DMUC5754A	C3827130	protein	null
+pidilizumab	C2346821	protein	null
+Ladiratuzumab vedotin	C5139903	protein	null
+anti-Tlr2 monoclonal antibody OPN-305	C3712029	protein	null
+MNRP1685A	C2984519	protein	null
+DCDT2980S	C3641731	protein	null
+lulizumab pegol	C4078434	protein	null
+EMD 273063	C1529682	protein	null
+HU14.18-IL2	C4759782	protein	null
+zenocutuzumab	C4726984	protein	null
+Asunercept	C5139847	protein	null
+mitazalimab	C5139905	protein	null
+bleselumab	C5139884	protein	null
+Sofituzumab vedotin	C4688397	protein	null
+Istiratumab	C5139900	protein	null
+GMA-161	C5139701	protein	null
+SGN-LIV1A	C3827076	protein	null
+tomaralimab	C4743551	protein	null
+vesencumab	C5139919	protein	null
+pinatuzumab vedotin	C4078700	protein	null
+BMS-931699	C4079852	protein	null
+lorukafusp alfa	C5139716	protein	null
+naratuximab emtansine	C5139906	protein	null
+Immunoglobulin g1, bispecific, anti-(human epidermal growth factor receptors, her2 and her3) (humanized clone mcla-128 .gamma.1-chain), disulfide with humanized clone mcla-128 light chain, dimer	C4549048	protein	null
+maftivimab	C5417453	protein	null
+odesivimab	C5417454	protein	null
+belantamab mafodotin-blmf	C5399365	protein	null
+ansuvimab	C5432324	protein	null
+hepatitis B immune globulin	C0062525	protein	null
+atoltivimab	C5417452	protein	null
+odesivimab-ebgn	C5417490	protein	null
+belantamab mafodotin	C5227411	protein	null
+ansuvimab-zykl	C5432354	protein	null
+bamlanivimab	C5421805	protein	null
+Rho(D) immune globulin	C0073188	protein	null
+dostarlimab	C5242455	protein	null
+IVIgGM	C4744620	protein	null
+Hsp-90mab	C5226417	protein	null
+Mycograb	C1739735	protein	null
+indatuximab ravtansine	C4547156	protein	null
+magrolimab	C5227415	protein	null
+olinvacimab	C5227445	protein	null
+actoxumab	C4308583	protein	null
+amivantamab	C5446297	protein	null
+amivantamab-vmjw	C5450104	protein	null
+Zaire ebolavirus (strain Kikwit-95) envelope glycoprotein	C5227851	protein	null
+Imlifidase	C5139878	protein	null
+darbepoetin alfa	C0937950	protein	null
+epoetin zeta	C1997870	protein	null
+Rho(D) immune globulin, human	C4082558	protein	null
+dostarlimab-gxly	C5450069	protein	null
+inolimomab	C0905677	protein	null
+pentaglobulin	C0070286	protein	null
+abagovomab	C1832044	protein	null
+efungumab	C2605768	protein	null
+foralumab	C2987422	protein	null
+Anti-cd47 monoclonal antibody hu5f9-g4	C3896840	protein	null
+5F9	C5770276	protein	null
+volagidemab	C5227441	protein	null
+Ebola Zaire Vaccine (rVSVG-ZEBOV-GP, live)	C5383288	protein	null
+epoetin alfa-epbx	C4694938	protein	null
+epoetin alfa	C0357126	protein	null
+Recombinant Erythropoietin	C0376541	protein	null
+epoetin theta	C2746991	protein	null
+Epoetin gamma rDNA	C4256162	protein	null
+peginesatide	C3179929	protein	null
+epoetin beta	C0357131	protein	null
+epoetin omega	C1872824	protein	null
+Epoetin kappa	C4256161	protein	null
+Epoetin epsilon	C4256163	protein	null
+hematide	C1710272	protein	null
+imdevimab	C5422689	protein	null
+cilgavimab	C5432263	protein	null
+sotrovimab	C5433947	protein	null
+loncastuximab tesirine-lpyl	C5450070	protein	null
+tisotumab vedotin-tftv	C5557442	protein	null
+sutimlimab	C4727016	protein	null
+spesolimab	C5238146	protein	null
+denileukin diftitox	C0717670	protein	null
+methoxy polyethylene glycol-epoetin beta	C1328071	protein	null
+casirivimab	C5422688	protein	null
+tixagevimab	C5432264	protein	null
+loncastuximab tesirine	C5203804	protein	null
+HuMax-TF-ADC	C3827178	protein	null
+tisotumab vedotin	C4724800	protein	null
+bebtelovimab	C5565647	protein	null
+eflapegrastim	C3641654	protein	null
+etanercept-szzs	C4291381	protein	null
+etanercept-ykro	C5135562	protein	null
+rhu TNFR:Fc	C4542001	protein	null
+pegaspargase	C0071568	protein	null
+alefacept	C0962603	protein	null
+Begelomab	C4059170	protein	null
+H.P. acthar gel	C5201181	protein	null
+voclosporin	C2607219	protein	null
+ozanimod	C4278675	protein	null
+(melle-4)cyclosporin	C0290852	protein	null
+rilonacept	C2343589	protein	null
+GASTRIMMUNE	C1619625	protein	null
+Gastrin 17C Diphtheria Toxoid Immunogen	C5834083	protein	null
+Vitespen	C0393074	protein	null
+TG4010	C0879624	protein	null
+G17DT Immunogen	C5779657	protein	null
+gastrin 17 vaccine	C0935889	protein	null
+rindopepimut	C3181262	protein	null
+vitespin	C1451037	protein	null
+MVA-Muc1-IL2	C1527217	protein	null
+Rotavirus Vaccines	C0597418	protein	null
+diphtheria toxoid vaccine, inactivated	C0012551	protein	null
+influenza A virus A/California/7/2009 (H1N1) antigen	C3888362	protein	null
+Japanese encephalitis virus vaccine Nakayama-NIH strain, inactivated	C3474322	protein	null
+typhoid Vi polysaccharide vaccine, S typhi Ty2 strain	C0078221	protein	null
+Haemophilus influenzae type b strain 20752, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine	C2719943	protein	null
+Influenza A virus A/Brisbane/59/2007(H1N1) hemagglutinin antigen (propiolactone inactivated)	C4762282	protein	null
+rabies immune globulin, human	C0301503	protein	null
+Hepatitis B Antigen Vaccine	C0796320	protein	null
+Influenza A virus A/Victoria/210/2009 X-187 (H3N2) hemagglutinin antigen (formaldehyde inactivated)	C4718989	protein	null
+tetanus toxoid vaccine, inactivated	C0305062	protein	null
+Japanese Encephalitis Vaccines	C0771080	protein	null
+influenza B virus B/Brisbane/60/2008 antigen	C4033637	protein	null
+hepatitis B surface antigen vaccine	C0062527	protein	null
+Influenza A virus A/California/7/2009 (H1N1) live (attenuated) antigen	C4718926	protein	null
+influenza virus vaccine, live attenuated, A-Perth-16-2009 (H3N2) strain	C2927368	protein	null
+Influenza A virus A/Uruguay/716/2007(H3N2) antigen (formaldehyde inactivated)	C4731005	protein	null
+INFLUENZA A VIRUS A/BRISBANE/59/2007 (H1N1) HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED)	C2364549	protein	null
+vaccinia virus strain New York City Board of Health live antigen	C2700141	protein	null
+pertussis vaccine	C0031237	protein	null
+Plague Vaccine	C0032066	protein	null
+varicella zoster virus glycoprotein E, recombinant	C4530095	protein	null
+measles virus vaccine live, Enders' attenuated Edmonston strain	C2356367	protein	null
+varicella-zoster virus vaccine live (Oka-Merck) strain	C3464497	protein	null
+yellow fever vaccine	C0301508	protein	null
+yellow fever virus strain 17D-204 live antigen	C2356374	protein	null
+Anthrax Vaccine Adsorbed	C1329979	protein	null
+Anthrax Vaccines	C0358297	protein	null
+Bacillus anthracis strain V770-NP1-R antigens	C3535682	protein	null
+Bacillus calmette-guerin substrain danish 1331 live antigen	C4519113	protein	null
+BCG Vaccine	C0004886	protein	null
+Vibrio cholerae CVD 103-HGR strain live antigen	C4291328	protein	null
+Cholera Vaccine Live Oral	C4553341	protein	null
+plitidepsin	C0388638	protein	null
+muraglitazar	C1568490	protein	null
+nateglinide	C0903898	protein	null
+zanubrutinib	C4683810	protein	null
+saxagliptin anhydrous	C2699273	protein	null
+boceprevir	C1738934	protein	null
+valbenazine	C4078701	protein	null
+telaprevir	C1876229	protein	null
+Bacillus calmette-guerin substrain russian BCG-I live antigen	C5448255	protein	null
+mumps virus vaccine live, Jeryl Lynn strain	C2344347	protein	null
+Bordetella pertussis toxoid vaccine, inactivated	C2725005	protein	null
+Corifollitropin alfa	C2713522	protein	null
+Recombinant human regular insulin	C1446598	protein	null
+insulin, neutral	C0063657	protein	null
+insulin human, rDNA origin	C1695970	protein	null
+insulin lispro protamine, human	C0982221	protein	null
+insulin lispro	C0293359	protein	null
+Tick-borne encephalitis vaccine	C0593408	protein	null
+tick-borne encephalitis purified antigen	C5558542	protein	null
+Nuvaxovid	C5563867	protein	null
+pertussis toxoid	C0070476	protein	null
+Janssen COVID-19 Vaccine	C5575181	protein	null
+teprotumumab-trbw	C5234029	protein	null
+teprotumumab	C2987429	protein	null
+Immunoglobulin G1, anti-(human insulin-like growth factor I receptor) (human monoclonal heavy chain), disulfide with human monoclonal light chain, dimer	C5201196	protein	null
+satralizumab	C4726732	protein	null
+satralizumab-mwge	C5399366	protein	null
+Humanised anti-IL-6 receptor monoclonal antibody	C5401502	protein	null
+follicle stimulating hormone, human, with HCG C-terminal peptide	C1098055	protein	null
+insulin lispro-aabc	C5389884	protein	null
+insulin glargine	C0907402	protein	null
+insulin glargine-yfgn	C5550555	protein	null
+insulin, pork	C0770206	protein	null
+insulin, regular, pork	C0724601	protein	null
+pramlintide	C0537551	protein	null
+insulin aspart protamine, human	C1170011	protein	null
+insulin aspart, human	C0123677	protein	null
+insulin detemir	C0537270	protein	null
+INSULIN,DETEMIR,HUMAN	C1815806	protein	null
+insulin glulisine, human	C1313386	protein	null
+NN344	C1957876	protein	null
+albiglutide	C2607479	protein	null
+lixisenatide	C2973895	protein	null
+insulin degludec	C3491971	protein	null
+Insulin peglispro	C4550895	protein	null
+Insulin tregopil	C4550894	protein	null
+terlipressin	C0145185	protein	null
+semaglutide	C3885068	protein	null
+tirzepatide	C5139934	protein	null
+goserelin	C0120107	protein	null
+Receptal	C0600174	protein	null
+Etilamide	C1707062	protein	null
+triptorelin	C0077275	protein	null
+degarelix	C1455035	protein	null
+buserelin	C0006456	protein	null
+histrelin	C0121902	protein	null
+salmon calcitonin	C0073994	protein	null
+lisinopril anhydrous	C2827257	protein	null
+icatibant	C0246269	protein	null
+teduglutide	C1530889	protein	null
+tiopronin	C0025405	protein	null
+ancestim	C0538777	protein	null
+enalaprilat anhydrous	C0886809	protein	null
+enalaprilat	C0014027	protein	null
+golodirsen	C5222004	protein	null
+somatropin	C0169964	protein	null
+nafarelin	C0064906	protein	null
+pegfilgrastim-bmez	C5211091	protein	null
+pegfilgrastim-jmdb	C4703816	protein	null
+pegfilgrastim-apgf	C5389885	protein	null
+pegloticase	C2350656	protein	null
+Puricase	C2350657	protein	null
+methyldopa anhydrous	C3714624	protein	null
+Captopryl	C4255725	protein	null
+pegfilgrastim	C1136535	protein	null
+pegfilgrastim-cbqv	C4735048	protein	null
+pegademase bovine	C0164674	protein	null
+Egaptivon pegol	C4490515	protein	null
+Peginterferon alfacon-1	C5139881	protein	null
+GlycoPEG-GCSF	C5139922	protein	null
+Eptacog alfa pegol (activated)	C4519170	protein	null
+abicipar pegol	C4519646	protein	null
+pegvaliase-pqpz	C4694429	protein	null
+pegvaliase	C4519229	protein	null
+elapegademase-lvlr	C4731736	protein	null
+Paclitaxel trevatide	C2604057	protein	null
+lipegfilgrastim	C3640212	protein	null
+Lexaptepid pegol	C4519662	protein	null
+Phenylase	C4703924	protein	null
+elapegademase	C4731737	protein	null
+palifermin	C0677829	protein	null
+asparaginase	C0003993	protein	null
+Escherichia coli asparaginase	C1269691	protein	null
+lanoteplase	C0753753	protein	null
+122320-05-2	C5833418	protein	null
+vapreotide	C0164678	protein	null
+sitimagene ceradenovec	C2354637	protein	null
+alpha-glutamyltryptophan	C0526304	protein	null
+filanesib	C4550884	protein	null
+Endostatins	C0534628	protein	null
+alanosine	C0051066	protein	null
+Recombinant Human Endostatin	C1705207	protein	null
+lanreotide	C0209211	protein	null
+asparaginase Erwinia chrysanthemi (recombinant)-rywn	C5539923	protein	null
+asparaginase Erwinia chrysanthemi	C3255208	protein	null
+Erwinaze	C3248039	protein	null
+Erwinase	C0591457	protein	null
+Endostatin, N-terminal-MGGSHHHHH	C4519197	protein	null
+Recombinant human endostatin protein	C4742157	protein	null
+OBP-801	C3661318	protein	null
+molgramostim	C0218633	protein	null
+moxetumomab pasudotox-tdfk	C4731858	protein	null
+moxetumomab pasudotox	C2717021	protein	null
+dolastatin 10	C0082338	protein	null
+H-Lys-Glu-Phe-Leu-His-Pro-Ser-Lys-Val-Asp-Leu-Pro-Arg-OH	C5834328	protein	null
+olmutinib	C4301624	protein	null
+tagraxofusp-erzs	C4746083	protein	null
+tagraxofusp	C4746084	protein	null
+Liposome encapsulated recombinant interleukin-2	C5834512	protein	null
+Pegylated Recombinant Human Arginase I	C5432235	protein	null
+BCT-100	C2981808	protein	null
+enfortumab vedotin-ejfv	C5227850	protein	null
+edodekin alfa	C3665495	protein	null
+tebentafusp	C5139666	protein	null
+enfortumab vedotin	C4519740	protein	null
+sargramostim	C0216231	protein	null
+liotrix	C0936106	protein	null
+thyrotropin alfa	C2587204	protein	null
+Hypertensin	C0947663	protein	null
+metreleptin	C0961965	protein	null
+Angiotensin II (human)	C0772301	protein	null
+lypressin	C0024328	protein	null
+recombinant methionyl human leptin	C0909862	protein	null
+ziconotide	C0211011	protein	null
+glucagon (rDNA)	C0876232	protein	null
+glucagon, human	C0772088	protein	null
+somapacitan	C4726770	protein	null
+somapacitan-beco	C5401639	protein	null
+lonapegsomatropin	C5421356	protein	null
+Transconpeg hGH	C5432390	protein	null
+somatrem	C0143083	protein	null
+Somatropin pegol	C4727750	protein	null
+polyethylene glycol-recombinant human growth hormone	C3254127	protein	null
+lonapegsomatropin-tcgd	C5553578	protein	null
+follitropin beta	C0060787	protein	null
+follitropin alfa	C1268876	protein	null
+follitropin delta	C4301617	protein	null
+Follitropin gamma	C4490581	protein	null
+abaloparatide	C4042342	protein	null
+Parathormone (human recombinant)	C4255609	protein	null
+Follitropin, beta subunit	C3266859	protein	null
+Follitropin alfa/beta	C2224211	protein	null
+Recombinant Follicle Stimulating Hormone	C0724588	protein	null
+Folitropina delta	C4740844	protein	null
+FSH, alpha Subunit	C4759809	protein	null
+Recombinant parathyroid hormone	C1882913	protein	null
+Angiotensin II (1-7) heptapeptide	C0051857	protein	null
+teriparatide	C0070093	protein	null
+saralasin	C0036193	protein	null
+Anti-Gd2 igg3 monoclonal antibody 3F8 humanized	C4054758	protein	null
+naxitamab-gqgk	C5423691	protein	null
+humanized 3F8 anti-GD2 monoclonal antibody	C5227422	protein	null
+naxitamab	C4733494	protein	null
+dasiglucagon	C5139868	protein	null
+carbetocin	C0054670	protein	null
+NESIRITIDE RECOMBINANT	C1177218	protein	null
+L-5-hydroxytryptophan	C4083155	protein	null
+EvabotulinumtoxinA	C4721552	protein	null
+pivagabine	C0619323	protein	null
+interferon beta-1a	C0254119	protein	null
+hyaluronidase, ovine	C1577331	protein	null
+Letibotulinumtoxina	C5418435	protein	null
+rasburicase	C0937932	protein	null
+Recombinant interferon beta-1a	C0982234	protein	null
+SNG001	C5443462	protein	null
+valspodar	C0753474	protein	null
+AMDRAY	C1519948	protein	null
+pancrelipase protease	C2722896	protein	null
+ferrous bisglycinate	C1721498	protein	null
+substance P, Sar(9)-Met(O2)(11)-	C0075407	protein	null
+(Sar(9))SP sulfone	C0220480	protein	null
+pancrelipase	C0770343	protein	null
+Pancreatinum	C4721558	protein	null
+deslorelin	C0083220	protein	null
+caspofungin	C0537894	protein	null
+HUMAN CHOLECYSTOKININ-33	C5551393	protein	null
+certoparin	C0592532	protein	null
+muramyl tripeptide phosphatidylethanolamine	C0129341	protein	null
+filgrastim-sndz	C3892863	protein	null
+filgrastim	C0210630	protein	null
+tbo-filgrastim	C3542463	protein	null
+filgrastim-aafi	C4721554	protein	null
+agalsidase beta	C1137427	protein	null
+alpha-D-galactosidase enzyme	C0002268	protein	null
+agalsidase alfa	C0962517	protein	null
+lutetium Lu 177 dotatate	C3272344	protein	null
+KL4 surfactant	C0385603	protein	null
+ATI-02	C5399848	protein	null
+Alveofact	C0210638	protein	null
+enfuvirtide	C0537439	protein	null
+glucarpidase	C0007072	protein	null
+interferon alfa-2c	C0086477	protein	null
+cabotegravir	C4310385	protein	null
+Leimzucker	C4256149	protein	null
+Agrostis gigantea pollen extract	C0938481	protein	null
+Canadian bluegrass pollen extract	C2940183	protein	null
+Italian rye grass pollen extract	C2939943	protein	null
+regramostim	C0219461	protein	null
+Colony-stimulating factor 2 (human clone pCSF-1 protein moiety reduced), glycoform GMC 89-107	C5139975	protein	null
+hyaluronidase, human recombinant	C1720035	protein	null
+hyaluronidase-fihj	C5383290	protein	null
+hyaluronidase-zzxf	C5389886	protein	null
+Secretin, Pig	C0886951	protein	null
+Secretin synthetic porcine	C1659047	protein	null
+secretin human, synthetic	C1659046	protein	null
+interferon kappa	C1099168	protein	null
+Heberon gamma	C5401678	protein	null
+5-Methyltetrahydropteroyl monoglutamate	C4477200	protein	null
+influenza A virus A/Norway/16606/2021 (H3N2) antigen	C5698588	protein	null
+carbocysteine	C0006992	protein	null
+Calcitonin (human synthetic)	C3652920	protein	null
+human calcitonin	C0770558	protein	null
+calaspargase pegol	C2699709	protein	null
+Maxy G34	C2347460	protein	null
+Interleukin-3 human (recombinant)	C4519899	protein	null
+lenograstim	C0218640	protein	null
+murepavadin	C5139728	protein	null
+anidulafungin	C1142738	protein	null
+aflibercept	C1134659	protein	null
+C1 esterase inhibitor (recombinant)	C3195420	protein	null
+calaspargase pegol-mknl	C4745457	protein	null
+romiplostim	C2364481	protein	null
+balugrastim	C3871462	protein	null
+leridistim	C0919350	protein	null
+norcisapride	C0648910	protein	null
+immunoglobulin G1, anti-(human interleukin 1beta) (human clone ACZ885 heavy chain V region)	C5227748	protein	null
+Saposin C	C0141547	protein	null
+alglucosidase alfa	C1695579	protein	null
+caseinomacropeptide	C0286762	protein	null
+imiglucerase	C0291140	protein	null
+taliglucerase alfa	C3273401	protein	null
+GSK-J4	C3884593	protein	null
+Myozyme	C1703294	protein	null
+Lumizyme	C2828340	protein	null
+Phenylalanine Ammonia-Lyase	C0031454	protein	null
+isoleucyl-tyrosine	C1529589	protein	null
+PHENYLALANINE,DL-	C0772277	protein	null
+benzyloxycarbonyl-isoleucyl-glutamyl-threonyl-aspartic acid fluoromethyl ketone	C0911901	protein	null
+alpha-methylphenylalanine	C0051422	protein	null
+Recombinant Colony-Stimulating Factors	C0376561	protein	null
+Phenylalanine supplementation	C0561928	protein	null
+phenylalanylalanine	C0377632	protein	null
+antihemorrhagic factor	C0052058	protein	null
+Enzyme agent	C0360722	protein	null
+Reverse Triiodothyronine	C0041017	protein	null
+arginyl-glutamine	C3657851	protein	null
+Ethionine	C0015023	protein	null
+acetylleucine	C0256552	protein	null
+3-tyrosine	C0047729	protein	null
+Escherichia coli antibody	C0310969	protein	null
+p-Fluorophenylalanine	C0030137	protein	null
+N-acetyltryptophan	C0067790	protein	null
+ACZ-885	C2830024	protein	null
+Ilaris	C2718754	protein	null
+Palynziq	C4694434	protein	null
+bovine caseinoglycopeptide	C0526644	protein	null
+BMN-165	C4742975	protein	null
+citrin	C0069887	protein	null
+Cosentyx	C3872092	protein	null
+gp100 melanoma-associated antigen (209-217), human	C0672448	protein	null
+gp100 Antigen	C0281722	protein	null
+becaplermin	C0379135	protein	null
+racemethionine	C0034504	protein	null
+homocysteine thiolactone	C0062936	protein	null
+homocysteine thiolactone, (S)-isomer	C0951764	protein	null
+homocysteine thiolactone hydrochloride	C0951765	protein	null
+homocysteine thiolactone perchlorate salt	C0122228	protein	null
+homocysteine thiolactone perchlorate, (S)-isomer	C0951766	protein	null
+homocysteine thiolactone hydrochloride, (+-)-isomer	C4549628	protein	null
+felypressin	C0015777	protein	null
+interleukin-11	C0083031	protein	null
+Hirudins	C1451270	protein	null
+Hirulog-1	C5690690	protein	null
+bivalirudin trifluoroacetate	C4684933	protein	null
+BG 8967	C0210056	protein	null
+Angiomax	C0939677	protein	null
+Serpin Superfamily	C0036763	protein	null
+hirudin	C0019573	protein	null
+CTB-001	C5227708	protein	null
+Hirulog	C0210057	protein	null
+thioredoxin peroxidase	C0633227	protein	null
+thioretinaco	C1455153	protein	null
+Capralense	C1448403	protein	null
+Hexalense	C1448408	protein	null
+Amicar	C0702045	protein	null
+Epsamon	C0702043	protein	null
+Caprocid	C0702044	protein	null
+Caprolest	C1448405	protein	null
+Hemocaprol	C1448407	protein	null
+CY-116	C0702041	protein	null
+Epsikapron	C0702042	protein	null
+Caproamin	C1448404	protein	null
+Inflectra	C4238109	protein	null
+Remicade	C0723012	protein	null
+Renflexis	C4490037	protein	null
+Rhinathiol	C0947669	protein	null
+Mukodin	C0700012	protein	null
+Thiodril	C0947668	protein	null
+5G1.1	C5201119	protein	null
+Soliris	C1744173	protein	null
+Alexion	C1959617	protein	null
+Elizaria	C5557652	protein	null
+Eel Calcitonin	C0013668	protein	null
+ADI PEG20	C1328192	protein	null
+Pegargiminase	C4721782	protein	null
+BAX930	C4547518	protein	null
+ornithine alpha-ketoglutarate	C0134110	protein	null
+Hyatt-C	C0020199	protein	null
+quinoline-val-asp(OMe)-CH2-OPH	C1172343	protein	null
+pentosidine	C0070317	protein	null
+Hepatitis B Vaccines	C2240392	protein	null
+cysteine sulfinate	C0111710	protein	null
+heptadecanoylcarnitine	C4278942	protein	null
+cysteine sulfinic acid	C0056878	protein	null
+Interferon alpha-1	C1098214	protein	null
+Lisinopril Sulfate (1:2)	C0886655	protein	null
+MK-521	C0701175	protein	null
+Lisinopril Maleate (1:1)	C0886656	protein	null
+Prinivil	C0701176	protein	null
+Zestril	C0678140	protein	null
+Humate-P	C0086428	protein	null
+Xyntha	C2342443	protein	null
+Kogenate	C0218184	protein	null
+Hemofil	C0740130	protein	null
+BAY 81-8973	C4310257	protein	null
+Bioclate	C0718946	protein	null
+Recombinate	C0218182	protein	null
+Monoclate	C0376176	protein	null
+Kovaltry	C4084378	protein	null
+Kogenate FS	C1815180	protein	null
+anticonvertin	C0103563	protein	null
+lipoprotein-associated coagulation inhibitor	C0065061	protein	null
+tissue factor inhibitor, hepatoma	C0145986	protein	null
+TFPI-beta	C0753104	protein	null
+antithromboplastin	C0103662	protein	null
+TFI HepG2	C0145466	protein	null
+Xa-dependent factor VIIa-TF inhibitor	C0148936	protein	null
+Tissue Inhibitor of Metalloproteinases	C0145988	protein	null
+Beano	C0947661	protein	null
+Nexviazyme	C5550570	protein	null
+Fabrazyme	C1137428	protein	null
+Cerezyme	C0291139	protein	null
+Tanganil	C0967151	protein	null
+acetyl-DL-leucine	C0967150	protein	null
+Lasdol	C0125321	protein	null
+Replagal	C1130489	protein	null
+Remestyp	C0896512	protein	null
+Triglycyl-(8-lysine)vasopressin	C4704781	protein	null
+Xenpozyme	C5703716	protein	null
+olipudase alfa	C4278198	protein	null
+TNF Receptor Type II-IgG Fusion Protein	C0539395	protein	null
+TNFR-Fc Fusion Protein	C0539397	protein	null
+Recombinant Human Dimeric TNF Receptor Type II-IgG Fusion Protein	C0539396	protein	null
+Enbrel	C0720193	protein	null
+Erelzi	C4704668	protein	null
+KRN23	C3896830	protein	null
+Crysvita	C4691485	protein	null
+Zadaxin	C1515426	protein	null
+Humira	C1171255	protein	null
+Amjevita	C4704669	protein	null
+Cyltezo	C4704670	protein	null
+D2E7 Antibody	C4048611	protein	null
+Elelyso	C3473073	protein	null
+Tc 99m-Albumin	C0087067	protein	null
+99mTc-Human Serum Albumin	C0087068	protein	null
+99mTc-Albures	C0740185	protein	null
+Ceredase	C0109081	protein	null
+alglucerase	C0102139	protein	null
+Slc6a8 protein, rat	C0170473	protein	null
+SPINT2 protein, human	C0668013	protein	null
+varicella zoster virus glycoprotein E	C0061673	protein	null
+ornithylaspartate	C0069658	protein	null
+Hepatitis B Antibodies	C0019164	protein	null
+CaM kinase I activator	C0383017	protein	null
+AMG531	C1505595	protein	null
+Nplate	C2364485	protein	null
+Iduronate Sulfatase	C0020814	protein	null
+Crasnitin	C0699261	protein	null
+Elspar	C0699262	protein	null
+Asparaginase medac	C1257719	protein	null
+Leunase	C1257720	protein	null
+Paronal	C1257721	protein	null
+Kidrolase	C5441916	protein	null
+Vimizim	C3817377	protein	null
+arginine aspartate, (DL)-isomer	C0953709	protein	null
+arginine aspartate	C0052327	protein	null
+AD17002	C5564654	protein	null
+AD17010	C5564653	protein	null
+KW 2228	C0950802	protein	null
+nartograstim	C0287482	protein	null
+BEL-114333	C5226596	protein	null
+GSK-1550188	C5226598	protein	null
+HGS-1006	C5226597	protein	null
+Benlysta	C2980433	protein	null
+Abcertin	C4278839	protein	null
+ONO-4538	C4552118	protein	null
+MDX-1106	C2346820	protein	null
+Opdivo	C3872108	protein	null
+BMS-936558	C4552119	protein	null
+UQCC3 protein, human	C4042134	protein	null
+sebelipase alfa	C4050579	protein	null
+Kanuma	C4060049	protein	null
+XMA 005.2	C3179524	protein	null
+octaarginine	C1120729	protein	null
+Ganglioside Hydrolysis Activator Proteins	C0061097	protein	null
+Cerebroside Sulfate Activator Protein	C0109078	protein	null
+Hexosaminidase A Activating Protein	C0121674	protein	null
+Somatuline	C0245665	protein	null
+angiopeptin	C0051846	protein	null
+alpha-methylphenylalanine, (D-Phe)-isomer	C0952516	protein	null
+alpha-methylphenylalanine, (DL-Phe)-isomer	C0952513	protein	null
+alpha-methylphenylalanine, hydrochloride, (DL-Phe)-isomer	C0952515	protein	null
+alpha-methylphenylalanine, hydrochloride, (D-Phe)-isomer	C0952514	protein	null
+alpha-methylphenylalanine, (L-Phe)-isomer	C0952517	protein	null
+alpha-methylphenylalanine, hydrochloride, (L-Phe)-isomer	C0952518	protein	null
+8-chloro-cyclic adenosine monophosphate	C0050063	nucleotide	null
+Cordycepin	C0056331	nucleotide	null
+Adenosine Monophosphate	C0001465	nucleotide	null
+adenosine receptor antagonist	C0815050	nucleotide	null
+Adenosine	C0001443	nucleotide	null
+defibrotide	C0057257	nucleotide	null
+NADH	C0027289	nucleotide	null
+Nicotinamide adenine dinucleotide (NAD)	C0027270	nucleotide	null
+Adenosine Triphosphate	C0001480	nucleotide	null
+Didanosine	C0012133	nucleotide	null
+Diquafosol	C1955479	nucleotide	null
+Zidovudine	C0043474	nucleotide	null
+Ticagrelor	C1999375	nucleotide	null
+5,6-dihydro-5-azacytidine	C0048906	nucleotide	null
+2-Chloroadenosine	C0000275	nucleotide	null
+Inosine	C0021528	nucleotide	null
+Fluorouracil	C0016360	nucleotide	null
+Citicoline	C0010725	nucleotide	null
+Cyclic AMP	C0001455	nucleotide	null
+N(6)-(4-amino-3-iodobenzyl)adenosine-5'-N-methyluronamide	C0289299	nucleotide	null
+4-nitrobenzylthioinosine	C0048568	nucleotide	null
+Bucladesine	C0012054	nucleotide	null
+2',5'-oligoadenylate	C0045143	nucleotide	null
+Adenosine-5'-(N-ethylcarboxamide)	C0050789	nucleotide	null
+MRS 2179	C0674169	nucleotide	null
+Bromodeoxyuridine	C0006233	nucleotide	null
+calf thymus DNA	C0966503	nucleotide	null
+cangrelor	C1121991	nucleotide	null
+MRS 2279	C3179358	nucleotide	null
+Azacitidine	C0004475	nucleotide	null
+Pyrimidine analog	C0280039	nucleotide	null
+thiazole-4-carboxamide adenine dinucleotide	C0076423	nucleotide	null
+Purine Nucleosides	C0034136	nucleotide	null
+Poly I-C	C0032414	nucleotide	null
+Ganciclovir	C0017066	nucleotide	null
+nebularine	C0068476	nucleotide	null
+Adenine Nucleotides	C0001413	nucleotide	null
+Tenofovir disoproxil fumarate	C1099776	nucleotide	null
+Zalcitabine	C0012132	nucleotide	null
+triciribine	C0077069	nucleotide	null
+N(4)-oleylcytosine arabinoside	C0642228	nucleotide	null
+capecitabine	C0671970	nucleotide	null
+5'-methylthioadenosine	C0048819	nucleotide	null
+telbivudine	C1453933	nucleotide	null
+Inosine Pranobex	C0022230	nucleotide	null
+Uracil	C0041917	nucleotide	null
+diadenosine tetraphosphate	C0057684	nucleotide	null
+Guanine derivatives acting on arteriolar smooth muscle	C3540046	nucleotide	null
+AR C69931MX	C0763767	nucleotide	null
+Brilinta	C3163571	nucleotide	null
+CPG-ODN	C0914671	nucleotide	null
+CpG ODN 1826	C0965351	nucleotide	null
+mercaptopurine	C0000618	nucleotide	null
+TT-62	C0172587	nucleotide	null
+8-((4-chlorophenyl)thio)cyclic-3',5'-AMP	C0050001	nucleotide	null
+AR C124910XX	C3254492	nucleotide	null
+MG 98	C0796640	nucleotide	null
+Ribavirin	C0035525	nucleotide	null
+Guanosine	C0018330	nucleotide	null
+6-methyluracil	C0049669	nucleotide	null
+acadesine	C0051027	nucleotide	null
+3'(2')-O-(4-azidobenzoyl)adenosine 5-triphosphate	C0670483	nucleotide	null
+bropirimine	C0054150	nucleotide	null
+Purine derivatives, peripheral vasodilators	C3653379	nucleotide	null
+2-pentynoyl-coenzyme A	C0661137	nucleotide	null
+Flavin Mononucleotide	C0016388	nucleotide	null
+2'-CDg	C0091014	nucleotide	null
+Nucleoside Analogs	C1579410	nucleotide	null
+Floxuridine	C0016343	nucleotide	null
+Guanosine 5'-O-(3-Thiotriphosphate)	C0079469	nucleotide	null
+Adenylyl Imidodiphosphate	C0001506	nucleotide	null
+dexelvucitabine	C0389490	nucleotide	null
+decitabine	C0049065	nucleotide	null
+Acyclovir	C0001367	nucleotide	null
+5'-chloroacetamido-5'-deoxythymidine	C0626910	nucleotide	null
+8-Bromo Cyclic Adenosine Monophosphate	C0000661	nucleotide	null
+triacetyluridine	C0281351	nucleotide	null
+Neofluor	C1564850	nucleotide	null
+herring sperm DNA	C3486689	nucleotide	null
+gemcitabine	C0045093	nucleotide	null
+CYBERLINDNERA JADINII RNA	C3663395	nucleotide	null
+fludarabine	C0059985	nucleotide	null
+Adenosine Triphosphate, Magnesium Chloride	C0004221	nucleotide	null
+Striadyne	C0701945	nucleotide	null
+Atriphos	C0701946	nucleotide	null
+SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2	C5398043	nucleotide	null
+Comirnaty	C5448013	nucleotide	null
+ISIS 486178	C4078707	nucleotide	null
+ISIS-SMN(Rx)	C3886521	nucleotide	null
+ISIS 396443	C4505503	nucleotide	null
+ASO-10-27	C3886522	nucleotide	null
+5-fluorouridine	C0049192	nucleotide	null
+Sodium Inosinate	C0037519	nucleotide	null
+inosinic acid	C0021544	nucleotide	null
+Flavin Mononucleotide Monosodium Salt, Dihydrate	C1135740	nucleotide	null
+Flavin Mononucleotide Monosodium Salt	C1135738	nucleotide	null
+Flavin Mononucleotide Disodium Salt	C1135739	nucleotide	null
+N6-(3-indolylethyl)adenosine	C4309750	nucleotide	null
+JMF19071	C4310485	nucleotide	null
+N6-(4-hydroxybenzyl)adenosine	C4308067	nucleotide	null
+AZD 6140	C1608718	nucleotide	null
+Brilique	C3179434	nucleotide	null
+3-(7-((2-(3,4-Difluorophenyl)cyclopropyl)amino)-5-(propylthio)-3H-(1-3)-triazolo(4,5-d)pyrimidin-3-yl)-5-(2-hydroxyethoxy)cyclopentane-1,2-diol	C3254491	nucleotide	null
+Uftoral	C1564291	nucleotide	null
+tegafur	C0016778	nucleotide	null
+FT-207	C0919259	nucleotide	null
+Sunfural S	C0919260	nucleotide	null
+Ftorafur	C0919257	nucleotide	null
+Florafur	C0919258	nucleotide	null
+Futraful	C0919261	nucleotide	null
+Utefos	C1515256	nucleotide	null
+Fluorouracil Potassium Salt	C0887255	nucleotide	null
+Fluorouracil Monopotassium Salt	C0887257	nucleotide	null
+Fluorouracil Monosodium Salt	C0887254	nucleotide	null
+Efudex	C0699372	nucleotide	null
+Fluoroplex	C0699375	nucleotide	null
+Adrucil	C0699374	nucleotide	null
+5-Fluorouracil-Biosyn	C1564842	nucleotide	null
+Fluorouracilo Ferrer Far	C1564847	nucleotide	null
+Fluorouracile Dakota	C1564848	nucleotide	null
+Haemato-FU	C1564849	nucleotide	null
+5-HU Hexal	C1564843	nucleotide	null
+5-FU Lederle	C1564844	nucleotide	null
+Fluorouracil-GRY	C1564846	nucleotide	null
+5-FU Medac	C1564845	nucleotide	null
+Onkofluor	C1564851	nucleotide	null
+Fluracedyl	C1517230	nucleotide	null
+Ribofluor	C1517232	nucleotide	null
+Fluorouracil Mononitrate	C0887256	nucleotide	null
+Fluoro-Uracile ICN	C5441799	nucleotide	null
+Phosphaden	C0001448	nucleotide	null
+adenosine phosphate disodium	C3256589	nucleotide	null
+Spikevax	C5667132	nucleotide	null
+CX-024414	C5417447	nucleotide	null
+COVID-19 Vaccine Moderna	C5424056	nucleotide	null
+2019-nCoV Vaccine mRNA-1273	C5244457	nucleotide	null
+SARS-CoV-2 (COVID-19) vaccine, mRNA-1273	C5422751	nucleotide	null
+TAK-919	C5566019	nucleotide	null
+mRNA-1273.211	C5566020	nucleotide	null
+M-1273	C5565491	nucleotide	null
+2-hexynyladenosine-5'-N-ethylcarboxamide	C0527313	nucleotide	null
+N-Bicyclo(2.2.1)hept-2-yl-5'-chloro-5'-deoxyadenosine	C5544971	nucleotide	null
+5'-chloro-5'-deoxy-N6-(norborn-2-yl)adenosine	C4506898	nucleotide	null
+5'-chloro-5'-deoxy-N6-(endo-norborn-2-yl)adenosine	C4506899	nucleotide	null
+INS-365	C2350759	nucleotide	null
+NSC-38297	C0878530	nucleotide	null
+MYK-461	C4279313	nucleotide	null
+mRNA Vaccines	C5544360	nucleotide	null
+RNA Vaccines	C5828244	nucleotide	null
+Self-Amplifying RNA Vaccine	C5828243	nucleotide	null
+Trans Amplifying RNA Vaccine	C5828242	nucleotide	null
+N(6)-methyl-2'-deoxyadenosine 3',5'-diphosphate	C0754781	nucleotide	null
+Vaxzevria	C5667133	nucleotide	null
+ChAdOx1 nCoV-19	C5383287	nucleotide	null
+GS-829143	C5690290	nucleotide	null
+GS-465124	C5690291	nucleotide	null
+(13C3)-GS-5734	C5690289	nucleotide	null
+GS-5734	C4279131	nucleotide	null
+6-Mercaptopurine Monohydrate	C0886849	nucleotide	null
+Mercaptopurina Wellcome	C1563962	nucleotide	null
+Mecaptopurine Anhydrous	C4279938	nucleotide	null
+Purimethol	C0917847	nucleotide	null
+Purinethol	C0722911	nucleotide	null
+BW 57-323H	C0729098	nucleotide	null
+Leupurin	C0729100	nucleotide	null
+propylthiouracil	C0033511	nucleotide	null
+Defibrotide free acid (porcine mucosa)	C4703922	nucleotide	null
+Co-Vidarabine	C0733530	nucleotide	null
+clofarabine	C0092777	nucleotide	null
+cytarabine liposome	C0795597	nucleotide	null
+cladribine	C0092801	nucleotide	null
+cytarabine	C0010711	nucleotide	null
+mercaptopurine anhydrous	C1881785	nucleotide	null
+nelarabine	C0907349	nucleotide	null
+flucytosine	C0016278	nucleotide	null
+trifluridine	C0040987	nucleotide	null
+BREDININ	C0054034	nucleotide	null
+doxifluridine	C0048808	nucleotide	null
+abetimus	C1172637	nucleotide	null
+mizoribine	C0128608	nucleotide	null
+entecavir	C0971023	nucleotide	null
+entecavir anhydrous	C2699999	nucleotide	null
+peldesine	C0338278	nucleotide	null
+O(6)-benzylguanine	C0083812	nucleotide	null
+lobucavir	C0286536	nucleotide	null
+penciclovir	C0164815	nucleotide	null
+rilpivirine	C1566826	nucleotide	null
+tenofovir alafenamide	C3713958	nucleotide	null
+SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 OMICRON (BA.4/BA.5)	C5699493	nucleotide	null
+inotersen	C4731850	nucleotide	null
+tenofovir disoproxil	C0963398	nucleotide	null
+cidofovir	C0286079	nucleotide	null
+cidofovir anhydrous	C2699210	nucleotide	null
+bis(pivaloyloxymethyl)-9-(2-phosphonylmethoxyethyl)adenine	C0289521	nucleotide	null
+adefovir	C0050175	nucleotide	null
+tenofovir	C0384228	nucleotide	null
+tenofovir anhydrous	C3848584	nucleotide	null
+givosiran	C4688584	nucleotide	null
+pegaptanib	C1531015	nucleotide	null
+abacavir	C0663655	nucleotide	null
+pegaptanib sodium	C1576729	nucleotide	null
+sofosbuvir	C2976303	nucleotide	null
+Isoprinosine	C0795760	nucleotide	null
+lamivudine	C0209738	nucleotide	null
+raltegravir	C1871526	nucleotide	null
+stavudine	C0164662	nucleotide	null
+valoctocogene roxaparvovec	C4726937	nucleotide	null
+valomaciclovir	C1742773	nucleotide	null
+uracil mustard	C0041920	nucleotide	null
+sapacitabine	C0764827	nucleotide	null
+Trabedersen	C2699985	nucleotide	null
+IMO-2055	C1708303	nucleotide	null
+tezacitabine	C0253087	nucleotide	null
+carmofur	C0044401	nucleotide	null
+guadecitabine	C3899005	nucleotide	null
+Zelavespib	C5446178	nucleotide	null
+9H-purine-9-propanamine, 6-amino-8-((6-iodo-1,3-benzodioxol-5-yl)thio)-N-(1-methylethyl)-	C3502086	nucleotide	null
+8-((6-Iodobenzo[d][1,3]dioxol-5-yl)thio)-9-(3-(isopropylamino)propyl)-9H-purin-6-amine	C5761880	nucleotide	null
+fiacitabine	C0045211	nucleotide	null
+Pinometostat	C4519747	nucleotide	null
+oblimersen	C0914297	nucleotide	null
+osgemcitabine palabenamide	C5834085	nucleotide	null
+6-[4-Deoxy-4-[(2E,4E)-tetradecadienoylglycyl]amino-L-glycero-B-L-manno-heptopyranosyl]amino-9H-purine	C5761890	nucleotide	null
+KRN 5500	C0294829	nucleotide	null
+pinacidil	C0071074	nucleotide	null
+Pinacidil Anhydrous	C0886544	nucleotide	null
+vidarabine	C0042646	nucleotide	null
+emtricitabine	C0909839	nucleotide	null
+mipomersen	C2604635	nucleotide	null
+cedazuridine	C5226860	nucleotide	null
+Zovirax	C0592290	nucleotide	null
+Aci-Sanorania	C1449447	nucleotide	null
+Cusiviral	C1449462	nucleotide	null
+Laciken	C1449467	nucleotide	null
+Virax-Puren	C1449477	nucleotide	null
+Clonorax	C1449461	nucleotide	null
+Mapox	C1449468	nucleotide	null
+Opthavir	C1449471	nucleotide	null
+Viclovir	C1449472	nucleotide	null
+Virherpes	C1449481	nucleotide	null
+Virmen	C1449482	nucleotide	null
+Herpetad	C0594013	nucleotide	null
+Aciclostad	C1449449	nucleotide	null
+Herpoviric	C1449466	nucleotide	null
+Zyclir	C1449473	nucleotide	null
+Virupos	C1449478	nucleotide	null
+Isavir	C1449486	nucleotide	null
+Acivir	C1449485	nucleotide	null
+Aciclobeta	C1449448	nucleotide	null
+Acipen Solutab	C1449452	nucleotide	null
+Activir	C1449453	nucleotide	null
+Acyclo-V	C1449456	nucleotide	null
+Avirax	C1449457	nucleotide	null
+Herpofug	C1449464	nucleotide	null
+Herpotern	C1449465	nucleotide	null
+Vira-A	C0699565	nucleotide	null
+Leustatin	C0701346	nucleotide	null
+Vidaza	C1563756	nucleotide	null
+NSC-102816	C0878254	nucleotide	null
+8-hydroxyguanosine	C0050092	nucleotide	null
+MIRN152 microRNA, mouse	C2935382	nucleotide	null
+Dacogen	C1712036	nucleotide	null
+NSC 127716	C0950333	nucleotide	null
+Gemzar	C0338133	nucleotide	null
+2'-Deoxy-2',2''-Difluorocytidine-5'-O-Monophosphate	C0971191	nucleotide	null
+Gemcitabine, (alpha-D-threo-pentofuranosyl)-Isomer	C0957657	nucleotide	null
+Gemcitabine, (beta-D-threo-pentafuranosyl)-Isomer	C0970656	nucleotide	null
+Gemcitabine, (D-threo-pentafuranosyl)-Isomer	C0957658	nucleotide	null
+gemcitabine hydrochloride	C0771488	nucleotide	null
+2'-CMP	C0000190	nucleotide	null
+3'-CMP	C0000364	nucleotide	null
+9-(2-Phosphonylmethoxypropyl)adenine, (R)-isomer - T357098	C0384226	nucleotide	null
+9-(2-Phosphonylmethoxypropyl)adenine, (S)-isomer	C0893264	nucleotide	null
+9-(2-Phosphonylmethoxypropyl)adenine, (+-)-isomer	C0893263	nucleotide	null
+Viread	C1101609	nucleotide	null
+PSI 7977	C2976304	nucleotide	null
+Rebetol	C1170576	nucleotide	null
+Virazole	C1622085	nucleotide	null
+Ribamide	C0702024	nucleotide	null
+Viramide	C0702029	nucleotide	null
+ICN-1229	C0702025	nucleotide	null
+Virazide	C1564036	nucleotide	null
+Ribasphere	C1564336	nucleotide	null
+mizoribine 5'-monophosphate	C0604221	nucleotide	null
+Lamivudine, (+)-cis-	C5691447	nucleotide	null
+Lamivudine, (+-)-trans-	C5691431	nucleotide	null
+Lamivudine, (2S-cis)-Isomer	C0886625	nucleotide	null
+Epivir	C0678151	nucleotide	null
+BCH-189	C0287213	nucleotide	null
+GR-109714X	C0733528	nucleotide	null
+Baraclude	C1568876	nucleotide	null
+SQ-34676	C2987700	nucleotide	null
+BMS-200475-01	C2987701	nucleotide	null
+Vaccines, DNA	C0376613	nucleotide	null
+MK 0518	C1701590	nucleotide	null
+Isentress	C1967563	nucleotide	null
+Endopeptidases	C0030946	enzyme	null
+Histone deacetylase inhibitor	C1512474	enzyme	null
+Enzymes, hematological	C3540017	enzyme	null
+Superoxide Dismutase	C0038838	enzyme	null
+Muramidase	C0026794	enzyme	null
+Lipolytic enzyme	C0544422	enzyme	null
+Amylases	C0002712	enzyme	null
+Lipase	C0023764	enzyme	null
+TRYPSIN	C0041236	enzyme	null
+Thrombin	C0040018	enzyme	null
+Hyaluronidase	C0020197	enzyme	null
+Glycoside Hydrolases	C0017976	enzyme	null
+Papain	C0030346	enzyme	null
+Digestive Enzymes	C0544420	enzyme	null
+ranpirnase	C0069919	enzyme	null
+Alpha-glucosidase	C0002272	enzyme	null
+CHYMOTRYPSIN	C0008742	enzyme	null
+Pancreatic lipase	C0443469	enzyme	null
+Urokinase	C0042071	enzyme	null
+Pancreatic enzyme	C0920330	enzyme	null
+Streptokinase	C0038418	enzyme	null
+CELLULASE	C0007641	enzyme	null
+Dopachrome isomerase	C0114832	enzyme	null
+COLLAGENASE	C0162745	enzyme	null
+alteplase	C0032143	enzyme	null
+factor XIII	C0015528	enzyme	null
+Plasmin	C0016016	enzyme	null
+velaglucerase alfa	C2919267	enzyme	null
+Pancreatin	C0030304	enzyme	null
+beta-Galactosidase	C0005220	enzyme	null
+Kininogenase	C0022478	enzyme	null
+Bromelains	C0006217	enzyme	null
+AMP-activated protein kinase kinase	C0252214	enzyme	null
+TRYPSIN-CHYMOTRYPSIN	C0993235	enzyme	null
+Tryptar preparation	C0544421	enzyme	null
+Hyaluronidase, Bovine	C1615665	enzyme	null
+protease	C5200997	enzyme	null
+streptodornase	C0038415	enzyme	null
+Activase	C0701942	enzyme	null
+Actilyse	C0678113	enzyme	null
+Lactaid	C0733877	enzyme	null
+Lactrase	C0721296	enzyme	null
+Dairyaid	C1564491	enzyme	null
+Lactogest	C1564492	enzyme	null
+deoxyribonucleases	C0011522	enzyme	null
+Acidin-Pepsin	C0001120	enzyme	null
+Endoglycosidases	C3537242	enzyme	null
+Thrombostat	C0702033	enzyme	null
+Thrombinar	C0702032	enzyme	null
+Thrombin-JMI	C1099324	enzyme	null
+Leftose	C0023215	enzyme	null
+azzalure	C4310350	enzyme	null
+alpha-Amylases	C0002245	enzyme	null
+Alpha-Amylase Bayer	C1564486	enzyme	null
+Maxilase	C1564487	enzyme	null
+Mégamylase	C1564488	enzyme	null
+Fibrogammin	C1564746	enzyme	null
+Thrombolysin	C0733564	enzyme	null
+cocaine hydrolase	C5198009	enzyme	null
+Alphacutanée	C1564766	enzyme	null
+Avazyme	C1564765	enzyme	null
+Alpha-Chymotrypsin Choay	C1564767	enzyme	null
+Pepsin 1	C0030910	enzyme	null
+pepsin A	C0030909	enzyme	null
+Pepsin 3	C0030911	enzyme	null
+Kidney Plasminogen Activator	C0086506	enzyme	null
+Single-Chain Urokinase-Type Plasminogen Activator	C0086987	enzyme	null
+Renokinase	C0701940	enzyme	null
+Abbokinase	C0701941	enzyme	null
+Avelizin	C0699214	enzyme	null
+Awelysin	C0699215	enzyme	null
+Distreptase	C0699217	enzyme	null
+Kabivitrum	C0699218	enzyme	null
+Streptodecase	C0699219	enzyme	null
+Streptase	C0699213	enzyme	null
+Kabikinase	C0699212	enzyme	null
+Celiase	C0699216	enzyme	null
+collagenase Clostridium histolyticum	C0009053	enzyme	null
+factor VIIa	C0015505	enzyme	null
+coagulation factor X, human	C2826078	enzyme	null
+ancrod	C0002823	enzyme	null
+tenecteplase	C0872913	enzyme	null
+salivary plasminogen activator alpha 1, Desmodus rotundus	C0141449	enzyme	null
+reteplase	C0256103	enzyme	null
+anistreplase	C0078956	enzyme	null
+Imlifidase	C5139878	enzyme	null
+pegaspargase	C0071568	enzyme	null
+pegloticase	C2350656	enzyme	null
+Puricase	C2350657	enzyme	null
+pegademase bovine	C0164674	enzyme	null
+asparaginase	C0003993	enzyme	null
+Escherichia coli asparaginase	C1269691	enzyme	null
+sitimagene ceradenovec	C2354637	enzyme	null
+asparaginase Erwinia chrysanthemi (recombinant)-rywn	C5539923	enzyme	null
+asparaginase Erwinia chrysanthemi	C3255208	enzyme	null
+Erwinaze	C3248039	enzyme	null
+Erwinase	C0591457	enzyme	null
+Pegylated Recombinant Human Arginase I	C5432235	enzyme	null
+BCT-100	C2981808	enzyme	null
+hyaluronidase, ovine	C1577331	enzyme	null
+rasburicase	C0937932	enzyme	null
+pancrelipase protease	C2722896	enzyme	null
+pancrelipase	C0770343	enzyme	null
+Pancreatinum	C4721558	enzyme	null
+agalsidase beta	C1137427	enzyme	null
+alpha-D-galactosidase enzyme	C0002268	enzyme	null
+agalsidase alfa	C0962517	enzyme	null
+glucarpidase	C0007072	enzyme	null
+hyaluronidase, human recombinant	C1720035	enzyme	null
+hyaluronidase-fihj	C5383290	enzyme	null
+hyaluronidase-zzxf	C5389886	enzyme	null
+calaspargase pegol	C2699709	enzyme	null
+calaspargase pegol-mknl	C4745457	enzyme	null
+alglucosidase alfa	C1695579	enzyme	null
+imiglucerase	C0291140	enzyme	null
+taliglucerase alfa	C3273401	enzyme	null
+Myozyme	C1703294	enzyme	null
+Lumizyme	C2828340	enzyme	null
+Phenylalanine Ammonia-Lyase	C0031454	enzyme	null
+Enzyme agent	C0360722	enzyme	null
+thioredoxin peroxidase	C0633227	enzyme	null
+ADI PEG20	C1328192	enzyme	null
+Pegargiminase	C4721782	enzyme	null
+BAX930	C4547518	enzyme	null
+Nexviazyme	C5550570	enzyme	null
+Fabrazyme	C1137428	enzyme	null
+Cerezyme	C0291139	enzyme	null
+Xenpozyme	C5703716	enzyme	null
+olipudase alfa	C4278198	enzyme	null
+Ceredase	C0109081	enzyme	null
+alglucerase	C0102139	enzyme	null
+CaM kinase I activator	C0383017	enzyme	null
+Iduronate Sulfatase	C0020814	enzyme	null
+Crasnitin	C0699261	enzyme	null
+Elspar	C0699262	enzyme	null
+Asparaginase medac	C1257719	enzyme	null
+Leunase	C1257720	enzyme	null
+Paronal	C1257721	enzyme	null
+Kidrolase	C5441916	enzyme	null
+sebelipase alfa	C4050579	enzyme	null
+Ubiquinone Q2	C0077666	enzyme	null
+Tetracycline	C0039644	antibiotic	null
+Sirolimus	C0072980	antibiotic	null
+17-(dimethylaminoethylamino)-17-demethoxygeldanamycin	C1527262	antibiotic	null
+Today	C0310367	antibiotic	null
+Trimethoprim	C0041041	antibiotic	null
+Sulfamethoxazole	C0038689	antibiotic	null
+Fleroxacin	C0085161	antibiotic	null
+Zmax	C1614132	antibiotic	null
+Mitomycin	C0002475	antibiotic	null
+Doxycycline	C0013090	antibiotic	null
+Rifamycins	C0035609	antibiotic	null
+Oligomycins	C0028951	antibiotic	null
+Doxorubicin	C0013089	antibiotic	null
+Streptozocin	C0038432	antibiotic	null
+moxifloxacin	C0536495	antibiotic	null
+Cephradine	C0007738	antibiotic	null
+Minocycline	C0026187	antibiotic	null
+Azithromycin	C0052796	antibiotic	null
+Amoxicillin	C0002645	antibiotic	null
+Clarithromycin	C0055856	antibiotic	null
+carzinophilin	C0054841	antibiotic	null
+Rifampin	C0035608	antibiotic	null
+Amphotericin B	C0002679	antibiotic	null
+Troleandomycin	C0041165	antibiotic	null
+essramycin	C2605537	antibiotic	null
+omadacycline	C2983838	antibiotic	null
+Antibiotics, Aminoglycoside	C0003233	antibiotic	null
+tanespimycin	C0675974	antibiotic	null
+enrofloxacin	C0059374	antibiotic	null
+difloxacin	C0057993	antibiotic	null
+Pefloxacin	C0030771	antibiotic	null
+sparfloxacin	C0052585	antibiotic	null
+Oxolinic Acid	C0030031	antibiotic	null
+hyperforin	C0063217	antibiotic	null
+Sulfonamide Anti-Infective Agents	C0599503	antibiotic	null
+Geldanamycin Analogue	C0796552	antibiotic	null
+erythro	C0699343	antibiotic	null
+chlorozotocin	C0055465	antibiotic	null
+Anisomycin	C0003082	antibiotic	null
+thermozymocidin	C0076394	antibiotic	null
+Erythromycin	C0014806	antibiotic	null
+Septa	C0723285	antibiotic	null
+Novobiocin	C0028458	antibiotic	null
+Anthracycline Antibiotics	C0003234	antibiotic	null
+trichostatin A	C0077063	antibiotic	null
+Oxytetracycline	C0030092	antibiotic	null
+Daunorubicin	C0011015	antibiotic	null
+Aclarubicin	C0001143	antibiotic	null
+Sulfaguanidine	C0038681	antibiotic	null
+Ceftriaxone	C0007561	antibiotic	null
+Cephalosporins	C3536856	antibiotic	null
+Citrinin	C0008861	antibiotic	null
+loracarbef	C0065295	antibiotic	null
+Antibiotic 503-3	C2987666	antibiotic	null
+Gentamicin Sulfate (USP)	C0546866	antibiotic	null
+Nystatin	C0028741	antibiotic	null
+Ampicillin	C0002680	antibiotic	null
+Chloramphenicol	C0008168	antibiotic	null
+Sulfamethazine	C0038686	antibiotic	null
+Lactams	C0022914	antibiotic	null
+Monobactams	C0026458	antibiotic	null
+Brefeldin A	C0054036	antibiotic	null
+Prospec	C2830187	antibiotic	null
+Antimycin A	C0003387	antibiotic	null
+Cycloheximide	C0010572	antibiotic	null
+antibiotic G 418	C0052009	antibiotic	null
+Sisomicin	C0037209	antibiotic	null
+Neomycin	C0027603	antibiotic	null
+Daunorubicin Hydrochloride	C0282123	antibiotic	null
+Chromomycin A3	C0040563	antibiotic	null
+Kanamycin	C0022487	antibiotic	null
+neamine	C0027515	antibiotic	null
+Framycetin	C0016673	antibiotic	null
+A-23187	C0878412	antibiotic	null
+Penicillins	C0030842	antibiotic	null
+Streptomycin	C0038425	antibiotic	null
+PENSTREP	C0309732	antibiotic	null
+Amphotericin	C0085795	antibiotic	null
+antimycin	C0052078	antibiotic	null
+Mycophenolic Acid	C0026933	antibiotic	null
+tetracycline hydrochloride	C0546879	antibiotic	null
+Streptomycin Sulfate	C0038426	antibiotic	null
+Penicillin G	C0030827	antibiotic	null
+Rapamune	C0813828	antibiotic	null
+Ceftazidime	C0007559	antibiotic	null
+Cefoperazone	C0007552	antibiotic	null
+meropenem	C0066005	antibiotic	null
+Rutamycin	C0035972	antibiotic	null
+geldanamycin	C0061179	antibiotic	null
+Carbenicillin	C0006976	antibiotic	null
+Monensin	C0026408	antibiotic	null
+Filipin	C0016095	antibiotic	null
+A/T/S	C0718146	antibiotic	null
+TM -50	C0310363	antibiotic	null
+TM -10	C0310362	antibiotic	null
+becatecarin	C0936065	antibiotic	null
+Clindamycin	C0008947	antibiotic	null
+Lincosamide Antibiotic	C2826567	antibiotic	null
+Clavulanate	C0110038	antibiotic	null
+Moxalactam	C0026651	antibiotic	null
+Gentamicins	C0017436	antibiotic	null
+Paromomycin	C0030576	antibiotic	null
+PS 5	C0072520	antibiotic	null
+antibiotic PS 8	C0616908	antibiotic	null
+meclocycline	C0065841	antibiotic	null
+Chromomycin	C0520455	antibiotic	null
+sultamicillin	C0075629	antibiotic	null
+Plicamycin	C0026234	antibiotic	null
+NSC-26980	C0702048	antibiotic	null
+Mitocin-C	C0702049	antibiotic	null
+Mutamycin	C0702051	antibiotic	null
+Ametycine	C0702050	antibiotic	null
+doxycycline hyclate	C0058731	antibiotic	null
+Doxycycline Monohydrochloride, 6-epimer	C0887343	antibiotic	null
+Doxycycline Phosphate (1:1)	C0887344	antibiotic	null
+Doxycycline Monohydrochloride, Dihydrate	C0887345	antibiotic	null
+Doxycycline Calcium Salt (1:2)	C0887346	antibiotic	null
+Doxycycline-Chinoin	C0877818	antibiotic	null
+BU-3839T	C0013091	antibiotic	null
+Vibramycin	C0699957	antibiotic	null
+Vibravenos	C0701101	antibiotic	null
+Doryx	C0720025	antibiotic	null
+doxycycline monohydrate	C0700451	antibiotic	null
+BMY-28689	C0917840	antibiotic	null
+Hydramycin	C0122719	antibiotic	null
+Vibramycin Novum	C0282156	antibiotic	null
+doxycycline calcium	C0282155	antibiotic	null
+Oracea	C1724190	antibiotic	null
+ciprofloxacin hydrochloride	C0282104	antibiotic	null
+doxorubicin hydrochloride	C0546861	antibiotic	null
+Myocet	C1512062	antibiotic	null
+Erythromycin C	C0600214	antibiotic	null
+Ilotycin	C0699339	antibiotic	null
+Erycette	C0699349	antibiotic	null
+Erymax	C0699350	antibiotic	null
+T-Stat	C0699351	antibiotic	null
+Erythromycin Lactate	C0014812	antibiotic	null
+erythromycin phosphate	C0014813	antibiotic	null
+Antibiotic 6640	C0919254	antibiotic	null
+Sch-13475	C0919288	antibiotic	null
+AY 22-989	C0878382	antibiotic	null
+Kantrex	C0022491	antibiotic	null
+kanamycin A	C0022489	antibiotic	null
+Toyomicin	C0917882	antibiotic	null
+NSC-89671	C0878208	antibiotic	null
+Antimycin A1	C0003388	antibiotic	null
+salinomycin	C0073987	antibiotic	null
+Coxistac	C0950283	antibiotic	null
+K 364	C0124361	antibiotic	null
+salinomycin monosodium salt	C0952108	antibiotic	null
+4-Epitetracycline	C0000488	antibiotic	null
+Topicycline	C0001086	antibiotic	null
+Hostacyclin	C0699125	antibiotic	null
+Tetrabid	C0699127	antibiotic	null
+Sustamycin	C0699126	antibiotic	null
+Achromycin V	C0677059	antibiotic	null
+Achromycin	C0740484	antibiotic	null
+Ansamycins	C0051936	antibiotic	null
+lactacystin	C0125179	antibiotic	null
+Quinodis	C1564754	antibiotic	null
+Cephradine, Non-Stoichiometric Hydrate	C0887479	antibiotic	null
+Cephradine Dihydrate	C0887480	antibiotic	null
+Kelsef	C1564630	antibiotic	null
+Maxisporin	C1564631	antibiotic	null
+Dexef	C1564629	antibiotic	null
+Septacef	C1564632	antibiotic	null
+Velocef	C1564640	antibiotic	null
+Velosef	C0699948	antibiotic	null
+Anspor	C0729027	antibiotic	null
+SQ-11436	C0729054	antibiotic	null
+Sefril	C0729052	antibiotic	null
+amoxicillin trihydrate	C0521900	antibiotic	null
+Amoxicillin, (R*)-Isomer	C0887550	antibiotic	null
+amoxicillin anhydrous	C2828282	antibiotic	null
+Penamox	C0740072	antibiotic	null
+Amoxil	C0700524	antibiotic	null
+Wymox	C0041058	antibiotic	null
+Trimox	C0723903	antibiotic	null
+Polymox	C0740069	antibiotic	null
+BRL-2333	C0740070	antibiotic	null
+amoxicillin sodium	C0887551	antibiotic	null
+Amoxicillin Monopotassium Salt	C0887552	antibiotic	null
+Actimoxi	C1449603	antibiotic	null
+Zanosar	C0724450	antibiotic	null
+Oxytetracycline, (4a beta,5 beta,5a beta,12a beta)-Isomer	C0887050	antibiotic	null
+Oxytetracycline, (5 beta)-Isomer	C0887051	antibiotic	null
+oxytetracycline dihydrate	C0887052	antibiotic	null
+Oxytetracycline, Sodium Salt	C0887055	antibiotic	null
+Oxytetracycline, Calcium (1:1) Salt	C0887056	antibiotic	null
+Oxytetracycline Sulfate (2:1)	C0887054	antibiotic	null
+Oxyterracin	C0701904	antibiotic	null
+Oxytetracid	C0702184	antibiotic	null
+Terramycin	C0699935	antibiotic	null
+Geomycin	C0701906	antibiotic	null
+Bisolvomycin	C0701907	antibiotic	null
+oxytetracycline anhydrous	C2698682	antibiotic	null
+oxytetracycline calcium	C0282277	antibiotic	null
+Oxytetracycline, Disodium Salt, Dihydrate	C0949397	antibiotic	null
+Oxytetracycline Monohydrochloride	C0949396	antibiotic	null
+oxytetracycline hydrochloride	C0017449	antibiotic	null
+9,10-anthraquinone	C0050133	antibiotic	null
+Morkit	C1510920	antibiotic	null
+Calcimycin	C0000699	antibiotic	null
+Akamin	C1563989	antibiotic	null
+Cyclomin	C0591310	antibiotic	null
+Aknemin	C0591049	antibiotic	null
+Blemix	C0591183	antibiotic	null
+Minocin	C0591806	antibiotic	null
+Arestin	C1170070	antibiotic	null
+Minocycline, (4R-(4 alpha,4a beta,5a beta,12a beta))-Isomer	C0887131	antibiotic	null
+Dynacin	C0720114	antibiotic	null
+Lederderm	C1563994	antibiotic	null
+Akne-Puren	C1563990	antibiotic	null
+Aknosan	C1563992	antibiotic	null
+Minoclir	C1563999	antibiotic	null
+Minolis	C1564493	antibiotic	null
+Minox 50	C1563988	antibiotic	null
+Icht-Oral	C1563995	antibiotic	null
+Aknin-Mino	C1563991	antibiotic	null
+Mino-Wolff	C1563998	antibiotic	null
+Minoplus	C1564494	antibiotic	null
+Cyclops brand of minocycline hydrochloride	C1578615	antibiotic	null
+Klinomycin	C1563996	antibiotic	null
+Dentomycin	C0731509	antibiotic	null
+Minomycin	C3281328	antibiotic	null
+Biaxin	C0701281	antibiotic	null
+TE-031	C0701280	antibiotic	null
+A-56268	C0701282	antibiotic	null
+Lorafem	C1436898	antibiotic	null
+Lorax	C1436896	antibiotic	null
+Carbac	C1436897	antibiotic	null
+KT 3777	C0740022	antibiotic	null
+Lorabid	C0721422	antibiotic	null
+loracarbef monohydrate	C1436895	antibiotic	null
+LY 163892	C0740024	antibiotic	null
+Oxazolidinones	C0887953	antibiotic	null
+Rimactane	C0699925	antibiotic	null
+Tubocin	C0733665	antibiotic	null
+Rimactan	C0733664	antibiotic	null
+Nystatin A2	C0086726	antibiotic	null
+Nystatin A1	C0086725	antibiotic	null
+Fungicidin	C0699476	antibiotic	null
+Nilstat	C0699478	antibiotic	null
+Stamycin	C0699480	antibiotic	null
+Mycostatin	C0699477	antibiotic	null
+Stamicin	C0699479	antibiotic	null
+Nystatin G	C0028743	antibiotic	null
+Nystatin A3	C0028742	antibiotic	null
+Sulfanilamide Strontium Salt	C0972065	antibiotic	null
+Sulfanilamide Monohydrate	C0955925	antibiotic	null
+Sulfanilamide Barium Salt	C0955929	antibiotic	null
+Sulfanilamide Cadmium Salt	C0955931	antibiotic	null
+Sulfanilamide Sodium Salt	C0955924	antibiotic	null
+Sulfanilamide Silver Salt	C0955926	antibiotic	null
+Sulfanilamide Magnesium Salt	C0955928	antibiotic	null
+Sulfanilamide Zinc Salt	C0955930	antibiotic	null
+Sulfanilamide Hydrochloride	C0955932	antibiotic	null
+sulfanilamide	C0038702	antibiotic	null
+Sulfanilamide Lithium Salt	C0955927	antibiotic	null
+Flagecidin	C0947664	antibiotic	null
+Solosec	C4529543	antibiotic	null
+AT 4140	C0104491	antibiotic	null
+CI 978	C0109739	antibiotic	null
+PD 131501	C0135700	antibiotic	null
+Zagam	C0724448	antibiotic	null
+sulfisoxazole diolamine	C0038746	antibiotic	null
+ceftriaxone sodium	C0700527	antibiotic	null
+Ceftriaxone Irex	C1564649	antibiotic	null
+Cefaxona	C1564647	antibiotic	null
+Ceftrex	C1564648	antibiotic	null
+Ceftriaxon Curamed	C1564651	antibiotic	null
+Ceftriaxona Andreu	C1564653	antibiotic	null
+Benaxona	C1564646	antibiotic	null
+Ceftriaxona LDP Torlan	C1564650	antibiotic	null
+Ceftriaxon Hexal	C1564652	antibiotic	null
+Lendacin	C1136248	antibiotic	null
+Tacex	C1564644	antibiotic	null
+Terbac	C1564645	antibiotic	null
+Ro13-9904	C0733785	antibiotic	null
+Ceftriaxone Sodium, Anhydrous	C0949252	antibiotic	null
+Longacef	C0733786	antibiotic	null
+Rocephin	C0035750	antibiotic	null
+Levomicetina	C4256055	antibiotic	null
+MTC-DOX for Injection	C5834504	antibiotic	null
+daunorubicin liposomal	C0717668	antibiotic	null
+MTC-DOX	C1134452	antibiotic	null
+Cephaloglycin	C0007721	antibiotic	null
+cefaclor	C0007537	antibiotic	null
+cefaclor anhydrous	C2699131	antibiotic	null
+ceforanide	C0055008	antibiotic	null
+cefuroxime	C0007562	antibiotic	null
+cefotiam	C0007556	antibiotic	null
+Cefmenoxime	C0007549	antibiotic	null
+cefmetazole	C0007550	antibiotic	null
+ceftazidime anhydrous	C2983899	antibiotic	null
+Anhydrous loracarbef	C1881444	antibiotic	null
+cephalothin	C0007735	antibiotic	null
+cefotaxime	C0007554	antibiotic	null
+cefdinir	C0060405	antibiotic	null
+cephalexin	C0007716	antibiotic	null
+cephalexin anhydrous	C2699162	antibiotic	null
+cefixime	C0060400	antibiotic	null
+cefixime anhydrous	C3661490	antibiotic	null
+Cephaloglycin anhydrous	C2699163	antibiotic	null
+cefadroxil	C0007538	antibiotic	null
+cefadroxil anhydrous	C2699132	antibiotic	null
+cefprozil anhydrous	C2699143	antibiotic	null
+cefprozil	C0053882	antibiotic	null
+cefazolin	C0007546	antibiotic	null
+Cefamezine	C0700930	antibiotic	null
+cephapirin	C0007737	antibiotic	null
+Cefadole	C4255698	antibiotic	null
+cefamandole	C0007541	antibiotic	null
+cefoxitin	C0007557	antibiotic	null
+cefonicid	C0007551	antibiotic	null
+cefotetan	C0007555	antibiotic	null
+Rephoxitin	C4255697	antibiotic	null
+ceftibuten	C0055014	antibiotic	null
+Festamoxin	C0878141	antibiotic	null
+ceftobiprole	C1100584	antibiotic	null
+ceftaroline fosamil	C2001525	antibiotic	null
+ceftolozane	C3852726	antibiotic	null
+flomoxef	C0117881	antibiotic	null
+tazobactam	C0075870	antibiotic	null
+ceftizoxime	C0007560	antibiotic	null
+cefepime	C0055003	antibiotic	null
+cefpodoxime	C0055011	antibiotic	null
+ceftaroline	C2001521	antibiotic	null
+cephaloridine	C0007727	antibiotic	null
+cefroxadine	C0108941	antibiotic	null
+cefpirome	C0062986	antibiotic	null
+cefamandole nafate	C0054995	antibiotic	null
+doxycycline anhydrous	C2699808	antibiotic	null
+Albamycin	C0718316	antibiotic	null
+pirarubicin	C0071126	antibiotic	null
+Theprubicin	C0950476	antibiotic	null
+grepafloxacin	C0287721	antibiotic	null
+temafloxacin	C0076075	antibiotic	null
+sulfadiazine	C0038675	antibiotic	null
+fusidate	C0369246	antibiotic	null
+fusidic acid	C0016875	antibiotic	null
+Ramycin	C4255637	antibiotic	null
+pretomanid	C4310440	antibiotic	null
+telithromycin	C0907410	antibiotic	null
+cethromycin	C1317928	antibiotic	null
+roxithromycin	C0035891	antibiotic	null
+levofloxacin anhydrous	C3661457	antibiotic	null
+gemifloxacin	C0533545	antibiotic	null
+garenoxacin	C1507354	antibiotic	null
+bedaquiline	C1664205	antibiotic	null
+trovafloxacin	C0379881	antibiotic	null
+nalidixic acid	C0027353	antibiotic	null
+levofloxacin	C0282386	antibiotic	null
+ofloxacin	C0028902	antibiotic	null
+sitafloxacin	C0171447	antibiotic	null
+rosoxacin	C0073591	antibiotic	null
+gatifloxacin anhydrous	C3848583	antibiotic	null
+gatifloxacin	C0753645	antibiotic	null
+sarafloxacin	C0050308	antibiotic	null
+delafloxacin	C2828290	antibiotic	null
+prulifloxacin	C0527129	antibiotic	null
+Delamanid	C3489682	antibiotic	null
+dihydrostreptomycin	C0262967	antibiotic	null
+aztreonam	C0004521	antibiotic	null
+ampicillin (anhydrous)	C0724526	antibiotic	null
+ertapenem	C1120106	antibiotic	null
+piperacillin	C0031955	antibiotic	null
+piperacillin anhydrous	C1882383	antibiotic	null
+Deschlorobiomycin	C4255917	antibiotic	null
+Abramycin	C4255918	antibiotic	null
+oxacillin	C0029983	antibiotic	null
+meropenem anhydrous	C1881787	antibiotic	null
+fosfomycin	C0016610	antibiotic	null
+doripenem	C0389169	antibiotic	null
+sulbactam	C0038665	antibiotic	null
+penicillin G procaine	C0030830	antibiotic	null
+vaborbactam	C4519317	antibiotic	null
+amikacin	C0002499	antibiotic	null
+Kaomycine	C4718971	antibiotic	null
+arbekacin	C4082272	antibiotic	null
+tobramycin	C0040341	antibiotic	null
+netilmicin	C0027780	antibiotic	null
+Fradiomycin	C4718970	antibiotic	null
+Vonamycin	C4718972	antibiotic	null
+Ribostamycin	C0035554	antibiotic	null
+Habekacin	C0062073	antibiotic	null
+plazomicin	C3502652	antibiotic	null
+amphotericin B liposomal	C1145701	antibiotic	null
+valrubicin	C0068314	antibiotic	null
+elsamicin A	C0059041	antibiotic	null
+amrubicin	C0762659	antibiotic	null
+Porfiromycin	C0032697	antibiotic	null
+O-(Chloroacetylcarbamoyl)fumagillol	C0081489	antibiotic	null
+clinafloxacin	C0070191	antibiotic	null
+sulfacytine	C0262960	antibiotic	null
+sulfadimethoxine	C0038676	antibiotic	null
+Sulfaphenazole	C0038706	antibiotic	null
+sulfapyridine	C0038710	antibiotic	null
+Sulfameter	C0038685	antibiotic	null
+Prontosil album	C4256126	antibiotic	null
+Streptocide	C4256125	antibiotic	null
+mafenide	C0024452	antibiotic	null
+demeclocycline	C0011276	antibiotic	null
+retapamulin	C1703334	antibiotic	null
+tigecycline	C1260298	antibiotic	null
+Embryostat	C4255997	antibiotic	null
+rolitetracycline	C0035823	antibiotic	null
+lymecycline	C0024200	antibiotic	null
+Mepatar	C4255996	antibiotic	null
+methacycline	C0025603	antibiotic	null
+lincomycin	C0023726	antibiotic	null
+chlortetracycline	C0008293	antibiotic	null
+rifamycin SV	C0073371	antibiotic	null
+Doxorubicin HCl with pluronic L-61 and pluronic F-127	C5834507	antibiotic	null
+sabarubicin	C0664590	antibiotic	null
+Camsirubicin	C4048876	antibiotic	null
+nafcillin	C0027324	antibiotic	null
+griseofulvin microsize	C0304315	antibiotic	null
+imipenem	C0020933	antibiotic	null
+Candicidin	C0006834	antibiotic	null
+Levorin	C0878209	antibiotic	null
+josamycin	C0022419	antibiotic	null
+solithromycin	C3655918	antibiotic	null
+tilmicosin	C0076681	antibiotic	null
+miocamycin	C0026202	antibiotic	null
+floxacillin	C0016267	antibiotic	null
+rifabutin	C0140575	antibiotic	null
+dicloxacillin	C0012093	antibiotic	null
+rifapentine	C0073372	antibiotic	null
+avibactam	C3489748	antibiotic	null
+relebactam anhydrous	C4519897	antibiotic	null
+spiramycin	C0037962	antibiotic	null
+azlocillin	C0004499	antibiotic	null
+benzylpenicilloyl polylysine	C0053327	antibiotic	null
+cloxacillin	C0009077	antibiotic	null
+penicillin V	C0030840	antibiotic	null
+Oracillin	C4256073	antibiotic	null
+hetacillin	C0062587	antibiotic	null
+mezlocillin	C0025893	antibiotic	null
+cyclacillin	C0010523	antibiotic	null
+carbenicillin indanyl	C0054667	antibiotic	null
+amdinocillin	C0002435	antibiotic	null
+bacampicillin	C0052865	antibiotic	null
+methicillin	C0025643	antibiotic	null
+pivampicillin	C0032032	antibiotic	null
+amdinocillin pivoxil	C0002436	antibiotic	null
+ticarcillin	C0040193	antibiotic	null
+temocillin	C0076079	antibiotic	null
+besifloxacin	C2351042	antibiotic	null
+phenethicillin	C0070557	antibiotic	null
+dibekacin	C0012024	antibiotic	null
+clavulanic acid	C0055860	antibiotic	null
+spectinomycin	C0001268	antibiotic	null
+biapenem	C0209475	antibiotic	null
+mupirocin	C0085259	antibiotic	null
+fosmidomycin	C0060694	antibiotic	null
+thiamphenicol	C0039854	antibiotic	null
+fidaxomicin	C0065023	antibiotic	null
+Difimicin	C4082266	antibiotic	null
+fusafungin	C0060879	antibiotic	null
+delpazolid	C4705585	antibiotic	null
+finafloxacin	C2825286	antibiotic	null
+natamycin	C0027444	antibiotic	null
+BRL-284	C2830161	antibiotic	null
+Amoxicillin / Clavulanate	C0054066	antibiotic	null
+136-27	C3282886	antibiotic	null
+Cephalosporanic Acids	C0282531	antibiotic	null
+(-)-(6R,7R)-2,2-dimethylpropionyloxymethyl 7-((Z)-2-(2-aminothiazol-4-yl)-2-methoxyiminoacetamido)-3-((Z)-2-(4-methylthiazol-5-yl)ethenyl)-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylate	C0526311	antibiotic	null
+Spectracef	C0969483	antibiotic	null
+cefditoren pivoxil	C0245519	antibiotic	null
+ME 1207	C0065823	antibiotic	null
+mycophenolate sodium	C1337395	antibiotic	null
+Gentavet	C0699093	antibiotic	null
+G-Myticin	C0699092	antibiotic	null
+Garamycin	C0699088	antibiotic	null
+Genticin	C0016898	antibiotic	null
+NSC-3364	C0878307	antibiotic	null
+U-5956	C0878306	antibiotic	null
+beta-Lactams	C0282215	antibiotic	null
+azithromycin monohydrate	C0886592	antibiotic	null
+Zithromax	C0678143	antibiotic	null
+azithromycin dihydrate	C0795582	antibiotic	null
+Zentavion	C1257816	antibiotic	null
+Goxal	C1257813	antibiotic	null
+Vinzam	C1257815	antibiotic	null
+Sumamed	C0949528	antibiotic	null
+CP-62993	C0729049	antibiotic	null
+Toraseptol	C1257814	antibiotic	null
+Neomycin Palmitate	C0521893	antibiotic	null
+neomycin sulfate	C0027607	antibiotic	null
+Invanoz	C1530055	antibiotic	null
+ISP-1 suppressant	C0243211	antibiotic	null
+BRL-25000	C0729068	antibiotic	null
+Clavulin	C0729069	antibiotic	null
+Spektramox	C0729071	antibiotic	null
+Synulox	C0729072	antibiotic	null
+Augmentin	C0591132	antibiotic	null
+BMY 28142	C0106734	antibiotic	null
+Maxipime	C0284915	antibiotic	null
+Quadrocef	C3496210	antibiotic	null
+Axépim	C4704788	antibiotic	null
+cefepime hydrochloride	C0771284	antibiotic	null
+amphotericin B colloidal dispersion	C0338196	antibiotic	null
+amikacin sulfate	C0002501	antibiotic	null
+Amikin	C0700949	antibiotic	null
+Amikacina Medical	C1257677	antibiotic	null
+Amikason's	C1257681	antibiotic	null
+Oprad	C1257685	antibiotic	null
+Amphocil	C0700958	antibiotic	null
+Amphotericin B Cholesterol Dispersion	C1412025	antibiotic	null
+Fungizone	C0812405	antibiotic	null
+BB-K8	C0162312	antibiotic	null
+Amikacina Normon	C1257678	antibiotic	null
+Amikalem	C1257680	antibiotic	null
+Amikayect	C1257682	antibiotic	null
+Kanbine	C1257684	antibiotic	null
+Yectamid	C1257686	antibiotic	null
+Gamikal	C1257683	antibiotic	null
+A.M.K	C1257676	antibiotic	null
+Amikafur	C1257679	antibiotic	null
+Carbapenems	C0006968	antibiotic	null
+Ukapen	C0002683	antibiotic	null
+ampicillin trihydrate	C0700443	antibiotic	null
+Amcill	C0700801	antibiotic	null
+Polycillin	C0700944	antibiotic	null
+Omnipen	C0700946	antibiotic	null
+Pentrexyl	C0700945	antibiotic	null
+ampicillin sodium	C0282052	antibiotic	null
+Antibiotic KS-R1	C3489528	antibiotic	null

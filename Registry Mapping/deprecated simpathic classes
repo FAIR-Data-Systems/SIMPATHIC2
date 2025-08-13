@@ -1,0 +1,81 @@
+
+
+
+
+    <!-- https://w3id.org/nmd-domain#SIMPATHIC_00000 -->
+
+    <owl:Class rdf:about="https://w3id.org/nmd-domain#SIMPATHIC_00000">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+        <dc:description xml:lang="en">Children&apos;s Hospital of Philadelphia Infant Test of Neuromuscular Disorders; A 16-item scale developed specifically for evaluating motor function in infants with spinal muscular atrophy (SMA).</dc:description>
+        <rdfs:label xml:lang="en">CHOP-INTEND-Score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/nmd-domain#SIMPATHIC_00001 -->
+
+    <owl:Class rdf:about="https://w3id.org/nmd-domain#SIMPATHIC_00001">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+        <dc:description xml:lang="en">Hammersmith Functional Motor Scale; A scale used to gather information on disease progression and motor abilities in patients with Spinal Muscular Atrophy (types 2 and 3).</dc:description>
+        <rdfs:label xml:lang="en">HFMS-Score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/nmd-domain#SIMPATHIC_00002 -->
+
+    <owl:Class rdf:about="https://w3id.org/nmd-domain#SIMPATHIC_00002">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+        <dc:description xml:lang="en">Hammersmith Functional Motor Scale Expanded; A clinician-reported outcome measure that expands the original HFMS to capture higher functioning in SMA patients using 13 additional items adapted from the gross motor function measure (GMFM), scored on a three-point scale. A higher score indicates a higher level of function.</dc:description>
+        <rdfs:label xml:lang="en">HFMS-E-Score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/nmd-domain#SIMPATHIC_00003 -->
+
+    <owl:Class rdf:about="https://w3id.org/nmd-domain#SIMPATHIC_00003">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+        <dc:description xml:lang="en">Hammersmith Infant Neurological Examination (HINE) Section 2; A standardized neurological examination for identifying infants between 3 and 24 months of age who have a high probability of all types of cerebral palsy (CP). It includes 26 items assessing cranial nerves, posture, movements, tone, and reflexes.</dc:description>
+        <rdfs:label xml:lang="en">HINE-Section2-Score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/nmd-domain#SIMPATHIC_00004 -->
+
+    <owl:Class rdf:about="https://w3id.org/nmd-domain#SIMPATHIC_00004">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+        <dc:description xml:lang="en">Adult Test of Neuromuscular Disorders (CHOP-ATEND); A functional motor outcome assessment for individuals with a neuromuscular disorder who are not able to sit or transfer out of a wheelchair.</dc:description>
+        <rdfs:label xml:lang="en">CHOP-ATEND-Score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/nmd-domain#SIMPATHIC_00005 -->
+
+    <owl:Class rdf:about="https://w3id.org/nmd-domain#SIMPATHIC_00005">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+        <dc:description xml:lang="en">Revised Upper Limb Measure (RULM); An assessment used to evaluate changes in motor performance of the upper limb over time.</dc:description>
+        <rdfs:label xml:lang="en">RULM-Score</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/nmd-domain#SIMPATHIC_00006 -->
+
+    <owl:Class rdf:about="https://w3id.org/nmd-domain#SIMPATHIC_00006">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+        <dc:description xml:lang="en">Motor Function Measurement (MFM); A quantitative scale that measures motor functional abilities in individuals with neuromuscular disease.</dc:description>
+        <rdfs:label xml:lang="en">MFM-Result</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/nmd-domain#SIMPATHIC_00007 -->
+
+    <owl:Class rdf:about="https://w3id.org/nmd-domain#SIMPATHIC_00007">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+        <dc:description xml:lang="en">10 Minute Walk Test (10MWT); An assessment to measure the distance a person can walk in 10 minutes.</dc:description>
+        <rdfs:label xml:lang="en">10MWT</rdfs:label>
+    </owl:Class>

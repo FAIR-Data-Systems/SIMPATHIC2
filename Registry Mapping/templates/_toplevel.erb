@@ -1,0 +1,26 @@
+
+
+<owl:Class rdf:about="<%= @prefix %><%= @funcid %>">
+<rdfs:subClassOf rdf:resource="<%= @parent %>"/>
+<dc:identifier>nmd:<%= @funcid %></dc:identifier>
+<rdfs:label><%= @classlabel %></rdfs:label>
+<% if @myodraftlabel %>
+  <dc:identifier>Myodraft: <%= @myodraftlabel %></dc:identifier>
+<% end %>
+<% if @enddm1label %>
+  <dc:identifier>END-DM1: <%= @enddm1label %></dc:identifier>
+<% end %>
+<% if @dmslabel %>
+  <dc:identifier>M-Scope: <%= @dmslabel %></dc:identifier>
+<% end %>
+<% if @enmdlabel %>
+  <dc:identifier>EURO-NMD: <%= @enmdlabel %></dc:identifier>
+<% end %>
+<% if @hpo %>
+  <dc:identifier>HPO: <%= @hpo %></dc:identifier>
+<% end %>
+<% if @description && @description.match(/\w/) %>
+  <dc:description><%= @description %></dc:description>
+<% end %>
+</owl:Class>
+

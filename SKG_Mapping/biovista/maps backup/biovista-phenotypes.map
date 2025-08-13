@@ -1,0 +1,402 @@
+http://purl.obolibrary.org/obo/HP_0003535,3-METHYLGLUTACONIC ACIDURIA
+http://purl.obolibrary.org/obo/HP_0012332,ABNORMAL AUTONOMIC NERVOUS SYSTEM PHYSIOLOGY
+http://purl.obolibrary.org/obo/HP_0001317,ABNORMAL CEREBELLUM MORPHOLOGY
+http://purl.obolibrary.org/obo/HP_0002500,ABNORMAL CEREBRAL WHITE MATTER MORPHOLOGY
+http://purl.obolibrary.org/obo/HP_0000512,ABNORMAL ELECTRORETINOGRAM
+http://purl.obolibrary.org/obo/HP_0001999,ABNORMAL FACIAL SHAPE
+http://purl.obolibrary.org/obo/HP_0012345,ABNORMAL GLYCOSYLATION
+http://purl.obolibrary.org/obo/HP_0001627,ABNORMAL HEART MORPHOLOGY
+http://purl.obolibrary.org/obo/HP_0002242,ABNORMAL INTESTINE MORPHOLOGY
+http://purl.obolibrary.org/obo/HP_0007256,ABNORMAL PYRAMIDAL SIGN
+http://purl.obolibrary.org/obo/HP_0001928,ABNORMALITY OF COAGULATION
+http://purl.obolibrary.org/obo/HP_0002071,ABNORMALITY OF EXTRAPYRAMIDAL MOTOR FUNCTION
+http://purl.obolibrary.org/obo/HP_0000496,ABNORMALITY OF EYE MOVEMENT
+http://purl.obolibrary.org/obo/HP_0003287,ABNORMALITY OF MITOCHONDRIAL METABOLISM
+http://purl.obolibrary.org/obo/HP_0100022,ABNORMALITY OF MOVEMENT
+http://purl.obolibrary.org/obo/HP_0002269,ABNORMALITY OF NEURONAL MIGRATION
+http://purl.obolibrary.org/obo/HP_0002134,ABNORMALITY OF THE BASAL GANGLIA
+http://purl.obolibrary.org/obo/HP_0003256,ABNORMALITY OF THE COAGULATION CASCADE
+http://purl.obolibrary.org/obo/HP_0000478,ABNORMALITY OF THE EYE
+http://purl.obolibrary.org/obo/HP_0001392,ABNORMALITY OF THE LIVER
+http://purl.obolibrary.org/obo/HP_0012103,ABNORMALITY OF THE MITOCHONDRION
+http://purl.obolibrary.org/obo/HP_0000707,ABNORMALITY OF THE NERVOUS SYSTEM
+http://purl.obolibrary.org/obo/HP_0000924,ABNORMALITY OF THE SKELETAL SYSTEM
+http://purl.obolibrary.org/obo/HP_0001344,ABSENT SPEECH
+http://purl.obolibrary.org/obo/HP_0032368,ACIDEMIA
+http://purl.obolibrary.org/obo/HP_0001941,ACIDOSIS
+http://purl.obolibrary.org/obo/HP_0012072,ACIDURIA
+http://purl.obolibrary.org/obo/HP_0006846,ACUTE ENCEPHALOPATHY
+http://purl.obolibrary.org/obo/HP_0001919,ACUTE KIDNEY INJURY
+http://purl.obolibrary.org/obo/HP_0006965,ACUTE NECROTIZING ENCEPHALOPATHY
+http://purl.obolibrary.org/obo/HP_0008221,ADRENAL HYPERPLASIA
+http://purl.obolibrary.org/obo/HP_0000846,ADRENAL INSUFFICIENCY
+http://purl.obolibrary.org/obo/HP_0000718,AGGRESSIVE BEHAVIOR
+http://purl.obolibrary.org/obo/HP_0010524,AGNOSIA
+http://purl.obolibrary.org/obo/HP_0002304,AKINESIA
+http://purl.obolibrary.org/obo/HP_0030955,ALCOHOLISM
+http://purl.obolibrary.org/obo/HP_0002511,ALZHEIMER DISEASE
+http://purl.obolibrary.org/obo/HP_0007354,AMYOTROPHIC LATERAL SCLEROSIS
+http://purl.obolibrary.org/obo/HP_0001903,ANEMIA
+http://purl.obolibrary.org/obo/HP_0000739,ANXIETY
+http://purl.obolibrary.org/obo/HP_0000741,APATHY
+http://purl.obolibrary.org/obo/HP_0002381,APHASIA
+http://purl.obolibrary.org/obo/HP_0002104,APNEA
+http://purl.obolibrary.org/obo/HP_0002186,APRAXIA
+http://purl.obolibrary.org/obo/HP_0100702,ARACHNOID CYST
+http://purl.obolibrary.org/obo/HP_0001284,AREFLEXIA
+http://purl.obolibrary.org/obo/HP_0025630,ARGININOSUCCINIC ACIDURIA
+http://purl.obolibrary.org/obo/HP_0011675,ARRHYTHMIA
+http://purl.obolibrary.org/obo/HP_0002804,ARTHROGRYPOSIS MULTIPLEX CONGENITA
+http://purl.obolibrary.org/obo/HP_0001541,ASCITES
+http://purl.obolibrary.org/obo/HP_0025406,ASTHENIA
+http://purl.obolibrary.org/obo/HP_0001251,ATAXIA
+http://purl.obolibrary.org/obo/HP_0011445,ATHETOID CEREBRAL PALSY
+http://purl.obolibrary.org/obo/HP_0005110,ATRIAL FIBRILLATION
+http://purl.obolibrary.org/obo/HP_0004749,ATRIAL FLUTTER
+http://purl.obolibrary.org/obo/HP_0001678,ATRIOVENTRICULAR BLOCK
+http://purl.obolibrary.org/obo/HP_0007366,ATROPHY/DEGENERATION AFFECTING THE BRAINSTEM
+http://purl.obolibrary.org/obo/HP_0007018,ATTENTION DEFICIT HYPERACTIVITY DISORDER
+http://purl.obolibrary.org/obo/HP_0000717,AUTISM
+http://purl.obolibrary.org/obo/HP_0000729,AUTISTIC BEHAVIOR
+http://purl.obolibrary.org/obo/HP_0025287,AXIAL
+http://purl.obolibrary.org/obo/HP_0008936,AXIAL HYPOTONIA
+http://purl.obolibrary.org/obo/HP_0000708,BEHAVIORAL ABNORMALITY
+http://purl.obolibrary.org/obo/HP_0001488,BILATERAL PTOSIS
+http://purl.obolibrary.org/obo/HP_0000618,BLINDNESS
+http://purl.obolibrary.org/obo/HP_0001662,BRADYCARDIA
+http://purl.obolibrary.org/obo/HP_0002067,BRADYKINESIA
+http://purl.obolibrary.org/obo/HP_0012444,BRAIN ATROPHY
+http://purl.obolibrary.org/obo/HP_0001348,BRISK REFLEXES
+http://purl.obolibrary.org/obo/HP_0001283,BULBAR PALSY
+http://purl.obolibrary.org/obo/HP_0011710,BUNDLE BRANCH BLOCK
+http://purl.obolibrary.org/obo/HP_0030731,CARCINOMA
+http://purl.obolibrary.org/obo/HP_0031546,CARDIAC CONDUCTION ABNORMALITY
+http://purl.obolibrary.org/obo/HP_0001638,CARDIOMYOPATHY
+http://purl.obolibrary.org/obo/HP_0000518,CATARACT
+http://purl.obolibrary.org/obo/HP_0003687,CENTRALLY NUCLEATED SKELETAL MUSCLE FIBERS
+http://purl.obolibrary.org/obo/HP_0001272,CEREBELLAR ATROPHY
+http://purl.obolibrary.org/obo/HP_0001321,CEREBELLAR HYPOPLASIA
+http://purl.obolibrary.org/obo/HP_0006855,CEREBELLAR VERMIS ATROPHY
+http://purl.obolibrary.org/obo/HP_0002059,CEREBRAL ATROPHY
+http://purl.obolibrary.org/obo/HP_0002120,CEREBRAL CORTICAL ATROPHY
+http://purl.obolibrary.org/obo/HP_0100021,CEREBRAL PALSY
+http://purl.obolibrary.org/obo/HP_0011463,CHILDHOOD ONSET
+http://purl.obolibrary.org/obo/HP_0001396,CHOLESTASIS
+http://purl.obolibrary.org/obo/HP_0002072,CHOREA
+http://purl.obolibrary.org/obo/HP_0001266,CHOREOATHETOSIS
+http://purl.obolibrary.org/obo/HP_0001394,CIRRHOSIS
+http://purl.obolibrary.org/obo/HP_0410030,CLEFT LIP
+http://purl.obolibrary.org/obo/HP_0000175,CLEFT PALATE
+http://purl.obolibrary.org/obo/HP_0031797,CLINICAL COURSE
+http://purl.obolibrary.org/obo/HP_0045088,CLINICAL RELEVANCE
+http://purl.obolibrary.org/obo/HP_0003429,CNS HYPOMYELINATION
+http://purl.obolibrary.org/obo/HP_0100543,COGNITIVE IMPAIRMENT
+http://purl.obolibrary.org/obo/HP_0001259,COMA
+http://purl.obolibrary.org/obo/HP_0008258,CONGENITAL ADRENAL HYPERPLASIA
+http://purl.obolibrary.org/obo/HP_0007875,CONGENITAL BLINDNESS
+http://purl.obolibrary.org/obo/HP_0001491,CONGENITAL FIBROSIS OF EXTRAOCULAR MUSCLES
+http://purl.obolibrary.org/obo/HP_0000851,CONGENITAL HYPOTHYROIDISM
+http://purl.obolibrary.org/obo/HP_0004902,CONGENITAL LACTIC ACIDOSIS
+http://purl.obolibrary.org/obo/MONDO_0019950,CONGENITAL MUSCULAR DYSTROPHY
+http://purl.obolibrary.org/obo/HP_0008677,CONGENITAL NEPHROTIC SYNDROME
+http://purl.obolibrary.org/obo/HP_0003577,CONGENITAL ONSET
+http://purl.obolibrary.org/obo/HP_0001635,CONGESTIVE HEART FAILURE
+http://purl.obolibrary.org/obo/HP_0001133,CONSTRICTION OF PERIPHERAL VISUAL FIELD
+http://purl.obolibrary.org/obo/HP_0002539,CORTICAL DYSPLASIA
+http://purl.obolibrary.org/obo/HP_0000028,CRYPTORCHIDISM
+http://purl.obolibrary.org/obo/HP_0000992,CUTANEOUS PHOTOSENSITIVITY
+http://purl.obolibrary.org/obo/HP_0000973,CUTIS LAXA
+http://purl.obolibrary.org/obo/HP_0002928,DECREASED ACTIVITY OF THE PYRUVATE DEHYDROGENASE COMPLEX
+http://purl.obolibrary.org/obo/HP_0012446,DECREASED CSF 5-METHYLTETRAHYDROFOLATE CONCENTRATION
+http://purl.obolibrary.org/obo/HP_0001558,DECREASED FETAL MOVEMENT
+http://purl.obolibrary.org/obo/HP_0001410,DECREASED LIVER FUNCTION
+No URI found for DECREASED PLASMA CARNITINE
+http://purl.obolibrary.org/obo/HP_0002625,DEEP VENOUS THROMBOSIS
+http://purl.obolibrary.org/obo/HP_0001944,DEHYDRATION
+http://purl.obolibrary.org/obo/HP_0000750,DELAYED SPEECH AND LANGUAGE DEVELOPMENT
+http://purl.obolibrary.org/obo/HP_0000726,DEMENTIA
+http://purl.obolibrary.org/obo/HP_0000716,DEPRESSION
+http://purl.obolibrary.org/obo/HP_0000519,DEVELOPMENTAL CATARACT
+http://purl.obolibrary.org/obo/HP_0002376,DEVELOPMENTAL REGRESSION
+http://purl.obolibrary.org/obo/HP_0000819,DIABETES MELLITUS
+http://purl.obolibrary.org/obo/HP_0002014,DIARRHEA
+http://purl.obolibrary.org/obo/HP_0003215,DICARBOXYLIC ACIDURIA
+http://purl.obolibrary.org/obo/HP_0001644,DILATED CARDIOMYOPATHY
+http://purl.obolibrary.org/obo/HP_0000651,DIPLOPIA
+http://purl.obolibrary.org/obo/HP_0025302,DIURNAL
+http://purl.obolibrary.org/obo/HP_0002307,DROOLING
+http://purl.obolibrary.org/obo/HP_0001260,DYSARTHRIA
+http://purl.obolibrary.org/obo/HP_0100660,DYSKINESIA
+http://purl.obolibrary.org/obo/HP_0001310,DYSMETRIA
+http://purl.obolibrary.org/obo/HP_0002015,DYSPHAGIA
+http://purl.obolibrary.org/obo/HP_0002094,DYSPNEA
+http://purl.obolibrary.org/obo/HP_0001332,DYSTONIA
+http://purl.obolibrary.org/obo/HP_0003388,EASY FATIGABILITY
+http://purl.obolibrary.org/obo/HP_0000969,EDEMA
+http://purl.obolibrary.org/obo/HP_0002353,EEG ABNORMALITY
+http://purl.obolibrary.org/obo/HP_0003530,ELEVATED CIRCULATING GLUTARIC ACID CONCENTRATION
+No URI found for ELEVATED HEPATIC TRANSAMINASE
+http://purl.obolibrary.org/obo/HP_0041092,EMOTIONAL HYPERSENSITIVITY
+http://purl.obolibrary.org/obo/HP_0001298,ENCEPHALOPATHY
+http://purl.obolibrary.org/obo/HP_0002280,ENLARGED CISTERNA MAGNA
+http://purl.obolibrary.org/obo/HP_0200134,EPILEPTIC ENCEPHALOPATHY
+http://purl.obolibrary.org/obo/HP_0011097,EPILEPTIC SPASM
+http://purl.obolibrary.org/obo/HP_0025303,EPISODIC
+http://purl.obolibrary.org/obo/HP_0002131,EPISODIC ATAXIA
+http://purl.obolibrary.org/obo/HP_0025357,ERRATIC MYOCLONUS
+http://purl.obolibrary.org/obo/HP_0020045,ESODEVIATION
+http://purl.obolibrary.org/obo/HP_0000565,ESOTROPIA
+http://purl.obolibrary.org/obo/HP_0001262,EXCESSIVE DAYTIME SOMNOLENCE
+http://purl.obolibrary.org/obo/HP_0000544,EXTERNAL OPHTHALMOPLEGIA
+http://purl.obolibrary.org/obo/HP_0500043,EYELID RETRACTION
+http://purl.obolibrary.org/obo/HP_0001508,FAILURE TO THRIVE
+http://purl.obolibrary.org/obo/HP_0032316,FAMILY HISTORY
+http://purl.obolibrary.org/obo/HP_0002380,FASCICULATIONS
+http://purl.obolibrary.org/obo/HP_0003473,FATIGABLE WEAKNESS
+http://purl.obolibrary.org/obo/HP_0012378,FATIGUE
+http://purl.obolibrary.org/obo/HP_0011968,FEEDING DIFFICULTIES
+http://purl.obolibrary.org/obo/HP_0001989,FETAL AKINESIA SEQUENCE
+http://purl.obolibrary.org/obo/HP_0001945,FEVER
+http://purl.obolibrary.org/obo/HP_0001371,FLEXION CONTRACTURE
+http://purl.obolibrary.org/obo/HP_0031914,FLUCTUATING
+http://purl.obolibrary.org/obo/HP_0032046,FOCAL CORTICAL DYSPLASIA
+http://purl.obolibrary.org/obo/HP_0011153,FOCAL MOTOR SEIZURE
+http://purl.obolibrary.org/obo/HP_0007359,FOCAL-ONSET SEIZURE
+http://purl.obolibrary.org/obo/HP_0002145,FRONTOTEMPORAL DEMENTIA
+http://purl.obolibrary.org/obo/HP_0002066,GAIT ATAXIA
+http://purl.obolibrary.org/obo/HP_0001288,GAIT DISTURBANCE
+http://purl.obolibrary.org/obo/HP_0000640,GAZE-EVOKED NYSTAGMUS
+http://purl.obolibrary.org/obo/HP_0007325,GENERALIZED DYSTONIA
+http://purl.obolibrary.org/obo/HP_0001290,GENERALIZED HYPOTONIA
+http://purl.obolibrary.org/obo/HP_0003324,GENERALIZED MUSCLE WEAKNESS
+http://purl.obolibrary.org/obo/HP_0002121,GENERALIZED NON-MOTOR (ABSENCE) SEIZURE
+http://purl.obolibrary.org/obo/HP_0002197,GENERALIZED-ONSET SEIZURE
+http://purl.obolibrary.org/obo/HP_0003743,GENETIC ANTICIPATION
+http://purl.obolibrary.org/obo/HP_0002171,GLIOSIS
+http://purl.obolibrary.org/obo/HP_0001263,GLOBAL DEVELOPMENTAL DELAY
+http://purl.obolibrary.org/obo/HP_0001952,GLUCOSE INTOLERANCE
+http://purl.obolibrary.org/obo/HP_0003150,GLUTARIC ACIDURIA
+http://purl.obolibrary.org/obo/HP_0002282,GRAY MATTER HETEROTOPIA
+http://purl.obolibrary.org/obo/HP_0001510,GROWTH DELAY
+http://purl.obolibrary.org/obo/HP_0000738,HALLUCINATIONS
+http://purl.obolibrary.org/obo/HP_0012899,HANDGRIP MYOTONIA
+http://purl.obolibrary.org/obo/HP_0002315,HEADACHE
+http://purl.obolibrary.org/obo/HP_0032322,HEALTHY
+http://purl.obolibrary.org/obo/HP_0000365,HEARING IMPAIRMENT
+http://purl.obolibrary.org/obo/HP_0012722,HEART BLOCK
+http://purl.obolibrary.org/obo/HP_0001399,HEPATIC FAILURE
+http://purl.obolibrary.org/obo/HP_0001395,HEPATIC FIBROSIS
+http://purl.obolibrary.org/obo/HP_0001397,HEPATIC STEATOSIS
+http://purl.obolibrary.org/obo/HP_0012115,HEPATITIS
+http://purl.obolibrary.org/obo/HP_0002240,HEPATOMEGALY
+http://purl.obolibrary.org/obo/HP_0001433,HEPATOSPLENOMEGALY
+http://purl.obolibrary.org/obo/HP_0000348,HIGH FOREHEAD
+http://purl.obolibrary.org/obo/HP_0002156,HOMOCYSTINURIA
+http://purl.obolibrary.org/obo/HP_0000238,HYDROCEPHALUS
+http://purl.obolibrary.org/obo/HP_0001789,HYDROPS FETALIS
+http://purl.obolibrary.org/obo/HP_0000752,HYPERACTIVITY
+http://purl.obolibrary.org/obo/HP_0001987,HYPERAMMONEMIA
+http://purl.obolibrary.org/obo/HP_0003072,HYPERCALCEMIA
+http://purl.obolibrary.org/obo/HP_0012416,HYPERCAPNIA
+http://purl.obolibrary.org/obo/HP_0100724,HYPERCOAGULABILITY
+http://purl.obolibrary.org/obo/HP_0012024,HYPERGALACTOSEMIA
+http://purl.obolibrary.org/obo/HP_0002154,HYPERGLYCINEMIA
+http://purl.obolibrary.org/obo/HP_0000825,HYPERINSULINEMIC HYPOGLYCEMIA
+http://purl.obolibrary.org/obo/HP_0002487,HYPERKINETIC MOVEMENTS
+http://purl.obolibrary.org/obo/HP_0003159,HYPEROXALURIA
+http://purl.obolibrary.org/obo/HP_0004923,HYPERPHENYLALANINEMIA
+http://purl.obolibrary.org/obo/HP_0008358,HYPERPROLINEMIA
+http://purl.obolibrary.org/obo/HP_0001347,HYPERREFLEXIA
+http://purl.obolibrary.org/obo/HP_0100786,HYPERSOMNIA
+http://purl.obolibrary.org/obo/HP_0000822,HYPERTENSION
+http://purl.obolibrary.org/obo/HP_0001276,HYPERTONIA
+http://purl.obolibrary.org/obo/HP_0001639,HYPERTROPHIC CARDIOMYOPATHY
+http://purl.obolibrary.org/obo/HP_0003231,HYPERTYROSINEMIA
+http://purl.obolibrary.org/obo/HP_0003073,HYPOALBUMINEMIA
+http://purl.obolibrary.org/obo/HP_0001943,HYPOGLYCEMIA
+http://purl.obolibrary.org/obo/HP_0000135,HYPOGONADISM
+http://purl.obolibrary.org/obo/HP_0002375,HYPOKINESIA
+http://purl.obolibrary.org/obo/HP_0000338,HYPOMIMIC FACE
+http://purl.obolibrary.org/obo/HP_0001265,HYPOREFLEXIA
+http://purl.obolibrary.org/obo/HP_0000821,HYPOTHYROIDISM
+http://purl.obolibrary.org/obo/HP_0001252,HYPOTONIA
+http://purl.obolibrary.org/obo/HP_0002791,HYPOVENTILATION
+http://purl.obolibrary.org/obo/HP_0012418,HYPOXEMIA
+http://purl.obolibrary.org/obo/HP_0002521,HYPSARRHYTHMIA
+http://purl.obolibrary.org/obo/HP_0008064,ICHTHYOSIS
+http://purl.obolibrary.org/obo/HP_0002721,IMMUNODEFICIENCY
+http://purl.obolibrary.org/obo/HP_0032654,IMPAIRED FLOW-MEDIATED ARTERIAL DILATATION
+http://purl.obolibrary.org/obo/HP_0004324,INCREASED BODY WEIGHT
+http://purl.obolibrary.org/obo/HP_0003750,INCREASED MUSCLE FATIGUABILITY
+http://purl.obolibrary.org/obo/HP_0025464,INCREASED REACTIVE OXYGEN SPECIES PRODUCTION
+http://purl.obolibrary.org/obo/HP_0007105,INFANTILE ENCEPHALOPATHY
+http://purl.obolibrary.org/obo/HP_0003593,INFANTILE ONSET
+http://purl.obolibrary.org/obo/HP_0012469,INFANTILE SPASMS
+http://purl.obolibrary.org/obo/HP_0003587,INSIDIOUS ONSET
+http://purl.obolibrary.org/obo/HP_0100785,INSOMNIA
+http://purl.obolibrary.org/obo/HP_0000855,INSULIN RESISTANCE
+http://purl.obolibrary.org/obo/HP_0001249,INTELLECTUAL DISABILITY
+http://purl.obolibrary.org/obo/HP_0001256,INTELLECTUAL DISABILITY, MILD
+http://purl.obolibrary.org/obo/HP_0002187,INTELLECTUAL DISABILITY, PROFOUND
+http://purl.obolibrary.org/obo/HP_0010864,INTELLECTUAL DISABILITY, SEVERE
+http://purl.obolibrary.org/obo/HP_0001406,INTRAHEPATIC CHOLESTASIS
+http://purl.obolibrary.org/obo/HP_0001511,INTRAUTERINE GROWTH RETARDATION
+http://purl.obolibrary.org/obo/HP_0003186,INVERTED NIPPLES
+http://purl.obolibrary.org/obo/HP_0000737,IRRITABILITY
+http://purl.obolibrary.org/obo/HP_0000952,JAUNDICE
+http://purl.obolibrary.org/obo/HP_0001343,KERNICTERUS
+http://purl.obolibrary.org/obo/HP_0030186,KINETIC TREMOR
+http://purl.obolibrary.org/obo/HP_0040144,L-2-HYDROXYGLUTARIC ACIDURIA
+http://purl.obolibrary.org/obo/HP_0003128,LACTIC ACIDOSIS
+http://purl.obolibrary.org/obo/HP_0000239,LARGE FONTANELLES
+http://purl.obolibrary.org/obo/HP_0025425,LARYNGOSPASM
+http://purl.obolibrary.org/obo/HP_0011713,LEFT BUNDLE BRANCH BLOCK
+http://purl.obolibrary.org/obo/HP_0002415,LEUKODYSTROPHY
+http://purl.obolibrary.org/obo/HP_0002352,LEUKOENCEPHALOPATHY
+http://purl.obolibrary.org/obo/HP_0100315,LEWY BODIES
+http://purl.obolibrary.org/obo/HP_0002070,LIMB ATAXIA
+http://purl.obolibrary.org/obo/HP_0002451,LIMB DYSTONIA
+http://purl.obolibrary.org/obo/HP_0003690,LIMB MUSCLE WEAKNESS
+http://purl.obolibrary.org/obo/HP_0003325,LIMB-GIRDLE MUSCLE WEAKNESS
+http://purl.obolibrary.org/obo/HP_0006785,LIMB-GIRDLE MUSCULAR DYSTROPHY
+http://purl.obolibrary.org/obo/HP_0009125,LIPODYSTROPHY
+http://purl.obolibrary.org/obo/HP_0001339,LISSENCEPHALY
+http://purl.obolibrary.org/obo/HP_0007185,LOSS OF CONSCIOUSNESS
+http://purl.obolibrary.org/obo/HP_0000256,MACROCEPHALY
+http://purl.obolibrary.org/obo/HP_0002024,MALABSORPTION
+http://purl.obolibrary.org/obo/HP_0002047,MALIGNANT HYPERTHERMIA
+http://purl.obolibrary.org/obo/HP_0004395,MALNUTRITION
+http://purl.obolibrary.org/obo/HP_0001355,MEGALENCEPHALY
+http://purl.obolibrary.org/obo/HP_0002354,MEMORY IMPAIRMENT
+http://purl.obolibrary.org/obo/HP_0001942,METABOLIC ACIDOSIS
+http://purl.obolibrary.org/obo/HP_0002912,METHYLMALONIC ACIDEMIA
+http://purl.obolibrary.org/obo/HP_0012120,METHYLMALONIC ACIDURIA
+http://purl.obolibrary.org/obo/HP_0000252,MICROCEPHALY
+http://purl.obolibrary.org/obo/HP_0025492,MICROCORIA
+http://purl.obolibrary.org/obo/HP_0000347,MICROGNATHIA
+http://purl.obolibrary.org/obo/HP_0002076,MIGRAINE
+http://purl.obolibrary.org/obo/HP_0012595,MILD PROTEINURIA
+http://purl.obolibrary.org/obo/HP_0006789,MITOCHONDRIAL ENCEPHALOPATHY
+http://purl.obolibrary.org/obo/HP_0003737,MITOCHONDRIAL MYOPATHY
+http://purl.obolibrary.org/obo/HP_0001634,MITRAL VALVE PROLAPSE
+http://purl.obolibrary.org/obo/HP_0003570,MOLYBDENUM COFACTOR DEFICIENCY
+http://purl.obolibrary.org/obo/HP_0001270,MOTOR DELAY
+http://purl.obolibrary.org/obo/HP_0020219,MOTOR SEIZURE
+http://purl.obolibrary.org/obo/HP_0030651,MULTIFOCAL
+http://purl.obolibrary.org/obo/HP_0010841,MULTIFOCAL EPILEPTIFORM DISCHARGES
+http://purl.obolibrary.org/obo/HP_0002828,MULTIPLE JOINT CONTRACTURES
+http://purl.obolibrary.org/obo/HP_0001324,MUSCLE WEAKNESS
+http://purl.obolibrary.org/obo/HP_0003560,MUSCULAR DYSTROPHY
+http://purl.obolibrary.org/obo/HP_0003326,MYALGIA
+http://purl.obolibrary.org/obo/HP_0001336,MYOCLONUS
+http://purl.obolibrary.org/obo/HP_0003198,MYOPATHY
+http://purl.obolibrary.org/obo/HP_0000545,MYOPIA
+http://purl.obolibrary.org/obo/HP_0100614,MYOSITIS
+http://purl.obolibrary.org/obo/HP_0002486,MYOTONIA
+http://purl.obolibrary.org/obo/HP_0030050,NARCOLEPSY
+http://purl.obolibrary.org/obo/HP_0006976,NECROTIZING ENCEPHALOPATHY
+http://purl.obolibrary.org/obo/HP_0003811,NEONATAL DEATH
+http://purl.obolibrary.org/obo/HP_0001319,NEONATAL HYPOTONIA
+http://purl.obolibrary.org/obo/HP_0003623,NEONATAL ONSET
+http://purl.obolibrary.org/obo/HP_0032807,NEONATAL SEIZURE
+http://purl.obolibrary.org/obo/HP_0002664,NEOPLASM
+http://purl.obolibrary.org/obo/HP_0000787,NEPHROLITHIASIS
+http://purl.obolibrary.org/obo/HP_0000112,NEPHROPATHY
+http://purl.obolibrary.org/obo/HP_0000100,NEPHROTIC SYNDROME
+http://purl.obolibrary.org/obo/HP_0003006,NEUROBLASTOMA
+http://purl.obolibrary.org/obo/HP_0002180,NEURODEGENERATION
+http://purl.obolibrary.org/obo/HP_0012758,NEURODEVELOPMENTAL DELAY
+http://www.ebi.ac.uk/efo/EFO_0000622,NEUROFIBROMAS
+http://purl.obolibrary.org/obo/HP_0033429,NEUROINFLAMMATION
+http://purl.obolibrary.org/obo/HP_0002529,NEURONAL LOSS IN CENTRAL NERVOUS SYSTEM
+http://purl.obolibrary.org/obo/HP_0025301,NOCTURNAL
+http://purl.obolibrary.org/obo/HP_0008288,NONKETOTIC HYPERGLYCINEMIA
+http://purl.obolibrary.org/obo/HP_0000639,NYSTAGMUS
+http://purl.obolibrary.org/obo/HP_0001513,OBESITY
+http://purl.obolibrary.org/obo/HP_0000722,OBSESSIVE-COMPULSIVE BEHAVIOR
+http://purl.obolibrary.org/obo/HP_0002542,OLIVOPONTOCEREBELLAR ATROPHY
+http://purl.obolibrary.org/obo/HP_0000597,OPHTHALMOPARESIS
+http://purl.obolibrary.org/obo/HP_0000602,OPHTHALMOPLEGIA
+http://purl.obolibrary.org/obo/HP_0010865,OPPOSITIONAL DEFIANT DISORDER
+http://purl.obolibrary.org/obo/HP_0000648,OPTIC ATROPHY
+http://purl.obolibrary.org/obo/HP_0001138,OPTIC NEUROPATHY
+http://purl.obolibrary.org/obo/HP_0001992,ORGANIC ACIDURIA
+http://purl.obolibrary.org/obo/HP_0002749,OSTEOMALACIA
+http://purl.obolibrary.org/obo/HP_0001302,PACHYGYRIA
+http://purl.obolibrary.org/obo/HP_0012531,PAIN
+http://purl.obolibrary.org/obo/HP_0003470,PARALYSIS
+http://purl.obolibrary.org/obo/HP_0010550,PARAPLEGIA
+http://purl.obolibrary.org/obo/HP_0001300,PARKINSONISM
+http://purl.obolibrary.org/obo/HP_0010548,PERCUSSION MYOTONIA
+http://purl.obolibrary.org/obo/HP_0001698,PERICARDIAL EFFUSION
+http://purl.obolibrary.org/obo/HP_0007215,PERIODIC HYPERKALEMIC PARALYSIS
+http://purl.obolibrary.org/obo/HP_0003768,PERIODIC PARALYSIS
+http://purl.obolibrary.org/obo/HP_0003477,PERIPHERAL AXONAL NEUROPATHY
+http://purl.obolibrary.org/obo/HP_0011096,PERIPHERAL DEMYELINATION
+http://purl.obolibrary.org/obo/HP_0009830,PERIPHERAL NEUROPATHY
+http://purl.obolibrary.org/obo/HP_0003812,PHENOTYPIC VARIABILITY
+http://purl.obolibrary.org/obo/HP_0000580,PIGMENTARY RETINOPATHY
+http://purl.obolibrary.org/obo/HP_0002090,PNEUMONIA
+http://purl.obolibrary.org/obo/HP_0000113,POLYCYSTIC KIDNEY DYSPLASIA
+http://purl.obolibrary.org/obo/HP_0001561,POLYHYDRAMNIOS
+http://purl.obolibrary.org/obo/HP_0002126,POLYMICROGYRIA
+http://purl.obolibrary.org/obo/HP_0001271,POLYNEUROPATHY
+http://purl.obolibrary.org/obo/HP_0008897,POSTNATAL GROWTH RETARDATION
+http://purl.obolibrary.org/obo/HP_0002172,POSTURAL INSTABILITY
+http://purl.obolibrary.org/obo/HP_0002174,POSTURAL TREMOR
+http://purl.obolibrary.org/obo/HP_0008209,PREMATURE OVARIAN INSUFFICIENCY
+http://purl.obolibrary.org/obo/HP_0008207,PRIMARY ADRENAL INSUFFICIENCY
+http://purl.obolibrary.org/obo/HP_0002073,PROGRESSIVE CEREBELLAR ATAXIA
+http://purl.obolibrary.org/obo/HP_0002448,PROGRESSIVE ENCEPHALOPATHY
+http://purl.obolibrary.org/obo/HP_0000590,PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA
+http://purl.obolibrary.org/obo/HP_0004481,PROGRESSIVE MACROCEPHALY
+http://purl.obolibrary.org/obo/HP_0003323,PROGRESSIVE MUSCLE WEAKNESS
+http://purl.obolibrary.org/obo/HP_0002344,PROGRESSIVE NEUROLOGIC DETERIORATION
+http://purl.obolibrary.org/obo/HP_0002191,PROGRESSIVE SPASTICITY
+http://purl.obolibrary.org/obo/HP_0003571,PROPIONIC ACIDEMIA
+http://purl.obolibrary.org/obo/HP_0002243,PROTEIN-LOSING ENTEROPATHY
+http://purl.obolibrary.org/obo/HP_0000093,PROTEINURIA
+http://purl.obolibrary.org/obo/HP_0003701,PROXIMAL MUSCLE WEAKNESS
+No URI found for PSYCHOMOTOR RETARDATION
+http://purl.obolibrary.org/obo/HP_0000709,PSYCHOSIS
+http://purl.obolibrary.org/obo/HP_0001059,PTERYGIUM
+http://purl.obolibrary.org/obo/HP_0000508,PTOSIS
+http://purl.obolibrary.org/obo/HP_0000979,PURPURA
+http://purl.obolibrary.org/obo/HP_0003200,RAGGED-RED MUSCLE FIBERS
+http://purl.obolibrary.org/obo/HP_0031796,RECURRENT
+http://purl.obolibrary.org/obo/HP_0002718,RECURRENT BACTERIAL INFECTIONS
+http://purl.obolibrary.org/obo/HP_0002297,RED HAIR
+http://purl.obolibrary.org/obo/HP_0001976,REDUCED ANTITHROMBIN III ACTIVITY
+http://purl.obolibrary.org/obo/HP_0100507,REDUCED BLOOD FOLATE CONCENTRATION
+http://purl.obolibrary.org/obo/HP_0008326,REDUCED CIRCULATING VITAMIN B6 LEVEL
+http://purl.obolibrary.org/obo/HP_0003654,REDUCED DIHYDROPYRIMIDINE DEHYDROGENASE LEVEL
+http://purl.obolibrary.org/obo/HP_0001929,REDUCED FACTOR XI ACTIVITY
+http://purl.obolibrary.org/obo/HP_0031375,REFRACTORY
+http://purl.obolibrary.org/obo/HP_0032867,REFRACTORY STATUS EPILEPTICUS
+http://purl.obolibrary.org/obo/HP_0000803,RENAL CORTICAL CYSTS
+http://purl.obolibrary.org/obo/HP_0000107,RENAL CYST
+http://purl.obolibrary.org/obo/HP_0000083,RENAL INSUFFICIENCY
+http://purl.obolibrary.org/obo/HP_0002098,RESPIRATORY DISTRESS
+http://purl.obolibrary.org/obo/HP_0002878,RESPIRATORY FAILURE
+http://purl.obolibrary.org/obo/HP_0002093,RESPIRATORY INSUFFICIENCY
+http://purl.obolibrary.org/obo/HP_0002747,RESPIRATORY INSUFFICIENCY DUE TO MUSCLE WEAKNESS
+http://purl.obolibrary.org/obo/HP_0012452,RESTLESS LEGS
+http://purl.obolibrary.org/obo/HP_0033818,RETICULAR
+http://purl.obolibrary.org/obo/HP_0000546,RETINAL DEGENERATION
+http://purl.obolibrary.org/obo/HP_0000573,RETINAL HEMORRHAGE
+http://purl.obolibrary.org/obo/HP_0032118,RETINITIS
+http://purl.obolibrary.org/obo/HP_0000488,RETINOPATHY
+http://purl.obolibrary.org/obo/HP_0003201,RHABDOMYOLYSIS
+http://purl.obolibrary.org/obo/HP_0002748,RICKETS
+http://purl.obolibrary.org/obo/HP_0002063,RIGIDITY
+http://purl.obolibrary.org/obo/HP_0000510,ROD-CONE DYSTROPHY
+http://purl.obolibrary.org/obo/HP_0100753,SCHIZOPHRENIA
+http://purl.obolibrary.org/obo/HP_0002650,SCOLIOSIS
+http://purl.obolibrary.org/obo/HP_0001250,SEIZURE
+http://purl.obolibrary.org/obo/HP_0033349,SEIZURE CLUSTER
+http://purl.obolibrary.org/obo/HP_0000407,SENSORINEURAL HEARING IMPAIRMENT
+http://purl.obolibrary.org/obo/HP_0000763,SENSORY NEUROPATHY
+http://purl.obolibrary.org/obo/HP_0100806,SEPSIS
+http://purl.obolibrary.org/obo/HP_0001525,SEVERE FAILURE TO THRIVE
+http://purl.obolibrary.org/obo/HP_0011344,SEVERE GLOBAL DEVELOPMENTAL DELAY
+http://purl.obolibrary.org/obo/HP_0006829,SEVERE MUSCULAR HYPOTONIA

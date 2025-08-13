@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="<%= @prefix %>"
+     xml:base="<%= @prefix %>"
+     xmlns:doap="http://usefulinc.com/ns/doap#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:void="http://rdfs.org/ns/void#"
+     xmlns:dcat="http://www.w3.org/ns/dcat#"
+     xmlns:prov="http://www.w3.org/ns/prov#"
+     xmlns:terms="http://purl.org/dc/terms/">
+    <owl:Ontology rdf:about="ttps://w3id.org/nmd-domain">
+        <terms:creator>Mark D Wilkinson</terms:creator>
+        <terms:format>application/rdf+xml</terms:format>
+        <terms:title>Neuromuscular Dystrophy (NMD) Functional Tests</terms:title>
+        <doap:Version>1.0</doap:Version>
+        <rdfs:comment >An ontology for NMD functional evaluations</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/nmd-domain/NMD-Domain.owl"/>
+        <rdfs:label>NMD Domain Ontology</rdfs:label>
+    </owl:Ontology>
+
+   <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/identifier -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/identifier"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C20993 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C20993">
+        <dc:description >Any evaluation or assessment tool used to ascertain a patient&apos;s condition or diagnosis.</dc:description>
+        <rdfs:label>Research or Clinical Assessment Tool</rdfs:label>
+    </owl:Class>

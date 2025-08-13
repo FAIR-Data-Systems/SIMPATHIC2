@@ -1,0 +1,6147 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/nmd-domain#"
+     xml:base="https://w3id.org/nmd-domain#"
+     xmlns:doap="http://usefulinc.com/ns/doap#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:void="http://rdfs.org/ns/void#"
+     xmlns:terms="http://purl.org/dc/terms/">
+    <owl:Ontology rdf:about="ttps://w3id.org/nmd-domain">
+        <terms:creator>Mark D Wilkinson</terms:creator>
+        <terms:format>application/rdf+xml</terms:format>
+        <terms:title>Neuromuscular Dystrophy (NMD) Functional Tests</terms:title>
+        <doap:Version>1.0</doap:Version>
+        <rdfs:comment >An ontology for NMD functional evaluations</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/nmd-domain/NMD-Domain.owl"/>
+        <rdfs:label>NMD Domain Ontology</rdfs:label>
+    </owl:Ontology>
+
+   <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/identifier -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/identifier"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C20993 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C20993">
+        <dc:description >Any evaluation or assessment tool used to ascertain a patient&apos;s condition or diagnosis.</dc:description>
+        <rdfs:label>Research or Clinical Assessment Tool</rdfs:label>
+    </owl:Class>
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00012">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00012</dc:identifier>
+<rdfs:label>ambulatory status</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00013">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00013</dc:identifier>
+<rdfs:label>ambulatory status change</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00014">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00014</dc:identifier>
+<rdfs:label>date of ambulatory status change</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00015">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00015</dc:identifier>
+<rdfs:label>maximum walking distance</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00016">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00016</dc:identifier>
+<rdfs:label>supine to sit</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00017">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00017</dc:identifier>
+<rdfs:label>MFM</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00018">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00018</dc:identifier>
+<rdfs:label>6 minutes walk test (6MWT)</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00019">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00019</dc:identifier>
+<rdfs:label>10 meter walk / run (10MWT)</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00020">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00020</dc:identifier>
+<rdfs:label>2 minutes walk test</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00021">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00021</dc:identifier>
+<rdfs:label>Timed up and Go (TUG)</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00022">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00022</dc:identifier>
+<rdfs:label>Ascend stairs</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00023">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00023</dc:identifier>
+<rdfs:label>Descend stairs</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00024">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00024</dc:identifier>
+<rdfs:label>Step test</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00025">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00025</dc:identifier>
+<rdfs:label>9-hole peg test</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00026">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00026</dc:identifier>
+<rdfs:label>coin test</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00027">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00027</dc:identifier>
+<rdfs:label>Myotonia</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00028">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00028</dc:identifier>
+<rdfs:label>Handgrip myotonia relaxation time (seconds)</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00029">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00029</dc:identifier>
+<rdfs:label>Myotonia - vHot test</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00030">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00030</dc:identifier>
+<rdfs:label>MRC score</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00031">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00031</dc:identifier>
+<rdfs:label>MDHI</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00032">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00032</dc:identifier>
+<rdfs:label>DM1-Activ-c</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00033">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00033</dc:identifier>
+<rdfs:label>Quantitative muscle testing</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00034">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00034</dc:identifier>
+<rdfs:label>Martin Vigori score</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00035">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00035</dc:identifier>
+<rdfs:label>Muscular Impairment Rating Scale (MIRS)</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00036">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00036</dc:identifier>
+<rdfs:label>Iowa oral performance test - tongue strength</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00037">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00037</dc:identifier>
+<rdfs:label>Iowa oral performance test - buccal strength</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00038">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00038</dc:identifier>
+<rdfs:label>Iowa oral performance test</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00039">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00039</dc:identifier>
+<rdfs:label>Motor delay</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00040">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00040</dc:identifier>
+<rdfs:label>Hypotonia at birth</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00041">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00041</dc:identifier>
+<rdfs:label>pulmonary function  Test HP:0002795</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00042">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00042</dc:identifier>
+<rdfs:label>Forced Vital Capacity (FVC)</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00043">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00043</dc:identifier>
+<rdfs:label>FVC sitting</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00044">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00044</dc:identifier>
+<rdfs:label>FVC supine</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00045">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00045</dc:identifier>
+<rdfs:label>FVC_reclined</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00046">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00046</dc:identifier>
+<rdfs:label>FVC_cough</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00047">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00047</dc:identifier>
+<rdfs:label>FVC_MIP</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00048">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00048</dc:identifier>
+<rdfs:label>FVC_MEP</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00049">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00049</dc:identifier>
+<rdfs:label>CHOP_intend</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00050">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00050</dc:identifier>
+<rdfs:label>HFMS</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00051">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00051</dc:identifier>
+<rdfs:label>HINE</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00052">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00052</dc:identifier>
+<rdfs:label>CHOP_atend</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00053">
+<rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C20993"/>
+<dc:identifier>nmd:MotFunc_00053</dc:identifier>
+<rdfs:label>RULM</rdfs:label>
+
+
+
+
+
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00054">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00054</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BAmbulatory_1</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BAmbulatory_1</dc:identifier>
+
+
+
+
+  <dc:identifier>EURO-NMD: ambulatory_status</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: Current ambulatory status; Myodraft: Ambulatory?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00055">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00055</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BAmbulOptions_1#No assistive devices</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BAmbulOptions_1#No assistive devices</dc:identifier>
+
+
+
+  <dc:identifier>M-Scope: code CMT: 0</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Normale; Myodraft: Ambulatory options; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00056">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00056</dc:identifier>
+<rdfs:label>code CMT: 1</rdfs:label>
+
+
+
+  <dc:identifier>M-Scope: code CMT: 1</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Marche normale, course, sauts normaux mais présence de fatigabilité; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00057">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00057</dc:identifier>
+<rdfs:label>code CMT: 2</rdfs:label>
+
+
+
+  <dc:identifier>M-Scope: code CMT: 2</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Marche normale, course et sauts anormaux/impossible; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00058">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00058</dc:identifier>
+<rdfs:label>code CMT: 3</rdfs:label>
+
+
+
+  <dc:identifier>M-Scope: code CMT: 3</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Marche anormale mais sans auxiliaire de marche; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00059">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00059</dc:identifier>
+<rdfs:label>code CMT: 8</rdfs:label>
+
+
+
+  <dc:identifier>M-Scope: code CMT: 8</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Confiné au lit ; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00060">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00060</dc:identifier>
+<rdfs:label>funct_10m_devices</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_10m_devices</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Did the patient use any assistive devices?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00061">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00061</dc:identifier>
+<rdfs:label>crf40_cane</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BAmbulOptions_1#Walking cane</dc:identifier>
+
+
+  <dc:identifier>END-DM1: crf40_cane</dc:identifier>
+
+
+  <dc:identifier>M-Scope: code CMT: 4</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Marche anormale avec appui unilatéral (canne simple) ; END-DM1: Cane?; Myodraft: Ambulatory options; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00062">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00062</dc:identifier>
+<rdfs:label>crf40_brace</rdfs:label>
+
+
+  <dc:identifier>END-DM1: crf40_brace</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Bracing?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00063">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00063</dc:identifier>
+<rdfs:label>crf40_crutches</rdfs:label>
+
+
+  <dc:identifier>END-DM1: crf40_crutches</dc:identifier>
+
+
+  <dc:identifier>M-Scope: code CMT: 5</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Marche anormale avec appui unilatéral (canne anglaise / béquille canadienne); END-DM1: Lofstrand Crutches?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00064">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00064</dc:identifier>
+<rdfs:label>crf40_walker</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BAmbulOptions_1#Rollator</dc:identifier>
+
+
+  <dc:identifier>END-DM1: crf40_walker</dc:identifier>
+
+
+  <dc:identifier>M-Scope: code CMT: 6</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Marche anormale avec appui bilatéral (déambulateur ou marchette) ; END-DM1: Walker?; Myodraft: Ambulatory options; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00065">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00065</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BAmbulOptions_1#Triple chair</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BAmbulOptions_1#Triple chair</dc:identifier>
+
+
+
+
+
+
+  <dc:description>Myodraft: Ambulatory options; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00066">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00066</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BAmbulOptions_1#Wheelchair</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BAmbulOptions_1#Wheelchair</dc:identifier>
+
+
+
+  <dc:identifier>M-Scope: code CMT: 7</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Fauteuil roulant  ; Myodraft: Ambulatory options; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00067">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00012"/>
+<dc:identifier>nmd:MotFunc_00067</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BAmbulOptions_1#Mobility scooter</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BAmbulOptions_1#Mobility scooter</dc:identifier>
+
+
+
+
+
+
+  <dc:description>Myodraft: Ambulatory options; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00068">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00013"/>
+<dc:identifier>nmd:MotFunc_00068</dc:identifier>
+<rdfs:label>ambulation_change_d_known</rdfs:label>
+
+
+
+
+  <dc:identifier>EURO-NMD: ambulation_change_d_known</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: When comparing this report to the last report, there was a change in in terms of the patients ambulatory status.
+Last time (date: [date_of_visit_prev]) you reported: [ambulatory_status_prev]
+Here (date: [date_of_visit]) you reported: [ambulatory_status:value]
+
+Do you know when this ability changed?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00069">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00014"/>
+<dc:identifier>nmd:MotFunc_00069</dc:identifier>
+<rdfs:label>date_of_change_of_ambu</rdfs:label>
+
+
+
+
+  <dc:identifier>EURO-NMD: date_of_change_of_ambu</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: Date of change of ambulation 
+yyyy-mm-dd; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00070">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00015"/>
+<dc:identifier>nmd:MotFunc_00070</dc:identifier>
+<rdfs:label>s2_max_walking_m</rdfs:label>
+
+
+
+
+  <dc:identifier>EURO-NMD: s2_max_walking_m</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: Maximum walking distance estimate (m); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00071">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00016"/>
+<dc:identifier>nmd:MotFunc_00071</dc:identifier>
+<rdfs:label>funct_sts</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_sts</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Time to go from supine to sitting erect with feet supported; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00072">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00017"/>
+<dc:identifier>nmd:MotFunc_00072</dc:identifier>
+<rdfs:label>mfm_result</rdfs:label>
+
+
+
+
+  <dc:identifier>EURO-NMD: mfm_result</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: MFM-Result; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00073">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00018"/>
+<dc:identifier>nmd:MotFunc_00073</dc:identifier>
+<rdfs:label>crf47_end</rdfs:label>
+
+
+  <dc:identifier>END-DM1: crf47_end</dc:identifier>
+
+
+
+  <dc:identifier>EURO-NMD: six_mwt_result</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: 6 Minute Walk Test (6MWT); END-DM1: END Distance; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00074">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00019"/>
+<dc:identifier>nmd:MotFunc_00074</dc:identifier>
+<rdfs:label>funct_10m</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_10m</dc:identifier>
+
+
+  <dc:identifier>M-Scope: Temps_pour_faire_10m</dc:identifier>
+
+
+  <dc:identifier>EURO-NMD: ten_mwt_result</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: 10 Minute Walk Test (10MWT); DM-Scope: secondes; END-DM1: Time from "Go" to the first foot crossing the line; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00075">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00020"/>
+<dc:identifier>nmd:MotFunc_00075</dc:identifier>
+<rdfs:label>crf47_2mwt_totaldist</rdfs:label>
+
+
+  <dc:identifier>END-DM1: crf47_2mwt_totaldist</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 2MWT: Total Distance; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00076">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00021"/>
+<dc:identifier>nmd:MotFunc_00076</dc:identifier>
+<rdfs:label>funct_tug_comf</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_tug_comf</dc:identifier>
+
+
+
+  <dc:identifier>EURO-NMD: tug_result</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: TUG-Result; END-DM1: Timed Up and Go (comfortable); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00077">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00021"/>
+<dc:identifier>nmd:MotFunc_00077</dc:identifier>
+<rdfs:label>funct_tug_max</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_tug_max</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Timed Up and Go (maximum); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00078">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00022"/>
+<dc:identifier>nmd:MotFunc_00078</dc:identifier>
+<rdfs:label>funct_ascend</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_ascend</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Time from "Go" to both feet at the top under base of support; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00079">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00022"/>
+<dc:identifier>nmd:MotFunc_00079</dc:identifier>
+<rdfs:label>funct_ascend_recip</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_ascend_recip</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Reciprocal?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00080">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00022"/>
+<dc:identifier>nmd:MotFunc_00080</dc:identifier>
+<rdfs:label>funct_ascend_rail</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_ascend_rail</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Did the patient use the railing?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00081">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00022"/>
+<dc:identifier>nmd:MotFunc_00081</dc:identifier>
+<rdfs:label>funct_ascend_12rail</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_ascend_12rail</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: If yes, how many?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00082">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00023"/>
+<dc:identifier>nmd:MotFunc_00082</dc:identifier>
+<rdfs:label>funct_descend</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_descend</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Time from "Go" to both feet at the bottom under base of support; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00083">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00023"/>
+<dc:identifier>nmd:MotFunc_00083</dc:identifier>
+<rdfs:label>funct_descend_recip</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_descend_recip</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Reciprocal?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00084">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00023"/>
+<dc:identifier>nmd:MotFunc_00084</dc:identifier>
+<rdfs:label>funct_descend_rail</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_descend_rail</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Did the patient use the railing?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00085">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00023"/>
+<dc:identifier>nmd:MotFunc_00085</dc:identifier>
+<rdfs:label>funct_descend_12rail</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_descend_12rail</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: If yes, how many?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00086">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00024"/>
+<dc:identifier>nmd:MotFunc_00086</dc:identifier>
+<rdfs:label>funct_step_right</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_step_right</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Step test - right leg; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00087">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00024"/>
+<dc:identifier>nmd:MotFunc_00087</dc:identifier>
+<rdfs:label>funct_step_left</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_step_left</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Step test - left leg; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00088">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00025"/>
+<dc:identifier>nmd:MotFunc_00088</dc:identifier>
+<rdfs:label>hpt_t1</rdfs:label>
+
+
+  <dc:identifier>END-DM1: hpt_t1</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 9-Hole Peg Test Trial 1; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00089">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00025"/>
+<dc:identifier>nmd:MotFunc_00089</dc:identifier>
+<rdfs:label>hpt_t2</rdfs:label>
+
+
+  <dc:identifier>END-DM1: hpt_t2</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 9-Hole Peg Test Trial 2; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00090">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00026"/>
+<dc:identifier>nmd:MotFunc_00090</dc:identifier>
+<rdfs:label>funct_coins</rdfs:label>
+
+
+  <dc:identifier>END-DM1: funct_coins</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Number of coins picked up by dominant hand; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00091">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00026"/>
+<dc:identifier>nmd:MotFunc_00091</dc:identifier>
+<rdfs:label>crf40_coin_time</rdfs:label>
+
+
+  <dc:identifier>END-DM1: crf40_coin_time</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Time to Pick up Coins; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00092">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00027"/>
+<dc:identifier>nmd:MotFunc_00092</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BMyo_1</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMyo_1</dc:identifier>
+
+
+
+  <dc:identifier>M-Scope: Myotonie_de_prehension</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: present / absent; Myodraft: Myotonia; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00093">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00028"/>
+<dc:identifier>nmd:MotFunc_00093</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BMyoTime_1</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMyoTime_1</dc:identifier>
+
+
+
+  <dc:identifier>M-Scope: temps_ouverture_main</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: time in seconds; Myodraft: Hand-grip myotonia relaxation time; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00094">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00029"/>
+<dc:identifier>nmd:MotFunc_00094</dc:identifier>
+<rdfs:label>r1_t1_open</rdfs:label>
+
+
+  <dc:identifier>END-DM1: r1_t1_open</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Timestamp when evaluator says "OPEN"; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00095">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00029"/>
+<dc:identifier>nmd:MotFunc_00095</dc:identifier>
+<rdfs:label>r1_t1_stamp_middle</rdfs:label>
+
+
+  <dc:identifier>END-DM1: r1_t1_stamp_middle</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Timestamp whenmiddle fingeris fully open; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00096">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00029"/>
+<dc:identifier>nmd:MotFunc_00096</dc:identifier>
+<rdfs:label>r1_t1_stamp_thumb</rdfs:label>
+
+
+  <dc:identifier>END-DM1: r1_t1_stamp_thumb</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Timestamp whenthumbis fully open; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00097">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00029"/>
+<dc:identifier>nmd:MotFunc_00097</dc:identifier>
+<rdfs:label>r1_t2_open</rdfs:label>
+
+
+  <dc:identifier>END-DM1: r1_t2_open</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Timestamp when evaluator says "OPEN"; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00098">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00029"/>
+<dc:identifier>nmd:MotFunc_00098</dc:identifier>
+<rdfs:label>r1_t2_stamp_middle</rdfs:label>
+
+
+  <dc:identifier>END-DM1: r1_t2_stamp_middle</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Timestamp whenmiddle fingeris fully open; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00099">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00029"/>
+<dc:identifier>nmd:MotFunc_00099</dc:identifier>
+<rdfs:label>r1_t2_stamp_thumb</rdfs:label>
+
+
+  <dc:identifier>END-DM1: r1_t2_stamp_thumb</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Timestamp whenthumbis fully open; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00100">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00100</dc:identifier>
+<rdfs:label>mmt_nf</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BNeckFlex_1</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_nf</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Neck Flexion (NF); Myodraft: MRC-score Nekflexoren:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00101">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00101</dc:identifier>
+<rdfs:label>mmt_ne</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BNeckTens_1</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_ne</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Neck Extension (NE); Myodraft: MRC-score Nekextensoren:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00102">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00102</dc:identifier>
+<rdfs:label>mmt_sar</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Abductie schouder_Rechts</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_sar</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Shoulder Abduction Right (SAR); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00103">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00103</dc:identifier>
+<rdfs:label>mmt_sal</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Abductie schouder_Links</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_sal</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Shoulder Abduction Left (SAL); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00104">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00104</dc:identifier>
+<rdfs:label>mmt_efr</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Flexie elleboog_Rechts</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_efr</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Elbow Flexion Right (EFR); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00105">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00105</dc:identifier>
+<rdfs:label>mmt_efl</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Flexie elleboog_Links</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_efl</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Elbow Flexion Left (EFL); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00106">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00106</dc:identifier>
+<rdfs:label>mmt_eer</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Extensie elleboog_Rechts</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_eer</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Elbow Extension Right (EER); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00107">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00107</dc:identifier>
+<rdfs:label>mmt_eel</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Extensie elleboog_Links</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_eel</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Elbow Extension Left (EEL); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00108">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00108</dc:identifier>
+<rdfs:label>mmt_wer</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Extensie pols_Rechts</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_wer</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Wrist Extension Right (WER); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00109">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00109</dc:identifier>
+<rdfs:label>mmt_wel</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Extensie pols_Links</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_wel</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Wrist Extension Left (WEL); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00110">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00110</dc:identifier>
+<rdfs:label>mmt_lffr</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Diepe flexoren vingers_Rechts</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_lffr</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Thumb Long Finger Flexors Right (LFFR); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00111">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00111</dc:identifier>
+<rdfs:label>mmt_lffl</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Diepe flexoren vingers_Links</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_lffl</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Thumb Long Finger Flexors Left (LFFL); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00112">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00112</dc:identifier>
+<rdfs:label>mmt_hfr</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Flexie heup_Rechts</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_hfr</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Hip Flexion Right (HFR); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00113">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00113</dc:identifier>
+<rdfs:label>mmt_hfl</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Flexie heup_Links</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_hfl</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Hip Flexion Left (HFL); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00114">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00114</dc:identifier>
+<rdfs:label>mmt_kfr</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Flexie knie_Rechts</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_kfr</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Knee Flexion Right (KFR); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00115">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00115</dc:identifier>
+<rdfs:label>mmt_kfl</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Flexie knie_Links</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_kfl</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Knee Flexion Left (KFL); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00116">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00116</dc:identifier>
+<rdfs:label>mmt_ker</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Extensie knie_Rechts</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_ker</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Knee Extension Right (KER); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00117">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00117</dc:identifier>
+<rdfs:label>mmt_kel</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Extensie knie_Links</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_kel</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Knee Extension Left (KEL); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00118">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00118</dc:identifier>
+<rdfs:label>mmt_apr</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Flexie voet_Rechts</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_apr</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Ankle Plantar Flexion Right (APR); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00119">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00119</dc:identifier>
+<rdfs:label>mmt_apl</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Flexie voet_Links</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_apl</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Ankle Plantar Flexion Left (APL); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00120">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00120</dc:identifier>
+<rdfs:label>mmt_adr</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Extensie voet_Rechts</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_adr</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Ankle Dorsiflexion Right (ADR); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00121">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00121</dc:identifier>
+<rdfs:label>mmt_adl</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_MRCscoreVarious_Extensie voet_Links</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mmt_adl</dc:identifier>
+
+
+  <dc:identifier>M-Scope: MRC tableau</dc:identifier>
+
+
+
+
+  <dc:description>END-DM1: Ankle Dorsiflexion Left (ADL); Myodraft: MRC-score:; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00122">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00122</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BMRCSum_1</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMRCSum_1</dc:identifier>
+
+
+
+  <dc:identifier>M-Scope: Score MRC</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: scale 0-5; Myodraft: MRC-sumscore  (calculated automatically); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00123">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00030"/>
+<dc:identifier>nmd:MotFunc_00123</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BMRCScoreMax5</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMRCScoreMax5</dc:identifier>
+
+
+
+
+
+
+  <dc:description>Myodraft: MRC-score >5 ?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00124">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00124</dc:identifier>
+<rdfs:label>mdhi_total</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_total</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: MDHI Total; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00125">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00125</dc:identifier>
+<rdfs:label>activ_total</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_total</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Total for DM1-ACTIV; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00126">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00126</dc:identifier>
+<rdfs:label>qmt_efr</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_efr</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Elbow Flexion Right (EFR); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00127">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00127</dc:identifier>
+<rdfs:label>qmt_adr</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_adr</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Ankle Dorsiflexion Right (ADR); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00128">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00128</dc:identifier>
+<rdfs:label>qmt_adl</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_adl</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Ankle Dorsiflexion Left (ADL); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00129">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00129</dc:identifier>
+<rdfs:label>qmt_efl</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_efl</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Elbow Flexion Left (EFL); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00130">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00130</dc:identifier>
+<rdfs:label>qmt_eel</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_eel</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Elbow Extension Left (EEL); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00131">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00131</dc:identifier>
+<rdfs:label>qmt_eer</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_eer</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Elbow Extension Right (EER); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00132">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00132</dc:identifier>
+<rdfs:label>qmt_kfr</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_kfr</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Knee Flexion Right (KFR); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00133">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00133</dc:identifier>
+<rdfs:label>qmt_ker</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_ker</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Knee Extension Right (KER); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00134">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00134</dc:identifier>
+<rdfs:label>qmt_kfl</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_kfl</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Knee Flexion Left (KFL); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00135">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00135</dc:identifier>
+<rdfs:label>qmt_kel</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_kel</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Knee Extension Left (KEL); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00136">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00136</dc:identifier>
+<rdfs:label>qmt_hgl</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_hgl</dc:identifier>
+
+
+  <dc:identifier>M-Scope: Grip_mainG</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: main left; END-DM1: Hand Grip Left (HGL); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00137">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00033"/>
+<dc:identifier>nmd:MotFunc_00137</dc:identifier>
+<rdfs:label>qmt_hgr</rdfs:label>
+
+
+  <dc:identifier>END-DM1: qmt_hgr</dc:identifier>
+
+
+  <dc:identifier>M-Scope: Grip_mainD</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: main right; END-DM1: Hand Grip Right (HGR); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00138">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00034"/>
+<dc:identifier>nmd:MotFunc_00138</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BMVRi_1</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMVRi_1</dc:identifier>
+
+
+
+
+
+
+  <dc:description>Myodraft: Martin-Vigori right; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00139">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00034"/>
+<dc:identifier>nmd:MotFunc_00139</dc:identifier>
+<rdfs:label>Base_1_MotMusB_1_BMVLe_1</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMVLe_1</dc:identifier>
+
+
+
+
+
+
+  <dc:description>Myodraft: Martin-Vigori left; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00140">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00035"/>
+<dc:identifier>nmd:MotFunc_00140</dc:identifier>
+<rdfs:label>mirs_5</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMIRS_1</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mirs_5</dc:identifier>
+
+
+  <dc:identifier>M-Scope: code MIRS : 5</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Atteinte proximale sévère; END-DM1: MIRS Score 5; Myodraft: Muscular Impairment Rating Scale (MIRS); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00141">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00035"/>
+<dc:identifier>nmd:MotFunc_00141</dc:identifier>
+<rdfs:label>mirs_4</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMIRS_1</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mirs_4</dc:identifier>
+
+
+  <dc:identifier>M-Scope: code MIRS : 4</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Atteinte proximale légère à modérée; END-DM1: MIRS Score of 4; Myodraft: Muscular Impairment Rating Scale (MIRS); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00142">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00035"/>
+<dc:identifier>nmd:MotFunc_00142</dc:identifier>
+<rdfs:label>mirs_3</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMIRS_1</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mirs_3</dc:identifier>
+
+
+  <dc:identifier>M-Scope: code MIRS : 3</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Atteinte distale; END-DM1: MIRS Score 3; Myodraft: Muscular Impairment Rating Scale (MIRS); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00143">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00035"/>
+<dc:identifier>nmd:MotFunc_00143</dc:identifier>
+<rdfs:label>mirs_2</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMIRS_1</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mirs_2</dc:identifier>
+
+
+  <dc:identifier>M-Scope: code MIRS : 2</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Signes minimes; END-DM1: MIRS Score 2; Myodraft: Muscular Impairment Rating Scale (MIRS); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00144">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00035"/>
+<dc:identifier>nmd:MotFunc_00144</dc:identifier>
+<rdfs:label>mirs_1</rdfs:label>
+
+  <dc:identifier>Myodraft: Base_1_MotMusB_1_BMIRS_1</dc:identifier>
+
+
+  <dc:identifier>END-DM1: mirs_1</dc:identifier>
+
+
+  <dc:identifier>M-Scope: code MIRS : 1</dc:identifier>
+
+
+
+
+  <dc:description>DM-Scope: Asymptomatique; END-DM1: MIRS Score 1; Myodraft: Muscular Impairment Rating Scale (MIRS); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00145">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00035"/>
+<dc:identifier>nmd:MotFunc_00145</dc:identifier>
+<rdfs:label>mirs_1or2</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mirs_1or2</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: MIRS Score can't be determined between a 1 and a 2 because facial weakness was not completed at the time of the visit.; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00146">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00036"/>
+<dc:identifier>nmd:MotFunc_00146</dc:identifier>
+<rdfs:label>iopi_tongue_t1</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_tongue_t1</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Trial 1; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00147">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00036"/>
+<dc:identifier>nmd:MotFunc_00147</dc:identifier>
+<rdfs:label>iopi_tongue_t2</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_tongue_t2</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Trial 2; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00148">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00036"/>
+<dc:identifier>nmd:MotFunc_00148</dc:identifier>
+<rdfs:label>iopi_tongue_t3</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_tongue_t3</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Trial 3; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00149">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00037"/>
+<dc:identifier>nmd:MotFunc_00149</dc:identifier>
+<rdfs:label>iopi_buccal_r_t1</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_buccal_r_t1</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Trial 1; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00150">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00037"/>
+<dc:identifier>nmd:MotFunc_00150</dc:identifier>
+<rdfs:label>iopi_buccal_r_t2</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_buccal_r_t2</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Trial 2; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00151">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00037"/>
+<dc:identifier>nmd:MotFunc_00151</dc:identifier>
+<rdfs:label>iopi_buccal_r_t3</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_buccal_r_t3</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Trial 3; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00152">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00037"/>
+<dc:identifier>nmd:MotFunc_00152</dc:identifier>
+<rdfs:label>iopi_buccal_l_t1</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_buccal_l_t1</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Number Box (Decimal); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00153">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00037"/>
+<dc:identifier>nmd:MotFunc_00153</dc:identifier>
+<rdfs:label>iopi_buccal_l_t2</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_buccal_l_t2</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Number Box (Decimal); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00154">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00037"/>
+<dc:identifier>nmd:MotFunc_00154</dc:identifier>
+<rdfs:label>iopi_buccal_l_t3</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_buccal_l_t3</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Number Box (Decimal); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00155">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00038"/>
+<dc:identifier>nmd:MotFunc_00155</dc:identifier>
+<rdfs:label>iopi_jaw</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_jaw</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Jaw Position at Rest; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00156">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00038"/>
+<dc:identifier>nmd:MotFunc_00156</dc:identifier>
+<rdfs:label>iopi_myotonia</rdfs:label>
+
+
+  <dc:identifier>END-DM1: iopi_myotonia</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Patient reports jaw myotonia?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00157">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00039"/>
+<dc:identifier>nmd:MotFunc_00157</dc:identifier>
+<rdfs:label>delayed</rdfs:label>
+
+
+
+
+
+  <dc:identifier>HPO: HP:0001270</dc:identifier>
+
+
+  <dc:description>HPO: HP:0001270 delayed; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00158">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00040"/>
+<dc:identifier>nmd:MotFunc_00158</dc:identifier>
+<rdfs:label>Hypotonia at birth</rdfs:label>
+
+
+
+
+
+  <dc:identifier>HPO: HP:0001252</dc:identifier>
+
+
+  <dc:description>HPO: HP:0001252 Hypotonia at birth; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00159">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00041"/>
+<dc:identifier>nmd:MotFunc_00159</dc:identifier>
+<rdfs:label>Abnormality on pulmonary function testing</rdfs:label>
+
+
+
+
+
+  <dc:identifier>HPO: HP:0030878</dc:identifier>
+
+
+  <dc:description>HPO: HP:0030878 Abnormality on pulmonary function testing; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00160">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00042"/>
+<dc:identifier>nmd:MotFunc_00160</dc:identifier>
+<rdfs:label>crf40_fvc_calib</rdfs:label>
+
+
+  <dc:identifier>END-DM1: crf40_fvc_calib</dc:identifier>
+
+
+
+
+  <dc:identifier>HPO: HP:0032341</dc:identifier>
+
+
+  <dc:description>END-DM1: FVC Calibrated?; HPO: HP:0032341 Reduced forced vital capacity; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00161">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00043"/>
+<dc:identifier>nmd:MotFunc_00161</dc:identifier>
+<rdfs:label>fvc_sit</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_sit</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: FVC Sitting (L); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00162">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00044"/>
+<dc:identifier>nmd:MotFunc_00162</dc:identifier>
+<rdfs:label>fvc_supine</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_supine</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: FVC Supine (L); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00163">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00044"/>
+<dc:identifier>nmd:MotFunc_00163</dc:identifier>
+<rdfs:label>fvc_supine_percent</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_supine_percent</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: FVC Supine - Percent Predicted; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00164">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00045"/>
+<dc:identifier>nmd:MotFunc_00164</dc:identifier>
+<rdfs:label>fvc_recline</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_recline</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: FVC Semi-Reclined (L); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00165">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00046"/>
+<dc:identifier>nmd:MotFunc_00165</dc:identifier>
+<rdfs:label>fvc_cough</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_cough</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Peak Cough #1; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00166">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00046"/>
+<dc:identifier>nmd:MotFunc_00166</dc:identifier>
+<rdfs:label>fvc_cough2</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_cough2</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: Peak Cough #2; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00167">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00047"/>
+<dc:identifier>nmd:MotFunc_00167</dc:identifier>
+<rdfs:label>fvc_mip</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_mip</dc:identifier>
+
+
+
+
+  <dc:identifier>HPO: HP:0012496</dc:identifier>
+
+
+  <dc:description>END-DM1: MIP 1; HPO: HP:0012496 Reduced maximal inspiratory pressure; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00168">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00047"/>
+<dc:identifier>nmd:MotFunc_00168</dc:identifier>
+<rdfs:label>fvc_mip_2</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_mip_2</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: MIP 2; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00169">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00047"/>
+<dc:identifier>nmd:MotFunc_00169</dc:identifier>
+<rdfs:label>fvc_mip_3</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_mip_3</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: MIP 3; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00170">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00048"/>
+<dc:identifier>nmd:MotFunc_00170</dc:identifier>
+<rdfs:label>fvc_mep</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_mep</dc:identifier>
+
+
+
+
+  <dc:identifier>HPO: HP:0012497</dc:identifier>
+
+
+  <dc:description>END-DM1: MEP 1; HPO: HP:0012497 Reduced maximal expiratory pressure; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00171">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00048"/>
+<dc:identifier>nmd:MotFunc_00171</dc:identifier>
+<rdfs:label>fvc_mep_2</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_mep_2</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: MEP 2; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00172">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00048"/>
+<dc:identifier>nmd:MotFunc_00172</dc:identifier>
+<rdfs:label>fvc_mep_3</rdfs:label>
+
+
+  <dc:identifier>END-DM1: fvc_mep_3</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: MEP 3; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00173">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00049"/>
+<dc:identifier>nmd:MotFunc_00173</dc:identifier>
+<rdfs:label>s5_chop_intend_score</rdfs:label>
+
+
+
+
+  <dc:identifier>EURO-NMD: s5_chop_intend_score</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: CHOP-INTEND-Score; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00174">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00050"/>
+<dc:identifier>nmd:MotFunc_00174</dc:identifier>
+<rdfs:label>hfms_taken</rdfs:label>
+
+
+
+
+  <dc:identifier>EURO-NMD: hfms_taken</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: hfms_taken; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00175">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00051"/>
+<dc:identifier>nmd:MotFunc_00175</dc:identifier>
+<rdfs:label>hine_score</rdfs:label>
+
+
+
+
+  <dc:identifier>EURO-NMD: hine_score</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: HINE-Section2-Score; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00176">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00052"/>
+<dc:identifier>nmd:MotFunc_00176</dc:identifier>
+<rdfs:label>s5_chop_atend_score</rdfs:label>
+
+
+
+
+  <dc:identifier>EURO-NMD: s5_chop_atend_score</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: CHOP-ATEND-Score; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00177">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00053"/>
+<dc:identifier>nmd:MotFunc_00177</dc:identifier>
+<rdfs:label>rulm_score</rdfs:label>
+
+
+
+
+  <dc:identifier>EURO-NMD: rulm_score</dc:identifier>
+
+
+
+  <dc:description>EURO-NMD: RULM-Score; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00178">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00178</dc:identifier>
+<rdfs:label>mdhi_1a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Limitations with your mobility or walking; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00179">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00179</dc:identifier>
+<rdfs:label>mdhi_1b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Problems with your hands or arms; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00180">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00180</dc:identifier>
+<rdfs:label>mdhi_1c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Inability to do activities; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00181">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00181</dc:identifier>
+<rdfs:label>mdhi_1d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) Fatigue; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00182">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00182</dc:identifier>
+<rdfs:label>mdhi_1e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Pain; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00183">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00183</dc:identifier>
+<rdfs:label>mdhi_1f</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1f</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: f.) Gastrointestinal issues; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00184">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00184</dc:identifier>
+<rdfs:label>mdhi_1g</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1g</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: g.) Problems with your vision; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00185">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00185</dc:identifier>
+<rdfs:label>mdhi_1h</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1h</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: h.) Communication difficulties; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00186">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00186</dc:identifier>
+<rdfs:label>mdhi_1i</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1i</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: i.) Impaired sleep or daytime sleepiness; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00187">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00187</dc:identifier>
+<rdfs:label>mdhi_1j</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1j</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: j.) Emotional issues; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00188">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00188</dc:identifier>
+<rdfs:label>mdhi_1k</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1k</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: k.) Difficulty thinking; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00189">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00189</dc:identifier>
+<rdfs:label>mdhi_1l</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1l</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: l.) Decreased satisfaction in social situations; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00190">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00190</dc:identifier>
+<rdfs:label>mdhi_1m</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1m</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: m.) Decreased performance in social situations; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00191">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00191</dc:identifier>
+<rdfs:label>mdhi_1n</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1n</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: n.) Myotonia; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00192">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00192</dc:identifier>
+<rdfs:label>mdhi_1o</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1o</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: o.) Breathing difficulties; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00193">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00193</dc:identifier>
+<rdfs:label>mdhi_1p</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1p</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: p.) Choking or swallowing issues; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00194">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00194</dc:identifier>
+<rdfs:label>mdhi_1q</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_1q</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: q.) Hearing difficulties; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00195">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00195</dc:identifier>
+<rdfs:label>mdhi_2a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Diffuculty staying in a standing position; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00196">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00196</dc:identifier>
+<rdfs:label>mdhi_2b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Difficulty walking long distances; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00197">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00197</dc:identifier>
+<rdfs:label>mdhi_2c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Difficulty with stairs; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00198">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00198</dc:identifier>
+<rdfs:label>mdhi_2d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) Inability to walk fast; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00199">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00199</dc:identifier>
+<rdfs:label>mdhi_2e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Difficulty with balance; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00200">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00200</dc:identifier>
+<rdfs:label>mdhi_2f</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2f</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: f.) Impaired walking; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00201">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00201</dc:identifier>
+<rdfs:label>mdhi_2g</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2g</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: g.) Difficulty rising from a seated position; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00202">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00202</dc:identifier>
+<rdfs:label>mdhi_2h</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2h</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: h.) Inability to run; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00203">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00203</dc:identifier>
+<rdfs:label>mdhi_2i</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2i</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: i.) Ankle weakness; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00204">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00204</dc:identifier>
+<rdfs:label>mdhi_2j</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2j</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: j.) Tripping; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00205">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00205</dc:identifier>
+<rdfs:label>mdhi_2k</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2k</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: k.) Falls; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00206">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00206</dc:identifier>
+<rdfs:label>mdhi_2l</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_2l</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: l.) Difficulty getting up from a lying position; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00207">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00207</dc:identifier>
+<rdfs:label>mdhi_3a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_3a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Hand weakness; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00208">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00208</dc:identifier>
+<rdfs:label>mdhi_3b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_3b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Difficulty doing things with your hands; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00209">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00209</dc:identifier>
+<rdfs:label>mdhi_3c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_3c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Difficulty lifting objects; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00210">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00210</dc:identifier>
+<rdfs:label>mdhi_3d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_3d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) Difficulty picking things up with your fingers; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00211">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00211</dc:identifier>
+<rdfs:label>mdhi_3e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_3e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Arm weakness; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00212">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00212</dc:identifier>
+<rdfs:label>mdhi_3f</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_3f</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: f.) Problems reaching things over your head; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00213">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00213</dc:identifier>
+<rdfs:label>mdhi_3g</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_3g</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: g.) Droopy eyelids; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00214">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00214</dc:identifier>
+<rdfs:label>mdhi_3h</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_3h</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: h.) Facial weakness; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00215">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00215</dc:identifier>
+<rdfs:label>mdhi_3i</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_3i</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: i.) Neck weakness; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00216">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00216</dc:identifier>
+<rdfs:label>mdhi_3j</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_3j</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: j.) Impaired ability to open doors or drawers; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00217">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00217</dc:identifier>
+<rdfs:label>mdhi_4a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Difficulty opening jars or bottles; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00218">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00218</dc:identifier>
+<rdfs:label>mdhi_4b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Difficulty playing sports; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00219">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00219</dc:identifier>
+<rdfs:label>mdhi_4c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Trouble going up step ladders; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00220">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00220</dc:identifier>
+<rdfs:label>mdhi_4d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) The inability to keep pace with friends while walking; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00221">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00221</dc:identifier>
+<rdfs:label>mdhi_4e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Impaired dancing; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00222">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00222</dc:identifier>
+<rdfs:label>mdhi_4f</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4f</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: f.) Impaired ability to exercise; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00223">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00223</dc:identifier>
+<rdfs:label>mdhi_4g</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4g</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: g.) Difficulty using a hammer or other tool; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00224">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00224</dc:identifier>
+<rdfs:label>mdhi_4h</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4h</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: h.) Taking longer to do household chores; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00225">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00225</dc:identifier>
+<rdfs:label>mdhi_4i</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4i</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: i.) Impaired sexual function; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00226">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00226</dc:identifier>
+<rdfs:label>mdhi_4j</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4j</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: j.) Problems using buttons or zippers; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00227">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00227</dc:identifier>
+<rdfs:label>mdhi_4k</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4k</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: k.) Difficulty scrubbing surfaces; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00228">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00228</dc:identifier>
+<rdfs:label>mdhi_4l</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4l</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: l.) Difficulty cleaning a home; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00229">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00229</dc:identifier>
+<rdfs:label>mdhi_4m</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_4m</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: m.) A change in your activities because of gastrointestinal symptoms; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00230">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00230</dc:identifier>
+<rdfs:label>mdhi_5a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_5a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Poor handwriting; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00231">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00231</dc:identifier>
+<rdfs:label>mdhi_5b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_5b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Slurring of your speech; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00232">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00232</dc:identifier>
+<rdfs:label>mdhi_5c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_5c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Impaired facial expression; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00233">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00233</dc:identifier>
+<rdfs:label>mdhi_5d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_5d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) Difficulty communicating with others; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00234">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00234</dc:identifier>
+<rdfs:label>mdhi_5e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_5e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Quiet voice; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00235">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00235</dc:identifier>
+<rdfs:label>mdhi_5f</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_5f</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: f.) Tongue cramping; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00236">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00236</dc:identifier>
+<rdfs:label>mdhi_6a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_6a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Inability to do things that you used to do; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00237">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00237</dc:identifier>
+<rdfs:label>mdhi_6b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_6b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Self-conscious of muscle loss; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00238">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00238</dc:identifier>
+<rdfs:label>mdhi_6c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_6c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Perceived burden to family members; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00239">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00239</dc:identifier>
+<rdfs:label>mdhi_6d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_6d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) Increased family stress; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00240">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00240</dc:identifier>
+<rdfs:label>mdhi_6e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_6e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Dissatisfaction with social interactions; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00241">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00241</dc:identifier>
+<rdfs:label>mdhi_7a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_7a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) The reliance on family members; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00242">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00242</dc:identifier>
+<rdfs:label>mdhi_7b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_7b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Decreased independence; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00243">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00243</dc:identifier>
+<rdfs:label>mdhi_7c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_7c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Inability to care for family members; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00244">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00244</dc:identifier>
+<rdfs:label>mdhi_7d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_7d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) The avoidance of social situations; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00245">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00245</dc:identifier>
+<rdfs:label>mdhi_7e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_7e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Impaired social interactions; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00246">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00246</dc:identifier>
+<rdfs:label>mdhi_7f</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_7f</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: f.) Difficulty with relationships; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00247">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00247</dc:identifier>
+<rdfs:label>mdhi_8a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_8a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Decreased energy; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00248">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00248</dc:identifier>
+<rdfs:label>mdhi_8b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_8b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Impaired endurance; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00249">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00249</dc:identifier>
+<rdfs:label>mdhi_8c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_8c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Tired muscles; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00250">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00250</dc:identifier>
+<rdfs:label>mihi_9a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mihi_9a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Back pain; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00251">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00251</dc:identifier>
+<rdfs:label>mdhi_9b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_9b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Muscle stiffness; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00252">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00252</dc:identifier>
+<rdfs:label>mdhi_9c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_9c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Leg pain; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00253">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00253</dc:identifier>
+<rdfs:label>mdhi_9d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_9d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) Limited activity from pain; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00254">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00254</dc:identifier>
+<rdfs:label>mdhi_9e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_9e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Muscle cramping; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00255">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00255</dc:identifier>
+<rdfs:label>mdhi_9f</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_9f</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: f.) Pain all over; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00256">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00256</dc:identifier>
+<rdfs:label>mdhi_9g</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_9g</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: g.) Arm pain; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00257">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00257</dc:identifier>
+<rdfs:label>mdhi_10a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_10a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Hand myotonia; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00258">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00258</dc:identifier>
+<rdfs:label>mdhi_10b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_10b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Myotonia all over; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00259">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00259</dc:identifier>
+<rdfs:label>mdhi_10c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_10c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Jaw stiffness (myotonia); </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00260">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00260</dc:identifier>
+<rdfs:label>mdhi_11a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_11a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Diarrhea; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00261">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00261</dc:identifier>
+<rdfs:label>mdhi_11b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_11b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Constipation; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00262">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00262</dc:identifier>
+<rdfs:label>mdhi_11c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_11c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Gas; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00263">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00263</dc:identifier>
+<rdfs:label>mdhi_11d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_11d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) Abdominal pain; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00264">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00264</dc:identifier>
+<rdfs:label>mdhi_11e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_11e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Stomach cramping; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00265">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00265</dc:identifier>
+<rdfs:label>mdhi_12a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_12a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Problem swallowing; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00266">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00266</dc:identifier>
+<rdfs:label>mdhi_12b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_12b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Fear of choking; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00267">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00267</dc:identifier>
+<rdfs:label>mdhi_13a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_13a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Poor night vision; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00268">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00268</dc:identifier>
+<rdfs:label>mdhi_13b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_13b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Visual loss; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00269">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00269</dc:identifier>
+<rdfs:label>mdhi_13c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_13c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Eye irritation; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00270">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00270</dc:identifier>
+<rdfs:label>mdhi_14a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Frustration; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00271">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00271</dc:identifier>
+<rdfs:label>mdhi_14b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Reduced enjoyment with activities; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00272">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00272</dc:identifier>
+<rdfs:label>mdhi_14c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Fear of injury with activity; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00273">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00273</dc:identifier>
+<rdfs:label>mdhi_14d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) Depression; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00274">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00274</dc:identifier>
+<rdfs:label>mdhi_14e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Damaged pride with loss of independence; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00275">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00275</dc:identifier>
+<rdfs:label>mdhi_14f</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14f</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: f.) Feeling overwhelmed; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00276">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00276</dc:identifier>
+<rdfs:label>mdhi_14g</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14g</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: g.) Moodiness; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00277">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00277</dc:identifier>
+<rdfs:label>mdhi_14h</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14h</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: h.) Increased stress; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00278">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00278</dc:identifier>
+<rdfs:label>mdhi_14i</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14i</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: i.) Anxiety; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00279">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00279</dc:identifier>
+<rdfs:label>mdhi_14j</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14j</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: j.) Impaired self-image; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00280">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00280</dc:identifier>
+<rdfs:label>mdhi_14k</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_14k</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: k.) Anger; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00281">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00281</dc:identifier>
+<rdfs:label>mdhi_15a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_15a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Daytime sleepiness; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00282">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00282</dc:identifier>
+<rdfs:label>mdhi_15b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_15b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Excessive sleep requirements; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00283">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00283</dc:identifier>
+<rdfs:label>mdhi_15c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_15c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Difficulty falling asleep at night; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00284">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00284</dc:identifier>
+<rdfs:label>mdhi_16a</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_16a</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: a.) Decreased motivation; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00285">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00285</dc:identifier>
+<rdfs:label>mdhi_16b</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_16b</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: b.) Fear of a worsening ability to think; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00286">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00286</dc:identifier>
+<rdfs:label>mdhi_16c</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_16c</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: c.) Thinking fatigue; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00287">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00287</dc:identifier>
+<rdfs:label>mdhi_16d</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_16d</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: d.) Decreased ability to think fast; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00288">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00288</dc:identifier>
+<rdfs:label>mdhi_16e</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_16e</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: e.) Memory problems; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00289">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00289</dc:identifier>
+<rdfs:label>mdhi_16f</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_16f</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: f.) Disorganization; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00290">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00290</dc:identifier>
+<rdfs:label>mdhi_16g</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_16g</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: g.) Problems concentrating; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00291">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00031"/>
+<dc:identifier>nmd:MotFunc_00291</dc:identifier>
+<rdfs:label>mdhi_16h</rdfs:label>
+
+
+  <dc:identifier>END-DM1: mdhi_16h</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: h.) Difficulty with comprehension; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00292">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00292</dc:identifier>
+<rdfs:label>activ_1_1</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_1_1</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 1.  eat soup?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00293">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00293</dc:identifier>
+<rdfs:label>activ_2</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_2</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 2.  visit family or friends?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00294">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00294</dc:identifier>
+<rdfs:label>activ_3</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_3</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 3.  care for your hair and body?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00295">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00295</dc:identifier>
+<rdfs:label>activ_4</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_4</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 4.  dress your lower body?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00296">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00296</dc:identifier>
+<rdfs:label>activ_5</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_5</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 5.  wash your upper body?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00297">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00297</dc:identifier>
+<rdfs:label>activ_6</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_6</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 6.  take a shower?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00298">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00298</dc:identifier>
+<rdfs:label>activ_7</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_7</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 7.  wash your lower body?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00299">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00299</dc:identifier>
+<rdfs:label>activ_8</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_8</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 8.  get out of bed?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00300">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00300</dc:identifier>
+<rdfs:label>activ_9</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_9</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 9.  move a chair?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00301">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00301</dc:identifier>
+<rdfs:label>activ_10</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_10</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 10.  do the dusting/cleaning?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00302">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00302</dc:identifier>
+<rdfs:label>activ_11</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_11</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 11.  do the shopping?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00303">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00303</dc:identifier>
+<rdfs:label>activ_12</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_12</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 12.  tie the laces of your shoes?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00304">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00304</dc:identifier>
+<rdfs:label>activ_13</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_13</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 13.  catch an object (e.g. a ball)?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00305">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00305</dc:identifier>
+<rdfs:label>activ_14</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_14</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 14.  use a dustpan and brush?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00306">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00306</dc:identifier>
+<rdfs:label>activ_15</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_15</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 15.  empty dustbin?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00307">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00307</dc:identifier>
+<rdfs:label>activ_16</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_16</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 16.  make up your bed?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00308">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00308</dc:identifier>
+<rdfs:label>activ_17</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_17</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 17.  vacuum clean?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00309">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00309</dc:identifier>
+<rdfs:label>activ_18</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_18</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 18.  serve coffee/tea on a tray?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00310">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00310</dc:identifier>
+<rdfs:label>activ_19</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_19</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 19.  dance?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00311">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00311</dc:identifier>
+<rdfs:label>activ_20</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_20</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 20.  stand up from a squatting position?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00312">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00312</dc:identifier>
+<rdfs:label>activ_21</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_21</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 21.  stand on one leg?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00313">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00313</dc:identifier>
+<rdfs:label>activ_22</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_22</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 22.  walk uphill?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00314">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00314</dc:identifier>
+<rdfs:label>activ_23</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_23</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 23.  walk 3 flights of stairs?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00315">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00315</dc:identifier>
+<rdfs:label>activ_24</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_24</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 24.  carry and put down heavy object (10kg)?; </dc:description>
+
+</owl:Class>
+
+
+
+
+
+<owl:Class rdf:about="https://w3id.org/nmd-domain#MotFunc_00316">
+<rdfs:subClassOf rdf:resource="https://w3id.org/nmd-domain#MotFunc_00032"/>
+<dc:identifier>nmd:MotFunc_00316</dc:identifier>
+<rdfs:label>activ_25</rdfs:label>
+
+
+  <dc:identifier>END-DM1: activ_25</dc:identifier>
+
+
+
+
+
+  <dc:description>END-DM1: 25.  run?; </dc:description>
+
+</owl:Class>
+
+
+
+
+</rdf:RDF>
+
+
