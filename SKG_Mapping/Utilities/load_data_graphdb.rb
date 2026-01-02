@@ -25,7 +25,7 @@ rescue StandardError => e
   false
 end
 
-def load_small_file(file_path, repo_id: 'simpathic-skg', base_url: 'http://57.128.119.57:9001/')
+def load_small_file(file_path, repo_id: 'simpathic-skg', base_url: 'http://57.128.119.57:9001')
   abort "ENV['SIMP_GDB_USER'] or ENV['SIMP_GDB_PASS'] not set" unless USERNAME && PASSWORD
   auth_header = "Basic #{Base64.strict_encode64(USERNAME + ':' + PASSWORD)}"
 
@@ -54,10 +54,12 @@ def process_files(load: false)
       next
     end
 
-    # Validate RDF file before uploading
-    unless validate_rdf_file(file_path)
-      warn "Skipping upload for #{file_path} due to validation failure"
-      next
+    unless load
+	    # Validate RDF file before uploading
+    	unless validate_rdf_file(file_path)
+     	 	warn "Skipping upload for #{file_path} due to validation failure"
+      		next
+    	end
     end
 
     load_small_file(file_path) if load
@@ -65,4 +67,4 @@ def process_files(load: false)
 end
 
 # Run
-process_files(load: false)
+process_files(load: true)

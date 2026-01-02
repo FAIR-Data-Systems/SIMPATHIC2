@@ -1,0 +1,348 @@
+source,snomedct,orpha,prefname
+C0019247,http://purl.bioontology.org/ontology/SNOMEDCT/32895009,https://fake.orpha.net/not-found,Hereditary disease
+C0019247,http://purl.bioontology.org/ontology/SNOMEDCT/782964007,https://fake.orpha.net/not-found,Genetic disease
+C0235946,http://purl.bioontology.org/ontology/SNOMEDCT/278849000,https://fake.orpha.net/not-found,Cerebral atrophy
+C0007760,http://purl.bioontology.org/ontology/SNOMEDCT/223176004,https://fake.orpha.net/not-found,Cerebellar disorder
+C0007760,http://purl.bioontology.org/ontology/SNOMEDCT/224186005,https://fake.orpha.net/not-found,Cerebellar deficiency syndrome
+C0087012,http://purl.bioontology.org/ontology/SNOMEDCT/129609000,https://fake.orpha.net/not-found,Spinocerebellar ataxia
+C0018790,http://purl.bioontology.org/ontology/SNOMEDCT/397829000,https://fake.orpha.net/not-found,Asystole
+C0018790,http://purl.bioontology.org/ontology/SNOMEDCT/410429000,https://fake.orpha.net/not-found,Cardiac arrest
+C0026650,http://purl.bioontology.org/ontology/SNOMEDCT/60342002,https://fake.orpha.net/not-found,Movement disorder
+C0242422,http://purl.bioontology.org/ontology/SNOMEDCT/32798002,https://fake.orpha.net/not-found,Parkinsonism
+C0151313,http://purl.bioontology.org/ontology/SNOMEDCT/95662005,https://fake.orpha.net/not-found,Sensory neuropathy
+C0151313,http://purl.bioontology.org/ontology/SNOMEDCT/789588003,https://fake.orpha.net/not-found,Peripheral sensory neuropathy
+C0024408,http://purl.bioontology.org/ontology/SNOMEDCT/91952008,https://fake.orpha.net/not-found,Azorean disease
+C0752120,http://purl.bioontology.org/ontology/SNOMEDCT/715748006,http://www.orpha.net/ORDO/Orphanet_98755,Spinocerebellar ataxia type 1
+C0011168,http://purl.bioontology.org/ontology/SNOMEDCT/40739000,https://fake.orpha.net/not-found,Dysphagia
+C0011168,http://purl.bioontology.org/ontology/SNOMEDCT/288939007,https://fake.orpha.net/not-found,Difficulty swallowing
+C0002395,http://purl.bioontology.org/ontology/SNOMEDCT/26929004,https://fake.orpha.net/not-found,Alzheimer's disease
+C0030567,http://purl.bioontology.org/ontology/SNOMEDCT/49049000,https://fake.orpha.net/not-found,Parkinson's disease
+C0026846,http://purl.bioontology.org/ontology/SNOMEDCT/88092000,https://fake.orpha.net/not-found,Muscle atrophy
+C0020179,http://purl.bioontology.org/ontology/SNOMEDCT/58756001,https://fake.orpha.net/not-found,Huntington's chorea
+C1998028,http://purl.bioontology.org/ontology/SNOMEDCT/428212003,https://fake.orpha.net/not-found,Photoreceptor degeneration
+C0265385,http://purl.bioontology.org/ontology/SNOMEDCT/11164009,https://fake.orpha.net/not-found,Autosomal dominant hereditary disorder
+C0751781,http://purl.bioontology.org/ontology/SNOMEDCT/68116008,https://fake.orpha.net/not-found,Dentatorubropallidoluysian degeneration
+C0752124,http://purl.bioontology.org/ontology/SNOMEDCT/715752006,http://www.orpha.net/ORDO/Orphanet_98758,Spinocerebellar ataxia type 6
+C0085078,http://purl.bioontology.org/ontology/SNOMEDCT/28821000119102,https://fake.orpha.net/not-found,Lysosomal storage disease
+C0027765,http://purl.bioontology.org/ontology/SNOMEDCT/118940003,https://fake.orpha.net/not-found,Disorder of nervous system
+C0752125,http://purl.bioontology.org/ontology/SNOMEDCT/715726000,http://www.orpha.net/ORDO/Orphanet_94147,Spinocerebellar ataxia type 7
+C0018889,http://purl.bioontology.org/ontology/SNOMEDCT/27601005,https://fake.orpha.net/not-found,Infection caused by Cestoda and/or Trematoda and/or Phylum Nemata
+C0272285,http://purl.bioontology.org/ontology/SNOMEDCT/73397007,http://www.orpha.net/ORDO/Orphanet_3325,Heparin-induced thrombocytopenia
+C0035258,http://purl.bioontology.org/ontology/SNOMEDCT/32914008,https://fake.orpha.net/not-found,Restless legs
+C1963674,http://purl.bioontology.org/ontology/SNOMEDCT/715754007,http://www.orpha.net/ORDO/Orphanet_98761,Spinocerebellar ataxia type 10
+C0238190,http://purl.bioontology.org/ontology/SNOMEDCT/72315009,http://www.orpha.net/ORDO/Orphanet_611,Inclusion body myositis
+C0270814,http://purl.bioontology.org/ontology/SNOMEDCT/386781001,https://fake.orpha.net/not-found,Spastic syndrome
+C0262404,http://purl.bioontology.org/ontology/SNOMEDCT/95646004,https://fake.orpha.net/not-found,Cerebellar degeneration
+C0026847,http://purl.bioontology.org/ontology/SNOMEDCT/5262007,https://fake.orpha.net/not-found,Spinal muscular atrophy
+C0013264,http://purl.bioontology.org/ontology/SNOMEDCT/387732009,http://www.orpha.net/ORDO/Orphanet_98895,Becker muscular dystrophy
+C0013264,http://purl.bioontology.org/ontology/SNOMEDCT/76670001,http://www.orpha.net/ORDO/Orphanet_98896,Duchenne muscular dystrophy
+C0752121,http://purl.bioontology.org/ontology/SNOMEDCT/715751004,http://www.orpha.net/ORDO/Orphanet_98756,Spinocerebellar ataxia type 2
+C0016719,http://purl.bioontology.org/ontology/SNOMEDCT/10394003,http://www.orpha.net/ORDO/Orphanet_95,Friedreich ataxia
+C0442874,http://purl.bioontology.org/ontology/SNOMEDCT/386033004,https://fake.orpha.net/not-found,Neuropathy
+C0042769,http://purl.bioontology.org/ontology/SNOMEDCT/34014006,https://fake.orpha.net/not-found,Viral disease
+C0032002,http://purl.bioontology.org/ontology/SNOMEDCT/399244003,https://fake.orpha.net/not-found,Disorder of pituitary gland
+C0150055,http://purl.bioontology.org/ontology/SNOMEDCT/82423001,https://fake.orpha.net/not-found,Chronic pain
+C0014544,http://purl.bioontology.org/ontology/SNOMEDCT/128613002,https://fake.orpha.net/not-found,Seizure disorder
+C0014544,http://purl.bioontology.org/ontology/SNOMEDCT/84757009,https://fake.orpha.net/not-found,Epilepsy
+C0038379,http://purl.bioontology.org/ontology/SNOMEDCT/22066006,https://fake.orpha.net/not-found,Strabismus
+C0342782,http://purl.bioontology.org/ontology/SNOMEDCT/237995002,https://fake.orpha.net/not-found,Depletion of mitochondrial DNA
+C0011860,http://purl.bioontology.org/ontology/SNOMEDCT/44054006,https://fake.orpha.net/not-found,Type 2 diabetes mellitus
+C0035304,http://purl.bioontology.org/ontology/SNOMEDCT/95695004,https://fake.orpha.net/not-found,Degeneration of retina
+C3811918,http://purl.bioontology.org/ontology/SNOMEDCT/702426001,https://fake.orpha.net/not-found,GRN-related frontotemporal dementia
+C0037773,http://purl.bioontology.org/ontology/SNOMEDCT/39912006,http://www.orpha.net/ORDO/Orphanet_685,Hereditary spastic paraplegia
+C0006111,http://purl.bioontology.org/ontology/SNOMEDCT/81308009,https://fake.orpha.net/not-found,Disorder of brain
+C1851920,http://purl.bioontology.org/ontology/SNOMEDCT/715768000,http://www.orpha.net/ORDO/Orphanet_98808,Autosomal dominant dopa responsive dystonia
+C1851920,http://purl.bioontology.org/ontology/SNOMEDCT/230332007,https://fake.orpha.net/not-found,Diurnal dystonia
+C0026850,http://purl.bioontology.org/ontology/SNOMEDCT/73297009,http://www.orpha.net/ORDO/Orphanet_98473,Muscular dystrophy
+C0027404,http://purl.bioontology.org/ontology/SNOMEDCT/60380001,http://www.orpha.net/ORDO/Orphanet_619284,Narcolepsy
+C0028754,http://purl.bioontology.org/ontology/SNOMEDCT/414915002,https://fake.orpha.net/not-found,Obese
+C1145670,http://purl.bioontology.org/ontology/SNOMEDCT/409622000,https://fake.orpha.net/not-found,Respiratory failure
+C0027609,http://purl.bioontology.org/ontology/SNOMEDCT/414819007,https://fake.orpha.net/not-found,Neonatal abstinence syndrome
+C0162292,http://purl.bioontology.org/ontology/SNOMEDCT/19373007,https://fake.orpha.net/not-found,External ophthalmoplegia
+C0004509,http://purl.bioontology.org/ontology/SNOMEDCT/48188009,https://fake.orpha.net/not-found,Azoospermia
+C0004509,http://purl.bioontology.org/ontology/SNOMEDCT/425558002,https://fake.orpha.net/not-found,Azoospermia disorder
+C0730362,http://purl.bioontology.org/ontology/SNOMEDCT/312999006,https://fake.orpha.net/not-found,Disorder of macula of retina
+C0270952,http://purl.bioontology.org/ontology/SNOMEDCT/77097004,http://www.orpha.net/ORDO/Orphanet_270,Oculopharyngeal muscular dystrophy
+C0008626,http://purl.bioontology.org/ontology/SNOMEDCT/74345006,https://fake.orpha.net/not-found,Congenital chromosomal disease
+C0008626,http://purl.bioontology.org/ontology/SNOMEDCT/409709004,https://fake.orpha.net/not-found,Chromosomal disorder
+C0162674,http://purl.bioontology.org/ontology/SNOMEDCT/46252003,http://www.orpha.net/ORDO/Orphanet_520820,Progressive external ophthalmoplegia
+C0027126,http://purl.bioontology.org/ontology/SNOMEDCT/1177122009,http://www.orpha.net/ORDO/Orphanet_206647,Myotonic dystrophy
+C3266898,http://purl.bioontology.org/ontology/SNOMEDCT/47434006,http://www.orpha.net/ORDO/Orphanet_3440,Waardenburg syndrome
+C0026848,http://purl.bioontology.org/ontology/SNOMEDCT/129565002,https://fake.orpha.net/not-found,Disorder of muscle
+C0016667,http://purl.bioontology.org/ontology/SNOMEDCT/613003,http://www.orpha.net/ORDO/Orphanet_908,Fragile X syndrome
+C0025517,http://purl.bioontology.org/ontology/SNOMEDCT/30390004,https://fake.orpha.net/not-found,Generalized metabolic disorder
+C0025517,http://purl.bioontology.org/ontology/SNOMEDCT/75934005,https://fake.orpha.net/not-found,Metabolic disease
+C1848954,http://purl.bioontology.org/ontology/SNOMEDCT/425492002,https://fake.orpha.net/not-found,Generalized dystonia
+C0032285,http://purl.bioontology.org/ontology/SNOMEDCT/233604007,https://fake.orpha.net/not-found,Pneumonia
+C1290884,http://purl.bioontology.org/ontology/SNOMEDCT/128139000,https://fake.orpha.net/not-found,Inflammatory disorder
+C0431399,http://purl.bioontology.org/ontology/SNOMEDCT/716997004,http://www.orpha.net/ORDO/Orphanet_475,Joubert syndrome
+C0431399,http://purl.bioontology.org/ontology/SNOMEDCT/253175003,https://fake.orpha.net/not-found,Familial aplasia of the vermis
+C1843807,http://purl.bioontology.org/ontology/SNOMEDCT/703522009,http://www.orpha.net/ORDO/Orphanet_65284,Biotin-thiamine-responsive basal ganglia disease
+C0268237,http://purl.bioontology.org/ontology/SNOMEDCT/67434000,https://fake.orpha.net/not-found,Cytochrome-c oxidase deficiency
+C0007194,http://purl.bioontology.org/ontology/SNOMEDCT/233873004,https://fake.orpha.net/not-found,Hypertrophic cardiomyopathy
+C1857355,http://purl.bioontology.org/ontology/SNOMEDCT/718219002,http://www.orpha.net/ORDO/Orphanet_70472,Congenital lactic acidosis Saguenay-Lac-Saint-Jean type
+C0162670,http://purl.bioontology.org/ontology/SNOMEDCT/16851005,http://www.orpha.net/ORDO/Orphanet_206966,Mitochondrial myopathy
+C0001125,http://purl.bioontology.org/ontology/SNOMEDCT/91273001,https://fake.orpha.net/not-found,Lactic acidosis
+C0015544,http://purl.bioontology.org/ontology/SNOMEDCT/54840006,https://fake.orpha.net/not-found,Failure to thrive
+C0917796,http://purl.bioontology.org/ontology/SNOMEDCT/58610003,https://fake.orpha.net/not-found,Leber's optic atrophy
+C0038454,http://purl.bioontology.org/ontology/SNOMEDCT/230690007,https://fake.orpha.net/not-found,Cerebrovascular accident
+C0035078,http://purl.bioontology.org/ontology/SNOMEDCT/42399005,https://fake.orpha.net/not-found,Renal failure syndrome
+C0221505,http://purl.bioontology.org/ontology/SNOMEDCT/301766008,https://fake.orpha.net/not-found,Lesion of brain
+C1838979,http://purl.bioontology.org/ontology/SNOMEDCT/237988006,https://fake.orpha.net/not-found,Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency
+C0221355,http://purl.bioontology.org/ontology/SNOMEDCT/12138000,https://fake.orpha.net/not-found,Large head
+C0023520,http://purl.bioontology.org/ontology/SNOMEDCT/192781003,http://www.orpha.net/ORDO/Orphanet_68356,Leukodystrophy
+C0494475,http://purl.bioontology.org/ontology/SNOMEDCT/1217136003,https://fake.orpha.net/not-found,Tonic-clonic epileptic seizure
+C0162666,http://purl.bioontology.org/ontology/SNOMEDCT/447292006,https://fake.orpha.net/not-found,Mitochondrial encephalomyopathy
+C0007682,http://purl.bioontology.org/ontology/SNOMEDCT/23853001,https://fake.orpha.net/not-found,Disorder of the central nervous system
+C0878544,http://purl.bioontology.org/ontology/SNOMEDCT/85898001,https://fake.orpha.net/not-found,Cardiomyopathy
+C0878544,http://purl.bioontology.org/ontology/SNOMEDCT/57809008,https://fake.orpha.net/not-found,Myocardial disease
+C0023895,http://purl.bioontology.org/ontology/SNOMEDCT/235856003,https://fake.orpha.net/not-found,Disease of liver
+C0270612,http://purl.bioontology.org/ontology/SNOMEDCT/22811006,https://fake.orpha.net/not-found,Leukoencephalopathy
+C0270612,http://purl.bioontology.org/ontology/SNOMEDCT/16058431000119104,https://fake.orpha.net/not-found,White matter disease
+C0442893,http://purl.bioontology.org/ontology/SNOMEDCT/264578000,https://fake.orpha.net/not-found,Systemic illness
+C0442893,http://purl.bioontology.org/ontology/SNOMEDCT/56019007,https://fake.orpha.net/not-found,Systemic disease
+C0149931,http://purl.bioontology.org/ontology/SNOMEDCT/37796009,https://fake.orpha.net/not-found,Migraine
+C0085605,http://purl.bioontology.org/ontology/SNOMEDCT/59927004,https://fake.orpha.net/not-found,Hepatic failure
+C0020615,http://purl.bioontology.org/ontology/SNOMEDCT/237630007,https://fake.orpha.net/not-found,Hypoglycemic disorder
+C0020615,http://purl.bioontology.org/ontology/SNOMEDCT/271327008,https://fake.orpha.net/not-found,Hypoglycemic syndrome
+C0020615,http://purl.bioontology.org/ontology/SNOMEDCT/302866003,https://fake.orpha.net/not-found,Hypoglycemia
+C2931092,http://purl.bioontology.org/ontology/SNOMEDCT/717052002,https://fake.orpha.net/not-found,Maternally inherited Leigh syndrome
+C0035334,http://purl.bioontology.org/ontology/SNOMEDCT/28835009,http://www.orpha.net/ORDO/Orphanet_791,Retinitis pigmentosa
+C1970180,http://purl.bioontology.org/ontology/SNOMEDCT/703537008,https://fake.orpha.net/not-found,Leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation
+C1970180,http://purl.bioontology.org/ontology/SNOMEDCT/735421004,https://fake.orpha.net/not-found,Leukoencephalopathy with brain stem and spinal cord involvement and high lactate syndrome
+C0010709,http://purl.bioontology.org/ontology/SNOMEDCT/367643001,https://fake.orpha.net/not-found,Cyst
+C0010709,http://purl.bioontology.org/ontology/SNOMEDCT/441457006,https://fake.orpha.net/not-found,Cyst
+C0006112,http://purl.bioontology.org/ontology/SNOMEDCT/50122000,https://fake.orpha.net/not-found,Metabolic encephalopathy
+C0025521,http://purl.bioontology.org/ontology/SNOMEDCT/86095007,https://fake.orpha.net/not-found,Inborn error of metabolism
+C0948008,http://purl.bioontology.org/ontology/SNOMEDCT/422504002,https://fake.orpha.net/not-found,Ischemic stroke
+C0020555,http://purl.bioontology.org/ontology/SNOMEDCT/29966009,https://fake.orpha.net/not-found,Hypertrichosis
+C0020555,http://purl.bioontology.org/ontology/SNOMEDCT/271607001,https://fake.orpha.net/not-found,Excessive hair growth
+C0033377,http://purl.bioontology.org/ontology/SNOMEDCT/29696001,https://fake.orpha.net/not-found,Prolapse
+C0205711,http://purl.bioontology.org/ontology/SNOMEDCT/64855000,http://www.orpha.net/ORDO/Orphanet_702,Pelizaeus-Merzbacher disease
+C0268595,http://purl.bioontology.org/ontology/SNOMEDCT/360416003,http://www.orpha.net/ORDO/Orphanet_25,Glutaryl-CoA dehydrogenase deficiency
+C0497552,http://purl.bioontology.org/ontology/SNOMEDCT/88425004,https://fake.orpha.net/not-found,Congenital anomaly of nervous system
+C0022541,http://purl.bioontology.org/ontology/SNOMEDCT/25792000,http://www.orpha.net/ORDO/Orphanet_480,Kearns-Sayre syndrome
+C0022541,http://purl.bioontology.org/ontology/SNOMEDCT/77835008,https://fake.orpha.net/not-found,Ophthalmoplegia plus syndrome
+C0751778,http://purl.bioontology.org/ontology/SNOMEDCT/267581004,http://www.orpha.net/ORDO/Orphanet_98261,Progressive myoclonic epilepsy
+C0039841,http://purl.bioontology.org/ontology/SNOMEDCT/399357009,https://fake.orpha.net/not-found,Thiamine deficiency
+C0007795,http://purl.bioontology.org/ontology/SNOMEDCT/49692006,https://fake.orpha.net/not-found,Schilder's disease
+C0022658,http://purl.bioontology.org/ontology/SNOMEDCT/90708001,https://fake.orpha.net/not-found,Kidney disease
+C0162672,http://purl.bioontology.org/ontology/SNOMEDCT/230426003,https://fake.orpha.net/not-found,Myoclonic epilepsy with ragged red fibers
+C0027868,http://purl.bioontology.org/ontology/SNOMEDCT/257277002,https://fake.orpha.net/not-found,Myoneural disorder
+C0027868,http://purl.bioontology.org/ontology/SNOMEDCT/255522009,https://fake.orpha.net/not-found,Neuromyopathy
+C0011849,http://purl.bioontology.org/ontology/SNOMEDCT/73211009,https://fake.orpha.net/not-found,Diabetes mellitus
+C0023890,http://purl.bioontology.org/ontology/SNOMEDCT/19943007,https://fake.orpha.net/not-found,Cirrhosis of liver
+C0751951,http://purl.bioontology.org/ontology/SNOMEDCT/43152001,http://www.orpha.net/ORDO/Orphanet_597,Central core disease
+C0042345,http://purl.bioontology.org/ontology/SNOMEDCT/128060009,https://fake.orpha.net/not-found,Venous varices
+C0042345,http://purl.bioontology.org/ontology/SNOMEDCT/12856003,https://fake.orpha.net/not-found,Varix
+C0042345,http://purl.bioontology.org/ontology/SNOMEDCT/399989005,https://fake.orpha.net/not-found,Phlebectasia
+C0031485,http://purl.bioontology.org/ontology/SNOMEDCT/190687004,http://www.orpha.net/ORDO/Orphanet_716,Phenylketonuria
+C0268465,http://purl.bioontology.org/ontology/SNOMEDCT/58256000,http://www.orpha.net/ORDO/Orphanet_226,Dihydropteridine reductase deficiency
+C0020538,http://purl.bioontology.org/ontology/SNOMEDCT/38341003,https://fake.orpha.net/not-found,Hypertensive disorder
+C1414216,http://purl.bioontology.org/ontology/SNOMEDCT/702448007,https://fake.orpha.net/not-found,Dystonia 6
+C1285355,http://purl.bioontology.org/ontology/SNOMEDCT/363202005,https://fake.orpha.net/not-found,Mendelian disorders
+C0018784,http://purl.bioontology.org/ontology/SNOMEDCT/60700002,https://fake.orpha.net/not-found,Sensorineural hearing loss
+C0410000,http://purl.bioontology.org/ontology/SNOMEDCT/276657008,https://fake.orpha.net/not-found,Overlap syndrome
+C0854723,http://purl.bioontology.org/ontology/SNOMEDCT/314407005,https://fake.orpha.net/not-found,Retinal dystrophy
+C0013336,http://purl.bioontology.org/ontology/SNOMEDCT/237836003,https://fake.orpha.net/not-found,Short stature disorder
+C0013336,http://purl.bioontology.org/ontology/SNOMEDCT/422065006,https://fake.orpha.net/not-found,Constitutional short stature
+C0013336,http://purl.bioontology.org/ontology/SNOMEDCT/237837007,https://fake.orpha.net/not-found,Primordial dwarfism
+C0242354,http://purl.bioontology.org/ontology/SNOMEDCT/66091009,https://fake.orpha.net/not-found,Congenital disease
+C0027092,http://purl.bioontology.org/ontology/SNOMEDCT/57190000,https://fake.orpha.net/not-found,Myopia
+C0410528,http://purl.bioontology.org/ontology/SNOMEDCT/105986008,https://fake.orpha.net/not-found,Skeletal dysplasia
+C0158996,http://purl.bioontology.org/ontology/SNOMEDCT/47100003,https://fake.orpha.net/not-found,Anemia of prematurity
+C0010495,http://purl.bioontology.org/ontology/SNOMEDCT/58588007,http://www.orpha.net/ORDO/Orphanet_209,Cutis laxa
+C0018213,http://purl.bioontology.org/ontology/SNOMEDCT/353295004,https://fake.orpha.net/not-found,Graves' disease
+C1263858,http://purl.bioontology.org/ontology/SNOMEDCT/111503008,https://fake.orpha.net/not-found,Merosin deficient congenital muscular dystrophy
+C1263858,http://purl.bioontology.org/ontology/SNOMEDCT/787037000,http://www.orpha.net/ORDO/Orphanet_258,Congenital muscular dystrophy type 1A
+C0751882,http://purl.bioontology.org/ontology/SNOMEDCT/230672006,http://www.orpha.net/ORDO/Orphanet_590,Congenital myasthenic syndrome
+C1858854,http://purl.bioontology.org/ontology/SNOMEDCT/703536004,http://www.orpha.net/ORDO/Orphanet_2478,Megalencephalic leukoencephalopathy with subcortical cysts
+C0026896,http://purl.bioontology.org/ontology/SNOMEDCT/91637004,http://www.orpha.net/ORDO/Orphanet_589,Myasthenia gravis
+C3532239,http://purl.bioontology.org/ontology/SNOMEDCT/472315005,https://fake.orpha.net/not-found,Mitochondrial cardiomyopathy
+C0024776,http://purl.bioontology.org/ontology/SNOMEDCT/27718001,http://www.orpha.net/ORDO/Orphanet_511,Maple syrup urine disease
+C0020619,http://purl.bioontology.org/ontology/SNOMEDCT/48130008,https://fake.orpha.net/not-found,Hypogonadism
+C1328349,http://purl.bioontology.org/ontology/SNOMEDCT/237984008,http://www.orpha.net/ORDO/Orphanet_644,NARP syndrome
+C0017924,http://purl.bioontology.org/ontology/SNOMEDCT/55912009,https://fake.orpha.net/not-found,"Glycogen storage disease, type V"
+C1850406,http://purl.bioontology.org/ontology/SNOMEDCT/784346006,http://www.orpha.net/ORDO/Orphanet_255229,Navajo neurohepatopathy
+C0342778,http://purl.bioontology.org/ontology/SNOMEDCT/237990007,https://fake.orpha.net/not-found,Ubiquinone dehydrogenase deficiency
+C0393706,http://purl.bioontology.org/ontology/SNOMEDCT/230429005,https://fake.orpha.net/not-found,Early infantile epileptic encephalopathy with suppression bursts
+C0007785,http://purl.bioontology.org/ontology/SNOMEDCT/432504007,https://fake.orpha.net/not-found,Cerebral infarction
+C0007193,http://purl.bioontology.org/ontology/SNOMEDCT/399020009,http://www.orpha.net/ORDO/Orphanet_217604,Dilated cardiomyopathy
+C0007193,http://purl.bioontology.org/ontology/SNOMEDCT/195021004,https://fake.orpha.net/not-found,Primary dilated cardiomyopathy
+C0751785,http://purl.bioontology.org/ontology/SNOMEDCT/230423006,https://fake.orpha.net/not-found,Unverricht-Lundborg syndrome
+C0002514,http://purl.bioontology.org/ontology/SNOMEDCT/42930003,https://fake.orpha.net/not-found,Inborn error of amino acid metabolism
+C0740394,http://purl.bioontology.org/ontology/SNOMEDCT/35885006,https://fake.orpha.net/not-found,Hyperuricemia
+C0017168,http://purl.bioontology.org/ontology/SNOMEDCT/235595009,https://fake.orpha.net/not-found,Gastroesophageal reflux disease
+C0014547,http://purl.bioontology.org/ontology/SNOMEDCT/230381009,https://fake.orpha.net/not-found,Focal epilepsy
+C0011603,http://purl.bioontology.org/ontology/SNOMEDCT/703938007,https://fake.orpha.net/not-found,Inflammatory dermatosis
+C0019158,http://purl.bioontology.org/ontology/SNOMEDCT/128241005,https://fake.orpha.net/not-found,Inflammatory disease of liver
+C0543888,http://purl.bioontology.org/ontology/SNOMEDCT/723125008,https://fake.orpha.net/not-found,Epileptic encephalopathy
+C0349653,http://purl.bioontology.org/ontology/SNOMEDCT/459063003,https://fake.orpha.net/not-found,Congenital disorder of glycosylation type Ia
+C0349653,http://purl.bioontology.org/ontology/SNOMEDCT/277893002,https://fake.orpha.net/not-found,Carbohydrate-deficient glycoprotein syndrome type I
+C0007787,http://purl.bioontology.org/ontology/SNOMEDCT/266257000,https://fake.orpha.net/not-found,Transient cerebral ischemia
+C0037036,http://purl.bioontology.org/ontology/SNOMEDCT/53827007,https://fake.orpha.net/not-found,Excessive salivation
+C0022104,http://purl.bioontology.org/ontology/SNOMEDCT/10743008,https://fake.orpha.net/not-found,Irritable bowel syndrome
+C0024117,http://purl.bioontology.org/ontology/SNOMEDCT/13645005,https://fake.orpha.net/not-found,Chronic obstructive pulmonary disease
+C0268575,http://purl.bioontology.org/ontology/SNOMEDCT/87827003,https://fake.orpha.net/not-found,Isovaleryl-CoA dehydrogenase deficiency
+C0700201,http://purl.bioontology.org/ontology/SNOMEDCT/44186003,https://fake.orpha.net/not-found,Dyssomnia
+C0017178,http://purl.bioontology.org/ontology/SNOMEDCT/25374005,https://fake.orpha.net/not-found,Gastroenteritis
+C0017178,http://purl.bioontology.org/ontology/SNOMEDCT/119292006,https://fake.orpha.net/not-found,Disorder of gastrointestinal tract
+C0017178,http://purl.bioontology.org/ontology/SNOMEDCT/53619000,https://fake.orpha.net/not-found,Disorder of digestive system
+C0700323,http://purl.bioontology.org/ontology/SNOMEDCT/55394004,https://fake.orpha.net/not-found,Neuromuscular block
+C0009319,http://purl.bioontology.org/ontology/SNOMEDCT/64226004,https://fake.orpha.net/not-found,Colitis
+C0340427,http://purl.bioontology.org/ontology/SNOMEDCT/52029003,https://fake.orpha.net/not-found,Primary familial dilated cardiomyopathy
+C0011882,http://purl.bioontology.org/ontology/SNOMEDCT/230572002,https://fake.orpha.net/not-found,Neuropathy due to diabetes mellitus
+C0017601,http://purl.bioontology.org/ontology/SNOMEDCT/23986001,https://fake.orpha.net/not-found,Glaucoma
+C1862382,http://purl.bioontology.org/ontology/SNOMEDCT/724384008,http://www.orpha.net/ORDO/Orphanet_86813,Helicoid peripapillary chorioretinal degeneration
+C0042075,http://purl.bioontology.org/ontology/SNOMEDCT/41368006,https://fake.orpha.net/not-found,Disorder of urinary tract
+C0042075,http://purl.bioontology.org/ontology/SNOMEDCT/128606002,https://fake.orpha.net/not-found,Disorder of the urinary system
+C0239946,http://purl.bioontology.org/ontology/SNOMEDCT/62484002,https://fake.orpha.net/not-found,Hepatic fibrosis
+C0151650,http://purl.bioontology.org/ontology/SNOMEDCT/197660000,https://fake.orpha.net/not-found,Renal fibrosis
+C1961121,http://purl.bioontology.org/ontology/SNOMEDCT/400159008,https://fake.orpha.net/not-found,Congenital vascular malformation
+C0948089,http://purl.bioontology.org/ontology/SNOMEDCT/394659003,https://fake.orpha.net/not-found,Acute coronary syndrome
+C1290886,http://purl.bioontology.org/ontology/SNOMEDCT/128294001,https://fake.orpha.net/not-found,Chronic inflammatory disorder
+C0030360,http://purl.bioontology.org/ontology/SNOMEDCT/40158001,http://www.orpha.net/ORDO/Orphanet_678,Papillon-Lefèvre syndrome
+C0014175,http://purl.bioontology.org/ontology/SNOMEDCT/396224008,https://fake.orpha.net/not-found,Endometriosis
+C0014175,http://purl.bioontology.org/ontology/SNOMEDCT/129103003,https://fake.orpha.net/not-found,Endometriosis (clinical)
+C0751434,http://purl.bioontology.org/ontology/SNOMEDCT/7573000,http://www.orpha.net/ORDO/Orphanet_79254,Classical phenylketonuria
+C0751435,http://purl.bioontology.org/ontology/SNOMEDCT/68528007,http://www.orpha.net/ORDO/Orphanet_238583,Hyperphenylalaninemia
+C0677607,http://purl.bioontology.org/ontology/SNOMEDCT/21983002,https://fake.orpha.net/not-found,Hashimoto thyroiditis
+C0020514,http://purl.bioontology.org/ontology/SNOMEDCT/237662005,https://fake.orpha.net/not-found,Hyperprolactinemia
+C0242350,http://purl.bioontology.org/ontology/SNOMEDCT/860914002,https://fake.orpha.net/not-found,Erectile dysfunction
+C0341439,http://purl.bioontology.org/ontology/SNOMEDCT/328383001,https://fake.orpha.net/not-found,Chronic liver disease
+C1561643,http://purl.bioontology.org/ontology/SNOMEDCT/709044004,https://fake.orpha.net/not-found,Chronic kidney disease
+C1291564,http://purl.bioontology.org/ontology/SNOMEDCT/124600004,https://fake.orpha.net/not-found,Deficiency of aromatic-L-amino-acid decarboxylase
+C0010054,http://purl.bioontology.org/ontology/SNOMEDCT/53741008,https://fake.orpha.net/not-found,Coronary arteriosclerosis
+C0010054,http://purl.bioontology.org/ontology/SNOMEDCT/443502000,https://fake.orpha.net/not-found,Coronary atherosclerosis
+C0752347,http://purl.bioontology.org/ontology/SNOMEDCT/312991009,https://fake.orpha.net/not-found,Senile dementia of the Lewy body type
+C0752347,http://purl.bioontology.org/ontology/SNOMEDCT/80098002,https://fake.orpha.net/not-found,Diffuse Lewy body disease
+C0265493,http://purl.bioontology.org/ontology/SNOMEDCT/26445008,http://www.orpha.net/ORDO/Orphanet_195,Cat eye syndrome
+C0271650,http://purl.bioontology.org/ontology/SNOMEDCT/267426009,https://fake.orpha.net/not-found,Malabsorption of glucose
+C0271650,http://purl.bioontology.org/ontology/SNOMEDCT/9414007,https://fake.orpha.net/not-found,Impaired glucose tolerance
+C0851444,http://purl.bioontology.org/ontology/SNOMEDCT/473011001,https://fake.orpha.net/not-found,Allergic condition
+C0235969,http://purl.bioontology.org/ontology/SNOMEDCT/386790008,https://fake.orpha.net/not-found,Disorder of ejaculation
+C0162309,http://purl.bioontology.org/ontology/SNOMEDCT/65389002,https://fake.orpha.net/not-found,Adrenoleukodystrophy
+C0019151,http://purl.bioontology.org/ontology/SNOMEDCT/13920009,https://fake.orpha.net/not-found,Hepatic encephalopathy
+C0019151,http://purl.bioontology.org/ontology/SNOMEDCT/449902003,https://fake.orpha.net/not-found,Portal systemic encephalopathy
+C0030920,http://purl.bioontology.org/ontology/SNOMEDCT/13200003,https://fake.orpha.net/not-found,Peptic ulcer
+C1535939,http://purl.bioontology.org/ontology/SNOMEDCT/415125002,https://fake.orpha.net/not-found,Pneumocystosis pneumonia
+C0155668,http://purl.bioontology.org/ontology/SNOMEDCT/1755008,https://fake.orpha.net/not-found,Old myocardial infarction
+C0024141,http://purl.bioontology.org/ontology/SNOMEDCT/55464009,http://www.orpha.net/ORDO/Orphanet_536,Systemic lupus erythematosus
+C0017152,http://purl.bioontology.org/ontology/SNOMEDCT/4556007,https://fake.orpha.net/not-found,Gastritis
+C0152020,http://purl.bioontology.org/ontology/SNOMEDCT/235675006,https://fake.orpha.net/not-found,Gastroparesis syndrome
+C0152020,http://purl.bioontology.org/ontology/SNOMEDCT/196753007,https://fake.orpha.net/not-found,Gastric atonia
+C0020498,http://purl.bioontology.org/ontology/SNOMEDCT/31487001,https://fake.orpha.net/not-found,Disseminated idiopathic skeletal hyperostosis
+C0015674,http://purl.bioontology.org/ontology/SNOMEDCT/51771007,https://fake.orpha.net/not-found,Postviral fatigue syndrome
+C0015674,http://purl.bioontology.org/ontology/SNOMEDCT/52702003,https://fake.orpha.net/not-found,Chronic fatigue syndrome
+C0751753,http://purl.bioontology.org/ontology/SNOMEDCT/765329008,http://www.orpha.net/ORDO/Orphanet_147,Carbamoyl-phosphate synthetase 1 deficiency
+C0030759,http://purl.bioontology.org/ontology/SNOMEDCT/71011005,https://fake.orpha.net/not-found,Infestation by Phthirus pubis
+C0729531,http://purl.bioontology.org/ontology/SNOMEDCT/312133006,https://fake.orpha.net/not-found,Viral respiratory infection
+C0028756,http://purl.bioontology.org/ontology/SNOMEDCT/238136002,https://fake.orpha.net/not-found,Morbid obesity
+C0028756,http://purl.bioontology.org/ontology/SNOMEDCT/83911000119104,https://fake.orpha.net/not-found,Severe obesity
+C0024437,http://purl.bioontology.org/ontology/SNOMEDCT/422338006,https://fake.orpha.net/not-found,Degenerative disorder of macula
+C0008312,http://purl.bioontology.org/ontology/SNOMEDCT/31712002,http://www.orpha.net/ORDO/Orphanet_186,Primary biliary cholangitis
+C0008312,http://purl.bioontology.org/ontology/SNOMEDCT/1761006,https://fake.orpha.net/not-found,Biliary cirrhosis
+C0238288,http://purl.bioontology.org/ontology/SNOMEDCT/399091004,https://fake.orpha.net/not-found,Facioscapulohumeral muscular dystrophy
+C0021051,http://purl.bioontology.org/ontology/SNOMEDCT/234532001,https://fake.orpha.net/not-found,Immunodeficiency disorder
+C1611171,http://purl.bioontology.org/ontology/SNOMEDCT/427296003,https://fake.orpha.net/not-found,Thalamic infarction
+C0242339,http://purl.bioontology.org/ontology/SNOMEDCT/370992007,https://fake.orpha.net/not-found,Dyslipidemia
+C0020443,http://purl.bioontology.org/ontology/SNOMEDCT/13644009,https://fake.orpha.net/not-found,Hypercholesterolemia
+C0220730,http://purl.bioontology.org/ontology/SNOMEDCT/702432006,http://www.orpha.net/ORDO/Orphanet_2059,Fryns syndrome
+C0024530,http://purl.bioontology.org/ontology/SNOMEDCT/248437004,https://fake.orpha.net/not-found,Malarial fever
+C0024530,http://purl.bioontology.org/ontology/SNOMEDCT/61462000,http://www.orpha.net/ORDO/Orphanet_673,Malaria
+C0024530,http://purl.bioontology.org/ontology/SNOMEDCT/105649009,https://fake.orpha.net/not-found,Disease caused by Plasmodiidae
+C0598608,http://purl.bioontology.org/ontology/SNOMEDCT/419503008,https://fake.orpha.net/not-found,Hyperhomocysteinemia
+C0020877,http://purl.bioontology.org/ontology/SNOMEDCT/52457000,https://fake.orpha.net/not-found,Ileitis
+C0035372,http://purl.bioontology.org/ontology/SNOMEDCT/68618008,http://www.orpha.net/ORDO/Orphanet_778,Rett syndrome
+C0007894,http://purl.bioontology.org/ontology/SNOMEDCT/86133004,https://fake.orpha.net/not-found,Cestode infection
+C0003507,http://purl.bioontology.org/ontology/SNOMEDCT/60573004,https://fake.orpha.net/not-found,Aortic valve stenosis
+C1277187,http://purl.bioontology.org/ontology/SNOMEDCT/134401001,https://fake.orpha.net/not-found,Left ventricular systolic dysfunction
+C0085612,http://purl.bioontology.org/ontology/SNOMEDCT/44103008,https://fake.orpha.net/not-found,Ventricular arrhythmia
+C2931029,http://purl.bioontology.org/ontology/SNOMEDCT/763714006,http://www.orpha.net/ORDO/Orphanet_624,Familial multiple nevi flammei
+C0021364,http://purl.bioontology.org/ontology/SNOMEDCT/2904007,https://fake.orpha.net/not-found,Male infertility
+C0265202,http://purl.bioontology.org/ontology/SNOMEDCT/57917004,http://www.orpha.net/ORDO/Orphanet_808,Seckel syndrome
+C0005940,http://purl.bioontology.org/ontology/SNOMEDCT/76069003,https://fake.orpha.net/not-found,Disorder of bone
+C0011195,http://purl.bioontology.org/ontology/SNOMEDCT/111499002,https://fake.orpha.net/not-found,Déjérine-Sottas disease
+C0559483,http://purl.bioontology.org/ontology/SNOMEDCT/281587000,http://www.orpha.net/ORDO/Orphanet_1335,Pentalogy of Cantrell
+C3241937,http://purl.bioontology.org/ontology/SNOMEDCT/442685003,https://fake.orpha.net/not-found,Nonalcoholic steatohepatitis
+C0026946,http://purl.bioontology.org/ontology/SNOMEDCT/3218000,https://fake.orpha.net/not-found,Mycosis
+C0007384,http://purl.bioontology.org/ontology/SNOMEDCT/46263000,https://fake.orpha.net/not-found,Cataplexy
+C0746731,http://purl.bioontology.org/ontology/SNOMEDCT/413444003,https://fake.orpha.net/not-found,Acute myocardial ischemia
+C0400865,http://purl.bioontology.org/ontology/SNOMEDCT/235823004,https://fake.orpha.net/not-found,Motility disorder of intestine
+C0011175,http://purl.bioontology.org/ontology/SNOMEDCT/34095006,https://fake.orpha.net/not-found,Dehydration
+C0042721,http://purl.bioontology.org/ontology/SNOMEDCT/3738000,https://fake.orpha.net/not-found,Viral hepatitis
+C0039338,http://purl.bioontology.org/ontology/SNOMEDCT/399993004,https://fake.orpha.net/not-found,Disorder of taste
+C0001623,http://purl.bioontology.org/ontology/SNOMEDCT/237785004,https://fake.orpha.net/not-found,Hypoadrenalism
+C0001623,http://purl.bioontology.org/ontology/SNOMEDCT/386584007,https://fake.orpha.net/not-found,Adrenal cortical hypofunction
+C0398739,http://purl.bioontology.org/ontology/SNOMEDCT/234583001,https://fake.orpha.net/not-found,Leukocyte adhesion deficiency - type 2
+C1299567,http://purl.bioontology.org/ontology/SNOMEDCT/371121002,https://fake.orpha.net/not-found,Neonatal stroke
+C0878676,http://purl.bioontology.org/ontology/SNOMEDCT/237914002,https://fake.orpha.net/not-found,6-Pyruvoyl-tetrahydrobiopterin synthase deficiency
+C1849508,http://purl.bioontology.org/ontology/SNOMEDCT/734434007,http://www.orpha.net/ORDO/Orphanet_3006,Pyridoxine-dependent epilepsy
+C0282528,http://purl.bioontology.org/ontology/SNOMEDCT/238059005,https://fake.orpha.net/not-found,Disorder of peroxisomal function
+C0220710,http://purl.bioontology.org/ontology/SNOMEDCT/128596003,https://fake.orpha.net/not-found,Medium-chain acyl-coenzyme A dehydrogenase deficiency
+C0016952,http://purl.bioontology.org/ontology/SNOMEDCT/190749000,http://www.orpha.net/ORDO/Orphanet_35710,Glucose-galactose malabsorption
+C0016952,http://purl.bioontology.org/ontology/SNOMEDCT/190745006,http://www.orpha.net/ORDO/Orphanet_352,Galactosemia
+C0162275,http://purl.bioontology.org/ontology/SNOMEDCT/274783007,https://fake.orpha.net/not-found,Ketonuria
+C0162275,http://purl.bioontology.org/ontology/SNOMEDCT/36815008,https://fake.orpha.net/not-found,Acetonuria
+C0265388,http://purl.bioontology.org/ontology/SNOMEDCT/85995004,https://fake.orpha.net/not-found,Autosomal recessive hereditary disorder
+C0392557,http://purl.bioontology.org/ontology/SNOMEDCT/53889007,https://fake.orpha.net/not-found,Nuclear cataract
+C3808991,http://purl.bioontology.org/ontology/SNOMEDCT/768846004,https://fake.orpha.net/not-found,NGLY1-congenital disorder of deglycosylation
+C1865145,http://purl.bioontology.org/ontology/SNOMEDCT/1231141008,https://fake.orpha.net/not-found,Mannosephosphate isomerase congenital disorder of glycosylation
+C0870082,http://purl.bioontology.org/ontology/SNOMEDCT/26996000,https://fake.orpha.net/not-found,Hyperkeratosis
+C0870082,http://purl.bioontology.org/ontology/SNOMEDCT/399955009,https://fake.orpha.net/not-found,Diffuse palmoplantar keratoderma of Thost-Unna
+C1853736,http://purl.bioontology.org/ontology/SNOMEDCT/725028009,https://fake.orpha.net/not-found,Mannosyl-oligosaccharide glycosidase congenital disorder of glycosylation
+C1842836,http://purl.bioontology.org/ontology/SNOMEDCT/897592003,https://fake.orpha.net/not-found,Congenital disorder of glycosylation type 1i
+C0020757,http://purl.bioontology.org/ontology/SNOMEDCT/782957005,http://www.orpha.net/ORDO/Orphanet_79354,Ichthyosis
+C0011606,http://purl.bioontology.org/ontology/SNOMEDCT/400005007,https://fake.orpha.net/not-found,Erythrodermic eczema
+C0011606,http://purl.bioontology.org/ontology/SNOMEDCT/200948000,https://fake.orpha.net/not-found,Pityriasis rubra (Hebra)
+C0011606,http://purl.bioontology.org/ontology/SNOMEDCT/399992009,https://fake.orpha.net/not-found,Erythroderma
+C0008925,http://purl.bioontology.org/ontology/SNOMEDCT/87979003,http://www.orpha.net/ORDO/Orphanet_2014,Cleft palate
+C2931011,http://purl.bioontology.org/ontology/SNOMEDCT/718750004,https://fake.orpha.net/not-found,COG1 congenital disorder of glycosylation
+C0455988,http://purl.bioontology.org/ontology/SNOMEDCT/206538000,https://fake.orpha.net/not-found,Idiopathic hydrops fetalis
+C0455988,http://purl.bioontology.org/ontology/SNOMEDCT/276509008,http://www.orpha.net/ORDO/Orphanet_363999,Non-immune hydrops fetalis
+C0398686,http://purl.bioontology.org/ontology/SNOMEDCT/58606001,https://fake.orpha.net/not-found,Primary immune deficiency disorder
+C0268225,http://purl.bioontology.org/ontology/SNOMEDCT/54954004,http://www.orpha.net/ORDO/Orphanet_93,Aspartylglucosaminuria
+C0015306,http://purl.bioontology.org/ontology/SNOMEDCT/254044004,https://fake.orpha.net/not-found,Multiple congenital exostosis
+C0265221,http://purl.bioontology.org/ontology/SNOMEDCT/111504002,https://fake.orpha.net/not-found,Walker-Warburg congenital muscular dystrophy
+C1533628,http://purl.bioontology.org/ontology/SNOMEDCT/238067002,https://fake.orpha.net/not-found,Peroxisomal thiolase deficiency
+C1832200,http://purl.bioontology.org/ontology/SNOMEDCT/742876007,http://www.orpha.net/ORDO/Orphanet_79189,Peroxisome biogenesis disorder
+C0282529,http://purl.bioontology.org/ontology/SNOMEDCT/56692003,https://fake.orpha.net/not-found,Rhizomelic chondrodysplasia punctata syndrome
+C0282525,http://purl.bioontology.org/ontology/SNOMEDCT/238061001,http://www.orpha.net/ORDO/Orphanet_44,Neonatal adrenoleukodystrophy
+C2711227,http://purl.bioontology.org/ontology/SNOMEDCT/197321007,https://fake.orpha.net/not-found,Steatosis of liver
+C2711227,http://purl.bioontology.org/ontology/SNOMEDCT/442191002,https://fake.orpha.net/not-found,Steatohepatitis
+C2931689,http://purl.bioontology.org/ontology/SNOMEDCT/715317001,http://www.orpha.net/ORDO/Orphanet_606,Proximal myotonic myopathy
+C0553604,http://purl.bioontology.org/ontology/SNOMEDCT/193237003,https://fake.orpha.net/not-found,Myotonic disorder
+C0175709,http://purl.bioontology.org/ontology/SNOMEDCT/82077006,https://fake.orpha.net/not-found,Myotubular myopathy
+C0002986,http://purl.bioontology.org/ontology/SNOMEDCT/16652001,https://fake.orpha.net/not-found,Fabry's disease
+C0002986,http://purl.bioontology.org/ontology/SNOMEDCT/124464003,https://fake.orpha.net/not-found,Deficiency of alpha-galactosidase
+C0024591,http://purl.bioontology.org/ontology/SNOMEDCT/213026003,https://fake.orpha.net/not-found,Malignant hyperthermia caused by anesthetic
+C2609268,http://purl.bioontology.org/ontology/SNOMEDCT/715577009,http://www.orpha.net/ORDO/Orphanet_69663,Low phospholipid associated cholelithiasis
+C0018794,http://purl.bioontology.org/ontology/SNOMEDCT/233916004,https://fake.orpha.net/not-found,Heart block
+C0085581,http://purl.bioontology.org/ontology/SNOMEDCT/36485005,https://fake.orpha.net/not-found,Restrictive lung disease
+C0036202,http://purl.bioontology.org/ontology/SNOMEDCT/31541009,http://www.orpha.net/ORDO/Orphanet_797,Sarcoidosis
+C0342618,http://purl.bioontology.org/ontology/SNOMEDCT/193247000,https://fake.orpha.net/not-found,Amyloid myopathy
+C0017574,http://purl.bioontology.org/ontology/SNOMEDCT/66383009,https://fake.orpha.net/not-found,Gingivitis
+C1861736,http://purl.bioontology.org/ontology/SNOMEDCT/715826005,http://www.orpha.net/ORDO/Orphanet_217012,Spinocerebellar ataxia type 31
+C0037176,http://purl.bioontology.org/ontology/SNOMEDCT/264572004,https://fake.orpha.net/not-found,Single gene defect
+C0022521,http://purl.bioontology.org/ontology/SNOMEDCT/42402006,https://fake.orpha.net/not-found,Kartagener syndrome
+C1836876,http://purl.bioontology.org/ontology/SNOMEDCT/723449004,http://www.orpha.net/ORDO/Orphanet_2670,Pierson syndrome
+C0403397,http://purl.bioontology.org/ontology/SNOMEDCT/236381000,https://fake.orpha.net/not-found,Steroid-resistant nephrotic syndrome
+C1854678,http://purl.bioontology.org/ontology/SNOMEDCT/60192008,http://www.orpha.net/ORDO/Orphanet_33108,Lethal multiple pterygium syndrome
+C0566602,http://purl.bioontology.org/ontology/SNOMEDCT/197441003,http://www.orpha.net/ORDO/Orphanet_171,Primary sclerosing cholangitis
+C0268553,http://purl.bioontology.org/ontology/SNOMEDCT/58558003,http://www.orpha.net/ORDO/Orphanet_2203,Hyperlysinemia
+C0241910,http://purl.bioontology.org/ontology/SNOMEDCT/197284004,https://fake.orpha.net/not-found,Chronic active hepatitis
+C0241910,http://purl.bioontology.org/ontology/SNOMEDCT/16098491000119109,https://fake.orpha.net/not-found,Chronic autoimmune hepatitis
+C0024214,http://purl.bioontology.org/ontology/SNOMEDCT/48087001,https://fake.orpha.net/not-found,Lymphangiectasis
+C0036161,http://purl.bioontology.org/ontology/SNOMEDCT/23849003,http://www.orpha.net/ORDO/Orphanet_796,Sandhoff disease
+C1955743,http://purl.bioontology.org/ontology/SNOMEDCT/7651000119100,https://fake.orpha.net/not-found,Mineralocorticoid deficiency
+C1096527,http://purl.bioontology.org/ontology/SNOMEDCT/717335009,http://www.orpha.net/ORDO/Orphanet_96061,Mosaic trisomy 8 syndrome
+C0521659,http://purl.bioontology.org/ontology/SNOMEDCT/95647008,https://fake.orpha.net/not-found,Upper motor neuron disease
+C1836033,http://purl.bioontology.org/ontology/SNOMEDCT/722385008,http://www.orpha.net/ORDO/Orphanet_66631,CEDNIK syndrome
+C0020758,http://purl.bioontology.org/ontology/SNOMEDCT/13059002,https://fake.orpha.net/not-found,Congenital ichthyosis of skin
+C0268279,http://purl.bioontology.org/ontology/SNOMEDCT/14210003,https://fake.orpha.net/not-found,Lipofuscinosis
+C0265219,http://purl.bioontology.org/ontology/SNOMEDCT/253148005,http://www.orpha.net/ORDO/Orphanet_531,Miller Dieker syndrome
+C1838280,http://purl.bioontology.org/ontology/SNOMEDCT/715673002,http://www.orpha.net/ORDO/Orphanet_93308,Multiple epiphyseal dysplasia type 1
+C0028860,http://purl.bioontology.org/ontology/SNOMEDCT/79385002,https://fake.orpha.net/not-found,Lowe syndrome
+C2749050,http://purl.bioontology.org/ontology/SNOMEDCT/724175002,http://www.orpha.net/ORDO/Orphanet_98955,Lisch epithelial corneal dystrophy
+C0401037,http://purl.bioontology.org/ontology/SNOMEDCT/236004002,https://fake.orpha.net/not-found,Hepatic ascites
+C0268464,http://purl.bioontology.org/ontology/SNOMEDCT/28575006,https://fake.orpha.net/not-found,Transient hyperphenylalaninemia

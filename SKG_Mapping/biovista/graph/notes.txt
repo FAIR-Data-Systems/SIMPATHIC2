@@ -1,0 +1,7 @@
+three unmapped diseases because the IDs are not MESH
+
+disease lookup failed C1849508
+disease lookup failed C0024408
+disease lookup failed C0268595
+
+they are "MEDCIN"

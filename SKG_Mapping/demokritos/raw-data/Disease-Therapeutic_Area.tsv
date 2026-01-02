@@ -1618,9 +1618,9 @@ Color Blindness, Red-Green	C0155016	Color blindness	C0242225
 Color Blindness, Blue	C0155017	Color blindness	C0242225	
 Tooth Ankylosis	C0155930	Ankylosis	C0003090	
 Bonnevie-Ullrich Syndrome	C1527168	Gonadal Dysgenesis	C0018051	
-Gonadal Dysgenesis, 46	XX	C0949595	Gonadal Dysgenesis	C0018051
+Gonadal Dysgenesis, 46XX	C0949595	Gonadal Dysgenesis	C0018051
 Gonadal Dysgenesis, Mixed	C0018055	Gonadal Dysgenesis	C0018051	
-Gonadal Dysgenesis, 46	XY	C0018054	Gonadal Dysgenesis	C0018051
+Gonadal Dysgenesis, 46XY	C0018054	Gonadal Dysgenesis	C0018051
 Asymmetric Motor Neuropathy	C1332341	Peripheral motor neuropathy	C0235025	
 Glossopharyngeal Motor Neuropathy	C0751942	Peripheral motor neuropathy	C0235025	
 Punctate palmoplantar keratoderma	C1274216	Palmoplantar Keratosis	C0022596	
@@ -1794,7 +1794,7 @@ Acrofrontofacionasal dysostosis syndrome	C1860118	Dysostoses	C0013393
 Galactosemias	C0016952	Carbohydrate Metabolism, Inborn Errors	C0007001	
 Hereditary fructose intolerance syndrome	C0016751	Carbohydrate Metabolism, Inborn Errors	C0007001	
 Congenital Disorders of Glycosylation	C0282577	Carbohydrate Metabolism, Inborn Errors	C0007001	
-Fructose-1	6-Diphosphatase Deficiency	C0016756	Carbohydrate Metabolism, Inborn Errors	C0007001
+Fructose-1,6-Diphosphatase Deficiency	C0016756	Carbohydrate Metabolism, Inborn Errors	C0007001
 Glucose Metabolism Disorders	C1257958	Carbohydrate Metabolism, Inborn Errors	C0007001	
 Pyruvate Carboxylase Deficiency Disease	C0034341	Carbohydrate Metabolism, Inborn Errors	C0007001	
 Pyruvate Dehydrogenase Complex Deficiency Disease	C0034345	Carbohydrate Metabolism, Inborn Errors	C0007001	
@@ -2048,7 +2048,7 @@ Xanthinuria, Type II	C1863688	Xanthinuria (disorder)	C0220988
 Xanthinuria, Type I	C0268118	Xanthinuria (disorder)	C0220988	
 Lesch-Nyhan Syndrome	C0023374	Other disorders of purine and pyrimidine metabolism	C0029595	
 Dihydropyrimidinuria	C3495551	Other disorders of purine and pyrimidine metabolism	C0029595	
-2	8-Dihydroxyadenine Urolithiasis	C3665382	Other disorders of purine and pyrimidine metabolism	C0029595
+2,8-Dihydroxyadenine Urolithiasis	C3665382	Other disorders of purine and pyrimidine metabolism	C0029595
 Xanthinuria (disorder)	C0220988	Other disorders of purine and pyrimidine metabolism	C0029595	
 Acanthosis Nigricans	C0000889	Other dyschromia	C0375489	
 Neonatal Jaundice	C0022353	Other dyschromia	C0375489	
