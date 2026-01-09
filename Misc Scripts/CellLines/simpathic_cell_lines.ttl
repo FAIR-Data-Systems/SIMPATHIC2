@@ -1,0 +1,1520 @@
+@prefix sio: <http://semanticscience.org/resource/> .
+@prefix mondo: <http://purl.obolibrary.org/obo/MONDO_> .
+@prefix orpha: <http://www.orpha.net/ORDO/Orphanet_> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix local: <urn:local:simpathic:celllinemodel:> .
+@prefix simpathicmetadata: <https://fdp.simpathic.eu/dataset/> .
+
+
+local:CellLine_a827e370-5f13-4bc6-bc42-fe0a62a93f6e a sio:SIO_010054 ;
+  rdfs:label "Leigh Syndrome cell line (S1 / C1_Mut1)" ;
+  sio:SIO_000671 local:LocalID_529f0f9c-b05e-48b2-aacf-1248edd6672d ;
+  sio:SIO_000232 local:DerivationProcess_f8254360-5e3c-45fc-ab81-717effb1d7a4 ;
+  sio:SIO_000210 local:DiseaseRef_ce029cfe-a38f-4cac-a006-8fbb1e6fec68 .
+
+local:DiseaseRef_ce029cfe-a38f-4cac-a006-8fbb1e6fec68 a mondo:0009723 ;
+  rdfs:label "Leigh Syndrome" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_ce029cfe-a38f-4cac-a006-8fbb1e6fec68 a orpha:506 .
+
+local:LocalID_529f0f9c-b05e-48b2-aacf-1248edd6672d a sio:SIO_000114 ;
+  sio:SIO_000300 "S1 / C1_Mut1"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_a827e370-5f13-4bc6-bc42-fe0a62a93f6e .
+
+<https://hpscreg.eu/cell-line/HMGUi001-A-63> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for HMGUi001-A-63" ;
+  sio:SIO_000628 local:CellLine_a827e370-5f13-4bc6-bc42-fe0a62a93f6e ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_f8254360-5e3c-45fc-ab81-717effb1d7a4 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for a827e370-5f13-4bc6-bc42-fe0a62a93f6e" ;
+  sio:SIO_000230 local:Patient_56720d5f-bd01-4aa9-8afe-0a6423ad841c ;
+  sio:SIO_000229 local:CellLine_a827e370-5f13-4bc6-bc42-fe0a62a93f6e .
+
+local:Patient_56720d5f-bd01-4aa9-8afe-0a6423ad841c a sio:SIO_010006 ;
+  rdfs:label "Source patient for a827e370-5f13-4bc6-bc42-fe0a62a93f6e" ;
+  sio:SIO_000008 local:DiseaseAttribute_9e4ce7f7-61bd-4dd4-b175-6ac2e15945bc .
+
+local:DiseaseAttribute_9e4ce7f7-61bd-4dd4-b175-6ac2e15945bc a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_ce029cfe-a38f-4cac-a006-8fbb1e6fec68 .
+
+
+
+local:CellLine_e5f74704-5c55-4f87-b60e-ad6a59a2791d a sio:SIO_010054 ;
+  rdfs:label "LS isogenic cell line (iPS25-00036)" ;
+  sio:SIO_000671 local:LocalID_50593f4a-9c20-4af0-9461-785ea6a8132e ;
+  sio:SIO_000232 local:DerivationProcess_cc47f66b-d1ec-4681-b2bb-948eb7d523d6 ;
+  sio:SIO_000210 local:DiseaseRef_5262600a-6d3a-4834-815c-21d4dbc4aa04 .
+
+local:DiseaseRef_5262600a-6d3a-4834-815c-21d4dbc4aa04 a mondo:0009723 ;
+  rdfs:label "LS isogenic" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_5262600a-6d3a-4834-815c-21d4dbc4aa04 a orpha:506 .
+
+local:LocalID_50593f4a-9c20-4af0-9461-785ea6a8132e a sio:SIO_000114 ;
+  sio:SIO_000300 "iPS25-00036"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_e5f74704-5c55-4f87-b60e-ad6a59a2791d .
+
+<https://hpscreg.eu/cell-line/MDCi252-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for MDCi252-A" ;
+  sio:SIO_000628 local:CellLine_e5f74704-5c55-4f87-b60e-ad6a59a2791d ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_cc47f66b-d1ec-4681-b2bb-948eb7d523d6 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for e5f74704-5c55-4f87-b60e-ad6a59a2791d" ;
+  sio:SIO_000230 local:Patient_aac5ffd5-70ce-468c-a8ce-7ca0d57f7048 ;
+  sio:SIO_000229 local:CellLine_e5f74704-5c55-4f87-b60e-ad6a59a2791d .
+
+local:Patient_aac5ffd5-70ce-468c-a8ce-7ca0d57f7048 a sio:SIO_010006 ;
+  rdfs:label "Source patient for e5f74704-5c55-4f87-b60e-ad6a59a2791d" ;
+  sio:SIO_000008 local:DiseaseAttribute_18a012e3-2525-499e-ab62-6f788508707e .
+
+local:DiseaseAttribute_18a012e3-2525-499e-ab62-6f788508707e a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_5262600a-6d3a-4834-815c-21d4dbc4aa04 .
+
+
+
+local:CellLine_85a92b06-e651-41e1-a11c-b810031718ce a sio:SIO_010054 ;
+  rdfs:label "MT-ATP6 cell line (A2)" ;
+  sio:SIO_000671 local:LocalID_d1d0063d-db87-4309-84dc-b01a23323f4f ;
+  sio:SIO_000232 local:DerivationProcess_f3c2dfb7-0e84-41bd-b85e-565fc0836522 ;
+  sio:SIO_000210 local:DiseaseRef_e63d41c4-9fec-48a7-a1a6-7b7fca3fa6ad .
+
+local:DiseaseRef_e63d41c4-9fec-48a7-a1a6-7b7fca3fa6ad a mondo:0009723 ;
+  rdfs:label "MT-ATP6" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_e63d41c4-9fec-48a7-a1a6-7b7fca3fa6ad a orpha:506 .
+
+local:LocalID_d1d0063d-db87-4309-84dc-b01a23323f4f a sio:SIO_000114 ;
+  sio:SIO_000300 "A2"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_85a92b06-e651-41e1-a11c-b810031718ce .
+
+<https://hpscreg.eu/cell-line/HHUi001-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for HHUi001-A" ;
+  sio:SIO_000628 local:CellLine_85a92b06-e651-41e1-a11c-b810031718ce ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_f3c2dfb7-0e84-41bd-b85e-565fc0836522 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 85a92b06-e651-41e1-a11c-b810031718ce" ;
+  sio:SIO_000230 local:Patient_2fcd89ea-ca6a-410a-8277-bb4d8c4257bd ;
+  sio:SIO_000229 local:CellLine_85a92b06-e651-41e1-a11c-b810031718ce .
+
+local:Patient_2fcd89ea-ca6a-410a-8277-bb4d8c4257bd a sio:SIO_010006 ;
+  rdfs:label "Source patient for 85a92b06-e651-41e1-a11c-b810031718ce" ;
+  sio:SIO_000008 local:DiseaseAttribute_015958cc-d139-4a6f-8054-3e576d0033c5 .
+
+local:DiseaseAttribute_015958cc-d139-4a6f-8054-3e576d0033c5 a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_e63d41c4-9fec-48a7-a1a6-7b7fca3fa6ad .
+
+
+
+local:CellLine_2ec361c2-177b-4ae3-88dd-aadd7b4f5758 a sio:SIO_010054 ;
+  rdfs:label "MT-ATP6 cell line (A3)" ;
+  sio:SIO_000671 local:LocalID_71538143-a8d6-4c0e-bbc9-5a5c9078e05b ;
+  sio:SIO_000232 local:DerivationProcess_5e8ed1e4-eb39-4223-8e0e-3c4d75e3bb96 ;
+  sio:SIO_000210 local:DiseaseRef_7197b827-aa77-474a-b5e2-f1dce8e1a23e .
+
+local:DiseaseRef_7197b827-aa77-474a-b5e2-f1dce8e1a23e a mondo:0009723 ;
+  rdfs:label "MT-ATP6" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_7197b827-aa77-474a-b5e2-f1dce8e1a23e a orpha:506 .
+
+local:LocalID_71538143-a8d6-4c0e-bbc9-5a5c9078e05b a sio:SIO_000114 ;
+  sio:SIO_000300 "A3"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_2ec361c2-177b-4ae3-88dd-aadd7b4f5758 .
+
+<https://hpscreg.eu/cell-line/HHUi002-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for HHUi002-A" ;
+  sio:SIO_000628 local:CellLine_2ec361c2-177b-4ae3-88dd-aadd7b4f5758 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_5e8ed1e4-eb39-4223-8e0e-3c4d75e3bb96 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 2ec361c2-177b-4ae3-88dd-aadd7b4f5758" ;
+  sio:SIO_000230 local:Patient_d93ae48f-df99-4321-8935-e026e7c5c7f9 ;
+  sio:SIO_000229 local:CellLine_2ec361c2-177b-4ae3-88dd-aadd7b4f5758 .
+
+local:Patient_d93ae48f-df99-4321-8935-e026e7c5c7f9 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 2ec361c2-177b-4ae3-88dd-aadd7b4f5758" ;
+  sio:SIO_000008 local:DiseaseAttribute_d6ba58d7-d88c-4445-8615-0bee8bff7b49 .
+
+local:DiseaseAttribute_d6ba58d7-d88c-4445-8615-0bee8bff7b49 a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_7197b827-aa77-474a-b5e2-f1dce8e1a23e .
+
+
+
+local:CellLine_773b4545-daf5-4785-83c8-730968f96323 a sio:SIO_010054 ;
+  rdfs:label "MT-ATP6 cell line (8993-A12)" ;
+  sio:SIO_000671 local:LocalID_69ba6951-631b-4ed2-b390-050b7b5fbe8c ;
+  sio:SIO_000232 local:DerivationProcess_7786636a-3680-400a-a0dc-45cf7483b47e ;
+  sio:SIO_000210 local:DiseaseRef_b85d4f3c-5685-43f5-a096-2474a09d1979 .
+
+local:DiseaseRef_b85d4f3c-5685-43f5-a096-2474a09d1979 a mondo:0009723 ;
+  rdfs:label "MT-ATP6" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_b85d4f3c-5685-43f5-a096-2474a09d1979 a orpha:506 .
+
+local:LocalID_69ba6951-631b-4ed2-b390-050b7b5fbe8c a sio:SIO_000114 ;
+  sio:SIO_000300 "8993-A12"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_773b4545-daf5-4785-83c8-730968f96323 .
+
+<https://hpscreg.eu/cell-line/MDCi007-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for MDCi007-A" ;
+  sio:SIO_000628 local:CellLine_773b4545-daf5-4785-83c8-730968f96323 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_7786636a-3680-400a-a0dc-45cf7483b47e a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 773b4545-daf5-4785-83c8-730968f96323" ;
+  sio:SIO_000230 local:Patient_f7790f8a-1525-4893-ae6d-fd7382422095 ;
+  sio:SIO_000229 local:CellLine_773b4545-daf5-4785-83c8-730968f96323 .
+
+local:Patient_f7790f8a-1525-4893-ae6d-fd7382422095 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 773b4545-daf5-4785-83c8-730968f96323" ;
+  sio:SIO_000008 local:DiseaseAttribute_89e52432-5e53-41ad-b126-007013220750 .
+
+local:DiseaseAttribute_89e52432-5e53-41ad-b126-007013220750 a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_b85d4f3c-5685-43f5-a096-2474a09d1979 .
+
+
+
+local:CellLine_e1d7c5f8-ad38-48cb-a578-3457f93a57f1 a sio:SIO_010054 ;
+  rdfs:label "MT-ATP6 cell line (8993-B12)" ;
+  sio:SIO_000671 local:LocalID_f0b6daec-144c-41e8-b83e-999f1424e8f0 ;
+  sio:SIO_000232 local:DerivationProcess_5584252f-8096-420d-bec7-d588c07c8f2b ;
+  sio:SIO_000210 local:DiseaseRef_ed9656e2-f2fd-4247-bcda-205975310a2c .
+
+local:DiseaseRef_ed9656e2-f2fd-4247-bcda-205975310a2c a mondo:0009723 ;
+  rdfs:label "MT-ATP6" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_ed9656e2-f2fd-4247-bcda-205975310a2c a orpha:506 .
+
+local:LocalID_f0b6daec-144c-41e8-b83e-999f1424e8f0 a sio:SIO_000114 ;
+  sio:SIO_000300 "8993-B12"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_e1d7c5f8-ad38-48cb-a578-3457f93a57f1 .
+
+<https://hpscreg.eu/cell-line/MDCi008-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for MDCi008-A" ;
+  sio:SIO_000628 local:CellLine_e1d7c5f8-ad38-48cb-a578-3457f93a57f1 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_5584252f-8096-420d-bec7-d588c07c8f2b a sio:SIO_000006 ;
+  rdfs:label "Derivation process for e1d7c5f8-ad38-48cb-a578-3457f93a57f1" ;
+  sio:SIO_000230 local:Patient_8b45d9e7-bd25-4cf9-a8d4-b0769bcdd793 ;
+  sio:SIO_000229 local:CellLine_e1d7c5f8-ad38-48cb-a578-3457f93a57f1 .
+
+local:Patient_8b45d9e7-bd25-4cf9-a8d4-b0769bcdd793 a sio:SIO_010006 ;
+  rdfs:label "Source patient for e1d7c5f8-ad38-48cb-a578-3457f93a57f1" ;
+  sio:SIO_000008 local:DiseaseAttribute_b6b59c07-0c5a-43aa-8682-5cf0ea78ddc3 .
+
+local:DiseaseAttribute_b6b59c07-0c5a-43aa-8682-5cf0ea78ddc3 a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_ed9656e2-f2fd-4247-bcda-205975310a2c .
+
+
+
+local:CellLine_cfc5bb4b-893d-4dc5-a5f4-a10c8a8589c7 a sio:SIO_010054 ;
+  rdfs:label "MT-ATP6 cell line (8993-C11)" ;
+  sio:SIO_000671 local:LocalID_d84271bc-dccc-4274-a79d-0216cb412b0c ;
+  sio:SIO_000232 local:DerivationProcess_5e5924eb-b86a-4458-aafe-3b79420b4743 ;
+  sio:SIO_000210 local:DiseaseRef_895e8e19-883b-40ab-9a19-998fdc4ac1e6 .
+
+local:DiseaseRef_895e8e19-883b-40ab-9a19-998fdc4ac1e6 a mondo:0009723 ;
+  rdfs:label "MT-ATP6" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_895e8e19-883b-40ab-9a19-998fdc4ac1e6 a orpha:506 .
+
+local:LocalID_d84271bc-dccc-4274-a79d-0216cb412b0c a sio:SIO_000114 ;
+  sio:SIO_000300 "8993-C11"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_cfc5bb4b-893d-4dc5-a5f4-a10c8a8589c7 .
+
+<https://hpscreg.eu/cell-line/MDCi009-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for MDCi009-A" ;
+  sio:SIO_000628 local:CellLine_cfc5bb4b-893d-4dc5-a5f4-a10c8a8589c7 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_5e5924eb-b86a-4458-aafe-3b79420b4743 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for cfc5bb4b-893d-4dc5-a5f4-a10c8a8589c7" ;
+  sio:SIO_000230 local:Patient_5aeec3d1-de32-4dc8-8ac6-a7b85b37026c ;
+  sio:SIO_000229 local:CellLine_cfc5bb4b-893d-4dc5-a5f4-a10c8a8589c7 .
+
+local:Patient_5aeec3d1-de32-4dc8-8ac6-a7b85b37026c a sio:SIO_010006 ;
+  rdfs:label "Source patient for cfc5bb4b-893d-4dc5-a5f4-a10c8a8589c7" ;
+  sio:SIO_000008 local:DiseaseAttribute_0aaaa435-c2f2-40b1-8022-3ceb8adb60cb .
+
+local:DiseaseAttribute_0aaaa435-c2f2-40b1-8022-3ceb8adb60cb a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_895e8e19-883b-40ab-9a19-998fdc4ac1e6 .
+
+
+
+local:CellLine_6d33c0f7-ce62-45a3-acae-42a083dff561 a sio:SIO_010054 ;
+  rdfs:label "MT-ATP6 cell line (8993-D7)" ;
+  sio:SIO_000671 local:LocalID_d488f671-e39d-4ebd-87e8-f97755e5926f ;
+  sio:SIO_000232 local:DerivationProcess_fb9657a4-feb7-47cc-9403-4560df2c9bcf ;
+  sio:SIO_000210 local:DiseaseRef_105988b4-4ced-40b2-b1b8-899db148f0e0 .
+
+local:DiseaseRef_105988b4-4ced-40b2-b1b8-899db148f0e0 a mondo:0009723 ;
+  rdfs:label "MT-ATP6" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_105988b4-4ced-40b2-b1b8-899db148f0e0 a orpha:506 .
+
+local:LocalID_d488f671-e39d-4ebd-87e8-f97755e5926f a sio:SIO_000114 ;
+  sio:SIO_000300 "8993-D7"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_6d33c0f7-ce62-45a3-acae-42a083dff561 .
+
+<https://hpscreg.eu/cell-line/MDCi010-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for MDCi010-A" ;
+  sio:SIO_000628 local:CellLine_6d33c0f7-ce62-45a3-acae-42a083dff561 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_fb9657a4-feb7-47cc-9403-4560df2c9bcf a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 6d33c0f7-ce62-45a3-acae-42a083dff561" ;
+  sio:SIO_000230 local:Patient_ca91c142-e05a-4e80-8fe2-35c780d2b58a ;
+  sio:SIO_000229 local:CellLine_6d33c0f7-ce62-45a3-acae-42a083dff561 .
+
+local:Patient_ca91c142-e05a-4e80-8fe2-35c780d2b58a a sio:SIO_010006 ;
+  rdfs:label "Source patient for 6d33c0f7-ce62-45a3-acae-42a083dff561" ;
+  sio:SIO_000008 local:DiseaseAttribute_95543c54-c675-48f3-bec4-c1384fc3a175 .
+
+local:DiseaseAttribute_95543c54-c675-48f3-bec4-c1384fc3a175 a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_105988b4-4ced-40b2-b1b8-899db148f0e0 .
+
+
+
+local:CellLine_2fba76ea-758f-4885-95bb-a5fc5a29f45a a sio:SIO_010054 ;
+  rdfs:label "MT-ATP6 cell line (BIHi276-A)" ;
+  sio:SIO_000671 local:LocalID_6957cb8e-2b38-4b08-b92a-db54a502a987 ;
+  sio:SIO_000232 local:DerivationProcess_766cd19e-1af8-4d40-aada-4d9a310f35af ;
+  sio:SIO_000210 local:DiseaseRef_d572574c-93e7-4380-9c32-daf7739d991a .
+
+local:DiseaseRef_d572574c-93e7-4380-9c32-daf7739d991a a mondo:0009723 ;
+  rdfs:label "MT-ATP6" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_d572574c-93e7-4380-9c32-daf7739d991a a orpha:506 .
+
+local:LocalID_6957cb8e-2b38-4b08-b92a-db54a502a987 a sio:SIO_000114 ;
+  sio:SIO_000300 "BIHi276-A"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_2fba76ea-758f-4885-95bb-a5fc5a29f45a .
+
+<https://hpscreg.eu/cell-line/BIHi276-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for BIHi276-A" ;
+  sio:SIO_000628 local:CellLine_2fba76ea-758f-4885-95bb-a5fc5a29f45a ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_766cd19e-1af8-4d40-aada-4d9a310f35af a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 2fba76ea-758f-4885-95bb-a5fc5a29f45a" ;
+  sio:SIO_000230 local:Patient_2811dd22-7ea0-4f92-8624-10a59d25137e ;
+  sio:SIO_000229 local:CellLine_2fba76ea-758f-4885-95bb-a5fc5a29f45a .
+
+local:Patient_2811dd22-7ea0-4f92-8624-10a59d25137e a sio:SIO_010006 ;
+  rdfs:label "Source patient for 2fba76ea-758f-4885-95bb-a5fc5a29f45a" ;
+  sio:SIO_000008 local:DiseaseAttribute_0317d8d8-cdcf-43ca-99ca-0c1656de086d .
+
+local:DiseaseAttribute_0317d8d8-cdcf-43ca-99ca-0c1656de086d a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_d572574c-93e7-4380-9c32-daf7739d991a .
+
+
+
+local:CellLine_5aeeff41-dac5-4d20-924b-15504a442ff6 a sio:SIO_010054 ;
+  rdfs:label "MT-ATP6 cell line (BIHi267-B)" ;
+  sio:SIO_000671 local:LocalID_ef24723c-8c67-41c3-aaf6-fe3176f63b11 ;
+  sio:SIO_000232 local:DerivationProcess_b899f514-dd6b-4adf-92dc-22acf27d6b59 ;
+  sio:SIO_000210 local:DiseaseRef_93202e56-7f44-4779-9cf0-c79f834bae27 .
+
+local:DiseaseRef_93202e56-7f44-4779-9cf0-c79f834bae27 a mondo:0009723 ;
+  rdfs:label "MT-ATP6" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_93202e56-7f44-4779-9cf0-c79f834bae27 a orpha:506 .
+
+local:LocalID_ef24723c-8c67-41c3-aaf6-fe3176f63b11 a sio:SIO_000114 ;
+  sio:SIO_000300 "BIHi267-B"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_5aeeff41-dac5-4d20-924b-15504a442ff6 .
+
+<https://hpscreg.eu/cell-line/BIHi267-B> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for BIHi267-B" ;
+  sio:SIO_000628 local:CellLine_5aeeff41-dac5-4d20-924b-15504a442ff6 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_b899f514-dd6b-4adf-92dc-22acf27d6b59 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 5aeeff41-dac5-4d20-924b-15504a442ff6" ;
+  sio:SIO_000230 local:Patient_d3219af3-c6a9-45e9-86e4-94f24bc19d65 ;
+  sio:SIO_000229 local:CellLine_5aeeff41-dac5-4d20-924b-15504a442ff6 .
+
+local:Patient_d3219af3-c6a9-45e9-86e4-94f24bc19d65 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 5aeeff41-dac5-4d20-924b-15504a442ff6" ;
+  sio:SIO_000008 local:DiseaseAttribute_99d91ce2-b104-4eb0-8d12-620735e00ea8 .
+
+local:DiseaseAttribute_99d91ce2-b104-4eb0-8d12-620735e00ea8 a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_93202e56-7f44-4779-9cf0-c79f834bae27 .
+
+
+
+local:CellLine_5e9d888f-868a-423e-91da-1a0a14da0c6c a sio:SIO_010054 ;
+  rdfs:label "MT-ATP6 cell line (A4)" ;
+  sio:SIO_000671 local:LocalID_ec6ecd51-ff0e-4a1a-b884-dd4c571504e0 ;
+  sio:SIO_000232 local:DerivationProcess_fb7c33dd-fac3-43f6-9524-9209aa7c5f38 ;
+  sio:SIO_000210 local:DiseaseRef_b34f4c55-2b37-4f28-b34f-52dbb99aa91b .
+
+local:DiseaseRef_b34f4c55-2b37-4f28-b34f-52dbb99aa91b a mondo:0009723 ;
+  rdfs:label "MT-ATP6" ;
+  rdfs:label "Leigh syndrome" .
+
+local:DiseaseRef_b34f4c55-2b37-4f28-b34f-52dbb99aa91b a orpha:506 .
+
+local:LocalID_ec6ecd51-ff0e-4a1a-b884-dd4c571504e0 a sio:SIO_000114 ;
+  sio:SIO_000300 "A4"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_5e9d888f-868a-423e-91da-1a0a14da0c6c .
+
+<https://hpscreg.eu/cell-line/HHUi003-B> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for HHUi003-B" ;
+  sio:SIO_000628 local:CellLine_5e9d888f-868a-423e-91da-1a0a14da0c6c ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_fb7c33dd-fac3-43f6-9524-9209aa7c5f38 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 5e9d888f-868a-423e-91da-1a0a14da0c6c" ;
+  sio:SIO_000230 local:Patient_5bc98656-388d-44e3-a404-242c02ea44ff ;
+  sio:SIO_000229 local:CellLine_5e9d888f-868a-423e-91da-1a0a14da0c6c .
+
+local:Patient_5bc98656-388d-44e3-a404-242c02ea44ff a sio:SIO_010006 ;
+  rdfs:label "Source patient for 5e9d888f-868a-423e-91da-1a0a14da0c6c" ;
+  sio:SIO_000008 local:DiseaseAttribute_ce1590ce-6d26-47a0-b171-37a82459b304 .
+
+local:DiseaseAttribute_ce1590ce-6d26-47a0-b171-37a82459b304 a sio:SIO_010299 ;
+  rdfs:label "Leigh syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_b34f4c55-2b37-4f28-b34f-52dbb99aa91b .
+
+
+
+local:CellLine_21430c09-d54a-4b7e-8d9b-998289f29d09 a sio:SIO_010054 ;
+  rdfs:label "ZSD cell line (hvs-520a)" ;
+  sio:SIO_000671 local:LocalID_3c405f81-2b46-4677-b56c-2dcc6a19230d ;
+  sio:SIO_000232 local:DerivationProcess_98bc62cd-611c-4ed6-8876-0aaef01c92f6 ;
+  sio:SIO_000210 local:DiseaseRef_95961f89-3145-4bbb-9968-12bd5107b6d5 .
+
+local:DiseaseRef_95961f89-3145-4bbb-9968-12bd5107b6d5 a mondo:0019234 ;
+  rdfs:label "ZSD" ;
+  rdfs:label "peroxisome biogenesis disorder" .
+
+local:DiseaseRef_95961f89-3145-4bbb-9968-12bd5107b6d5 a orpha:79189 .
+
+local:LocalID_3c405f81-2b46-4677-b56c-2dcc6a19230d a sio:SIO_000114 ;
+  sio:SIO_000300 "hvs-520a"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_21430c09-d54a-4b7e-8d9b-998289f29d09 .
+
+<https://hpscreg.eu/cell-line/VUi056-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for VUi056-A" ;
+  sio:SIO_000628 local:CellLine_21430c09-d54a-4b7e-8d9b-998289f29d09 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_98bc62cd-611c-4ed6-8876-0aaef01c92f6 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 21430c09-d54a-4b7e-8d9b-998289f29d09" ;
+  sio:SIO_000230 local:Patient_4cea741c-a431-4aab-8cf6-d79897c8b680 ;
+  sio:SIO_000229 local:CellLine_21430c09-d54a-4b7e-8d9b-998289f29d09 .
+
+local:Patient_4cea741c-a431-4aab-8cf6-d79897c8b680 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 21430c09-d54a-4b7e-8d9b-998289f29d09" ;
+  sio:SIO_000008 local:DiseaseAttribute_f4c05784-5a28-45a7-9d27-bb5a01cf2d24 .
+
+local:DiseaseAttribute_f4c05784-5a28-45a7-9d27-bb5a01cf2d24 a sio:SIO_010299 ;
+  rdfs:label "peroxisome biogenesis disorder" ;
+  sio:SIO_000628 local:DiseaseRef_95961f89-3145-4bbb-9968-12bd5107b6d5 .
+
+
+
+local:CellLine_f0ea1700-510c-449b-a1e3-e804460ac57d a sio:SIO_010054 ;
+  rdfs:label "ZSD cell line (hvs-521a)" ;
+  sio:SIO_000671 local:LocalID_d81e5397-2eac-40cd-9be7-2aa940d72ede ;
+  sio:SIO_000232 local:DerivationProcess_3e3f98d4-f0c3-4c4c-80d1-ee2750d6a1f3 ;
+  sio:SIO_000210 local:DiseaseRef_7a75b6a3-7270-4229-8396-a889077b0936 .
+
+local:DiseaseRef_7a75b6a3-7270-4229-8396-a889077b0936 a mondo:0019234 ;
+  rdfs:label "ZSD" ;
+  rdfs:label "peroxisome biogenesis disorder" .
+
+local:DiseaseRef_7a75b6a3-7270-4229-8396-a889077b0936 a orpha:79189 .
+
+local:LocalID_d81e5397-2eac-40cd-9be7-2aa940d72ede a sio:SIO_000114 ;
+  sio:SIO_000300 "hvs-521a"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_f0ea1700-510c-449b-a1e3-e804460ac57d .
+
+<https://hpscreg.eu/cell-line/VUi058-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for VUi058-A" ;
+  sio:SIO_000628 local:CellLine_f0ea1700-510c-449b-a1e3-e804460ac57d ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_3e3f98d4-f0c3-4c4c-80d1-ee2750d6a1f3 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for f0ea1700-510c-449b-a1e3-e804460ac57d" ;
+  sio:SIO_000230 local:Patient_f2e4ae3d-60cd-46b5-96aa-638d4b0faf6c ;
+  sio:SIO_000229 local:CellLine_f0ea1700-510c-449b-a1e3-e804460ac57d .
+
+local:Patient_f2e4ae3d-60cd-46b5-96aa-638d4b0faf6c a sio:SIO_010006 ;
+  rdfs:label "Source patient for f0ea1700-510c-449b-a1e3-e804460ac57d" ;
+  sio:SIO_000008 local:DiseaseAttribute_ecf7282b-aae4-4f50-a61b-4e5252717f71 .
+
+local:DiseaseAttribute_ecf7282b-aae4-4f50-a61b-4e5252717f71 a sio:SIO_010299 ;
+  rdfs:label "peroxisome biogenesis disorder" ;
+  sio:SIO_000628 local:DiseaseRef_7a75b6a3-7270-4229-8396-a889077b0936 .
+
+
+
+local:CellLine_c0e5b748-9b2f-4c5e-8cf2-ec1693d9c648 a sio:SIO_010054 ;
+  rdfs:label "ZSD cell line (hvs-522a)" ;
+  sio:SIO_000671 local:LocalID_c21a5d7b-3f67-4b1b-b2c6-11fa1080ad6d ;
+  sio:SIO_000232 local:DerivationProcess_04fdf7c9-5b42-4240-98e3-985e0865614e ;
+  sio:SIO_000210 local:DiseaseRef_e9327c22-fa81-4223-b002-ac168fbfee1e .
+
+local:DiseaseRef_e9327c22-fa81-4223-b002-ac168fbfee1e a mondo:0019234 ;
+  rdfs:label "ZSD" ;
+  rdfs:label "peroxisome biogenesis disorder" .
+
+local:DiseaseRef_e9327c22-fa81-4223-b002-ac168fbfee1e a orpha:79189 .
+
+local:LocalID_c21a5d7b-3f67-4b1b-b2c6-11fa1080ad6d a sio:SIO_000114 ;
+  sio:SIO_000300 "hvs-522a"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_c0e5b748-9b2f-4c5e-8cf2-ec1693d9c648 .
+
+<https://hpscreg.eu/cell-line/VUi059-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for VUi059-A" ;
+  sio:SIO_000628 local:CellLine_c0e5b748-9b2f-4c5e-8cf2-ec1693d9c648 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_04fdf7c9-5b42-4240-98e3-985e0865614e a sio:SIO_000006 ;
+  rdfs:label "Derivation process for c0e5b748-9b2f-4c5e-8cf2-ec1693d9c648" ;
+  sio:SIO_000230 local:Patient_ef5600b2-b74e-440b-8d68-6f376c13feca ;
+  sio:SIO_000229 local:CellLine_c0e5b748-9b2f-4c5e-8cf2-ec1693d9c648 .
+
+local:Patient_ef5600b2-b74e-440b-8d68-6f376c13feca a sio:SIO_010006 ;
+  rdfs:label "Source patient for c0e5b748-9b2f-4c5e-8cf2-ec1693d9c648" ;
+  sio:SIO_000008 local:DiseaseAttribute_7aa1dc9f-6737-4b59-9fe0-d102b70dd068 .
+
+local:DiseaseAttribute_7aa1dc9f-6737-4b59-9fe0-d102b70dd068 a sio:SIO_010299 ;
+  rdfs:label "peroxisome biogenesis disorder" ;
+  sio:SIO_000628 local:DiseaseRef_e9327c22-fa81-4223-b002-ac168fbfee1e .
+
+
+
+local:CellLine_2528fa41-d662-411a-aca6-10dbae880ad3 a sio:SIO_010054 ;
+  rdfs:label "ZSD cell line (hvs-523a)" ;
+  sio:SIO_000671 local:LocalID_0f0e5f66-e5b2-4436-939e-0728fa1d32e5 ;
+  sio:SIO_000232 local:DerivationProcess_6e37899e-ef00-400c-b5c1-a841c5f2b19d ;
+  sio:SIO_000210 local:DiseaseRef_b437169a-87a8-4441-9a6a-986f2e6fd519 .
+
+local:DiseaseRef_b437169a-87a8-4441-9a6a-986f2e6fd519 a mondo:0019234 ;
+  rdfs:label "ZSD" ;
+  rdfs:label "peroxisome biogenesis disorder" .
+
+local:DiseaseRef_b437169a-87a8-4441-9a6a-986f2e6fd519 a orpha:79189 .
+
+local:LocalID_0f0e5f66-e5b2-4436-939e-0728fa1d32e5 a sio:SIO_000114 ;
+  sio:SIO_000300 "hvs-523a"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_2528fa41-d662-411a-aca6-10dbae880ad3 .
+
+<https://hpscreg.eu/cell-line/VUi060-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for VUi060-A" ;
+  sio:SIO_000628 local:CellLine_2528fa41-d662-411a-aca6-10dbae880ad3 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_6e37899e-ef00-400c-b5c1-a841c5f2b19d a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 2528fa41-d662-411a-aca6-10dbae880ad3" ;
+  sio:SIO_000230 local:Patient_0dfbb89b-24be-4bfc-930e-42da33ad49bf ;
+  sio:SIO_000229 local:CellLine_2528fa41-d662-411a-aca6-10dbae880ad3 .
+
+local:Patient_0dfbb89b-24be-4bfc-930e-42da33ad49bf a sio:SIO_010006 ;
+  rdfs:label "Source patient for 2528fa41-d662-411a-aca6-10dbae880ad3" ;
+  sio:SIO_000008 local:DiseaseAttribute_65faa936-d293-4842-9087-a8e4144fd5a6 .
+
+local:DiseaseAttribute_65faa936-d293-4842-9087-a8e4144fd5a6 a sio:SIO_010299 ;
+  rdfs:label "peroxisome biogenesis disorder" ;
+  sio:SIO_000628 local:DiseaseRef_b437169a-87a8-4441-9a6a-986f2e6fd519 .
+
+
+
+local:CellLine_8650810b-0b25-40f8-b5c2-ce1473cb1d30 a sio:SIO_010054 ;
+  rdfs:label "ZSD cell line (hvs-524b)" ;
+  sio:SIO_000671 local:LocalID_f5b61d96-db75-4960-afcf-9ea67a65f1aa ;
+  sio:SIO_000232 local:DerivationProcess_18008f5c-f126-4fcc-8c4b-c15ce8075d9f ;
+  sio:SIO_000210 local:DiseaseRef_41384c41-a0a8-4425-bfa9-69c034b95546 .
+
+local:DiseaseRef_41384c41-a0a8-4425-bfa9-69c034b95546 a mondo:0019234 ;
+  rdfs:label "ZSD" ;
+  rdfs:label "peroxisome biogenesis disorder" .
+
+local:DiseaseRef_41384c41-a0a8-4425-bfa9-69c034b95546 a orpha:79189 .
+
+local:LocalID_f5b61d96-db75-4960-afcf-9ea67a65f1aa a sio:SIO_000114 ;
+  sio:SIO_000300 "hvs-524b"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_8650810b-0b25-40f8-b5c2-ce1473cb1d30 .
+
+<https://hpscreg.eu/cell-line/VUi061-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for VUi061-A" ;
+  sio:SIO_000628 local:CellLine_8650810b-0b25-40f8-b5c2-ce1473cb1d30 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_18008f5c-f126-4fcc-8c4b-c15ce8075d9f a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 8650810b-0b25-40f8-b5c2-ce1473cb1d30" ;
+  sio:SIO_000230 local:Patient_ebcf9c8d-70fc-42d5-8ac4-50fc82336e57 ;
+  sio:SIO_000229 local:CellLine_8650810b-0b25-40f8-b5c2-ce1473cb1d30 .
+
+local:Patient_ebcf9c8d-70fc-42d5-8ac4-50fc82336e57 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 8650810b-0b25-40f8-b5c2-ce1473cb1d30" ;
+  sio:SIO_000008 local:DiseaseAttribute_9cb50cef-d6ad-499f-b70b-aad25b658f49 .
+
+local:DiseaseAttribute_9cb50cef-d6ad-499f-b70b-aad25b658f49 a sio:SIO_010299 ;
+  rdfs:label "peroxisome biogenesis disorder" ;
+  sio:SIO_000628 local:DiseaseRef_41384c41-a0a8-4425-bfa9-69c034b95546 .
+
+
+
+local:CellLine_13131645-f644-4227-8ea6-e3c2b4b01f56 a sio:SIO_010054 ;
+  rdfs:label "SSADHD cell line (SSADH 1V2)" ;
+  sio:SIO_000671 local:LocalID_9f41f67d-6153-4fdb-bf03-e21a0d2a7bdb ;
+  sio:SIO_000232 local:DerivationProcess_fa852883-5bc2-4144-98a7-ad5cb4addcd2 ;
+  sio:SIO_000210 local:DiseaseRef_7361ce33-5798-40ea-9499-62f8ffb10bfd .
+
+local:DiseaseRef_7361ce33-5798-40ea-9499-62f8ffb10bfd a mondo:0010083 ;
+  rdfs:label "SSADHD" ;
+  rdfs:label "succinic semialdehyde dehydrogenase deficiency" .
+
+local:DiseaseRef_7361ce33-5798-40ea-9499-62f8ffb10bfd a orpha:22 .
+
+local:LocalID_9f41f67d-6153-4fdb-bf03-e21a0d2a7bdb a sio:SIO_000114 ;
+  sio:SIO_000300 "SSADH 1V2"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_13131645-f644-4227-8ea6-e3c2b4b01f56 .
+
+<https://hpscreg.eu/cell-line/DHMCi013-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for DHMCi013-A" ;
+  sio:SIO_000628 local:CellLine_13131645-f644-4227-8ea6-e3c2b4b01f56 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_fa852883-5bc2-4144-98a7-ad5cb4addcd2 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 13131645-f644-4227-8ea6-e3c2b4b01f56" ;
+  sio:SIO_000230 local:Patient_07c239b5-9a04-4610-b485-d6ebf0afd5f2 ;
+  sio:SIO_000229 local:CellLine_13131645-f644-4227-8ea6-e3c2b4b01f56 .
+
+local:Patient_07c239b5-9a04-4610-b485-d6ebf0afd5f2 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 13131645-f644-4227-8ea6-e3c2b4b01f56" ;
+  sio:SIO_000008 local:DiseaseAttribute_88730c06-fc79-4f4c-8832-49886392b969 .
+
+local:DiseaseAttribute_88730c06-fc79-4f4c-8832-49886392b969 a sio:SIO_010299 ;
+  rdfs:label "succinic semialdehyde dehydrogenase deficiency" ;
+  sio:SIO_000628 local:DiseaseRef_7361ce33-5798-40ea-9499-62f8ffb10bfd .
+
+
+
+local:CellLine_c740e0b0-4c37-4845-be34-052daba52848 a sio:SIO_010054 ;
+  rdfs:label "SSADHD cell line (SSADH 1M8)" ;
+  sio:SIO_000671 local:LocalID_483459ef-19f2-4b36-b9ca-24c4dac9c3dc ;
+  sio:SIO_000232 local:DerivationProcess_522bda3b-028d-4314-86e8-58738e2e3291 ;
+  sio:SIO_000210 local:DiseaseRef_7ecc453d-b627-455e-a67a-aa6982ea70b6 .
+
+local:DiseaseRef_7ecc453d-b627-455e-a67a-aa6982ea70b6 a mondo:0010083 ;
+  rdfs:label "SSADHD" ;
+  rdfs:label "succinic semialdehyde dehydrogenase deficiency" .
+
+local:DiseaseRef_7ecc453d-b627-455e-a67a-aa6982ea70b6 a orpha:22 .
+
+local:LocalID_483459ef-19f2-4b36-b9ca-24c4dac9c3dc a sio:SIO_000114 ;
+  sio:SIO_000300 "SSADH 1M8"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_c740e0b0-4c37-4845-be34-052daba52848 .
+
+<https://hpscreg.eu/cell-line/DHMCi014-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for DHMCi014-A" ;
+  sio:SIO_000628 local:CellLine_c740e0b0-4c37-4845-be34-052daba52848 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_522bda3b-028d-4314-86e8-58738e2e3291 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for c740e0b0-4c37-4845-be34-052daba52848" ;
+  sio:SIO_000230 local:Patient_ff31d304-481a-4ac6-bcf5-ae3953e0c9df ;
+  sio:SIO_000229 local:CellLine_c740e0b0-4c37-4845-be34-052daba52848 .
+
+local:Patient_ff31d304-481a-4ac6-bcf5-ae3953e0c9df a sio:SIO_010006 ;
+  rdfs:label "Source patient for c740e0b0-4c37-4845-be34-052daba52848" ;
+  sio:SIO_000008 local:DiseaseAttribute_30a5de60-b653-4a60-9341-11a4a004d220 .
+
+local:DiseaseAttribute_30a5de60-b653-4a60-9341-11a4a004d220 a sio:SIO_010299 ;
+  rdfs:label "succinic semialdehyde dehydrogenase deficiency" ;
+  sio:SIO_000628 local:DiseaseRef_7ecc453d-b627-455e-a67a-aa6982ea70b6 .
+
+
+
+local:CellLine_ba680d17-0da0-4647-acc0-2d8316f05b3f a sio:SIO_010054 ;
+  rdfs:label "SSADHD cell line (SSADH 1K1)" ;
+  sio:SIO_000671 local:LocalID_c7bcf81a-48e7-40ce-ab13-1f2a66ed5ace ;
+  sio:SIO_000232 local:DerivationProcess_bce4e6a8-ea97-4a5b-83f8-95f035e410fb ;
+  sio:SIO_000210 local:DiseaseRef_529f5041-1eec-40ae-bdc9-15fa995c95e0 .
+
+local:DiseaseRef_529f5041-1eec-40ae-bdc9-15fa995c95e0 a mondo:0010083 ;
+  rdfs:label "SSADHD" ;
+  rdfs:label "succinic semialdehyde dehydrogenase deficiency" .
+
+local:DiseaseRef_529f5041-1eec-40ae-bdc9-15fa995c95e0 a orpha:22 .
+
+local:LocalID_c7bcf81a-48e7-40ce-ab13-1f2a66ed5ace a sio:SIO_000114 ;
+  sio:SIO_000300 "SSADH 1K1"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_ba680d17-0da0-4647-acc0-2d8316f05b3f .
+
+<https://hpscreg.eu/cell-line/DHMCi015-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for DHMCi015-A" ;
+  sio:SIO_000628 local:CellLine_ba680d17-0da0-4647-acc0-2d8316f05b3f ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_bce4e6a8-ea97-4a5b-83f8-95f035e410fb a sio:SIO_000006 ;
+  rdfs:label "Derivation process for ba680d17-0da0-4647-acc0-2d8316f05b3f" ;
+  sio:SIO_000230 local:Patient_b6f0a76a-0079-4e3d-9835-2cbc1e13c1d5 ;
+  sio:SIO_000229 local:CellLine_ba680d17-0da0-4647-acc0-2d8316f05b3f .
+
+local:Patient_b6f0a76a-0079-4e3d-9835-2cbc1e13c1d5 a sio:SIO_010006 ;
+  rdfs:label "Source patient for ba680d17-0da0-4647-acc0-2d8316f05b3f" ;
+  sio:SIO_000008 local:DiseaseAttribute_2154de2d-5d4a-44ff-b101-3a3d698692ae .
+
+local:DiseaseAttribute_2154de2d-5d4a-44ff-b101-3a3d698692ae a sio:SIO_010299 ;
+  rdfs:label "succinic semialdehyde dehydrogenase deficiency" ;
+  sio:SIO_000628 local:DiseaseRef_529f5041-1eec-40ae-bdc9-15fa995c95e0 .
+
+
+
+local:CellLine_de4ed9cd-1a90-4e9b-bba2-ebd1f363a20f a sio:SIO_010054 ;
+  rdfs:label "GTPCH cell line (GCH6-6)" ;
+  sio:SIO_000671 local:LocalID_42465f61-05e5-4edb-893e-d7ae6b2382f3 ;
+  sio:SIO_000232 local:DerivationProcess_133591bb-4127-42dd-b0e7-a2763d7c41ec ;
+  sio:SIO_000210 local:DiseaseRef_27f12cff-10e6-4fdf-8bf9-bcb8125ecaaf .
+
+local:DiseaseRef_27f12cff-10e6-4fdf-8bf9-bcb8125ecaaf a mondo:0100186 ;
+  rdfs:label "GTPCH" ;
+  rdfs:label "GTP cyclohydrolase I deficiency with hyperphenylalaninemia" .
+
+local:DiseaseRef_27f12cff-10e6-4fdf-8bf9-bcb8125ecaaf a orpha:2102 .
+
+local:LocalID_42465f61-05e5-4edb-893e-d7ae6b2382f3 a sio:SIO_000114 ;
+  sio:SIO_000300 "GCH6-6"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_de4ed9cd-1a90-4e9b-bba2-ebd1f363a20f .
+
+<https://hpscreg.eu/cell-line/DHMCi002-B> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for DHMCi002-B" ;
+  sio:SIO_000628 local:CellLine_de4ed9cd-1a90-4e9b-bba2-ebd1f363a20f ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_133591bb-4127-42dd-b0e7-a2763d7c41ec a sio:SIO_000006 ;
+  rdfs:label "Derivation process for de4ed9cd-1a90-4e9b-bba2-ebd1f363a20f" ;
+  sio:SIO_000230 local:Patient_b80684d9-a4f4-44bf-a9a3-18b27d6ee051 ;
+  sio:SIO_000229 local:CellLine_de4ed9cd-1a90-4e9b-bba2-ebd1f363a20f .
+
+local:Patient_b80684d9-a4f4-44bf-a9a3-18b27d6ee051 a sio:SIO_010006 ;
+  rdfs:label "Source patient for de4ed9cd-1a90-4e9b-bba2-ebd1f363a20f" ;
+  sio:SIO_000008 local:DiseaseAttribute_d265a096-e07b-4094-9f7b-82de263ad205 .
+
+local:DiseaseAttribute_d265a096-e07b-4094-9f7b-82de263ad205 a sio:SIO_010299 ;
+  rdfs:label "GTP cyclohydrolase I deficiency with hyperphenylalaninemia" ;
+  sio:SIO_000628 local:DiseaseRef_27f12cff-10e6-4fdf-8bf9-bcb8125ecaaf .
+
+
+
+local:CellLine_407a022b-df26-4f22-90cc-2b68d8d2a29d a sio:SIO_010054 ;
+  rdfs:label "GTPCH cell line (GCH7D)" ;
+  sio:SIO_000671 local:LocalID_21201b63-e395-49cc-b664-e25bc654407a ;
+  sio:SIO_000232 local:DerivationProcess_1625b2b0-4c13-44a6-98a2-86c5486c6c71 ;
+  sio:SIO_000210 local:DiseaseRef_d87df6d4-fbad-4fc9-814e-85e6e02bbf65 .
+
+local:DiseaseRef_d87df6d4-fbad-4fc9-814e-85e6e02bbf65 a mondo:0100186 ;
+  rdfs:label "GTPCH" ;
+  rdfs:label "GTP cyclohydrolase I deficiency with hyperphenylalaninemia" .
+
+local:DiseaseRef_d87df6d4-fbad-4fc9-814e-85e6e02bbf65 a orpha:2102 .
+
+local:LocalID_21201b63-e395-49cc-b664-e25bc654407a a sio:SIO_000114 ;
+  sio:SIO_000300 "GCH7D"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_407a022b-df26-4f22-90cc-2b68d8d2a29d .
+
+<https://hpscreg.eu/cell-line/DHMCi012-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for DHMCi012-A" ;
+  sio:SIO_000628 local:CellLine_407a022b-df26-4f22-90cc-2b68d8d2a29d ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_1625b2b0-4c13-44a6-98a2-86c5486c6c71 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 407a022b-df26-4f22-90cc-2b68d8d2a29d" ;
+  sio:SIO_000230 local:Patient_e714fb71-278f-418f-8478-ea02f0d6b84d ;
+  sio:SIO_000229 local:CellLine_407a022b-df26-4f22-90cc-2b68d8d2a29d .
+
+local:Patient_e714fb71-278f-418f-8478-ea02f0d6b84d a sio:SIO_010006 ;
+  rdfs:label "Source patient for 407a022b-df26-4f22-90cc-2b68d8d2a29d" ;
+  sio:SIO_000008 local:DiseaseAttribute_931a8814-fc0c-4c31-bc9c-60d3c9007b47 .
+
+local:DiseaseAttribute_931a8814-fc0c-4c31-bc9c-60d3c9007b47 a sio:SIO_010299 ;
+  rdfs:label "GTP cyclohydrolase I deficiency with hyperphenylalaninemia" ;
+  sio:SIO_000628 local:DiseaseRef_d87df6d4-fbad-4fc9-814e-85e6e02bbf65 .
+
+
+
+local:CellLine_7049c1b9-60df-4b44-a0ab-28936fd80594 a sio:SIO_010054 ;
+  rdfs:label "GA1 cell line (GA1-4-4)" ;
+  sio:SIO_000671 local:LocalID_92ae299a-f86a-44fc-b50a-130ee695d8c9 ;
+  sio:SIO_000232 local:DerivationProcess_0b1aff38-556e-42b5-84b3-099c3780b76c ;
+  sio:SIO_000210 local:DiseaseRef_10048bc6-24fa-499e-bf25-983a21dfec29 .
+
+local:DiseaseRef_10048bc6-24fa-499e-bf25-983a21dfec29 a mondo:0009281 ;
+  rdfs:label "GA1" ;
+  rdfs:label "glutaryl-CoA dehydrogenase deficiency" .
+
+local:DiseaseRef_10048bc6-24fa-499e-bf25-983a21dfec29 a orpha:25 .
+
+local:LocalID_92ae299a-f86a-44fc-b50a-130ee695d8c9 a sio:SIO_000114 ;
+  sio:SIO_000300 "GA1-4-4"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_7049c1b9-60df-4b44-a0ab-28936fd80594 .
+
+<https://hpscreg.eu/cell-line/DHMCi018-B> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for DHMCi018-B" ;
+  sio:SIO_000628 local:CellLine_7049c1b9-60df-4b44-a0ab-28936fd80594 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_0b1aff38-556e-42b5-84b3-099c3780b76c a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 7049c1b9-60df-4b44-a0ab-28936fd80594" ;
+  sio:SIO_000230 local:Patient_38abf5d2-d871-4f1e-a31e-3c9bd7f76053 ;
+  sio:SIO_000229 local:CellLine_7049c1b9-60df-4b44-a0ab-28936fd80594 .
+
+local:Patient_38abf5d2-d871-4f1e-a31e-3c9bd7f76053 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 7049c1b9-60df-4b44-a0ab-28936fd80594" ;
+  sio:SIO_000008 local:DiseaseAttribute_8f325453-b4d2-48e7-b299-c61f6b719b8d .
+
+local:DiseaseAttribute_8f325453-b4d2-48e7-b299-c61f6b719b8d a sio:SIO_010299 ;
+  rdfs:label "glutaryl-CoA dehydrogenase deficiency" ;
+  sio:SIO_000628 local:DiseaseRef_10048bc6-24fa-499e-bf25-983a21dfec29 .
+
+
+
+local:CellLine_61d74d5b-a928-4912-b251-e45e32ee1b53 a sio:SIO_010054 ;
+  rdfs:label "GA1 cell line (IPS23-00028)" ;
+  sio:SIO_000671 local:LocalID_5a0c4e20-c311-43a4-a281-b546b547f77d ;
+  sio:SIO_000232 local:DerivationProcess_55c910e0-ea29-4dc8-a888-a86bdb20d6da ;
+  sio:SIO_000210 local:DiseaseRef_dac439ce-1eb2-49b8-8833-b718c3927073 .
+
+local:DiseaseRef_dac439ce-1eb2-49b8-8833-b718c3927073 a mondo:0009281 ;
+  rdfs:label "GA1" ;
+  rdfs:label "glutaryl-CoA dehydrogenase deficiency" .
+
+local:DiseaseRef_dac439ce-1eb2-49b8-8833-b718c3927073 a orpha:25 .
+
+local:LocalID_5a0c4e20-c311-43a4-a281-b546b547f77d a sio:SIO_000114 ;
+  sio:SIO_000300 "IPS23-00028"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_61d74d5b-a928-4912-b251-e45e32ee1b53 .
+
+<https://hpscreg.eu/cell-line/SCTCi030-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for SCTCi030-A" ;
+  sio:SIO_000628 local:CellLine_61d74d5b-a928-4912-b251-e45e32ee1b53 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_55c910e0-ea29-4dc8-a888-a86bdb20d6da a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 61d74d5b-a928-4912-b251-e45e32ee1b53" ;
+  sio:SIO_000230 local:Patient_09997206-08c7-4610-93c7-e9b732faa1c9 ;
+  sio:SIO_000229 local:CellLine_61d74d5b-a928-4912-b251-e45e32ee1b53 .
+
+local:Patient_09997206-08c7-4610-93c7-e9b732faa1c9 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 61d74d5b-a928-4912-b251-e45e32ee1b53" ;
+  sio:SIO_000008 local:DiseaseAttribute_9cfde564-eaef-4789-9618-07028dce39fe .
+
+local:DiseaseAttribute_9cfde564-eaef-4789-9618-07028dce39fe a sio:SIO_010299 ;
+  rdfs:label "glutaryl-CoA dehydrogenase deficiency" ;
+  sio:SIO_000628 local:DiseaseRef_dac439ce-1eb2-49b8-8833-b718c3927073 .
+
+
+
+local:CellLine_194c769d-25c6-4bb9-b138-97223e3fb918 a sio:SIO_010054 ;
+  rdfs:label "GA1 cell line (IPS23-00033)" ;
+  sio:SIO_000671 local:LocalID_d5967ad9-527e-48fb-a767-c6ead04d595e ;
+  sio:SIO_000232 local:DerivationProcess_335ec6e2-7439-4405-b85b-858aeee3ae0d ;
+  sio:SIO_000210 local:DiseaseRef_f3dd9a87-ff53-47b0-bb7b-0fb4f6bee3a9 .
+
+local:DiseaseRef_f3dd9a87-ff53-47b0-bb7b-0fb4f6bee3a9 a mondo:0009281 ;
+  rdfs:label "GA1" ;
+  rdfs:label "glutaryl-CoA dehydrogenase deficiency" .
+
+local:DiseaseRef_f3dd9a87-ff53-47b0-bb7b-0fb4f6bee3a9 a orpha:25 .
+
+local:LocalID_d5967ad9-527e-48fb-a767-c6ead04d595e a sio:SIO_000114 ;
+  sio:SIO_000300 "IPS23-00033"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_194c769d-25c6-4bb9-b138-97223e3fb918 .
+
+<https://hpscreg.eu/cell-line/SCTCi031-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for SCTCi031-A" ;
+  sio:SIO_000628 local:CellLine_194c769d-25c6-4bb9-b138-97223e3fb918 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_335ec6e2-7439-4405-b85b-858aeee3ae0d a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 194c769d-25c6-4bb9-b138-97223e3fb918" ;
+  sio:SIO_000230 local:Patient_32338d79-0ad4-4efc-9d64-aacd67836975 ;
+  sio:SIO_000229 local:CellLine_194c769d-25c6-4bb9-b138-97223e3fb918 .
+
+local:Patient_32338d79-0ad4-4efc-9d64-aacd67836975 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 194c769d-25c6-4bb9-b138-97223e3fb918" ;
+  sio:SIO_000008 local:DiseaseAttribute_39c99894-98fd-40c8-b587-dd16504c2a44 .
+
+local:DiseaseAttribute_39c99894-98fd-40c8-b587-dd16504c2a44 a sio:SIO_010299 ;
+  rdfs:label "glutaryl-CoA dehydrogenase deficiency" ;
+  sio:SIO_000628 local:DiseaseRef_f3dd9a87-ff53-47b0-bb7b-0fb4f6bee3a9 .
+
+
+
+local:CellLine_5b7923d9-c41c-4eab-912a-857cdfd6c42c a sio:SIO_010054 ;
+  rdfs:label "GA1 cell line (IPS23-00036)" ;
+  sio:SIO_000671 local:LocalID_3514bb5e-f0cf-4c2a-b589-4ad651e3e12b ;
+  sio:SIO_000232 local:DerivationProcess_1eea16e7-b8a7-436f-8fa1-80f0d5995624 ;
+  sio:SIO_000210 local:DiseaseRef_c4f5f46f-01d2-47a2-b020-72dd2b6624cd .
+
+local:DiseaseRef_c4f5f46f-01d2-47a2-b020-72dd2b6624cd a mondo:0009281 ;
+  rdfs:label "GA1" ;
+  rdfs:label "glutaryl-CoA dehydrogenase deficiency" .
+
+local:DiseaseRef_c4f5f46f-01d2-47a2-b020-72dd2b6624cd a orpha:25 .
+
+local:LocalID_3514bb5e-f0cf-4c2a-b589-4ad651e3e12b a sio:SIO_000114 ;
+  sio:SIO_000300 "IPS23-00036"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_5b7923d9-c41c-4eab-912a-857cdfd6c42c .
+
+<https://hpscreg.eu/cell-line/SCTCi032-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for SCTCi032-A" ;
+  sio:SIO_000628 local:CellLine_5b7923d9-c41c-4eab-912a-857cdfd6c42c ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_1eea16e7-b8a7-436f-8fa1-80f0d5995624 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 5b7923d9-c41c-4eab-912a-857cdfd6c42c" ;
+  sio:SIO_000230 local:Patient_06f7e766-7bf0-46ff-81c7-5062f6bf6ed9 ;
+  sio:SIO_000229 local:CellLine_5b7923d9-c41c-4eab-912a-857cdfd6c42c .
+
+local:Patient_06f7e766-7bf0-46ff-81c7-5062f6bf6ed9 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 5b7923d9-c41c-4eab-912a-857cdfd6c42c" ;
+  sio:SIO_000008 local:DiseaseAttribute_25314269-1532-4bf1-a685-68b0da735b83 .
+
+local:DiseaseAttribute_25314269-1532-4bf1-a685-68b0da735b83 a sio:SIO_010299 ;
+  rdfs:label "glutaryl-CoA dehydrogenase deficiency" ;
+  sio:SIO_000628 local:DiseaseRef_c4f5f46f-01d2-47a2-b020-72dd2b6624cd .
+
+
+
+local:CellLine_693ac119-24f5-48eb-be2f-3fbfe009c957 a sio:SIO_010054 ;
+  rdfs:label "GA1 cell line (IPS23-00037)" ;
+  sio:SIO_000671 local:LocalID_a527dc40-d59d-4c33-b689-dc99af5140f0 ;
+  sio:SIO_000232 local:DerivationProcess_b9566383-7728-48d1-83de-0e7ccfdead5e ;
+  sio:SIO_000210 local:DiseaseRef_ed35baa7-bb60-437f-8846-2c01545cf0ee .
+
+local:DiseaseRef_ed35baa7-bb60-437f-8846-2c01545cf0ee a mondo:0009281 ;
+  rdfs:label "GA1" ;
+  rdfs:label "glutaryl-CoA dehydrogenase deficiency" .
+
+local:DiseaseRef_ed35baa7-bb60-437f-8846-2c01545cf0ee a orpha:25 .
+
+local:LocalID_a527dc40-d59d-4c33-b689-dc99af5140f0 a sio:SIO_000114 ;
+  sio:SIO_000300 "IPS23-00037"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_693ac119-24f5-48eb-be2f-3fbfe009c957 .
+
+<https://hpscreg.eu/cell-line/SCTCi033-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for SCTCi033-A" ;
+  sio:SIO_000628 local:CellLine_693ac119-24f5-48eb-be2f-3fbfe009c957 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_b9566383-7728-48d1-83de-0e7ccfdead5e a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 693ac119-24f5-48eb-be2f-3fbfe009c957" ;
+  sio:SIO_000230 local:Patient_6ff582f4-d6ae-4d95-821e-f502fafce0d0 ;
+  sio:SIO_000229 local:CellLine_693ac119-24f5-48eb-be2f-3fbfe009c957 .
+
+local:Patient_6ff582f4-d6ae-4d95-821e-f502fafce0d0 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 693ac119-24f5-48eb-be2f-3fbfe009c957" ;
+  sio:SIO_000008 local:DiseaseAttribute_4acf4f2f-30ca-42ba-a714-ff1b4ca82482 .
+
+local:DiseaseAttribute_4acf4f2f-30ca-42ba-a714-ff1b4ca82482 a sio:SIO_010299 ;
+  rdfs:label "glutaryl-CoA dehydrogenase deficiency" ;
+  sio:SIO_000628 local:DiseaseRef_ed35baa7-bb60-437f-8846-2c01545cf0ee .
+
+
+
+local:CellLine_e1253408-dd3d-48c2-9635-c3edd7de7e9a a sio:SIO_010054 ;
+  rdfs:label "PMM2-CDG cell line (11367-stable-Ngn2)" ;
+  sio:SIO_000671 local:LocalID_5357c581-e988-4749-82f6-287a547927df ;
+  sio:SIO_000232 local:DerivationProcess_1ac7b719-c03d-40ab-9a3e-b287ae5780fe ;
+  sio:SIO_000210 local:DiseaseRef_e587703e-bc1d-4305-a207-02107b74a4e7 .
+
+local:DiseaseRef_e587703e-bc1d-4305-a207-02107b74a4e7 a mondo:1040054 ;
+  rdfs:label "PMM2-CDG" ;
+  rdfs:label "DHDDS-CDG" .
+
+local:DiseaseRef_e587703e-bc1d-4305-a207-02107b74a4e7 a orpha: .
+
+local:LocalID_5357c581-e988-4749-82f6-287a547927df a sio:SIO_000114 ;
+  sio:SIO_000300 "11367-stable-Ngn2"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_e1253408-dd3d-48c2-9635-c3edd7de7e9a .
+
+<https://hpscreg.eu/cell-line/iPS20-00130> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for iPS20-00130" ;
+  sio:SIO_000628 local:CellLine_e1253408-dd3d-48c2-9635-c3edd7de7e9a ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_1ac7b719-c03d-40ab-9a3e-b287ae5780fe a sio:SIO_000006 ;
+  rdfs:label "Derivation process for e1253408-dd3d-48c2-9635-c3edd7de7e9a" ;
+  sio:SIO_000230 local:Patient_aaa7ff3c-15f3-4918-8181-847e2881fd77 ;
+  sio:SIO_000229 local:CellLine_e1253408-dd3d-48c2-9635-c3edd7de7e9a .
+
+local:Patient_aaa7ff3c-15f3-4918-8181-847e2881fd77 a sio:SIO_010006 ;
+  rdfs:label "Source patient for e1253408-dd3d-48c2-9635-c3edd7de7e9a" ;
+  sio:SIO_000008 local:DiseaseAttribute_fac88f63-931e-4042-aef7-72ccbb1ac247 .
+
+local:DiseaseAttribute_fac88f63-931e-4042-aef7-72ccbb1ac247 a sio:SIO_010299 ;
+  rdfs:label "DHDDS-CDG" ;
+  sio:SIO_000628 local:DiseaseRef_e587703e-bc1d-4305-a207-02107b74a4e7 .
+
+
+
+local:CellLine_89f3222d-2c0d-483c-8cab-e1eaa4b24c4c a sio:SIO_010054 ;
+  rdfs:label "PMM2-CDG cell line ( 11368-stable-Ngn2)" ;
+  sio:SIO_000671 local:LocalID_92811fd1-f566-4733-ad3b-9a07e8c4a275 ;
+  sio:SIO_000232 local:DerivationProcess_841bce73-65a0-42d2-935a-def296c57bf4 ;
+  sio:SIO_000210 local:DiseaseRef_f147372c-462e-4786-8f3e-1a63d2d2619d .
+
+local:DiseaseRef_f147372c-462e-4786-8f3e-1a63d2d2619d a mondo:1040054 ;
+  rdfs:label "PMM2-CDG" ;
+  rdfs:label "DHDDS-CDG" .
+
+local:DiseaseRef_f147372c-462e-4786-8f3e-1a63d2d2619d a orpha: .
+
+local:LocalID_92811fd1-f566-4733-ad3b-9a07e8c4a275 a sio:SIO_000114 ;
+  sio:SIO_000300 " 11368-stable-Ngn2"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_89f3222d-2c0d-483c-8cab-e1eaa4b24c4c .
+
+<https://hpscreg.eu/cell-line/iPS20-00131> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for iPS20-00131" ;
+  sio:SIO_000628 local:CellLine_89f3222d-2c0d-483c-8cab-e1eaa4b24c4c ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_841bce73-65a0-42d2-935a-def296c57bf4 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 89f3222d-2c0d-483c-8cab-e1eaa4b24c4c" ;
+  sio:SIO_000230 local:Patient_7e8e910a-8945-4113-85e2-09558cd1cc81 ;
+  sio:SIO_000229 local:CellLine_89f3222d-2c0d-483c-8cab-e1eaa4b24c4c .
+
+local:Patient_7e8e910a-8945-4113-85e2-09558cd1cc81 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 89f3222d-2c0d-483c-8cab-e1eaa4b24c4c" ;
+  sio:SIO_000008 local:DiseaseAttribute_2de72579-e01f-408d-97b3-52b23916e025 .
+
+local:DiseaseAttribute_2de72579-e01f-408d-97b3-52b23916e025 a sio:SIO_010299 ;
+  rdfs:label "DHDDS-CDG" ;
+  sio:SIO_000628 local:DiseaseRef_f147372c-462e-4786-8f3e-1a63d2d2619d .
+
+
+
+local:CellLine_91e282ea-d967-4b2a-9a76-9dfebc26ef89 a sio:SIO_010054 ;
+  rdfs:label "PMM2-CDG cell line (11547-stable-Ngn2)" ;
+  sio:SIO_000671 local:LocalID_b8b4c6d9-a5d6-4ebd-9883-e0716ad79000 ;
+  sio:SIO_000232 local:DerivationProcess_9329f6ea-8b60-4b23-9ca6-d9cef74a52e4 ;
+  sio:SIO_000210 local:DiseaseRef_b20b6e03-d3df-413b-81f1-d2607071559a .
+
+local:DiseaseRef_b20b6e03-d3df-413b-81f1-d2607071559a a mondo:1040054 ;
+  rdfs:label "PMM2-CDG" ;
+  rdfs:label "DHDDS-CDG" .
+
+local:DiseaseRef_b20b6e03-d3df-413b-81f1-d2607071559a a orpha: .
+
+local:LocalID_b8b4c6d9-a5d6-4ebd-9883-e0716ad79000 a sio:SIO_000114 ;
+  sio:SIO_000300 "11547-stable-Ngn2"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_91e282ea-d967-4b2a-9a76-9dfebc26ef89 .
+
+<https://hpscreg.eu/cell-line/iPS20-00132> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for iPS20-00132" ;
+  sio:SIO_000628 local:CellLine_91e282ea-d967-4b2a-9a76-9dfebc26ef89 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_9329f6ea-8b60-4b23-9ca6-d9cef74a52e4 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 91e282ea-d967-4b2a-9a76-9dfebc26ef89" ;
+  sio:SIO_000230 local:Patient_6e74c1be-551e-4e40-9784-f03c016dd6ab ;
+  sio:SIO_000229 local:CellLine_91e282ea-d967-4b2a-9a76-9dfebc26ef89 .
+
+local:Patient_6e74c1be-551e-4e40-9784-f03c016dd6ab a sio:SIO_010006 ;
+  rdfs:label "Source patient for 91e282ea-d967-4b2a-9a76-9dfebc26ef89" ;
+  sio:SIO_000008 local:DiseaseAttribute_e13ac8e0-36fe-4839-9b87-cbe42bbb5901 .
+
+local:DiseaseAttribute_e13ac8e0-36fe-4839-9b87-cbe42bbb5901 a sio:SIO_010299 ;
+  rdfs:label "DHDDS-CDG" ;
+  sio:SIO_000628 local:DiseaseRef_b20b6e03-d3df-413b-81f1-d2607071559a .
+
+
+
+local:CellLine_343b066f-5cda-4f66-9ded-fb3f0b21bccb a sio:SIO_010054 ;
+  rdfs:label "SCA3 cell line (Ax26)" ;
+  sio:SIO_000671 local:LocalID_84291462-3e92-413b-8674-cd1aefd537c8 ;
+  sio:SIO_000232 local:DerivationProcess_7071911a-795b-4d69-bf97-686f515a3d1b ;
+  sio:SIO_000210 local:DiseaseRef_212e7a11-0a07-45c7-990e-27fd2b1622f6 .
+
+local:DiseaseRef_212e7a11-0a07-45c7-990e-27fd2b1622f6 a mondo:0017175 ;
+  rdfs:label "SCA3" ;
+  rdfs:label "Machado-Joseph disease type 2" .
+
+local:DiseaseRef_212e7a11-0a07-45c7-990e-27fd2b1622f6 a orpha:276241 .
+
+local:LocalID_84291462-3e92-413b-8674-cd1aefd537c8 a sio:SIO_000114 ;
+  sio:SIO_000300 "Ax26"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_343b066f-5cda-4f66-9ded-fb3f0b21bccb .
+
+<https://hpscreg.eu/cell-line/HIHCNi002-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for HIHCNi002-A" ;
+  sio:SIO_000628 local:CellLine_343b066f-5cda-4f66-9ded-fb3f0b21bccb ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_7071911a-795b-4d69-bf97-686f515a3d1b a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 343b066f-5cda-4f66-9ded-fb3f0b21bccb" ;
+  sio:SIO_000230 local:Patient_0c0e683a-3d5a-4eda-b700-36191368f3d2 ;
+  sio:SIO_000229 local:CellLine_343b066f-5cda-4f66-9ded-fb3f0b21bccb .
+
+local:Patient_0c0e683a-3d5a-4eda-b700-36191368f3d2 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 343b066f-5cda-4f66-9ded-fb3f0b21bccb" ;
+  sio:SIO_000008 local:DiseaseAttribute_7f947986-dcb8-42fb-9d8f-fa3dc80d360a .
+
+local:DiseaseAttribute_7f947986-dcb8-42fb-9d8f-fa3dc80d360a a sio:SIO_010299 ;
+  rdfs:label "Machado-Joseph disease type 2" ;
+  sio:SIO_000628 local:DiseaseRef_212e7a11-0a07-45c7-990e-27fd2b1622f6 .
+
+
+
+local:CellLine_61beb4e7-5195-4607-bd9c-0036d5fb4f8d a sio:SIO_010054 ;
+  rdfs:label "congenital myasthenic syndrome cell line (CM TEFM C1-1)" ;
+  sio:SIO_000671 local:LocalID_00f17e3c-111f-4c58-bbff-0147f7e1ddbf ;
+  sio:SIO_000232 local:DerivationProcess_4d85fa93-f6d7-4348-afd9-98cb38cf324a ;
+  sio:SIO_000210 local:DiseaseRef_c73c040e-88b9-4c49-9774-52d8db9d7d2d .
+
+local:DiseaseRef_c73c040e-88b9-4c49-9774-52d8db9d7d2d a mondo:0018940 ;
+  rdfs:label "congenital myasthenic syndrome" ;
+  rdfs:label "congenital myasthenic syndrome" .
+
+local:DiseaseRef_c73c040e-88b9-4c49-9774-52d8db9d7d2d a orpha:590 .
+
+local:LocalID_00f17e3c-111f-4c58-bbff-0147f7e1ddbf a sio:SIO_000114 ;
+  sio:SIO_000300 "CM TEFM C1-1"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_61beb4e7-5195-4607-bd9c-0036d5fb4f8d .
+
+<https://hpscreg.eu/cell-line/CHEORIi001-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for CHEORIi001-A" ;
+  sio:SIO_000628 local:CellLine_61beb4e7-5195-4607-bd9c-0036d5fb4f8d ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_4d85fa93-f6d7-4348-afd9-98cb38cf324a a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 61beb4e7-5195-4607-bd9c-0036d5fb4f8d" ;
+  sio:SIO_000230 local:Patient_2df961fe-d16c-4c7a-ab27-d784a78f7ea5 ;
+  sio:SIO_000229 local:CellLine_61beb4e7-5195-4607-bd9c-0036d5fb4f8d .
+
+local:Patient_2df961fe-d16c-4c7a-ab27-d784a78f7ea5 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 61beb4e7-5195-4607-bd9c-0036d5fb4f8d" ;
+  sio:SIO_000008 local:DiseaseAttribute_2b990e63-b7dd-4444-98c3-dd78ae603036 .
+
+local:DiseaseAttribute_2b990e63-b7dd-4444-98c3-dd78ae603036 a sio:SIO_010299 ;
+  rdfs:label "congenital myasthenic syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_c73c040e-88b9-4c49-9774-52d8db9d7d2d .
+
+
+
+local:CellLine_db49fc30-eb31-44ee-9b57-20a55d21687b a sio:SIO_010054 ;
+  rdfs:label "congenital myasthenic syndrome cell line (CM TEFM C1-5)" ;
+  sio:SIO_000671 local:LocalID_c29d7ddc-7be0-43b0-b761-53ca87c4ebbe ;
+  sio:SIO_000232 local:DerivationProcess_ea4530b8-acdd-4ad2-8585-e8285f521644 ;
+  sio:SIO_000210 local:DiseaseRef_68be2d19-48e7-4873-b407-48314329e066 .
+
+local:DiseaseRef_68be2d19-48e7-4873-b407-48314329e066 a mondo:0018940 ;
+  rdfs:label "congenital myasthenic syndrome" ;
+  rdfs:label "congenital myasthenic syndrome" .
+
+local:DiseaseRef_68be2d19-48e7-4873-b407-48314329e066 a orpha:590 .
+
+local:LocalID_c29d7ddc-7be0-43b0-b761-53ca87c4ebbe a sio:SIO_000114 ;
+  sio:SIO_000300 "CM TEFM C1-5"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_db49fc30-eb31-44ee-9b57-20a55d21687b .
+
+<https://hpscreg.eu/cell-line/CHEORIi001-B> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for CHEORIi001-B" ;
+  sio:SIO_000628 local:CellLine_db49fc30-eb31-44ee-9b57-20a55d21687b ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_ea4530b8-acdd-4ad2-8585-e8285f521644 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for db49fc30-eb31-44ee-9b57-20a55d21687b" ;
+  sio:SIO_000230 local:Patient_6f3c8c5b-30a8-4100-a865-e486d0d99ca3 ;
+  sio:SIO_000229 local:CellLine_db49fc30-eb31-44ee-9b57-20a55d21687b .
+
+local:Patient_6f3c8c5b-30a8-4100-a865-e486d0d99ca3 a sio:SIO_010006 ;
+  rdfs:label "Source patient for db49fc30-eb31-44ee-9b57-20a55d21687b" ;
+  sio:SIO_000008 local:DiseaseAttribute_2f014e57-2e2f-421d-ad42-99cc066a4557 .
+
+local:DiseaseAttribute_2f014e57-2e2f-421d-ad42-99cc066a4557 a sio:SIO_010299 ;
+  rdfs:label "congenital myasthenic syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_68be2d19-48e7-4873-b407-48314329e066 .
+
+
+
+local:CellLine_ba9feb19-65ba-40a6-9cd6-267a398d1d5e a sio:SIO_010054 ;
+  rdfs:label "congenital myasthenic syndrome cell line (CM TEFM C1-8)" ;
+  sio:SIO_000671 local:LocalID_86073211-dbda-4a3d-beeb-ba3cc133e174 ;
+  sio:SIO_000232 local:DerivationProcess_f23f32c7-3107-4bf8-9752-b6e236f7f5d1 ;
+  sio:SIO_000210 local:DiseaseRef_12c68154-1d2f-4ca5-ba88-fef418c99b04 .
+
+local:DiseaseRef_12c68154-1d2f-4ca5-ba88-fef418c99b04 a mondo:0018940 ;
+  rdfs:label "congenital myasthenic syndrome" ;
+  rdfs:label "congenital myasthenic syndrome" .
+
+local:DiseaseRef_12c68154-1d2f-4ca5-ba88-fef418c99b04 a orpha:590 .
+
+local:LocalID_86073211-dbda-4a3d-beeb-ba3cc133e174 a sio:SIO_000114 ;
+  sio:SIO_000300 "CM TEFM C1-8"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_ba9feb19-65ba-40a6-9cd6-267a398d1d5e .
+
+<https://hpscreg.eu/cell-line/CHEORIi001-C> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for CHEORIi001-C" ;
+  sio:SIO_000628 local:CellLine_ba9feb19-65ba-40a6-9cd6-267a398d1d5e ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_f23f32c7-3107-4bf8-9752-b6e236f7f5d1 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for ba9feb19-65ba-40a6-9cd6-267a398d1d5e" ;
+  sio:SIO_000230 local:Patient_8a95d03f-a2f9-41b9-bcc4-069052ecb85b ;
+  sio:SIO_000229 local:CellLine_ba9feb19-65ba-40a6-9cd6-267a398d1d5e .
+
+local:Patient_8a95d03f-a2f9-41b9-bcc4-069052ecb85b a sio:SIO_010006 ;
+  rdfs:label "Source patient for ba9feb19-65ba-40a6-9cd6-267a398d1d5e" ;
+  sio:SIO_000008 local:DiseaseAttribute_7a911819-25e7-45c0-a05a-28d8a3b47e8b .
+
+local:DiseaseAttribute_7a911819-25e7-45c0-a05a-28d8a3b47e8b a sio:SIO_010299 ;
+  rdfs:label "congenital myasthenic syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_12c68154-1d2f-4ca5-ba88-fef418c99b04 .
+
+
+
+local:CellLine_be932dcf-69ac-4afc-a35b-8a413862106e a sio:SIO_010054 ;
+  rdfs:label "congenital myasthenic syndrome cell line (TEFM F001 C1_001)" ;
+  sio:SIO_000671 local:LocalID_b6020358-0a38-4ab9-ac49-3ebbde30dee1 ;
+  sio:SIO_000232 local:DerivationProcess_78c0a248-1094-48fd-ad8d-def285de5d80 ;
+  sio:SIO_000210 local:DiseaseRef_d21fa199-9a2e-4173-b9a9-d11cbcc96425 .
+
+local:DiseaseRef_d21fa199-9a2e-4173-b9a9-d11cbcc96425 a mondo:0018940 ;
+  rdfs:label "congenital myasthenic syndrome" ;
+  rdfs:label "congenital myasthenic syndrome" .
+
+local:DiseaseRef_d21fa199-9a2e-4173-b9a9-d11cbcc96425 a orpha:590 .
+
+local:LocalID_b6020358-0a38-4ab9-ac49-3ebbde30dee1 a sio:SIO_000114 ;
+  sio:SIO_000300 "TEFM F001 C1_001"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_be932dcf-69ac-4afc-a35b-8a413862106e .
+
+<https://hpscreg.eu/cell-line/CHEORIi002-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for CHEORIi002-A" ;
+  sio:SIO_000628 local:CellLine_be932dcf-69ac-4afc-a35b-8a413862106e ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_78c0a248-1094-48fd-ad8d-def285de5d80 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for be932dcf-69ac-4afc-a35b-8a413862106e" ;
+  sio:SIO_000230 local:Patient_08f3a0a9-b566-4402-8ae7-850943d75815 ;
+  sio:SIO_000229 local:CellLine_be932dcf-69ac-4afc-a35b-8a413862106e .
+
+local:Patient_08f3a0a9-b566-4402-8ae7-850943d75815 a sio:SIO_010006 ;
+  rdfs:label "Source patient for be932dcf-69ac-4afc-a35b-8a413862106e" ;
+  sio:SIO_000008 local:DiseaseAttribute_7de42f96-725c-4160-899d-55498adbde6c .
+
+local:DiseaseAttribute_7de42f96-725c-4160-899d-55498adbde6c a sio:SIO_010299 ;
+  rdfs:label "congenital myasthenic syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_d21fa199-9a2e-4173-b9a9-d11cbcc96425 .
+
+
+
+local:CellLine_f21d2f4c-6742-42e4-9d18-39cbac868a86 a sio:SIO_010054 ;
+  rdfs:label "congenital myasthenic syndrome cell line (TEFM F001 C2_001)" ;
+  sio:SIO_000671 local:LocalID_be88148e-58e9-4e77-80cb-c7c2463904d1 ;
+  sio:SIO_000232 local:DerivationProcess_fbabb474-fd27-4ace-9c74-e3a5168f73cd ;
+  sio:SIO_000210 local:DiseaseRef_4ed3df4f-e081-4cfb-807c-105b06120695 .
+
+local:DiseaseRef_4ed3df4f-e081-4cfb-807c-105b06120695 a mondo:0018940 ;
+  rdfs:label "congenital myasthenic syndrome" ;
+  rdfs:label "congenital myasthenic syndrome" .
+
+local:DiseaseRef_4ed3df4f-e081-4cfb-807c-105b06120695 a orpha:590 .
+
+local:LocalID_be88148e-58e9-4e77-80cb-c7c2463904d1 a sio:SIO_000114 ;
+  sio:SIO_000300 "TEFM F001 C2_001"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_f21d2f4c-6742-42e4-9d18-39cbac868a86 .
+
+<https://hpscreg.eu/cell-line/CHEORIi002-B> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for CHEORIi002-B" ;
+  sio:SIO_000628 local:CellLine_f21d2f4c-6742-42e4-9d18-39cbac868a86 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_fbabb474-fd27-4ace-9c74-e3a5168f73cd a sio:SIO_000006 ;
+  rdfs:label "Derivation process for f21d2f4c-6742-42e4-9d18-39cbac868a86" ;
+  sio:SIO_000230 local:Patient_141bbd0b-cd8d-4a1a-b9dd-2b905f22ba0c ;
+  sio:SIO_000229 local:CellLine_f21d2f4c-6742-42e4-9d18-39cbac868a86 .
+
+local:Patient_141bbd0b-cd8d-4a1a-b9dd-2b905f22ba0c a sio:SIO_010006 ;
+  rdfs:label "Source patient for f21d2f4c-6742-42e4-9d18-39cbac868a86" ;
+  sio:SIO_000008 local:DiseaseAttribute_59af5d2f-beb9-48e7-a480-8693c2b13542 .
+
+local:DiseaseAttribute_59af5d2f-beb9-48e7-a480-8693c2b13542 a sio:SIO_010299 ;
+  rdfs:label "congenital myasthenic syndrome" ;
+  sio:SIO_000628 local:DiseaseRef_4ed3df4f-e081-4cfb-807c-105b06120695 .
+
+
+
+local:CellLine_8400d93f-f3b5-4aba-95c3-d15653281738 a sio:SIO_010054 ;
+  rdfs:label "DM1 cell line (DM1 F024C9)" ;
+  sio:SIO_000671 local:LocalID_995b348b-eb20-4231-aecc-0d067f59d17f ;
+  sio:SIO_000232 local:DerivationProcess_d31f5483-ed62-428f-8bff-6f4e39e640a7 ;
+  sio:SIO_000210 local:DiseaseRef_df88de7c-ac55-4fd3-bb14-1b59fa78eecb .
+
+local:DiseaseRef_df88de7c-ac55-4fd3-bb14-1b59fa78eecb a mondo:0008056 ;
+  rdfs:label "DM1" ;
+  rdfs:label "myotonic dystrophy type 1" .
+
+local:DiseaseRef_df88de7c-ac55-4fd3-bb14-1b59fa78eecb a orpha:273 .
+
+local:LocalID_995b348b-eb20-4231-aecc-0d067f59d17f a sio:SIO_000114 ;
+  sio:SIO_000300 "DM1 F024C9"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_8400d93f-f3b5-4aba-95c3-d15653281738 .
+
+<https://hpscreg.eu/cell-line/CHEORIi003-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for CHEORIi003-A" ;
+  sio:SIO_000628 local:CellLine_8400d93f-f3b5-4aba-95c3-d15653281738 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_d31f5483-ed62-428f-8bff-6f4e39e640a7 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 8400d93f-f3b5-4aba-95c3-d15653281738" ;
+  sio:SIO_000230 local:Patient_8c506748-5bcf-403e-b8ea-0f956d3e473e ;
+  sio:SIO_000229 local:CellLine_8400d93f-f3b5-4aba-95c3-d15653281738 .
+
+local:Patient_8c506748-5bcf-403e-b8ea-0f956d3e473e a sio:SIO_010006 ;
+  rdfs:label "Source patient for 8400d93f-f3b5-4aba-95c3-d15653281738" ;
+  sio:SIO_000008 local:DiseaseAttribute_4c0ab53b-c31f-4259-8607-fda01cfedfda .
+
+local:DiseaseAttribute_4c0ab53b-c31f-4259-8607-fda01cfedfda a sio:SIO_010299 ;
+  rdfs:label "myotonic dystrophy type 1" ;
+  sio:SIO_000628 local:DiseaseRef_df88de7c-ac55-4fd3-bb14-1b59fa78eecb .
+
+
+
+local:CellLine_e3e899ef-7bcf-45fc-82a1-9e87234c5719 a sio:SIO_010054 ;
+  rdfs:label "DM1 cell line (DM1 F054C3)" ;
+  sio:SIO_000671 local:LocalID_a60130ff-9888-4fe7-b6d8-b50692a31661 ;
+  sio:SIO_000232 local:DerivationProcess_2f481055-00d1-4a74-9676-fe1b47dd0a19 ;
+  sio:SIO_000210 local:DiseaseRef_16fc9e80-3c6e-41fc-9368-92b0c22eaf2a .
+
+local:DiseaseRef_16fc9e80-3c6e-41fc-9368-92b0c22eaf2a a mondo:0008056 ;
+  rdfs:label "DM1" ;
+  rdfs:label "myotonic dystrophy type 1" .
+
+local:DiseaseRef_16fc9e80-3c6e-41fc-9368-92b0c22eaf2a a orpha:273 .
+
+local:LocalID_a60130ff-9888-4fe7-b6d8-b50692a31661 a sio:SIO_000114 ;
+  sio:SIO_000300 "DM1 F054C3"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_e3e899ef-7bcf-45fc-82a1-9e87234c5719 .
+
+<https://hpscreg.eu/cell-line/CHEORIi004-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for CHEORIi004-A" ;
+  sio:SIO_000628 local:CellLine_e3e899ef-7bcf-45fc-82a1-9e87234c5719 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_2f481055-00d1-4a74-9676-fe1b47dd0a19 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for e3e899ef-7bcf-45fc-82a1-9e87234c5719" ;
+  sio:SIO_000230 local:Patient_cdf3e4ec-de5e-467b-adc4-14abcfcac146 ;
+  sio:SIO_000229 local:CellLine_e3e899ef-7bcf-45fc-82a1-9e87234c5719 .
+
+local:Patient_cdf3e4ec-de5e-467b-adc4-14abcfcac146 a sio:SIO_010006 ;
+  rdfs:label "Source patient for e3e899ef-7bcf-45fc-82a1-9e87234c5719" ;
+  sio:SIO_000008 local:DiseaseAttribute_09aac910-0c5f-425e-a0d2-d71e7a09ab00 .
+
+local:DiseaseAttribute_09aac910-0c5f-425e-a0d2-d71e7a09ab00 a sio:SIO_010299 ;
+  rdfs:label "myotonic dystrophy type 1" ;
+  sio:SIO_000628 local:DiseaseRef_16fc9e80-3c6e-41fc-9368-92b0c22eaf2a .
+
+
+
+local:CellLine_de92b9d6-74a4-494b-8a73-98978947c2e1 a sio:SIO_010054 ;
+  rdfs:label "DM1 cell line (DM1 F054C17)" ;
+  sio:SIO_000671 local:LocalID_e3f01a93-eab8-4a7b-bcf3-78747926fd43 ;
+  sio:SIO_000232 local:DerivationProcess_7558977c-5d25-4c81-a648-ba267dbe91f1 ;
+  sio:SIO_000210 local:DiseaseRef_6425105a-bf72-46c7-904e-11270a400d58 .
+
+local:DiseaseRef_6425105a-bf72-46c7-904e-11270a400d58 a mondo:0008056 ;
+  rdfs:label "DM1" ;
+  rdfs:label "myotonic dystrophy type 1" .
+
+local:DiseaseRef_6425105a-bf72-46c7-904e-11270a400d58 a orpha:273 .
+
+local:LocalID_e3f01a93-eab8-4a7b-bcf3-78747926fd43 a sio:SIO_000114 ;
+  sio:SIO_000300 "DM1 F054C17"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_de92b9d6-74a4-494b-8a73-98978947c2e1 .
+
+<https://hpscreg.eu/cell-line/CHEORIi004-B> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for CHEORIi004-B" ;
+  sio:SIO_000628 local:CellLine_de92b9d6-74a4-494b-8a73-98978947c2e1 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_7558977c-5d25-4c81-a648-ba267dbe91f1 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for de92b9d6-74a4-494b-8a73-98978947c2e1" ;
+  sio:SIO_000230 local:Patient_d3c3fb35-9fa0-45a0-8a34-8f22ac5015fb ;
+  sio:SIO_000229 local:CellLine_de92b9d6-74a4-494b-8a73-98978947c2e1 .
+
+local:Patient_d3c3fb35-9fa0-45a0-8a34-8f22ac5015fb a sio:SIO_010006 ;
+  rdfs:label "Source patient for de92b9d6-74a4-494b-8a73-98978947c2e1" ;
+  sio:SIO_000008 local:DiseaseAttribute_4b8ec90e-2c57-4f5b-9e83-5b2b0642dcfe .
+
+local:DiseaseAttribute_4b8ec90e-2c57-4f5b-9e83-5b2b0642dcfe a sio:SIO_010299 ;
+  rdfs:label "myotonic dystrophy type 1" ;
+  sio:SIO_000628 local:DiseaseRef_6425105a-bf72-46c7-904e-11270a400d58 .
+
+
+
+local:CellLine_87675ed1-26cd-4de2-84ca-9dfa56216cc0 a sio:SIO_010054 ;
+  rdfs:label "PDE cell line (IPS22-00005)" ;
+  sio:SIO_000671 local:LocalID_2f011674-d22a-4eb4-b6f0-9033a66b1fbf ;
+  sio:SIO_000232 local:DerivationProcess_7596922a-ea93-45f1-a852-9a6da190fa9f ;
+  sio:SIO_000210 local:DiseaseRef_625356b1-bc29-47b4-98dc-a459c20dfbc8 .
+
+local:DiseaseRef_625356b1-bc29-47b4-98dc-a459c20dfbc8 a mondo:0016448 ;
+  rdfs:label "PDE" ;
+  rdfs:label "pseudoxanthoma elasticum-like papillary dermal elastolysis" .
+
+local:DiseaseRef_625356b1-bc29-47b4-98dc-a459c20dfbc8 a orpha:228293 .
+
+local:LocalID_2f011674-d22a-4eb4-b6f0-9033a66b1fbf a sio:SIO_000114 ;
+  sio:SIO_000300 "IPS22-00005"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_87675ed1-26cd-4de2-84ca-9dfa56216cc0 .
+
+<https://hpscreg.eu/cell-line/SCTCi026-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for SCTCi026-A" ;
+  sio:SIO_000628 local:CellLine_87675ed1-26cd-4de2-84ca-9dfa56216cc0 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_7596922a-ea93-45f1-a852-9a6da190fa9f a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 87675ed1-26cd-4de2-84ca-9dfa56216cc0" ;
+  sio:SIO_000230 local:Patient_3faa5642-6427-48e1-a298-0e70da9ec8a4 ;
+  sio:SIO_000229 local:CellLine_87675ed1-26cd-4de2-84ca-9dfa56216cc0 .
+
+local:Patient_3faa5642-6427-48e1-a298-0e70da9ec8a4 a sio:SIO_010006 ;
+  rdfs:label "Source patient for 87675ed1-26cd-4de2-84ca-9dfa56216cc0" ;
+  sio:SIO_000008 local:DiseaseAttribute_438fe2c2-3a70-48c6-a959-649a37b0a7d1 .
+
+local:DiseaseAttribute_438fe2c2-3a70-48c6-a959-649a37b0a7d1 a sio:SIO_010299 ;
+  rdfs:label "pseudoxanthoma elasticum-like papillary dermal elastolysis" ;
+  sio:SIO_000628 local:DiseaseRef_625356b1-bc29-47b4-98dc-a459c20dfbc8 .
+
+
+
+local:CellLine_a3ca18cb-3b54-4eda-9430-ffdc9208d640 a sio:SIO_010054 ;
+  rdfs:label "PDE cell line (IPS22-00006)" ;
+  sio:SIO_000671 local:LocalID_9b00751f-27c1-40bb-865e-16130adf2c55 ;
+  sio:SIO_000232 local:DerivationProcess_87e4704b-bcc0-4ceb-abc7-897f642c18e6 ;
+  sio:SIO_000210 local:DiseaseRef_e04a1232-40f7-4ce2-aec5-1f3d9a561791 .
+
+local:DiseaseRef_e04a1232-40f7-4ce2-aec5-1f3d9a561791 a mondo:0016448 ;
+  rdfs:label "PDE" ;
+  rdfs:label "pseudoxanthoma elasticum-like papillary dermal elastolysis" .
+
+local:DiseaseRef_e04a1232-40f7-4ce2-aec5-1f3d9a561791 a orpha:228293 .
+
+local:LocalID_9b00751f-27c1-40bb-865e-16130adf2c55 a sio:SIO_000114 ;
+  sio:SIO_000300 "IPS22-00006"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_a3ca18cb-3b54-4eda-9430-ffdc9208d640 .
+
+<https://hpscreg.eu/cell-line/SCTCi027-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for SCTCi027-A" ;
+  sio:SIO_000628 local:CellLine_a3ca18cb-3b54-4eda-9430-ffdc9208d640 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_87e4704b-bcc0-4ceb-abc7-897f642c18e6 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for a3ca18cb-3b54-4eda-9430-ffdc9208d640" ;
+  sio:SIO_000230 local:Patient_103182ff-a192-4338-aaf6-a926de4bd582 ;
+  sio:SIO_000229 local:CellLine_a3ca18cb-3b54-4eda-9430-ffdc9208d640 .
+
+local:Patient_103182ff-a192-4338-aaf6-a926de4bd582 a sio:SIO_010006 ;
+  rdfs:label "Source patient for a3ca18cb-3b54-4eda-9430-ffdc9208d640" ;
+  sio:SIO_000008 local:DiseaseAttribute_6b7f6c08-81ed-45c3-bbe3-d5280542867c .
+
+local:DiseaseAttribute_6b7f6c08-81ed-45c3-bbe3-d5280542867c a sio:SIO_010299 ;
+  rdfs:label "pseudoxanthoma elasticum-like papillary dermal elastolysis" ;
+  sio:SIO_000628 local:DiseaseRef_e04a1232-40f7-4ce2-aec5-1f3d9a561791 .
+
+
+
+local:CellLine_b7082b23-ba4b-44e5-bcea-81f23abe4bc3 a sio:SIO_010054 ;
+  rdfs:label "PDE cell line (IPS22-00007)" ;
+  sio:SIO_000671 local:LocalID_5ca91d48-172a-4f01-814c-8157bfe4ec45 ;
+  sio:SIO_000232 local:DerivationProcess_2c8c63b1-cc92-4168-af2b-535e8f9243fb ;
+  sio:SIO_000210 local:DiseaseRef_34aa7826-bc79-49cd-a725-464022cf6fca .
+
+local:DiseaseRef_34aa7826-bc79-49cd-a725-464022cf6fca a mondo:0016448 ;
+  rdfs:label "PDE" ;
+  rdfs:label "pseudoxanthoma elasticum-like papillary dermal elastolysis" .
+
+local:DiseaseRef_34aa7826-bc79-49cd-a725-464022cf6fca a orpha:228293 .
+
+local:LocalID_5ca91d48-172a-4f01-814c-8157bfe4ec45 a sio:SIO_000114 ;
+  sio:SIO_000300 "IPS22-00007"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_b7082b23-ba4b-44e5-bcea-81f23abe4bc3 .
+
+<https://hpscreg.eu/cell-line/SCTCi028-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for SCTCi028-A" ;
+  sio:SIO_000628 local:CellLine_b7082b23-ba4b-44e5-bcea-81f23abe4bc3 ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_2c8c63b1-cc92-4168-af2b-535e8f9243fb a sio:SIO_000006 ;
+  rdfs:label "Derivation process for b7082b23-ba4b-44e5-bcea-81f23abe4bc3" ;
+  sio:SIO_000230 local:Patient_e1547d85-3052-401e-b449-57e9f0469479 ;
+  sio:SIO_000229 local:CellLine_b7082b23-ba4b-44e5-bcea-81f23abe4bc3 .
+
+local:Patient_e1547d85-3052-401e-b449-57e9f0469479 a sio:SIO_010006 ;
+  rdfs:label "Source patient for b7082b23-ba4b-44e5-bcea-81f23abe4bc3" ;
+  sio:SIO_000008 local:DiseaseAttribute_f7746f3d-4d73-491e-b427-8a7af63e02fd .
+
+local:DiseaseAttribute_f7746f3d-4d73-491e-b427-8a7af63e02fd a sio:SIO_010299 ;
+  rdfs:label "pseudoxanthoma elasticum-like papillary dermal elastolysis" ;
+  sio:SIO_000628 local:DiseaseRef_34aa7826-bc79-49cd-a725-464022cf6fca .
+
+
+
+local:CellLine_006d4139-248c-4bff-b07b-00fad784cd1c a sio:SIO_010054 ;
+  rdfs:label "PDE cell line (IPS22-00008)" ;
+  sio:SIO_000671 local:LocalID_0372cdfa-d87e-4807-9dfe-fc91bc9158f7 ;
+  sio:SIO_000232 local:DerivationProcess_ce2336ee-5d49-45b9-a5a9-2da343f028f8 ;
+  sio:SIO_000210 local:DiseaseRef_c5a3ec20-c732-4edc-9cf3-33fc482d8e82 .
+
+local:DiseaseRef_c5a3ec20-c732-4edc-9cf3-33fc482d8e82 a mondo:0016448 ;
+  rdfs:label "PDE" ;
+  rdfs:label "pseudoxanthoma elasticum-like papillary dermal elastolysis" .
+
+local:DiseaseRef_c5a3ec20-c732-4edc-9cf3-33fc482d8e82 a orpha:228293 .
+
+local:LocalID_0372cdfa-d87e-4807-9dfe-fc91bc9158f7 a sio:SIO_000114 ;
+  sio:SIO_000300 "IPS22-00008"^^xsd:string ;
+  sio:SIO_000672 local:CellLine_006d4139-248c-4bff-b07b-00fad784cd1c .
+
+<https://hpscreg.eu/cell-line/SCTCi029-A> a sio:SIO_000756 ;
+  rdfs:label "hPSCreg record for SCTCi029-A" ;
+  sio:SIO_000628 local:CellLine_006d4139-248c-4bff-b07b-00fad784cd1c ;
+  sio:SIO_000557 simpathicmetadata:9225eb84-e5ff-4a86-8e37-13f882f18f56 .
+
+local:DerivationProcess_ce2336ee-5d49-45b9-a5a9-2da343f028f8 a sio:SIO_000006 ;
+  rdfs:label "Derivation process for 006d4139-248c-4bff-b07b-00fad784cd1c" ;
+  sio:SIO_000230 local:Patient_92afa939-ebb5-4b77-95c7-e091394916ef ;
+  sio:SIO_000229 local:CellLine_006d4139-248c-4bff-b07b-00fad784cd1c .
+
+local:Patient_92afa939-ebb5-4b77-95c7-e091394916ef a sio:SIO_010006 ;
+  rdfs:label "Source patient for 006d4139-248c-4bff-b07b-00fad784cd1c" ;
+  sio:SIO_000008 local:DiseaseAttribute_63f52db2-df1b-4804-81f8-a00df4330447 .
+
+local:DiseaseAttribute_63f52db2-df1b-4804-81f8-a00df4330447 a sio:SIO_010299 ;
+  rdfs:label "pseudoxanthoma elasticum-like papillary dermal elastolysis" ;
+  sio:SIO_000628 local:DiseaseRef_c5a3ec20-c732-4edc-9cf3-33fc482d8e82 .
+
+

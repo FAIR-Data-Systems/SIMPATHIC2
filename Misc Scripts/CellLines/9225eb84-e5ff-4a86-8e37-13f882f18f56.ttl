@@ -1,0 +1,132 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+
+<https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56> a dcat:Resource,
+    dcat:Dataset;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cell Lines registered in hPSCreg";
+  dcterms:title "Cell Lines registered in hPSCreg";
+  <https://w3id.org/fdp/fdp-o#metadataIssued> "2026-01-08T18:37:47.339283453Z"^^xsd:dateTime;
+  <https://w3id.org/fdp/fdp-o#metadataModified> "2026-01-08T18:43:47.226726604Z"^^xsd:dateTime;
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/>;
+  dcterms:description "Cell Lines registered in hPSCreg";
+  dcterms:language <https://id.loc.gov/vocabulary/iso639-2/eng>;
+  <https://w3id.org/fdp/fdp-o#metadataIdentifier> <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56#identifier>;
+  dcterms:accessRights <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56#accessRights>;
+  dcterms:publisher [ a foaf:Organization;
+      foaf:name "SIMPATHIC Project";
+      foaf:logo <https://simpathic.eu/wp-content/uploads/2024/09/Logo-SIMPATHIC_final-1024x571.webp>
+    ];
+  dcterms:keyword "cell lines", "mitochondrial diseases", "rare diseases","Leigh Syndrome","Leigh syndrome",
+"LS isogenic","Leigh syndrome",
+"MT-ATP6","Leigh syndrome",
+"ZSD","peroxisome biogenesis disorder",
+"SSADHD","succinic semialdehyde dehydrogenase deficiency",
+"GTPCH","GTP cyclohydrolase I deficiency with hyperphenylalaninemia",
+"GA1","glutaryl-CoA dehydrogenase deficiency",
+"PMM2-CDG","DHDDS-CDG",
+"SCA3","Machado-Joseph disease type 2",
+"congenital myasthenic syndrome","congenital myasthenic syndrome",
+"DM1","myotonic dystrophy type 1",
+"PDE","pseudoxanthoma elasticum-like papillary dermal elastolysis" ;
+  dcat:contactPoint [ a <http://www.w3.org/2006/vcard/ns#Agent>;
+      <http://www.w3.org/2006/vcard/ns#url> <https://simpathic.eu>
+    ];
+  dcat:theme <http://purl.obolibrary.org/obo/MONDO_0009723>,
+<https://hpscreg.eu/cell-line/HMGUi001-A-63>,
+<http://www.orpha.net/ORDO/Orphanet_506>,
+<https://hpscreg.eu/cell-line/MDCi252-A>,
+<https://hpscreg.eu/cell-line/HHUi001-A>,
+<https://hpscreg.eu/cell-line/HHUi002-A>,
+<https://hpscreg.eu/cell-line/MDCi007-A>,
+<https://hpscreg.eu/cell-line/MDCi008-A>,
+<https://hpscreg.eu/cell-line/MDCi009-A>,
+<https://hpscreg.eu/cell-line/MDCi010-A>,
+<https://hpscreg.eu/cell-line/BIHi276-A>,
+<https://hpscreg.eu/cell-line/BIHi267-B>,
+<https://hpscreg.eu/cell-line/HHUi003-B>,
+<http://purl.obolibrary.org/obo/MONDO_0019234>,
+<https://hpscreg.eu/cell-line/VUi056-A>,
+<http://www.orpha.net/ORDO/Orphanet_79189>,
+<https://hpscreg.eu/cell-line/VUi058-A>,
+<https://hpscreg.eu/cell-line/VUi059-A>,
+<https://hpscreg.eu/cell-line/VUi060-A>,
+<https://hpscreg.eu/cell-line/VUi061-A>,
+<http://purl.obolibrary.org/obo/MONDO_0010083>,
+<https://hpscreg.eu/cell-line/DHMCi013-A>,
+<http://www.orpha.net/ORDO/Orphanet_22>,
+<https://hpscreg.eu/cell-line/DHMCi014-A>,
+<https://hpscreg.eu/cell-line/DHMCi015-A>,
+<http://purl.obolibrary.org/obo/MONDO_0100186>,
+<https://hpscreg.eu/cell-line/DHMCi002-B>,
+<http://www.orpha.net/ORDO/Orphanet_2102>,
+<https://hpscreg.eu/cell-line/DHMCi012-A>,
+<http://purl.obolibrary.org/obo/MONDO_0009281>,
+<https://hpscreg.eu/cell-line/DHMCi018-B>,
+<http://www.orpha.net/ORDO/Orphanet_25>,
+<https://hpscreg.eu/cell-line/SCTCi030-A>,
+<https://hpscreg.eu/cell-line/SCTCi031-A>,
+<https://hpscreg.eu/cell-line/SCTCi032-A>,
+<https://hpscreg.eu/cell-line/SCTCi033-A>,
+<http://purl.obolibrary.org/obo/MONDO_1040054>,
+<https://hpscreg.eu/cell-line/iPS20-00130>,
+<http://www.orpha.net/ORDO/Orphanet_>,
+<https://hpscreg.eu/cell-line/iPS20-00131>,
+<https://hpscreg.eu/cell-line/iPS20-00132>,
+<http://purl.obolibrary.org/obo/MONDO_0017175>,
+<https://hpscreg.eu/cell-line/HIHCNi002-A>,
+<http://www.orpha.net/ORDO/Orphanet_276241>,
+<http://purl.obolibrary.org/obo/MONDO_0018940>,
+<https://hpscreg.eu/cell-line/CHEORIi001-A>,
+<http://www.orpha.net/ORDO/Orphanet_590>,
+<https://hpscreg.eu/cell-line/CHEORIi001-B>,
+<https://hpscreg.eu/cell-line/CHEORIi001-C>,
+<https://hpscreg.eu/cell-line/CHEORIi002-A>,
+<https://hpscreg.eu/cell-line/CHEORIi002-B>,
+<http://purl.obolibrary.org/obo/MONDO_0008056>,
+<https://hpscreg.eu/cell-line/CHEORIi003-A>,
+<http://www.orpha.net/ORDO/Orphanet_273>,
+<https://hpscreg.eu/cell-line/CHEORIi004-A>,
+<https://hpscreg.eu/cell-line/CHEORIi004-B>,
+<http://purl.obolibrary.org/obo/MONDO_0016448>,
+<https://hpscreg.eu/cell-line/SCTCi026-A>,
+<http://www.orpha.net/ORDO/Orphanet_228293>,
+<https://hpscreg.eu/cell-line/SCTCi027-A>,
+<https://hpscreg.eu/cell-line/SCTCi028-A>,
+<https://hpscreg.eu/cell-line/SCTCi029-A>
+;
+  <https://w3id.org/ejp-rd/vocabulary#personalData> "false";
+  <http://semanticscience.org/resource/SIO_000628> <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56/metrics/445c0a70d1e214e545b261559e2842f4>,
+    <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56/metrics/5d27e854a9e78eb3f663331cd47cdc13>;
+  dcterms:isPartOf <https://w3id.org/simpathic/fdp/catalog/a3140d13-7798-4b00-ae8e-37e1a1b30aec>;
+  <https://w3id.org/ejp-rd/vocabulary#vpConnection> <https://w3id.org/ejp-rd/vocabulary#VPDiscoverable>;
+  foaf:logo <https://simpathic.eu/wp-content/uploads/2024/09/Logo-SIMPATHIC_final-1024x571.webp>;
+  dcat:distribution <https://w3id.org/simpathic/fdp/distribution/35888842-2b38-4dc1-b78f-1f5234425e35>;
+  dcterms:conformsTo <https://w3id.org/simpathic/fdp/profile/2f08228e-1789-40f8-84cd-28e3288c3604> .
+
+<https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56#identifier>
+  a <http://purl.org/spar/datacite/Identifier>;
+  dcterms:identifier "https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56" .
+
+<https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56#accessRights>
+  a dcterms:RightsStatement;
+  dcterms:description "Contact the owner/curator of this resource to determine your access rights" .
+
+<https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56/metrics/445c0a70d1e214e545b261559e2842f4>
+  <http://semanticscience.org/resource/SIO_000628> <https://www.ietf.org/rfc/rfc3986.txt>;
+  <http://semanticscience.org/resource/SIO_000332> <https://www.ietf.org/rfc/rfc3986.txt> .
+
+<https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56/metrics/5d27e854a9e78eb3f663331cd47cdc13>
+  <http://semanticscience.org/resource/SIO_000628> <https://www.wikidata.org/wiki/Q8777>;
+  <http://semanticscience.org/resource/SIO_000332> <https://www.wikidata.org/wiki/Q8777> .
+
+<https://w3id.org/simpathic/fdp/distribution/> a ldp:DirectContainer;
+  dcterms:title "Distributions";
+  ldp:membershipResource <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56>;
+  ldp:hasMemberRelation dcat:distribution;
+  ldp:contains <https://w3id.org/simpathic/fdp/distribution/35888842-2b38-4dc1-b78f-1f5234425e35> .
+
+<https://w3id.org/simpathic/fdp/profile/2f08228e-1789-40f8-84cd-28e3288c3604> <http://www.w3.org/2000/01/rdf-schema#label>
+    "Dataset Profile" .

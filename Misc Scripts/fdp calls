@@ -1,0 +1,13 @@
+curl -v \
+   -H "Content-type: application/json" \
+   -d '{"email": "albert.einstein@example.com", "password": "password"}'   \
+   http://localhost:7070/tokens
+
+
+curl -v \
+  -X PUT \
+  -H "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9………" \
+  -H "Accept: text/turtle" \
+  -H "Content-type: text/turtle" \
+  --data-binary @catalog_10000.ttl
+http://localhost:7070/XXXXXXXX_ID_OF_RECORD_XXXXXXX
