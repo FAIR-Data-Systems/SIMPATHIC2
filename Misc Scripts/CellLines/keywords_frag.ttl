@@ -9,4 +9,4 @@
 "SCA3","Machado-Joseph disease type 2",
 "congenital myasthenic syndrome","congenital myasthenic syndrome",
 "DM1","myotonic dystrophy type 1",
-"PDE","pseudoxanthoma elasticum-like papillary dermal elastolysis"
+"ORPHA:3006","pyridoxine-dependent epilepsy"

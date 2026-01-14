@@ -77,7 +77,7 @@ def get_mondo_code(disease_str)
 
   # Query OLS4 API (current as of 2026)
   query = URI.encode_www_form_component(normalized)
-  url = "https://www.ebi.ac.uk/ols4/api/search?q=#{query}&ontology=mondo&rows=1"   # first match only... let's try that!
+  url = "https://www.ebi.ac.uk/ols4/api/search?q=#{query}&ontology=mondo&rows=5"   # first match only... let's try that!
   uri = URI(url)
   warn "CALLING #{url}"
 
@@ -108,6 +108,13 @@ def get_mondo_code(disease_str)
   '0000000' # placeholder – review logs for manual fixes
 end
 
+
+#  PDE is incorrect.
+# Cannot be MONDO_0016448 nor Orphanet_228293
+# Must be pyridoxin-dependent epilepsy. OMIM is #266100; ORPHA:3006
+#   SOLUTION:  manually change PDE to ORPHA:3006 in the csv file
+# In addition, there is one incomplete Orphanet ID Orphanet_
+# I am missing the MONDO ID that is mapping Steinert myotonic dystrophy (Orphanet_273) but I have overlooked it.
 # ----------------------------- Script starts here -----------------------------
 
 input_file = ARGV[0] || 'cell_lines.csv'
@@ -187,7 +194,6 @@ File.open(output_file, 'w') do |f|
         rdfs:label "#{disease_str}" ;
         rdfs:label "#{mondo_label}" .
 
-      #{disease_ref} a orpha:#{orpha_code} .
 
       #{localid} a sio:SIO_000114 ;
         sio:SIO_000300 "#{local_id_str}"^^xsd:string ;
@@ -213,13 +219,15 @@ File.open(output_file, 'w') do |f|
 
     TRIPLES
 
+    f.puts "#{disease_ref} a orpha:#{orpha_code} ." if orpha_code
+
     f.puts "\n" # blank line between entries for readability
 
     # keywords['"#{cellline_label}"'] = 1
     keywords["\"#{disease_str}\",\"#{mondo_label}\""] = 1
     themes["<http://purl.obolibrary.org/obo/MONDO_#{mondo_code}>"] = 1
     themes["<#{hpscreg_url}>"] = 1
-    themes["<http://www.orpha.net/ORDO/Orphanet_#{orpha_code}>"] = 1
+    themes["<http://www.orpha.net/ORDO/Orphanet_#{orpha_code}>"] = 1 if orpha_code
 
   end
 end
