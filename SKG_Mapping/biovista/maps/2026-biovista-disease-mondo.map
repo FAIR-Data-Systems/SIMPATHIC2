@@ -5,7 +5,7 @@ C0268467,http://www.orpha.net/ORDO/Orphanet_2102,http://purl.bioontology.org/ont
 C0268631,http://www.orpha.net/ORDO/Orphanet_22,http://purl.bioontology.org/ontology/SNOMEDCT/49748000,SSADH DEFICIENCY,http://purl.obolibrary.org/obo/MONDO_0010083
 C0043459,http://www.orpha.net/ORDO/Orphanet_912,http://purl.bioontology.org/ontology/SNOMEDCT/88469006,ZELLWEGER SYNDROME,http://purl.obolibrary.org/obo/MONDO_0019609
 C0751882,http://www.orpha.net/ORDO/Orphanet_590,http://purl.bioontology.org/ontology/SNOMEDCT/230672006,CONGENITAL MYASTHENIC SYNDROME,http://purl.obolibrary.org/obo/MONDO_0018940
-C1849508,http://www.orpha.net/ORDO/Orphanet_3006,http://purl.bioontology.org/ontology/SNOMEDCT/733145009,Pyridoxine-dependent-developmental and epileptic encephalopathy, # manually added,http://purl.obolibrary.org/obo/MONDO_0009945
-C0024408,http://www.orpha.net/ORDO/Orphanet_98757,http://purl.bioontology.org/ontology/SNOMEDCT/230666003,Machado-Joseph disease (MJD), # manually added,http://purl.obolibrary.org/obo/MONDO_0007182
-C0268595,http://www.orpha.net/ORDO/Orphanet_25,http://purl.bioontology.org/ontology/SNOMEDCT/360416003,Glutaryl-CoA dehydrogenase deficiency, # manually added,http://purl.obolibrary.org/obo/MONDO_0009281
+C1849508,http://www.orpha.net/ORDO/Orphanet_3006,http://purl.bioontology.org/ontology/SNOMEDCT/733145009,Pyridoxine-dependent-developmental and epileptic encephalopathy,http://purl.obolibrary.org/obo/MONDO_0009945
+C0024408,http://www.orpha.net/ORDO/Orphanet_98757,http://purl.bioontology.org/ontology/SNOMEDCT/230666003,Machado-Joseph disease (MJD),http://purl.obolibrary.org/obo/MONDO_0007182
+C0268595,http://www.orpha.net/ORDO/Orphanet_25,http://purl.bioontology.org/ontology/SNOMEDCT/360416003,Glutaryl-CoA dehydrogenase deficiency,http://purl.obolibrary.org/obo/MONDO_0009281
 C2931891,http://www.orpha.net/ORDO/Orphanet_506,http://purl.bioontology.org/ontology/SNOMEDCT/29570005,LEIGH SYNDROME,http://purl.obolibrary.org/obo/MONDO_0009723

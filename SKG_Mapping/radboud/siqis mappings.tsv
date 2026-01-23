@@ -1,0 +1,16 @@
+Biovista ID in KG	Biovista disease name	Radboud ID in KG	Open Targets Platform ID (Newest version)	Radboud disease name
+MONDO_0010083	SSADH DEFICIENCY	Orphanet_22	MONDO_0010083	succinic semialdehyde dehydrogenase deficiency
+MONDO_0018940	CONGENITAL MYASTHENIC SYNDROME	Orphanet_353327	EFO_0700079	Congenital myasthenic syndromes with glycosylation defect
+		Orphanet_98915		Synaptic congenital myasthenic syndromes
+		Orphanet_98914		Presynaptic congenital myasthenic syndromes
+		Orphanet_98913		Postsynaptic congenital myasthenic syndromes
+MONDO_0009723	LEIGH SYNDROME	EFO_0009135		leigh syndrome due to mitochondrial complex iv deficiency
+MONDO_0019609	ZELLWEGER SYNDROME	EFO_0010956		peroxisome biogenesis disorder, complementation group 7
+MONDO_0100184	GTPCH DEFICIENCY	MONDO_0100186		GTP cyclohydrolase I deficiency with hyperphenylalaninemia
+MONDO_0008907	PMM2-CDG	Orphanet_79318	MONDO_0008907	PMM2-congenital disorder of glycosylation
+MONDO_0016107	MYOTONIC DYSTROPHY TYPE 1	Orphanet_273		Steinert myotonic dystrophy
+MONDO_0009945	Pyridoxine-dependent-developmental and epileptic encephalopathy	Orphanet_3006	MONDO_0009945	pyridoxine-dependent epilepsy
+MONDO_0007182	Machado-Joseph disease (MJD)	Orphanet_276238	MONDO_0017174	Machado-Joseph disease type 1
+		Orphanet_276241	MONDO_0017175	Machado-Joseph disease type 2
+		Orphanet_276244	MONDO_0017176	Machado-Joseph disease type 3
+MONDO_0009281	Glutaryl-CoA dehydrogenase deficiency	HP_0003150		Glutaric aciduria
