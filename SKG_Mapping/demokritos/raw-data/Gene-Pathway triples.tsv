@@ -1,0 +1,358 @@
+Gene	Gene_id	RELATION	PROVENANCE	Pathway	Pathway_id
+MBNL1 gene	C1417055	AUGMENTS	["26123252_fullText_5"]	ubiquitin-specific protease activity	C1150158
+ATXN3 gene	C1538301	AFFECTS	["19153604_fullText_5"]	Ubiquitination	C1519751
+UBE2K gene	C1415547	AFFECTS	["17092742_fullText_2"]	Ubiquitination	C1519751
+KEAP1 gene	C1427969	AFFECTS	["30135079_fullText_48","35565658_fullText_263"]	Ubiquitination	C1519751
+PEX2 gene	C1419149	AFFECTS	["29773809_fullText_5","29370694_fullText_30","21826223_fullText_67"]	Ubiquitination	C1519751
+ATXN3 gene	C1538301	AUGMENTS	["38497605_fullText_88"]	Ubiquitination	C1519751
+PRPF19 gene	C1538720	AUGMENTS	["33542212_fullText_6"]	Ubiquitination	C1519751
+Homologous Gene	C1334043	DISRUPTS	["19158078_fullText_8"]	Ubiquitination	C1519751
+DEGS1 wt Allele	C3539688	AFFECTS	["32162843_fullText_99"]	Glycolysis	C0017952
+PGM1 gene	C1418516	AFFECTS	["24997537_fullText_4"]	Glycolysis	C0017952
+TFAM gene	C1420696	AUGMENTS	["30059502_fullText_65"]	Glycolysis	C0017952
+CEL gene	C1413336	AUGMENTS	["30429455_fullText_1"]	Glycolysis	C0017952
+NDUFV1 gene	C1417652	AUGMENTS	["30429455_fullText_4"]	Glycolysis	C0017952
+MAOA gene	C1417001	DISRUPTS	["37249744_fullText_10"]	Glycolysis	C0017952
+PARK2 gene	C1418270	AUGMENTS	["38497605_fullText_106"]	Deubiquitination	C1157996
+ATXN3 gene	C1538301	AUGMENTS	["38497605_fullText_106","38497605_fullText_149"]	Deubiquitination	C1157996
+ATXN3 gene	C1538301	AFFECTS__SPEC__	["33629274_fullText_2"]	Deubiquitination	C1157996
+CEACAM6 gene	C1413309	AFFECTS	["34006978_fullText_5"]	Facilitation	C0234112
+CNR1 gene	C1413554	AFFECTS	["33931678_fullText_4"]	brain development	C1160340
+MBNL1 gene	C1417055	AFFECTS	["29309648_fullText_142"]	protein activity	C1537044
+ALG13 gene	C1823172	AFFECTS	["35327592_fullText_18"]	protein activity	C1537044
+ALG14 gene	C1823173	AFFECTS	["35327592_fullText_18"]	protein activity	C1537044
+MBNL2 gene	C1424516	DISRUPTS	["35606145_fullText_12"]	Nuclear Translocation	C1518440
+TFEB gene	C1420699	AUGMENTS	["35090378_fullText_9"]	Nuclear Translocation	C1518440
+CELF1 gene	C1413824	AFFECTS	["25883322_fullText_12"]	Down-Regulation	C0013081
+PROCR gene	C1418944	AFFECTS	["35717947_fullText_6"]	Down-Regulation	C0013081
+LGALS4 gene	C1416832	DISRUPTS	["26940433_fullText_68"]	Down-Regulation	C0013081
+SMR3B gene	C1539794	DISRUPTS	["26940433_fullText_68"]	Down-Regulation	C0013081
+DLX4 gene	C1414078	AFFECTS	["27484195_fullText_49"]	glucose metabolism	C0596620
+NDUFS8 gene	C1417651	AFFECTS	["36557887_fullText_93"]	glucose metabolism	C0596620
+ATXN3 gene	C1538301	AFFECTS	["35488942_fullText_10"]	glucose metabolism	C0596620
+CA8 gene	C1413051	AFFECTS	["35488942_fullText_10","35488942_fullText_12"]	glucose metabolism	C0596620
+PCK2 gene	C1418372	AFFECTS	["27080638_fullText_6"]	glucose metabolism	C0596620
+SIRT3 gene	C1423063	AFFECTS	["34571997_fullText_3","34571997_fullText_4"]	glucose metabolism	C0596620
+SIRT3 gene	C1423063	AUGMENTS	["34571997_fullText_11"]	glucose metabolism	C0596620
+ATXN3 gene	C1538301	AFFECTS	["21317884_fullText_4"]	Proteolysis	C0597304
+ATXN3 gene	C1538301	DISRUPTS	["19783548_fullText_75"]	Proteolysis	C0597304
+PARK2 gene	C1418270	AFFECTS	["39088078_fullText_97"]	L-ascorbate oxidase activity	C1151319
+APOE gene	C1412481	AFFECTS	["25369462_fullText_4"]	L-ascorbate oxidase activity	C1151319
+Alleles	C0002085	AFFECTS	["25369462_fullText_7"]	L-ascorbate oxidase activity	C1151319
+WAS wt Allele	C1705616	AFFECTS	["35995972_fullText_8"]	Gene Regulatory Networks	C1720950
+GRIN1 gene	C1415298	AFFECTS	["34440401_fullText_90"]	Post-Translational Protein Processing	C0033666
+KCNQ2 gene	C1416614	AFFECTS	["34440401_fullText_90"]	Post-Translational Protein Processing	C0033666
+ATXN3 gene	C1538301	AFFECTS	["25633985_fullText_62"]	Post-Translational Protein Processing	C0033666
+RALBP1 wt Allele	C3539807	AFFECTS	["12663059_fullText_1"]	Saccades	C0036019
+ALYREF gene	C1425988	AFFECTS	["39385390_fullText_110"]	Signal Transduction Pathways	C0086982
+LRP4 gene	C1416916	AFFECTS	["24234652_fullText_9"]	Signal Transduction Pathways	C0086982
+ASAH1 wt Allele	C3539770	AFFECTS	["34910905_fullText_5"]	Signal Transduction Pathways	C0086982
+ANLN gene	C1422396	AUGMENTS	["38018694_fullText_5"]	Signal Transduction Pathways	C0086982
+NGLY1 gene	C1425023	AUGMENTS	["30135079_fullText_15"]	Esthesia	C0036658
+TREX1 gene	C1336670	AUGMENTS	["30135079_fullText_3"]	Esthesia	C0036658
+ATXN3 gene	C1538301	AUGMENTS	["33741019_fullText_6"]	ERK Signal Tranduction Pathway	C3179234
+CD200 gene	C1540289	AFFECTS	["12705497_fullText_1"]	Oxidative Phosphorylation	C0030013
+NGLY1 gene	C1425023	DISRUPTS	["33315951_fullText_44"]	Oxidative Phosphorylation	C0030013
+GLUD1 gene	C1415113	DISRUPTS	["24498361_fullText_80"]	Citric Acid Cycle	C0008858
+NDUFS4 gene	C1417647	DISRUPTS	["28916769_fullText_5"]	Citric Acid Cycle	C0008858
+DNA Conformation	C3179229	AFFECTS	["26756355_fullText_129"]	Base Pairing	C0600436
+MAP3K5 gene	C1417014	AUGMENTS	["34831394_fullText_8"]	JUN kinase activity	C1150587
+SIRT5 gene	C1423065	AFFECTS	["35157847_fullText_7","35157847_fullText_87"]	amino acid metabolism	C0596076
+NDUFS4 gene	C1417647	AFFECTS	["39223312_fullText_7"]	Nervous System Physiological Phenomena	C0027767
+S100B gene	C1419790	AFFECTS	["37259727_fullText_7"]	Nervous System Physiological Phenomena	C0027767
+Synthetic Genes	C0017374	AFFECTS	["33918915_fullText_1"]	Nervous System Physiological Phenomena	C0027767
+ATXN3 gene	C1538301	AUGMENTS	["22133674_fullText_6"]	Macromolecular alteration	C0301641
+NGLY1 gene	C1425023	AFFECTS	["35406718_fullText_134"]	proteasome complex disassembly	C3824143
+RORC gene	C1419603	AFFECTS	["30816177_fullText_118"]	Protein phosphorylation	C1158886
+PARP1 gene	C1538577	AFFECTS	["30816177_fullText_118"]	Protein phosphorylation	C1158886
+PRRT2 wt Allele	C3539645	AFFECTS	["8892024_fullText_9"]	Protein phosphorylation	C1158886
+NPC2 gene	C1422736	AFFECTS	["25270028_fullText_82"]	cholesterol metabolism	C1156530
+HDAC5 gene	C1333894	AUGMENTS	["34232131_fullText_6"]	Acetylation	C0001038
+HDAC4 gene	C1333893	AUGMENTS	["34232131_fullText_6"]	Acetylation	C0001038
+HDAC1 gene	C1333891	AUGMENTS	["34232131_fullText_6"]	Acetylation	C0001038
+PIGM gene	C1425829	AUGMENTS	["29702557_fullText_116"]	Acetylation	C0001038
+ITM2B gene	C1416512	AFFECTS	["34416235_fullText_2"]	Proteolytic Processing	C1514570
+COX15 gene	C1413632	AFFECTS	["26940873_fullText_10"]	protein folding	C0162847
+PRKCSH gene	C1418927	AFFECTS	["34106226_fullText_58","34106226_fullText_90"]	protein folding	C0162847
+GANAB gene	C1414965	AFFECTS	["34106226_fullText_58"]	protein folding	C0162847
+HSP90B1 gene	C1825546	AFFECTS	["34106226_fullText_98"]	protein folding	C0162847
+PMM2 gene	C1418674	AFFECTS	["34331832_fullText_0"]	protein folding	C0162847
+HSPA5 gene	C1415761	AFFECTS	["34106226_fullText_98"]	protein folding	C0162847
+CANX gene	C1413107	AUGMENTS	["35565658_fullText_117"]	protein folding	C0162847
+PEX5 gene	C1419151	AFFECTS	["10562279_fullText_101"]	protein protein interaction	C0872079
+GTF2H1 gene	C1333723	AFFECTS	["29370694_fullText_16"]	protein protein interaction	C0872079
+ATXN3 gene	C1538301	AFFECTS	["38612794_fullText_100"]	cholesterol biosynthesis	C0599474
+DMPK gene	C1414085	AFFECTS	["12612014_fullText_5"]	Neuronal Plasticity	C0027880
+TSPO gene	C1823521	AFFECTS	["35444254_fullText_9"]	Neuronal Plasticity	C0027880
+GRHL3 gene	C1842259	AFFECTS	["34429141_fullText_9"]	Neuronal Plasticity	C0027880
+DOC2A gene	C1414126	AFFECTS	["36142117_fullText_4"]	Neuronal Plasticity	C0027880
+ASIC1 gene	C1412115	AFFECTS	["37629153_fullText_11"]	Neuronal Plasticity	C0027880
+IFNAR1 wt Allele	C1708407	AFFECTS	["35193483_fullText_4"]	Neuronal Plasticity	C0027880
+RYR1 gene	C1419778	AFFECTS	["37615871_fullText_2"]	Neuronal Plasticity	C0027880
+JOSD2 gene	C1825639	AFFECTS	["38497605_fullText_97"]	Protein Degradation, Metabolic	C0597297
+CELF1 gene	C1413824	AFFECTS	["23536431_fullText_5"]	Protein Degradation, Metabolic	C0597297
+USP19 gene	C1421396	AUGMENTS	["35449354_fullText_7"]	Protein Degradation, Metabolic	C0597297
+ATXN3 gene	C1538301	AUGMENTS	["32357546_fullText_233"]	chymotrypsin activity	C1150252
+CD5 gene	C1413227	AUGMENTS	["26254860_fullText_9"]	chymotrypsin activity	C1150252
+HSPB2 gene	C1415768	AUGMENTS	["9490724_fullText_6","9490724_fullText_83"]	kinase activity	C1150423
+ATXN3 gene	C1538301	AFFECTS	["25633985_fullText_21"]	phosphoric monoester hydrolase activity	C1149880
+ATXN3 gene	C1538301	AUGMENTS	["25633985_fullText_24"]	phosphoric monoester hydrolase activity	C1149880
+PMM1 gene	C1418673	AUGMENTS	["29261720_fullText_24"]	phosphoric monoester hydrolase activity	C1149880
+PPP1R12A gene	C1417581	DISRUPTS	["11287000_fullText_2"]	phosphoric monoester hydrolase activity	C1149880
+PNKP gene	C1418707	AUGMENTS	["25590633_fullText_6"]	ATM Signaling Pathway	C1510698
+PMM2 gene	C1418674	AFFECTS	["24139637_fullText_8","24139637_fullText_82"]	immunoreactivity	C0597879
+SIRT1 gene	C1423062	DISRUPTS	["27165717_fullText_51"]	immunoreactivity	C0597879
+WASF1 gene	C1421479	AFFECTS	["30029642_fullText_29"]	Evoked Potentials	C0015214
+MYO5A gene	C1417565	AUGMENTS	["25139423_fullText_3"]	Long-Term Synaptic Depression	C1136140
+CTSL1 wt Allele	C1707163	AUGMENTS	["28542314_fullText_5"]	site-specific telomere resolvase activity	C1622890
+STAT5A gene	C1335875	AFFECTS	["26756355_fullText_70"]	Myogenesis	C0596997
+AKT2 gene	C0812230	AFFECTS	["22768114_fullText_65"]	Myogenesis	C0596997
+ATXN3 gene	C1538301	AFFECTS	["32867861_fullText_1"]	Myogenesis	C0596997
+CELF1 gene	C1413824	AFFECTS	["29203592_fullText_9"]	Myogenesis	C0596997
+MTMR1 gene	C1417435	AFFECTS	["12217958_fullText_4"]	Myogenesis	C0596997
+RENBP gene	C1419339	AFFECTS	["33651408_fullText_1"]	Myogenesis	C0596997
+DMPK gene	C1414085	AUGMENTS	["12130568_fullText_8"]	Myogenesis	C0596997
+IMPACT gene	C1825598	AFFECTS	["37067043_fullText_4"]	Pulmonary function	C0231921
+MBNL1 gene	C1417055	AFFECTS	["26501102_fullText_160"]	Protein Biosynthesis	C0597295
+MBNL3 gene	C1427004	AFFECTS	["26501102_fullText_160"]	Protein Biosynthesis	C0597295
+CELF1 gene	C1413824	AFFECTS	["23637619_fullText_4"]	Protein Biosynthesis	C0597295
+DOC2A gene	C1414126	AFFECTS	["36142117_fullText_4"]	Protein Biosynthesis	C0597295
+DDX5 gene	C1413963	AFFECTS	["23536431_fullText_4"]	Protein Biosynthesis	C0597295
+ATXN3 gene	C1538301	DISRUPTS	["32357546_fullText_71"]	Protein Biosynthesis	C0597295
+EIF4E wt Allele	C3539643	DISRUPTS	["16456924_fullText_5"]	Proteasome Pathway	C1752727
+TRPV2 gene	C1425290	AFFECTS	["35714693_fullText_2"]	channel activity	C1153410
+MAOB gene	C1417002	AFFECTS	["37902028_fullText_1"]	antioxidant activity	C1148564
+GYPE gene	C1415376	AFFECTS	["33730374_fullText_1"]	Muscle function	C0231484
+TNFRSF12A gene	C1425348	AFFECTS	["26901467_fullText_4"]	Muscle function	C0231484
+MBNL1 gene	C1417055	AFFECTS	["26756355_fullText_12"]	Polyadenylation	C0949765
+ELMO1 gene	C1424154	AFFECTS	["36377476_fullText_7"]	nerve supply	C0021516
+NGF gene	C1417719	AUGMENTS	["33723225_fullText_4"]	nerve supply	C0021516
+SPNS1 gene	C2240043	AFFECTS	["33769917_fullText_1"]	Cardiac function	C0232164
+ECHS1 gene	C1414247	AFFECTS	["26081110_fullText_2","32013919_fullText_39","26081110_fullText_159","26081110_fullText_194"]	fatty acid oxidation	C1158366
+NDUFS8 gene	C1417651	AFFECTS	["36557887_fullText_112"]	fatty acid oxidation	C1158366
+DEGS1 wt Allele	C3539688	AFFECTS	["32162843_fullText_99"]	fatty acid oxidation	C1158366
+LRPPRC gene	C1423677	AUGMENTS	["21971050_fullText_3"]	fatty acid oxidation	C1158366
+MDH1 gene	C1417087	AFFECTS	["30429455_fullText_78"]	Oxidation-Reduction	C0030012
+PYROXD2 gene	C1428119	AFFECTS	["35055180_fullText_102"]	Oxidation-Reduction	C0030012
+PDE5A gene	C1418424	AFFECTS	["37517510_fullText_5"]	Oxidation-Reduction	C0030012
+EHD1 gene	C1414318	AFFECTS	["32368833_fullText_111"]	Membrane Fusion	C0025246
+EHD3 gene	C1414320	AFFECTS	["32368833_fullText_111"]	Membrane Fusion	C0025246
+IMPACT gene	C1825598	AFFECTS	["23326493_fullText_88"]	Respiratory Chain	C0162362
+SLC39A8 gene	C1427169	AUGMENTS	["34246313_fullText_164"]	Respiratory Chain	C0162362
+DLD gene	C1414063	DISRUPTS	["35792828_fullText_90"]	pyruvate dehydrogenase (lipoamide) activity	C1151633
+P2RY12 gene	C1425330	AUGMENTS	["37084563_fullText_4"]	intracellular signal transduction	C1155494
+DMPK gene	C1414085	AUGMENTS	["24039817_fullText_31"]	Embryonic Development	C0013936
+Transgenes	C0282641	AUGMENTS	["24039817_fullText_5"]	Embryonic Development	C0013936
+NDUFS4 gene	C1417647	AFFECTS	["39231983_fullText_60"]	NADH dehydrogenase complex assembly	C1622998
+NDUFAF6 gene	C1824247	AFFECTS	["27623250_fullText_4"]	NADH dehydrogenase complex assembly	C1622998
+Genes, Mitochondrial	C1563761	AFFECTS	["15824269_fullText_2"]	NADH dehydrogenase complex assembly	C1622998
+NDUFAF5 gene	C1423817	AFFECTS	["19542079_fullText_7"]	NADH dehydrogenase complex assembly	C1622998
+FOXRED1 gene	C1825311	AFFECTS	["31273716_fullText_9"]	NADH dehydrogenase complex assembly	C1622998
+NDUFAB1 gene	C1417631	AFFECTS	["15824269_fullText_2"]	NADH dehydrogenase complex assembly	C1622998
+NDUFAF1 gene	C1425806	AFFECTS	["15824269_fullText_2"]	NADH dehydrogenase complex assembly	C1622998
+NDUFC2 gene	C1417643	AFFECTS	["32969598_fullText_62"]	NADH dehydrogenase complex assembly	C1622998
+NDUFB5 gene	C1417637	AFFECTS	["32969598_fullText_84"]	NADH dehydrogenase complex assembly	C1622998
+NDUFA1 gene	C1417620	AFFECTS	["20819849_fullText_5"]	NADH dehydrogenase complex assembly	C1622998
+C7orf49 gene	C1824234	AFFECTS	["31866046_fullText_67"]	NADH dehydrogenase complex assembly	C1622998
+NDUFB11 gene	C1538052	AFFECTS	["32969598_fullText_84"]	NADH dehydrogenase complex assembly	C1622998
+MT-ND4 gene	C1537992	AFFECTS	["32969598_fullText_84"]	NADH dehydrogenase complex assembly	C1622998
+NDUFA11 gene	C1426901	AFFECTS	["32969598_fullText_84","20819849_fullText_5"]	NADH dehydrogenase complex assembly	C1622998
+NDUFB10 gene	C1417633	AFFECTS	["32969598_fullText_84"]	NADH dehydrogenase complex assembly	C1622998
+NDUFB1 gene	C1417632	AFFECTS	["32969598_fullText_84"]	NADH dehydrogenase complex assembly	C1622998
+SURF1 gene	C1420527	AFFECTS	["34716721_fullText_75"]	NADH dehydrogenase complex assembly	C1622998
+NDUFA10 gene	C1417621	AFFECTS	["32969598_fullText_84"]	NADH dehydrogenase complex assembly	C1622998
+NDUFS5 gene	C1417648	AFFECTS	["32969598_fullText_84"]	NADH dehydrogenase complex assembly	C1622998
+NDUFC1 gene	C1417642	AFFECTS	["32969598_fullText_84"]	NADH dehydrogenase complex assembly	C1622998
+MT-ND2 gene	C1537990	AFFECTS	["32969598_fullText_84"]	NADH dehydrogenase complex assembly	C1622998
+CNR1 gene	C1413554	AFFECTS	["36529297_fullText_11"]	neurodevelopment	C0599855
+ECHS1 gene	C1414247	AFFECTS	["32013919_fullText_2","30848071_fullText_2","32013919_abstract_2"]	valine catabolic process	C1156700
+CD200 gene	C1540289	AFFECTS	["25164807_fullText_0"]	Electron Transport	C0013846
+IMMT gene	C1416423	AFFECTS	["31767637_fullText_10"]	Electron Transport	C0013846
+MT-ND3 gene	C1537991	DISRUPTS	["38437941_fullText_4"]	ATP biosynthesis	C1157223
+DDX6 gene	C0812257	AFFECTS	["24792155_fullText_101"]	ATP Hydrolysis	C1510699
+LONP1 gene	C1825868	AFFECTS	["29518248_fullText_62"]	ATP Hydrolysis	C1510699
+TP53 gene	C0079419	CAUSES	["39320846_fullText_119"]	Necrosis	C0027540
+ATXN3 gene	C1538301	CAUSES	["39320846_fullText_119"]	Necrosis	C0027540
+PARL gene	C1425398	AFFECTS	["30578322_fullText_7"]	Necrosis	C0027540
+APP gene	C1364818	ASSOCIATED_WITH		Necrosis	C0027540
+LGALS3 gene	C1416831	ASSOCIATED_WITH		Necrosis	C0027540
+BCL2 gene	C0376515	ASSOCIATED_WITH		Necrosis	C0027540
+FAS gene	C1539477	ASSOCIATED_WITH		Necrosis	C0027540
+CAT gene	C1413138	ASSOCIATED_WITH		Necrosis	C0027540
+CTSB gene	C1332804	ASSOCIATED_WITH		Necrosis	C0027540
+TNF gene	C0812246	ASSOCIATED_WITH		Necrosis	C0027540
+MGMT gene	C1334505	ASSOCIATED_WITH		Necrosis	C0027540
+DMD gene	C1414083	ASSOCIATED_WITH		Necrosis	C0027540
+HMGB1 gene	C1333908	ASSOCIATED_WITH		Necrosis	C0027540
+FABP3 gene	C1333526	ASSOCIATED_WITH		Necrosis	C0027540
+ATF4 gene	C1412617	ASSOCIATED_WITH		Necrosis	C0027540
+IL17A gene	C1825592	ASSOCIATED_WITH		Necrosis	C0027540
+ATG5 gene	C1825497	ASSOCIATED_WITH		Necrosis	C0027540
+IFNG gene	C1334085	ASSOCIATED_WITH		Necrosis	C0027540
+SOD1 gene	C1420306	ASSOCIATED_WITH		Necrosis	C0027540
+IL6 gene	C1334122	ASSOCIATED_WITH		Necrosis	C0027540
+AIFM1 gene	C1826618	ASSOCIATED_WITH		Necrosis	C0027540
+CAST gene	C1413137	ASSOCIATED_WITH		Necrosis	C0027540
+POMC gene	C1337111	ASSOCIATED_WITH		Necrosis	C0027540
+KRT18 gene	C1416731	ASSOCIATED_WITH		Necrosis	C0027540
+HAVCR1 gene	C1425141	ASSOCIATED_WITH		Necrosis	C0027540
+IL1B gene	C1334112	ASSOCIATED_WITH		Necrosis	C0027540
+SQRDL gene	C1426907	DISRUPTS	["38870029_fullText_71","38870029_fullText_75"]	cytochrome c oxidase activity	C1151057
+TACO1 gene	C1824568	DISRUPTS	["32130224_fullText_40"]	cytochrome c oxidase activity	C1151057
+LAMA1 gene	C1416775	AFFECTS	["34845963_fullText_1"]	Respiratory physiology	C0035245
+DMPK gene	C1414085	AFFECTS	["20188867_fullText_6"]	Signal Pathways	C0037080
+ACBD7 gene	C1538900	AFFECTS	["34884833_fullText_116"]	Lipid Metabolism	C0598783
+MPDU1 gene	C1417235	AFFECTS	["25270028_fullText_124"]	Lipid Metabolism	C0598783
+PET100 gene	C3541664	AFFECTS	["24462369_fullText_10"]	cytochrome c oxidase biogenesis	C1158940
+PDSS1 gene	C1843919	AFFECTS	["25270028_fullText_10"]	Ubiquinone Biosynthesis Pathway	C1157248
+NPY6R gene	C1417819	AFFECTS	["37394095_fullText_6"]	Vascular constriction (function)	C0042396
+COX15 gene	C1413632	AUGMENTS	["26940873_fullText_5"]	Hydrophobic Interactions	C0678607
+COX15 gene	C1413632	AFFECTS	["26940873_fullText_10"]	heme binding	C1148616
+ECHS1 gene	C1414247	AFFECTS	["26081110_fullText_204"]	isoleucine metabolic process	C1156804
+IMPACT gene	C1825598	AFFECTS	["1592912_fullText_3"]	Liver function	C0232741
+PLCB1 gene	C1423830	AFFECTS	["28106288_fullText_6"]	Adipogenesis	C0596843
+SLC27A1 gene	C1420163	AUGMENTS	["36063868_fullText_15"]	Adipogenesis	C0596843
+TCF21 gene	C1420638	AUGMENTS	["34872001_fullText_9"]	Adipogenesis	C0596843
+DNAJC12 gene	C1539297	AFFECTS	["37818795_fullText_2"]	Biosynthetic Pathways	C1721101
+PEX13 gene	C1418474	AFFECTS	["35854306_fullText_220"]	Biosynthetic Pathways	C1721101
+MMACHC gene	C1826260	DISRUPTS	["37604084_fullText_3"]	Biosynthetic Pathways	C1721101
+PEX16 gene	C1418476	AFFECTS	["21826223_fullText_5"]	Protein Targeting	C1159372
+CDKL5 gene	C1420484	AFFECTS	["36613509_fullText_2"]	Excitatory synaptic transmission	C0234107
+P2RY12 gene	C1425330	DISRUPTS	["34601296_fullText_3"]	G-protein coupled purinergic nucleotide receptor activity	C1152760
+P2RX7 gene	C1418215	DISRUPTS	["34601296_fullText_3"]	G-protein coupled purinergic nucleotide receptor activity	C1152760
+NR5A2 gene	C1417839	DISRUPTS	["34058248_fullText_6"]	cholinesterase activity	C1149831
+SLC35A2 gene	C1420188	AFFECTS	["31231989_fullText_60"]	brain function	C0678908
+DRD4 gene	C1333254	AFFECTS	["36854793_fullText_1"]	brain function	C0678908
+ATP2A1 gene	C1412637	AFFECTS	["23888875_fullText_1"]	Intracellular Signaling Process	C1516359
+CACNA1S gene	C1413064	AFFECTS	["23888875_fullText_1"]	Intracellular Signaling Process	C1516359
+RAPGEF3 gene	C1424450	AUGMENTS	["37452346_fullText_1"]	Receptor Signaling	C1514762
+NRSN2 gene	C1826472	AFFECTS	["33723417_fullText_5"]	Receptor Signaling	C1514762
+RAPGEF4 gene	C1424447	AUGMENTS	["37452346_fullText_1"]	Receptor Signaling	C1514762
+IMPACT gene	C1825598	AFFECTS	["34196433_fullText_2"]	Long-Term Potentiation	C0206249
+CEACAM6 gene	C1413309	AFFECTS	["34006978_fullText_5"]	Long-Term Potentiation	C0206249
+GRHL3 gene	C1842259	AFFECTS	["34429141_fullText_7"]	Long-Term Potentiation	C0206249
+AP5B1 gene	C3280555	AUGMENTS	["34919905_fullText_4"]	Long-Term Potentiation	C0206249
+TPH1 gene	C1420870	AFFECTS	["33895170_fullText_2"]	Gastrointestinal Motility	C0017184
+TBX4 wt Allele	C3813609	AFFECTS	["31954206_abstract_3"]	indole-3-glycerol-phosphate lyase activity	C2247518
+PMM2 gene	C1418674	AFFECTS	["34331832_fullText_0"]	molecular recognition	C0599844
+HCAR1 gene	C1415263	AFFECTS	["36409024_fullText_3"]	glycogen metabolic process	C0599784
+ERN1 gene	C1414444	AUGMENTS	["21737679_fullText_105","21737679_fullText_106"]	Glycogenolysis	C0596624
+ERN1 gene	C1414444	AFFECTS	["21737679_fullText_96","21737679_fullText_161"]	Glycogenolysis	C0596624
+HCAR1 gene	C1415263	AFFECTS	["36409024_fullText_7"]	Glycogenolysis	C0596624
+SLC6A4 gene	C1420214	DISRUPTS	["35662341_fullText_2","34181363_fullText_3"]	5-hydroxytryptamine uptake	C1621749
+IMPACT gene	C1825598	AFFECTS	["35583623_fullText_6"]	5-hydroxytryptamine uptake	C1621749
+SLC6A3 wt Allele	C3813713	AUGMENTS	["34361040_fullText_8"]	Inhibitory potential	C0234122
+ACE gene	C1413931	DISRUPTS	["35357374_fullText_5"]	acetylcholinesterase activity	C1149827
+P2RY13 gene	C1538559	AUGMENTS	["32357546_fullText_224"]	phosphoglycerate dehydrogenase activity	C1151254
+HIF1A wt Allele	C1704838	AFFECTS	["36443270_fullText_2"]	Angiogenic Process	C0302600
+SAMD4A gene	C1826968	AFFECTS	["34739183_fullText_3"]	Angiogenic Process	C0302600
+VEGFA gene	C1823619	AFFECTS	["36443270_fullText_2"]	Angiogenic Process	C0302600
+VEGFA gene	C1823619	AUGMENTS	["36443270_fullText_5"]	Angiogenic Process	C0302600
+SRSF1 gene	C1419989	AFFECTS	["24293317_fullText_30"]	ion binding	C1752728
+CDKL5 gene	C1420484	AFFECTS	["36613509_fullText_4"]	Inhibitory Postsynaptic Currents	C2350182
+TNFRSF11B gene	C1336645	ASSOCIATED_WITH		Bone Resorption	C0005974
+TNFSF11 gene	C1367028	ASSOCIATED_WITH		Bone Resorption	C0005974
+DRD2 gene	C1333253	AFFECTS	["34353882_fullText_9"]	receptor activity	C1152633
+FAH gene	C1414525	AFFECTS	["37865339_fullText_13"]	neurotransmitter biosynthesis	C0597062
+IRF6 wt Allele	C2697656	AUGMENTS	["34445611_fullText_6"]	Tyrosine Phosphorylation	C1519726
+IMPACT gene	C1825598	DISRUPTS	["34414907_fullText_6"]	insulin activity	C1145751
+P2RY12 gene	C1425330	AFFECTS	["35173744_fullText_6"]	Platelet Activation	C0032173
+Tumor Suppressor Genes	C0079427	AUGMENTS	["33077317_fullText_6"]	Wnt beta-Catenin Signaling Pathway	C3178960
+Oncogenes	C0029016	AUGMENTS	["33077317_fullText_6"]	Wnt beta-Catenin Signaling Pathway	C3178960
+PDE5A gene	C1418424	AFFECTS	["37532077_fullText_14"]	Penile Erection	C0030847
+TACR1 gene	C1420565	AFFECTS	["35013118_fullText_10"]	lung development	C1160389
+GLYAT gene	C1422172	AUGMENTS	["34149704_fullText_6"]	Glycolysis/Gluconeogenesis Pathway	C1512230
+MBNL1 gene	C1417055	AFFECTS	["24293317_fullText_39"]	central nervous system function	C0683212
+SLC39A8 gene	C1427169	AFFECTS	["33413482_fullText_88"]	central nervous system function	C0683212
+SIRT1 gene	C1423062	AFFECTS	["35872650_fullText_51"]	Deacetylation	C1511737
+FNDC5 gene	C1426803	AFFECTS	["34126232_fullText_4","34126232_fullText_5","34126232_fullText_10"]	Cardiovascular Physiological Phenomena	C0007227
+SLC6A11 gene	C1420208	AFFECTS	["33936193_fullText_8"]	gamma-aminobutyric acid biosynthetic process	C1621915
+CPT1A gene	C1413688	AFFECTS	["33936193_fullText_8"]	gamma-aminobutyric acid biosynthetic process	C1621915
+SYNPR gene	C1424339	AFFECTS	["33936193_fullText_8"]	gamma-aminobutyric acid biosynthetic process	C1621915
+SLC38A3 gene	C1442750	AFFECTS	["33936193_fullText_8"]	gamma-aminobutyric acid biosynthetic process	C1621915
+PRKCD gene	C1418916	DISRUPTS	["34281274_fullText_6"]	glutathione peroxidase activity	C1151528
+DRD1 gene	C1333250	AUGMENTS	["36345723_fullText_4"]	cAMP-mediated signaling	C1155589
+ASS1 gene	C1825092	AFFECTS	["38113552_fullText_4"]	Secondary Metabolism	C0260000
+LPAR3 wt Allele	C3812695	AUGMENTS	["34288015_fullText_6"]	smooth muscle contraction	C1155937
+ASAH1 wt Allele	C3539770	AFFECTS	["9402536_fullText_11"]	Osteogenesis	C0029433
+RARRES2 gene	C1419274	DISRUPTS	["34450172_fullText_5"]	AMPK activity	C3546468
+PTS gene	C1419129	AFFECTS	["10874306_fullText_1"]	tetrahydrobiopterin biosynthetic process	C1157041
+GPR55 gene	C1415245	AFFECTS	["33844984_fullText_1"]	Adrenergic receptor function	C0544650
+GPNMB gene	C1415205	AFFECTS	["36102038_fullText_129"]	Dephosphorylation	C3160734
+PAH gene	C1418251	AFFECTS	["33970801_fullText_10","8965095_fullText_1","8629090_fullText_9"]	phenylalanine 4-monooxygenase activity	C1151127
+HULC gene	C2677155	AFFECTS	["35101330_fullText_3"]	phenylalanine 4-monooxygenase activity	C1151127
+mutant gene	C0678941	AFFECTS	["27620137_fullText_3"]	phenylalanine 4-monooxygenase activity	C1151127
+PAH gene	C1418251	DISRUPTS	["15922970_fullText_1"]	phenylalanine 4-monooxygenase activity	C1151127
+DEGS1 wt Allele	C3539688	AFFECTS	["34524592_fullText_5"]	protein kinase activity	C1150527
+RNF213 gene	C1422738	AFFECTS	["37924258_fullText_7"]	zinc ion binding	C1148621
+AASS gene	C1424938	AFFECTS	["36128717_fullText_51"]	lysine catabolism	C1156685
+LOR gene	C1416897	AFFECTS	["36128717_fullText_119"]	lysine catabolism	C1156685
+SIRT5 gene	C1423065	AFFECTS	["35157847_fullText_73"]	lysine catabolism	C1156685
+ALDH7A1 gene	C1412691	AFFECTS	["28087462_fullText_1"]	lysine catabolism	C1156685
+SLC39A8 gene	C1427169	AFFECTS	["33413482_fullText_88"]	Bone Development	C0005939
+LRP4 gene	C1416916	AFFECTS	["37640745_fullText_6"]	neuromuscular transmission	C0260043
+IMPACT gene	C1825598	AFFECTS	["36699037_fullText_5"]	gonadotropin hormone-releasing hormone activity	C1149487
+SLC6A4 gene	C1420214	DISRUPTS	["37644775_fullText_5"]	Palmitoylation	C0598435
+PMM2 gene	C1418674	AFFECTS	["31727010_fullText_4"]	polysaccharide biosynthetic process	C1157190
+PMM2 gene	C1418674	DISRUPTS	["24305089_fullText_4"]	polysaccharide biosynthetic process	C1157190
+CEBPD gene	C1413324	AFFECTS	["28512194_fullText_48"]	heart development	C1749797
+RENBP gene	C1419339	AFFECTS	["28512194_fullText_48"]	heart development	C1749797
+EFS gene	C1424622	AFFECTS	["39059271_fullText_2"]	Metabolic Control	C1513158
+ROCK2 gene	C1419598	ASSOCIATED_WITH		Ventricular Remodeling	C0600519
+GATA4 gene	C1414995	ASSOCIATED_WITH		Ventricular Remodeling	C0600519
+NOS1 gene	C1417759	ASSOCIATED_WITH		Ventricular Remodeling	C0600519
+NPPA gene	C1417807	ASSOCIATED_WITH		Ventricular Remodeling	C0600519
+TGFB1 gene	C1366557	ASSOCIATED_WITH		Ventricular Remodeling	C0600519
+NPPB gene	C1417808	ASSOCIATED_WITH		Ventricular Remodeling	C0600519
+SMAD3 gene	C0919432	ASSOCIATED_WITH		Ventricular Remodeling	C0600519
+ATXN3 gene	C1538301	AUGMENTS	["38497605_fullText_146"]	deacetylase activity	C1149763
+SIRT1 gene	C1423062	AUGMENTS	["27165717_fullText_55"]	deacetylase activity	C1149763
+GCDH gene	C1415009	AUGMENTS	["35157847_fullText_94"]	lysine metabolic process	C1156798
+FGF19 gene	C1414603	DISRUPTS	["27469511_fullText_19"]	Bile Acid Biosynthesis Pathway	C1157403
+GCDH gene	C1415009	AFFECTS	["32992790_fullText_120"]	cofactor binding	C1323251
+ATP6AP2 gene	C1425435	AFFECTS	["32629928_fullText_87"]	V-ATPase assembly	C2610718
+VMA21 gene	C2681112	AFFECTS	["32629928_fullText_87"]	V-ATPase assembly	C2610718
+ALG11 gene	C1876205	AFFECTS	["38733638_fullText_3"]	Protein Glycosylation	C0376322
+PDCD6 gene	C1418406	AFFECTS	["38733638_fullText_3"]	Protein Glycosylation	C0376322
+ATP6AP1 gene	C1412687	AFFECTS	["32629928_fullText_63"]	Protein Glycosylation	C0376322
+DHDDS gene	C1427027	AFFECTS	["27343064_fullText_15"]	Protein Glycosylation	C0376322
+PMM2 gene	C1418674	AFFECTS	["26785728_fullText_1","38430517_fullText_1"]	Protein Glycosylation	C0376322
+DPAGT1 gene	C1414133	DISRUPTS	["30388443_fullText_3"]	Protein Glycosylation	C0376322
+SRD5A3 gene	C2240046	DISRUPTS	["25270028_fullText_47"]	Protein Glycosylation	C0376322
+GFPT1 gene	C1415046	DISRUPTS	["23488891_fullText_8"]	Protein Glycosylation	C0376322
+MAN1B1 gene	C1416994	DISRUPTS	["26401844_fullText_1","34831340_fullText_15"]	Protein Glycosylation	C0376322
+NGLY1 gene	C1425023	AFFECTS	["33497766_fullText_4"]	protein deglycosylation	C1157972
+PMM2 gene	C1418674	DISRUPTS	["24139637_fullText_1"]	phosphomannomutase activity	C1150368
+NGLY1 gene	C1425023	AFFECTS	["35406718_fullText_33","35565658_fullText_110","36102038_fullText_9","35653343_fullText_6"]	Endoplasmic Reticulum-Associated Degradation	C3178997
+PMM2 gene	C1418674	AFFECTS	["35732497_fullText_0"]	N-Glycan Biosynthesis Pathway	C0596625
+CHPT1 wt Allele	C3539603	AFFECTS	["25270028_fullText_27"]	dolichol biosynthetic process	C1157360
+MPI gene	C1417244	AFFECTS	["12434892_fullText_5"]	mannose biosynthetic process	C1156338
+ATXN3 gene	C1538301	AFFECTS	["39320846_fullText_142"]	erad	C1157980
+NGLY1 gene	C1425023	AFFECTS__SPEC__	["29346549_fullText_5"]	erad	C1157980
+NGLY1 gene	C1425023	AFFECTS	["29346549_fullText_5","35406718_fullText_131","35406718_fullText_133"]	erad	C1157980
+MAGT1 gene	C2239666	AFFECTS	["25135935_fullText_9"]	protein disulfide isomerase activity	C1150347
+REXO1L1P gene	C1826799	AFFECTS	["33477953_fullText_123"]	protein disulfide isomerase activity	C1150347
+PGM1 gene	C1418516	AFFECTS	["22492991_fullText_8"]	nucleotide-sugar biosynthetic process	C1157685
+TMEM199 gene	C1425293	AFFECTS	["32629928_fullText_89"]	iron metabolism	C0596803
+CCDC115 gene	C1824644	AFFECTS	["32629928_fullText_89"]	iron metabolism	C0596803
+MBNL1 gene	C1417055	AFFECTS	["21454535_fullText_1"]	Muscle Development	C0949649
+PEX1 gene	C1418469	AFFECTS	["21669930_fullText_46"]	Muscle Development	C0949649
+DMPK gene	C1414085	AFFECTS	["10936001_fullText_10"]	Cardiac conduction	C0232217
+HSPB2 gene	C1415768	AUGMENTS	["9490724_fullText_85"]	autophosphorylation	C0813988
+CELF2 gene	C1413825	AUGMENTS	["28512194_fullText_7"]	thymus development	C1655797
+PRRT2 wt Allele	C3539645	AFFECTS	["22431750_fullText_85"]	protein stabilization	C1327386
+GCDH gene	C1415009	AFFECTS	["21904051_fullText_16"]	benzoyl-CoA catabolic process	C3546982
+ALDH18A1 gene	C1538262	AFFECTS	["21431621_fullText_103"]	proline biosynthetic process	C1156627
+MAN2C1 gene	C1416998	AFFECTS	["35045343_fullText_145"]	mannosidase activity	C1150076
+Homologous Gene	C1334043	DISRUPTS	["35045343_fullText_23"]	lipid phosphatase activity	C1323635
+USP9X wt Allele	C3541878	AFFECTS	["39125643_fullText_105"]	Enzyme Activation	C0014429
+JOSD1 gene	C1825638	AUGMENTS	["38497605_fullText_98"]	Monoubiquitination	C1513486
+SAMD4A gene	C1826968	AFFECTS	["23637619_fullText_11"]	Increased Protein Synthesis [PE]	C1372531
+DDX6 gene	C0812257	AFFECTS	["24792155_fullText_130"]	Increased Protein Synthesis [PE]	C1372531
+ATXN3 gene	C1538301	AFFECTS	["39320846_fullText_25","39320846_fullText_139","38497605_fullText_155"]	Proteostasis	C4505258
+GBA gene	C1414998	DISRUPTS	["37449546_fullText_4"]	glucosylceramidase activity	C1149759
+ATXN3 gene	C1538301	AUGMENTS	["39320846_fullText_15"]	ubiquitinyl hydrolase activity	C1817182
+ATXN3 gene	C1538301	AFFECTS	["39320846_fullText_6"]	ubiquitinyl hydrolase activity	C1817182
+CST12P gene	C3539520	DISRUPTS	["2159398_fullText_4"]	nucleotidase activity	C1149915
+NDUFS4 gene	C1417647	DISRUPTS	["38870029_fullText_76"]	sulfide oxidation	C1159423
+Locus	C1708726	AFFECTS	["7766944_fullText_4"]	cofactor biosynthetic process	C1523208

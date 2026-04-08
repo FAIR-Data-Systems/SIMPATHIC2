@@ -1,0 +1,92 @@
+Try mapping the HPO terms to DOID?
+disease-gene 72996 lines
+only about 160 are DOID
+4054 are HPO
+5796 are MONDO
+
+
+
+
+awk -F',' '{print $1}' rawdata/drug-disease.csv | sort | uniq
+awk -F',' '{print $1}' rawdata/drug-disease.csv | sort | uniq | wc -l
+awk -F',' '{print $1}' rawdata/drug-disease.csv | sort | uniq > drugs.list
+awk -F',' '{print $1}' rawdata/drug-gene.csv | sort | uniq >> drugs.list
+cat drugs.list | sort | uniq
+cat drugs.list | sort | uniq | wc -l
+cat drugs.list | sort | uniq > drugs.list.uniq
+awk -F',' '{print $3}' rawdata/drug-disease.csv | sort | uniq > disease.list
+awk -F',' '{print $3}' rawdata/disease-gene.csv | sort | uniq >> disease.list
+cat disease.list | sort | uniq > disease.list.uniq
+cat disease.list.uniq | wc -l
+awk -F',' '{print $3}' rawdata/disease-therapeuticarea.csv | sort | uniq >> disease.list
+cat disease.list.uniq 
+cat disease.list | sort | uniq > disease.list.uniq
+cat disease.list.uniq | wc -l
+awk -F',' '{print $1}' rawdata/disease-therapeuticarea.csv | sort | uniq > disease.list
+awk -F',' '{print $1}' rawdata/disease-gene.csv | sort | uniq > disease.list
+awk -F',' '{print $3}' rawdata/drug-disease.csv | sort | uniq > disease.list
+cat disease.list | uniq > disease.list.uniq 
+cat disease.list.uniq | wc -l
+cat disease.list.uniq 
+awk -F',' '{print $1}' rawdata/disease-therapeuticarea.csv | sort | uniq > disease.list
+awk -F',' '{print $1}' rawdata/disease-gene.csv | sort | uniq >> disease.list
+awk -F',' '{print $3}' rawdata/drug-disease.csv | sort | uniq >> disease.list
+cat disease.list | uniq > disease.list.uniq 
+cat disease.list.uniq | wc -l
+cat disease.list.uniq 
+cat disease.list.uniq | wc -l
+cat disease.list.uniq | uniq
+cat disease.list.uniq | uniq | wc -l
+man uniq
+cat disease.list | sort | uniq > disease.list.uniq 
+cat disease.list.uniq | wc -l
+awk -F',' '{print $1}' rawdata/drug-disease.csv | sort | uniq > drug.list
+awk -F',' '{print $1}' rawdata/drug-drugtype.csv | sort | uniq >> drug.list
+awk -F',' '{print $1}' rawdata/drug-gene.csv | sort | uniq >> drug.list
+cat drug.list | sort | uniq > drug.list.uniq 
+cat drug.list.uniq | wc -l
+awk -F',' '{print $1}' raw_data/bv-kg-20250225.large | sort | uniq 
+awk -F'\t' '{print $1}' raw_data/bv-kg-20250225.large | sort | uniq 
+grep MEDCIN raw_data/bv-kg-20250225.large | awk -F'\t' '{print $2}' | sort | uniq
+awk -F'\t' '{print $1}' raw_data/bv-kg-20250225.large | sort | uniq 
+grep MTH raw_data/bv-kg-20250225.large | awk -F'\t' '{print $2}' | sort | uniq
+grep SNOMED raw_data/bv-kg-20250225.large | awk -F'\t' '{print $2}' | sort | uniq
+grep MEDCIN raw_data/bv-kg-20250225.large | awk -F'\t' '{print $2}' | sort | uniq
+grep SNOMED raw_data/bv-kg-20250225.large | awk -F'\t' '{print $3}' | sort | uniq
+grep SNOMED raw_data/bv-kg-20250225.large | awk -F'\t' '{print $4}' | sort | uniq
+grep MEDCIN raw_data/bv-kg-20250225.large | awk -F'\t' '{print $4}' | sort | uniq
+curl -H "Content-type: application/json" -H "Accept: application/json" -d '{"resource_identifier": "https://w3id.org/duchenne-fdp"}' https://tests.ostrails.eu/assess/test/fc_unique_identifier
+
+
+ Dear Mark,
+
+Sorry for my late reply, and thanks for your patience.
+I’m sorry to hear things may be difficult right now. Please take care of yourself and take the time you need, and don’t worry about responding quickly.
+
+I checked the disease mapping: the Radboud IDs are aligned to the Biovista disease entries.
+However, in the newest Open Targets version, some diseases now appear under updated IDs (e.g., MONDO ↔ EFO, or MONDO subtypes). That’s why I highlighted both columns in yellow: one is the Radboud ID we actually store/use in disease_key_mapping.xlsx, and the other is the current Open Targets ID/name in the newest release. So the mapping is consistent, but the OT identifier may have changed upstream, which is worth noting if we want to standardize on OT IDs later. If I did not highlight, it means the names have not been changed among different versions for updates.
+
+One more thing: we apply an ontology-hierarchy filter. If a disease has both a parent ID and one or more child (more specific) IDs in our mapping, we keep only the most specific child IDs and remove the parent term. This prevents redundancy and makes the downstream KG more precise.
+
+If anything is not clear to you, please let me know, and I will be happy to check and reply soon!
+
+Best regards,
+Siqi
+
+
+Biovista ID in KG	Biovista disease name	Radboud ID in KG	Open Targets Platform ID (Newest version)	Radboud disease name
+MONDO_0010083	SSADH DEFICIENCY	Orphanet_22	MONDO_0010083	succinic semialdehyde dehydrogenase deficiency
+MONDO_0018940	CONGENITAL MYASTHENIC SYNDROME	Orphanet_353327	EFO_0700079	Congenital myasthenic syndromes with glycosylation defect
+		Orphanet_98915		Synaptic congenital myasthenic syndromes
+		Orphanet_98914		Presynaptic congenital myasthenic syndromes
+		Orphanet_98913		Postsynaptic congenital myasthenic syndromes
+MONDO_0009723	LEIGH SYNDROME	EFO_0009135		leigh syndrome due to mitochondrial complex iv deficiency
+MONDO_0019609	ZELLWEGER SYNDROME	EFO_0010956		peroxisome biogenesis disorder, complementation group 7
+MONDO_0100184	GTPCH DEFICIENCY	MONDO_0100186		GTP cyclohydrolase I deficiency with hyperphenylalaninemia
+MONDO_0008907	PMM2-CDG	Orphanet_79318	MONDO_0008907	PMM2-congenital disorder of glycosylation
+MONDO_0016107	MYOTONIC DYSTROPHY TYPE 1	Orphanet_273		Steinert myotonic dystrophy
+MONDO_0009945	Pyridoxine-dependent-developmental and epileptic encephalopathy	Orphanet_3006	MONDO_0009945	pyridoxine-dependent epilepsy
+MONDO_0007182	Machado-Joseph disease (MJD)	Orphanet_276238	MONDO_0017174	Machado-Joseph disease type 1
+		Orphanet_276241	MONDO_0017175	Machado-Joseph disease type 2
+		Orphanet_276244	MONDO_0017176	Machado-Joseph disease type 3
+MONDO_0009281	Glutaryl-CoA dehydrogenase deficiency	HP_0003150		Glutaric aciduria

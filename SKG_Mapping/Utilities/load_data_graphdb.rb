@@ -49,17 +49,15 @@ def process_files(load: false)
 
   ARGV.each_with_index do |file_path, _index|
     warn "processing #{file_path}"
-    unless File.exist?(file_path) && (File.extname(file_path) == '.nq' || File.extname(file_path) == '.large') 
+    unless File.exist?(file_path) && ['.nq', '.large'].include?(File.extname(file_path))
       warn "Skipping #{file_path}: File does not exist or is not an .nq or .large file"
       next
     end
 
-    unless load
-	    # Validate RDF file before uploading
-    	unless validate_rdf_file(file_path)
-     	 	warn "Skipping upload for #{file_path} due to validation failure"
-      		next
-    	end
+    # Validate RDF file before uploading
+    if !load && !validate_rdf_file(file_path)
+      warn "Skipping upload for #{file_path} due to validation failure"
+      next
     end
 
     load_small_file(file_path) if load
