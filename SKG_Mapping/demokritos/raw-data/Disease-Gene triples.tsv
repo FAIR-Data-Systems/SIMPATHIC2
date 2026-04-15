@@ -1,214 +1,214 @@
 Disease	Disease_id	RELATION	PROVENANCE	Gene	Gene_id
-Hereditary Diseases	C0019247	IS_TREATED	["34120625_fullText_99"]	NGLY1 gene	C1425023
-Hereditary Diseases	C0019247	IS_TREATED	["19412185_fullText_7"]	mutant gene	C0678941
-Hereditary Diseases	C0019247	IS_TREATED	["19412185_fullText_7"]	Wild Type	C1883559
-Hereditary Diseases	C0019247	IS_TREATED	["23586035_fullText_75"]	PGD gene	C1418504
-Hereditary Diseases	C0019247	IS_TREATED	["37716025_fullText_3"]	WASF1 gene	C1421479
-Neurodegenerative Disorders	C0524851	IS_TREATED	["36870649_fullText_2"]	MARK4 gene	C1422048
-Neurodegenerative Disorders	C0524851	IS_TREATED	["31684998_fullText_2"]	NEFL gene	C1417668
-Neurodegenerative Disorders	C0524851	IS_TREATED	["37460029_fullText_8"]	PRB1 gene	C1418866
-Rare Diseases	C0678236	IS_TREATED	["33858316_fullText_7"]	PMM2 gene	C1418674
-Rare Diseases	C0678236	IS_TREATED	["37848450_fullText_56"]	Genome	C0017428
-Rare Diseases	C0678236	IS_TREATED	["36294089_fullText_11"]	CASK gene	C1413128
-Rare Diseases	C0678236	IS_TREATED	["24931394_fullText_7"]	PGM3 gene	C1418518
-Ataxia, Spinocerebellar	C0087012	IS_TREATED	["38612794_fullText_77"]	CACNA1A gene	C1456413
-Ataxia, Spinocerebellar	C0087012	IS_TREATED	["38612794_fullText_77"]	ATXN10 gene	C1538308
-Cardiac Arrest	C0018790	IS_TREATED	["38900099_fullText_3"]	IMPACT gene	C1825598
-Cardiac Arrest	C0018790	IS_TREATED	["39000316_fullText_5"]	mutant gene	C0678941
-Cardiac Arrest	C0018790	IS_TREATED	["33636389_fullText_6"]	LY6E gene	C1334353
-Movement Disorders	C0026650	IS_TREATED	["34334401_fullText_8"]	LRP2 wt Allele	C3811119
-Parkinsonian Disorders	C0242422	IS_TREATED	["35837753_fullText_3"]	LRP2 wt Allele	C3811119
-Machado-Joseph Disease	C0024408	IS_TREATED	["19412185_fullText_7"]	mutant gene	C0678941
-Machado-Joseph Disease	C0024408	IS_TREATED	["37866221_fullText_2","35794401_fullText_11","33477953_fullText_1","22706685_fullText_3","19666958_fullText_6","9450899_fullText_1"]	ATXN3 gene	C1538301
-Machado-Joseph Disease	C0024408	IS_TREATED	["7874163_fullText_1"]	Genetic Loci	C0678933
-Machado-Joseph Disease	C0024408	IS_TREATED	["39125644_fullText_57"]	ENO2 gene	C1414404
-Machado-Joseph Disease	C0024408	IS_TREATED	["29048302_fullText_2","26870910_fullText_1","16630162_fullText_4"]	CEL gene	C1413336
-Machado-Joseph Disease	C0024408	IS_TREATED	["32357546_fullText_184"]	NPY gene	C1417815
-Machado-Joseph Disease	C0024408	IS_TREATED	["33516872_fullText_3"]	SLC6A4 gene	C1420214
-Machado-Joseph Disease	C0024408	IS_TREATED	["36254604_fullText_4","15692194_fullText_1","31575582_fullText_99","31575582_fullText_113"]	IMPACT gene	C1825598
-Machado-Joseph Disease	C0024408	IS_TREATED	["31684998_fullText_10","39125644_fullText_57"]	NEFL gene	C1417668
-Machado-Joseph Disease	C0024408	IS_TREATED	["27165717_fullText_105"]	SIRT1 gene	C1423062
-Machado-Joseph Disease	C0024408	IS_TREATED	["8035935_fullText_1","8023841_fullText_1","7839819_fullText_6"]	Locus	C1708726
-Machado-Joseph Disease	C0024408	IS_TREATED	["26490332_fullText_7"]	ATXN2 gene	C1538299
-Machado-Joseph Disease	C0024408	IS_TREATED	["9254842_fullText_2","8912491_fullText_3"]	MJD gene	C1417173
-Machado-Joseph Disease	C0024408	IS_TREATED	["19412185_fullText_7"]	Wild Type	C1883559
-Machado-Joseph Disease	C0024408	IS_TREATED	["11708990_fullText_10"]	Alleles	C0002085
-Machado-Joseph Disease	C0024408	IS_TREATED	["32556403_fullText_9"]	NCOA6 gene	C1367177
-Spinocerebellar Ataxia Type 1	C0752120	IS_TREATED	["19659750_fullText_2"]	PDYN gene	C1418447
-Syndrome	C0039082	IS_TREATED	["37255483_fullText_3"]	LSS gene	C1416926
-Syndrome	C0039082	IS_TREATED	["33554500_fullText_86"]	COG4 gene	C1425652
-Alzheimer's Disease	C0002395	IS_TREATED	["34230570_fullText_8"]	MAOB gene	C1417002
-Alzheimer's Disease	C0002395	IS_TREATED	["34217798_fullText_9"]	FAAH gene	C1414512
-Alzheimer's Disease	C0002395	IS_TREATED	["34217798_fullText_9"]	MGLL gene	C1442515
-Parkinson Disease	C0030567	IS_TREATED	["37599424_fullText_6"]	IMPACT gene	C1825598
-Parkinson Disease	C0030567	IS_TREATED	["32030791_abstract_1"]	GBA gene	C1414998
+Hereditary Diseases	C0019247	ASSOCIATED_WITH	["34120625_fullText_99"]	NGLY1 gene	C1425023
+Hereditary Diseases	C0019247	ASSOCIATED_WITH	["19412185_fullText_7"]	mutant gene	C0678941
+Hereditary Diseases	C0019247	ASSOCIATED_WITH	["19412185_fullText_7"]	Wild Type	C1883559
+Hereditary Diseases	C0019247	ASSOCIATED_WITH	["23586035_fullText_75"]	PGD gene	C1418504
+Hereditary Diseases	C0019247	ASSOCIATED_WITH	["37716025_fullText_3"]	WASF1 gene	C1421479
+Neurodegenerative Disorders	C0524851	ASSOCIATED_WITH	["36870649_fullText_2"]	MARK4 gene	C1422048
+Neurodegenerative Disorders	C0524851	ASSOCIATED_WITH	["31684998_fullText_2"]	NEFL gene	C1417668
+Neurodegenerative Disorders	C0524851	ASSOCIATED_WITH	["37460029_fullText_8"]	PRB1 gene	C1418866
+Rare Diseases	C0678236	ASSOCIATED_WITH	["33858316_fullText_7"]	PMM2 gene	C1418674
+Rare Diseases	C0678236	ASSOCIATED_WITH	["37848450_fullText_56"]	Genome	C0017428
+Rare Diseases	C0678236	ASSOCIATED_WITH	["36294089_fullText_11"]	CASK gene	C1413128
+Rare Diseases	C0678236	ASSOCIATED_WITH	["24931394_fullText_7"]	PGM3 gene	C1418518
+Ataxia, Spinocerebellar	C0087012	ASSOCIATED_WITH	["38612794_fullText_77"]	CACNA1A gene	C1456413
+Ataxia, Spinocerebellar	C0087012	ASSOCIATED_WITH	["38612794_fullText_77"]	ATXN10 gene	C1538308
+Cardiac Arrest	C0018790	ASSOCIATED_WITH	["38900099_fullText_3"]	IMPACT gene	C1825598
+Cardiac Arrest	C0018790	ASSOCIATED_WITH	["39000316_fullText_5"]	mutant gene	C0678941
+Cardiac Arrest	C0018790	ASSOCIATED_WITH	["33636389_fullText_6"]	LY6E gene	C1334353
+Movement Disorders	C0026650	ASSOCIATED_WITH	["34334401_fullText_8"]	LRP2 wt Allele	C3811119
+Parkinsonian Disorders	C0242422	ASSOCIATED_WITH	["35837753_fullText_3"]	LRP2 wt Allele	C3811119
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["19412185_fullText_7"]	mutant gene	C0678941
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["37866221_fullText_2","35794401_fullText_11","33477953_fullText_1","22706685_fullText_3","19666958_fullText_6","9450899_fullText_1"]	ATXN3 gene	C1538301
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["7874163_fullText_1"]	Genetic Loci	C0678933
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["39125644_fullText_57"]	ENO2 gene	C1414404
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["29048302_fullText_2","26870910_fullText_1","16630162_fullText_4"]	CEL gene	C1413336
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["32357546_fullText_184"]	NPY gene	C1417815
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["33516872_fullText_3"]	SLC6A4 gene	C1420214
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["36254604_fullText_4","15692194_fullText_1","31575582_fullText_99","31575582_fullText_113"]	IMPACT gene	C1825598
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["31684998_fullText_10","39125644_fullText_57"]	NEFL gene	C1417668
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["27165717_fullText_105"]	SIRT1 gene	C1423062
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["8035935_fullText_1","8023841_fullText_1","7839819_fullText_6"]	Locus	C1708726
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["26490332_fullText_7"]	ATXN2 gene	C1538299
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["9254842_fullText_2","8912491_fullText_3"]	MJD gene	C1417173
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["19412185_fullText_7"]	Wild Type	C1883559
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["11708990_fullText_10"]	Alleles	C0002085
+Machado-Joseph Disease	C0024408	ASSOCIATED_WITH	["32556403_fullText_9"]	NCOA6 gene	C1367177
+Spinocerebellar Ataxia Type 1	C0752120	ASSOCIATED_WITH	["19659750_fullText_2"]	PDYN gene	C1418447
+Syndrome	C0039082	ASSOCIATED_WITH	["37255483_fullText_3"]	LSS gene	C1416926
+Syndrome	C0039082	ASSOCIATED_WITH	["33554500_fullText_86"]	COG4 gene	C1425652
+Alzheimer's Disease	C0002395	ASSOCIATED_WITH	["34230570_fullText_8"]	MAOB gene	C1417002
+Alzheimer's Disease	C0002395	ASSOCIATED_WITH	["34217798_fullText_9"]	FAAH gene	C1414512
+Alzheimer's Disease	C0002395	ASSOCIATED_WITH	["34217798_fullText_9"]	MGLL gene	C1442515
+Parkinson Disease	C0030567	ASSOCIATED_WITH	["37599424_fullText_6"]	IMPACT gene	C1825598
+Parkinson Disease	C0030567	ASSOCIATED_WITH	["32030791_abstract_1"]	GBA gene	C1414998
 Muscular Atrophy	C0026846	ASSOCIATED_WITH	["38227368_fullText_3"]	ATXN3 gene	C1538301
-Muscular Atrophy	C0026846	IS_TREATED	["17487865_fullText_5"]	DMD gene	C1414083
-Muscular Atrophy	C0026846	IS_TREATED	["29789616_fullText_103"]	RBFOX1 gene	C1854634
-Muscular Atrophy	C0026846	IS_TREATED	["24376746_fullText_86"]	CELF1 gene	C1413824
-Late-Onset Disorders	C0376415	IS_TREATED	["29048302_fullText_2"]	ST8SIA4 gene	C1539876
-nervous system disorder	C0027765	IS_TREATED	["34577088_fullText_7"]	LPAR3 wt Allele	C3812695
-nervous system disorder	C0027765	IS_TREATED	["35491805_fullText_8"]	PTS gene	C1419129
-Heparin-induced thrombocytopenia	C0272285	IS_TREATED	["25239918_fullText_71"]	LGALS4 gene	C1416832
-Restless Legs Syndrome	C0035258	IS_TREATED	["34225668_fullText_4"]	FXYD1 gene	C1414874
-Asthma	C0004096	IS_TREATED	["36343758_fullText_8","35074516_fullText_2"]	LAMA1 gene	C1416775
-Asthma	C0004096	IS_TREATED	["36038873_fullText_5"]	IMPACT gene	C1825598
-Inclusion Body Myositis (disorder)	C0238190	IS_TREATED	["26287655_fullText_15"]	PHEX gene	C1418526
-Spinal Muscular Atrophy	C0026847	IS_TREATED	["8566945_fullText_4"]	Alleles	C0002085
-Neuropathy	C0442874	IS_TREATED	["35406718_fullText_47"]	NGLY1 gene	C1425023
-Epilepsy	C0014544	IS_TREATED	["38649481_fullText_2"]	ALG3 wt Allele	C5780801
-Epilepsy	C0014544	IS_TREATED	["35951651_fullText_8"]	RBFOX3 gene	C3146324
-Dystrophia myotonica 1	C2931688	IS_TREATED	["36120913_fullText_3"]	CDK12 gene	C1824794
-Dystrophia myotonica 1	C2931688	IS_TREATED	["23806903_fullText_5"]	MBNL1 gene	C1417055
-Brain Diseases	C0006111	IS_TREATED	["36813575_fullText_8"]	GPR173 gene	C1539609
-Dopa-Responsive Dystonia	C1851920	IS_TREATED	["23421753_fullText_4"]	GCH1 gene	C1415012
-Muscular Dystrophy	C0026850	IS_TREATED	["28367954_fullText_68"]	PPARGC1A gene	C1418779
-Diabetes	C0011847	IS_TREATED	["34577088_fullText_7"]	LPAR3 wt Allele	C3812695
-Diabetes	C0011847	IS_TREATED	["36280497_fullText_4","36280497_fullText_6"]	CNR1 gene	C1413554
-Narcolepsy	C0027404	IS_TREATED	["34559298_fullText_2"]	Alleles	C0002085
-Obesity	C0028754	IS_TREATED	["24055312_fullText_8"]	IMPACT gene	C1825598
-Anorexia	C0003123	IS_TREATED	["36658263_fullText_9"]	UTP20 gene	C1823612
-Anorexia	C0003123	IS_TREATED	["36658263_fullText_9"]	C4orf51 gene	C2828846
-Anorexia	C0003123	IS_TREATED	["36658263_fullText_9"]	MGAM gene	C1417132
-Anorexia	C0003123	IS_TREATED	["36658263_fullText_9"]	PRF1 gene	C1418887
-Autosomal Dominant Parkinsonism	C0752098	IS_TREATED	["11176969_fullText_8"]	Locus	C1708726
-Encephalopathies	C0085584	IS_TREATED	["17342424_fullText_1"]	PGD gene	C1418504
-Encephalopathies	C0085584	IS_TREATED	["38212812_fullText_3","38212812_abstract_3"]	ELAVL2 gene	C1414372
-Myotonic Dystrophy	C0027126	IS_TREATED	["8789448_fullText_11","8464127_fullText_8"]	DMPK gene	C1414085
-Myotonic Dystrophy	C0027126	IS_TREATED	["26501102_fullText_99"]	CLCN1 gene	C1413450
-Myotonic Dystrophy	C0027126	IS_TREATED	["6748014_fullText_1"]	Genes, Dominant	C0017342
-Myotonic Dystrophy	C0027126	IS_TREATED	["2881531_fullText_1","2320244_fullText_2","3047535_fullText_3"]	APOC2 gene	C1412477
-Myotonic Dystrophy	C0027126	IS_TREATED	["7398118_fullText_1","8664567_fullText_2","3856628_fullText_2"]	Locus	C1708726
-Myotonic Dystrophy	C0027126	IS_TREATED	["2320244_fullText_2"]	CKM gene	C1413435
-Myotonic Dystrophy	C0027126	IS_TREATED	["9353981_fullText_1","8566945_fullText_4"]	Alleles	C0002085
-Myopathy	C0026848	IS_TREATED	["37644541_fullText_40"]	NGLY1 gene	C1425023
-Metabolic Diseases	C0025517	IS_TREATED	["17637719_fullText_6"]	Transgenes	C0282641
-Metabolic Diseases	C0025517	IS_TREATED	["34999954_fullText_3"]	SLC10A7 gene	C1822740
-Metabolic Diseases	C0025517	IS_TREATED	["36128717_fullText_17"]	AASS gene	C1424938
-Metabolic Diseases	C0025517	IS_TREATED	["36870649_fullText_2"]	MARK4 gene	C1422048
-Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844	IS_TREATED	["33491267_fullText_2","3862128_fullText_1"]	PAH gene	C1418251
-Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844	IS_TREATED	["7902323_fullText_4","1301942_fullText_1"]	Locus	C1708726
-Inflammatory disorder	C1290884	IS_TREATED	["37047682_fullText_4"]	P2RY12 gene	C1425330
-Inflammatory disorder	C1290884	IS_TREATED	["35278404_fullText_8"]	ADORA3 gene	C1412251
-Mitochondrial Diseases	C0751651	IS_TREATED	["31356884_fullText_3"]	MELAS gene	C1417109
-Leigh Disease	C0023264	IS_TREATED	["18778816_fullText_6"]	PGD gene	C1418504
-Leigh Disease	C0023264	IS_TREATED	["35217561_fullText_55"]	MT-ND1 gene	C1537989
-Leigh Disease	C0023264	IS_TREATED	["28916769_fullText_2","34849584_fullText_311"]	NDUFS4 gene	C1417647
-Leigh Disease	C0023264	IS_TREATED	["38316835_fullText_25"]	Candidate Disease Gene	C1332838
-Leigh Disease	C0023264	IS_TREATED	["11044474_fullText_5","25164807_fullText_97","23829769_fullText_17","30059502_fullText_73"]	SURF1 gene	C1420527
-Leigh Disease	C0023264	IS_TREATED	["27390132_fullText_9"]	SLC25A46 gene	C1822755
-Leigh Disease	C0023264	IS_TREATED	["30140060_fullText_2"]	MT-ATP6 gene	C1537983
-Leigh Disease	C0023264	IS_TREATED	["11044474_fullText_5"]	SCO2 gene	C1419873
-Cytochrome-c Oxidase Deficiency	C0268237	IS_TREATED	["22729865_fullText_6"]	Retinoic Acid Response Element	C1514917
-Cytochrome-c Oxidase Deficiency	C0268237	IS_TREATED	["34627336_fullText_125"]	SURF1 gene	C1420527
-Mitochondrial Myopathies	C0162670	IS_TREATED	["32366037_fullText_21"]	MT-ND5 gene	C1537994
-Mitochondrial Myopathies	C0162670	IS_TREATED	["32366037_fullText_21"]	MELAS gene	C1417109
-Optic Atrophy, Hereditary, Leber	C0917796	IS_TREATED	["10412694_fullText_3"]	MELAS gene	C1417109
-Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency	C0342776	IS_TREATED	["34627336_fullText_125"]	Genes, Mitochondrial	C1563761
-Lesion of brain	C0221505	IS_TREATED	["36056365_fullText_52"]	NDUFS4 gene	C1417647
-MITOCHONDRIAL COMPLEX I DEFICIENCY	C1838979	IS_TREATED	["28916769_fullText_45"]	NDUFS4 gene	C1417647
-Liver diseases	C0023895	IS_TREATED	["17393522_fullText_8"]	PEX2 gene	C1419149
-Leukoencephalopathies	C0270612	IS_TREATED	["28857146_fullText_4"]	Exome	C3178814
-Migraine Disorders	C0149931	IS_TREATED	["35076091_fullText_1","35076091_fullText_7"]	IMPACT gene	C1825598
-Hypoglycemia	C0020615	IS_TREATED	["35308014_fullText_149"]	PMM2 gene	C1418674
-Glutaric aciduria, type 1	C0268595	IS_TREATED	["28545977_fullText_2"]	DHTKD1 gene	C1428130
-Complex V deficiency	C0342779	IS_TREATED	["34627336_fullText_125"]	MT-ATP6 gene	C1537983
-MERRF Syndrome	C0162672	IS_TREATED	["10412694_fullText_3"]	MELAS gene	C1417109
-Neuromuscular Diseases	C0027868	IS_TREATED	["18602826_fullText_1"]	DAG1 gene	C1413902
-Neuromuscular Diseases	C0027868	IS_TREATED	["32888768_fullText_2"]	PROS1 wt Allele	C3813209
-Neuromuscular Diseases	C0027868	IS_TREATED	["18602826_fullText_1"]	BGN gene	C1412792
-Septicemia	C0036690	IS_TREATED	["37047682_fullText_4"]	P2RY12 gene	C1425330
-Phenylketonurias	C0031485	IS_TREATED	["15238907_fullText_5"]	NBL1 gene	C0919442
-Phenylketonurias	C0031485	IS_TREATED	["8831077_fullText_1","2591403_fullText_1"]	Alleles	C0002085
-Phenylketonurias	C0031485	IS_TREATED	["15906708_fullText_9"]	SLC5A7 gene	C1422359
-Phenylketonurias	C0031485	IS_TREATED	["1240817_fullText_1"]	CYP51A1 gene	C1413892
-Phenylketonurias	C0031485	IS_TREATED	["36787440_fullText_7","7812811_fullText_1"]	PAH gene	C1418251
-Phenylketonurias	C0031485	IS_TREATED	["7967476_fullText_1"]	HYPERPHENYLALANINEMIA, NON-PKU	C2676533
-Phenylketonurias	C0031485	IS_TREATED	["29596327_fullText_6"]	ALLC gene	C1424945
-Phenylketonurias	C0031485	IS_TREATED	["30046012_fullText_10"]	SLC6A19 gene	C1428660
-Phenylketonurias	C0031485	IS_TREATED	["36787440_fullText_7"]	T gene	C1420562
-Phenylketonurias	C0031485	IS_TREATED	["26258410_fullText_5"]	INDUCIBLE cAMP EARLY REPRESSOR	C1852403
-Phenylketonurias	C0031485	IS_TREATED	["27447460_fullText_13"]	Open Reading Frames	C0079941
-Phenylketonurias	C0031485	IS_TREATED	["31992763_abstract_1"]	LRSAM1 gene	C1428449
-Phenylketonurias	C0031485	IS_TREATED	["38115737_fullText_4"]	NBN gene	C1334862
-Phenylketonurias	C0031485	IS_TREATED	["38139256_fullText_3","31030702_fullText_3","9934648_fullText_2","9118832_fullText_2"]	IMPACT gene	C1825598
-Phenylketonurias	C0031485	IS_TREATED	["11581453_fullText_9"]	RAB3D gene	C1419208
-Phenylketonurias	C0031485	IS_TREATED	["29628378_fullText_1"]	SMARCB1 gene	C0812273
-Hypertensive disease	C0020538	IS_TREATED	["35502665_fullText_6"]	FGR gene	C0919478
-Congenital Disorders	C0242354	IS_TREATED	["34999954_fullText_3"]	SLC10A7 gene	C1822740
-Cardiovascular Diseases	C0007222	IS_TREATED	["34577088_fullText_7"]	LPAR3 wt Allele	C3812695
-Cardiovascular Diseases	C0007222	IS_TREATED	["36719527_fullText_2"]	SEPT4 gene	C1539747
-Cardiovascular Diseases	C0007222	IS_TREATED	["36732830_fullText_1"]	P2RY12 gene	C1425330
-Myasthenic Syndromes, Congenital	C0751882	IS_TREATED	["24234034_fullText_1"]	COLQ gene	C1413603
-Myasthenia Gravis	C0026896	IS_TREATED	["23637281_fullText_7"]	LRP4 gene	C1416916
-Maple Syrup Urine Disease	C0024776	IS_TREATED	["24341803_fullText_52"]	LIAS gene	C1424272
-Maple Syrup Urine Disease	C0024776	IS_TREATED	["26258410_fullText_5"]	INDUCIBLE cAMP EARLY REPRESSOR	C1852403
-Maple Syrup Urine Disease	C0024776	IS_TREATED	["24341803_fullText_52"]	LIPT2 gene	C2829636
-Moyamoya Disease	C0026654	IS_TREATED	["37924258_fullText_1"]	cancer-predisposing genes	C0919453
-Amino Acid Metabolism, Inborn Errors	C0002514	IS_TREATED	["30046012_fullText_10"]	SLC6A19 gene	C1428660
-Congenital disorder of glycosylation type 1A	C0349653	IS_TREATED	["32630370_fullText_2"]	SLCO2A1 gene	C1420129
-Sialorrhea	C0037036	IS_TREATED	["34742343_fullText_1"]	IMPACT gene	C1825598
-Irritable Bowel Syndrome	C0022104	IS_TREATED	["34254966_fullText_9"]	SAT1 wt Allele	C1705827
-Irritable Bowel Syndrome	C0022104	IS_TREATED	["34081905_fullText_3"]	HTR3A gene	C1333933
-Chronic Obstructive Airway Disease	C0024117	IS_TREATED	["34528220_fullText_1","34628125_fullText_3","34489206_fullText_1","34023320_fullText_1","34530132_fullText_1","36442662_fullText_1"]	LAMA1 gene	C1416775
-Chronic Obstructive Airway Disease	C0024117	IS_TREATED	["37013442_fullText_7"]	SLC22A16 gene	C1426843
-Chronic Obstructive Airway Disease	C0024117	IS_TREATED	["34569408_fullText_1","34289189_fullText_2","33860810_fullText_6"]	IMPACT gene	C1825598
-Heart failure	C0018801	IS_TREATED	["34104088_fullText_1"]	IMPACT gene	C1825598
-Isovaleryl-CoA dehydrogenase deficiency	C0268575	IS_TREATED	["26258410_fullText_5"]	INDUCIBLE cAMP EARLY REPRESSOR	C1852403
-Gastrointestinal Diseases	C0017178	IS_TREATED	["34432256_fullText_2"]	HRH1 gene	C1439351
-Familial dilated cardiomyopathy	C0340427	IS_TREATED	["34023320_fullText_1"]	LAMA1 gene	C1416775
-Diabetic Neuropathies	C0011882	IS_TREATED	["31636082_fullText_35","31636082_fullText_139"]	ARIH1 gene	C1412533
-Glaucoma	C0017601	IS_TREATED	["33844617_fullText_10"]	TYRO3 gene	C1367457
-Renal fibrosis	C0151650	IS_TREATED	["34305821_fullText_15"]	CNR1 gene	C1413554
-Congenital vascular anomaly	C1961121	IS_TREATED	["34590496_fullText_4"]	IMPACT gene	C1825598
-Acute Coronary Syndrome	C0948089	IS_TREATED	["36649890_fullText_1"]	P2RY12 gene	C1425330
-Chronic inflammatory disorder	C1290886	IS_TREATED	["37863901_fullText_2"]	HRH4 gene	C1424950
-Hyperprolactinemia	C0020514	IS_TREATED	["35226247_fullText_4"]	FNDC5 gene	C1426803
-Chronic Kidney Diseases	C1561643	IS_TREATED	["34305821_fullText_15"]	CNR1 gene	C1413554
-Impaired glucose tolerance	C0271650	IS_TREATED	["35922561_fullText_4"]	FAM132B gene	C2239422
-Allergic condition	C0851444	IS_TREATED	["34622396_fullText_2","33894089_fullText_1"]	AHSG gene	C1412296
-Lung Diseases, Obstructive	C0600260	IS_TREATED	["35074516_fullText_1"]	LAMA1 gene	C1416775
-Adrenoleukodystrophy	C0162309	IS_TREATED	["31978407_abstract_1"]	PCSK7 gene	C1418392
-Adrenoleukodystrophy	C0162309	IS_TREATED	["37189159_fullText_173"]	PEX2 gene	C1419149
-Adrenoleukodystrophy	C0162309	IS_TREATED	["37189159_fullText_7"]	ABCD1 gene	C1412084
-Hepatic Encephalopathy	C0019151	IS_TREATED	["31933517_abstract_8","31933517_abstract_9"]	ENPP2 gene	C1414408
-Old myocardial infarction	C0155668	IS_TREATED	["33758122_fullText_6"]	P2RY12 gene	C1425330
-Viral respiratory infection	C0729531	IS_TREATED	["35818943_fullText_5"]	IL13 gene	C1334103
-Childhood Obesity	C3645710	IS_TREATED	["36536256_fullText_9"]	HTR2C gene	C1415811
-Hypercholesterolemia	C0020443	IS_TREATED	["32145091_fullText_144"]	SREBF1 gene	C1420398
-PARKINSON DISEASE, LATE-ONSET	C3160718	IS_TREATED	["30059502_fullText_73"]	SURF1 gene	C1420527
-Aortic Valve Stenosis	C0003507	IS_TREATED	["34860593_fullText_1"]	DSE gene	C1427359
-Ventricular arrhythmia	C0085612	IS_TREATED	["35809655_fullText_4"]	PEBP1 gene	C1826565
-Dejerine-Sottas Disease (disorder)	C0011195	IS_TREATED	["34100397_fullText_8"]	NOX4 gene	C1417771
-Dejerine-Sottas Disease (disorder)	C0011195	IS_TREATED	["34100397_fullText_8"]	CYBB gene	C1413844
-Dejerine-Sottas Disease (disorder)	C0011195	IS_TREATED	["34100397_fullText_8"]	NCF1 gene	C1417608
-ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 5 (disorder)	C1858379	IS_TREATED	["34412508_fullText_1"]	TMEM43 gene	C1540016
-asthma chronic	C0877430	IS_TREATED	["36959028_fullText_12"]	IL13 gene	C1334103
-Motility disorder of intestine	C0400865	IS_TREATED	["36408759_fullText_5"]	CGA gene	C1413366
-Endogenous Hyperinsulinism	C1257963	IS_TREATED	["36143915_fullText_5"]	KDR gene	C1334306
-Endogenous Hyperinsulinism	C1257963	IS_TREATED	["36143915_fullText_5"]	BRAF gene	C0812241
-Endogenous Hyperinsulinism	C1257963	IS_TREATED	["36143915_fullText_5"]	TNIK gene	C1428997
-Taste Disorders	C0039338	IS_TREATED	["35908177_fullText_2"]	IMPACT gene	C1825598
-Congenital disorder of glycosylation, type 2C	C0398739	IS_TREATED	["37644541_fullText_40"]	PMM2 gene	C1418674
-6-pyruvoyl-tetrahydropterin synthase deficiency	C0878676	IS_TREATED	["3297709_fullText_3"]	PTS gene	C1419129
-Medium-chain acyl-coenzyme A dehydrogenase deficiency	C0220710	IS_TREATED	["31937333_abstract_5","31937333_fullText_5"]	IMPACT gene	C1825598
-Galactosemias	C0016952	IS_TREATED	["37644541_fullText_44"]	SORD gene	C1420311
-Galactosemias	C0016952	IS_TREATED	["37644541_fullText_44"]	PMM2 gene	C1418674
-Congenital Hypothyroidism	C0010308	IS_TREATED	["38115737_fullText_4"]	NBN gene	C1334862
-CONGENITAL DISORDER OF DEGLYCOSYLATION	C3808991	IS_TREATED	["35565658_fullText_31","35565658_fullText_271","33563880_fullText_7"]	NGLY1 gene	C1425023
-Congenital disorder of glycosylation type 1B	C1865145	IS_TREATED	["22838182_fullText_116"]	PIGM gene	C1425829
-Myasthenic Syndrome	C0549225	IS_TREATED	["16941657_fullText_5"]	PPAN gene	C1418773
-Congenital disorder of glycosylation, type 2G	C2931011	IS_TREATED	["34625039_fullText_9"]	COG1 gene	C1416821
-Peroxisome biogenesis disorders	C1832200	IS_TREATED	["26627464_fullText_4"]	PHEX gene	C1418526
-Malformations of Cortical Development, Group II	C1837249	IS_TREATED	["10963364_fullText_6"]	DCX gene	C1413938
-Fabry Disease	C0002986	IS_TREATED	["37627292_fullText_6"]	GAA gene	C1414899
-Malignant hyperpyrexia due to anesthesia	C0024591	IS_TREATED	["1971150_fullText_5"]	RYR1 gene	C1419778
-Malignant hyperpyrexia due to anesthesia	C0024591	IS_TREATED	["1970795_fullText_5"]	Candidate Disease Gene	C1332838
-Single-Gene Defects	C0037176	IS_TREATED	["11517298_fullText_1"]	PGD gene	C1418504
-Kartagener Syndrome	C0022521	IS_TREATED	["11237735_fullText_6"]	Candidate Disease Gene	C1332838
-DEAFNESS, AUTOSOMAL RECESSIVE 2	C1838701	IS_TREATED	["25807530_fullText_55"]	MYO7A gene	C1417569
-Sandhoff Disease	C0036161	IS_TREATED	["37526361_fullText_4"]	FAM64A gene	C1825121
-Oculocerebrorenal Syndrome	C0028860	IS_TREATED	["16106856_fullText_9"]	Cyclic AMP Response Element	C1511573
-Anterior segment mesenchymal dysgenesis	C1862839	IS_TREATED	["37453187_fullText_4"]	GPNMB gene	C1415205
-Hepatic ascites	C0401037	IS_TREATED	["31933517_abstract_8","31933517_abstract_9"]	ENPP2 gene	C1414408
-Deuteranomaly	C3887938	IS_TREATED	["39231983_fullText_53"]	GAD2 gene	C1414926
+Muscular Atrophy	C0026846	ASSOCIATED_WITH	["17487865_fullText_5"]	DMD gene	C1414083
+Muscular Atrophy	C0026846	ASSOCIATED_WITH	["29789616_fullText_103"]	RBFOX1 gene	C1854634
+Muscular Atrophy	C0026846	ASSOCIATED_WITH	["24376746_fullText_86"]	CELF1 gene	C1413824
+Late-Onset Disorders	C0376415	ASSOCIATED_WITH	["29048302_fullText_2"]	ST8SIA4 gene	C1539876
+nervous system disorder	C0027765	ASSOCIATED_WITH	["34577088_fullText_7"]	LPAR3 wt Allele	C3812695
+nervous system disorder	C0027765	ASSOCIATED_WITH	["35491805_fullText_8"]	PTS gene	C1419129
+Heparin-induced thrombocytopenia	C0272285	ASSOCIATED_WITH	["25239918_fullText_71"]	LGALS4 gene	C1416832
+Restless Legs Syndrome	C0035258	ASSOCIATED_WITH	["34225668_fullText_4"]	FXYD1 gene	C1414874
+Asthma	C0004096	ASSOCIATED_WITH	["36343758_fullText_8","35074516_fullText_2"]	LAMA1 gene	C1416775
+Asthma	C0004096	ASSOCIATED_WITH	["36038873_fullText_5"]	IMPACT gene	C1825598
+Inclusion Body Myositis (disorder)	C0238190	ASSOCIATED_WITH	["26287655_fullText_15"]	PHEX gene	C1418526
+Spinal Muscular Atrophy	C0026847	ASSOCIATED_WITH	["8566945_fullText_4"]	Alleles	C0002085
+Neuropathy	C0442874	ASSOCIATED_WITH	["35406718_fullText_47"]	NGLY1 gene	C1425023
+Epilepsy	C0014544	ASSOCIATED_WITH	["38649481_fullText_2"]	ALG3 wt Allele	C5780801
+Epilepsy	C0014544	ASSOCIATED_WITH	["35951651_fullText_8"]	RBFOX3 gene	C3146324
+Dystrophia myotonica 1	C2931688	ASSOCIATED_WITH	["36120913_fullText_3"]	CDK12 gene	C1824794
+Dystrophia myotonica 1	C2931688	ASSOCIATED_WITH	["23806903_fullText_5"]	MBNL1 gene	C1417055
+Brain Diseases	C0006111	ASSOCIATED_WITH	["36813575_fullText_8"]	GPR173 gene	C1539609
+Dopa-Responsive Dystonia	C1851920	ASSOCIATED_WITH	["23421753_fullText_4"]	GCH1 gene	C1415012
+Muscular Dystrophy	C0026850	ASSOCIATED_WITH	["28367954_fullText_68"]	PPARGC1A gene	C1418779
+Diabetes	C0011847	ASSOCIATED_WITH	["34577088_fullText_7"]	LPAR3 wt Allele	C3812695
+Diabetes	C0011847	ASSOCIATED_WITH	["36280497_fullText_4","36280497_fullText_6"]	CNR1 gene	C1413554
+Narcolepsy	C0027404	ASSOCIATED_WITH	["34559298_fullText_2"]	Alleles	C0002085
+Obesity	C0028754	ASSOCIATED_WITH	["24055312_fullText_8"]	IMPACT gene	C1825598
+Anorexia	C0003123	ASSOCIATED_WITH	["36658263_fullText_9"]	UTP20 gene	C1823612
+Anorexia	C0003123	ASSOCIATED_WITH	["36658263_fullText_9"]	C4orf51 gene	C2828846
+Anorexia	C0003123	ASSOCIATED_WITH	["36658263_fullText_9"]	MGAM gene	C1417132
+Anorexia	C0003123	ASSOCIATED_WITH	["36658263_fullText_9"]	PRF1 gene	C1418887
+Autosomal Dominant Parkinsonism	C0752098	ASSOCIATED_WITH	["11176969_fullText_8"]	Locus	C1708726
+Encephalopathies	C0085584	ASSOCIATED_WITH	["17342424_fullText_1"]	PGD gene	C1418504
+Encephalopathies	C0085584	ASSOCIATED_WITH	["38212812_fullText_3","38212812_abstract_3"]	ELAVL2 gene	C1414372
+Myotonic Dystrophy	C0027126	ASSOCIATED_WITH	["8789448_fullText_11","8464127_fullText_8"]	DMPK gene	C1414085
+Myotonic Dystrophy	C0027126	ASSOCIATED_WITH	["26501102_fullText_99"]	CLCN1 gene	C1413450
+Myotonic Dystrophy	C0027126	ASSOCIATED_WITH	["6748014_fullText_1"]	Genes, Dominant	C0017342
+Myotonic Dystrophy	C0027126	ASSOCIATED_WITH	["2881531_fullText_1","2320244_fullText_2","3047535_fullText_3"]	APOC2 gene	C1412477
+Myotonic Dystrophy	C0027126	ASSOCIATED_WITH	["7398118_fullText_1","8664567_fullText_2","3856628_fullText_2"]	Locus	C1708726
+Myotonic Dystrophy	C0027126	ASSOCIATED_WITH	["2320244_fullText_2"]	CKM gene	C1413435
+Myotonic Dystrophy	C0027126	ASSOCIATED_WITH	["9353981_fullText_1","8566945_fullText_4"]	Alleles	C0002085
+Myopathy	C0026848	ASSOCIATED_WITH	["37644541_fullText_40"]	NGLY1 gene	C1425023
+Metabolic Diseases	C0025517	ASSOCIATED_WITH	["17637719_fullText_6"]	Transgenes	C0282641
+Metabolic Diseases	C0025517	ASSOCIATED_WITH	["34999954_fullText_3"]	SLC10A7 gene	C1822740
+Metabolic Diseases	C0025517	ASSOCIATED_WITH	["36128717_fullText_17"]	AASS gene	C1424938
+Metabolic Diseases	C0025517	ASSOCIATED_WITH	["36870649_fullText_2"]	MARK4 gene	C1422048
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844	ASSOCIATED_WITH	["33491267_fullText_2","3862128_fullText_1"]	PAH gene	C1418251
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844	ASSOCIATED_WITH	["7902323_fullText_4","1301942_fullText_1"]	Locus	C1708726
+Inflammatory disorder	C1290884	ASSOCIATED_WITH	["37047682_fullText_4"]	P2RY12 gene	C1425330
+Inflammatory disorder	C1290884	ASSOCIATED_WITH	["35278404_fullText_8"]	ADORA3 gene	C1412251
+Mitochondrial Diseases	C0751651	ASSOCIATED_WITH	["31356884_fullText_3"]	MELAS gene	C1417109
+Leigh Disease	C0023264	ASSOCIATED_WITH	["18778816_fullText_6"]	PGD gene	C1418504
+Leigh Disease	C0023264	ASSOCIATED_WITH	["35217561_fullText_55"]	MT-ND1 gene	C1537989
+Leigh Disease	C0023264	ASSOCIATED_WITH	["28916769_fullText_2","34849584_fullText_311"]	NDUFS4 gene	C1417647
+Leigh Disease	C0023264	ASSOCIATED_WITH	["38316835_fullText_25"]	Candidate Disease Gene	C1332838
+Leigh Disease	C0023264	ASSOCIATED_WITH	["11044474_fullText_5","25164807_fullText_97","23829769_fullText_17","30059502_fullText_73"]	SURF1 gene	C1420527
+Leigh Disease	C0023264	ASSOCIATED_WITH	["27390132_fullText_9"]	SLC25A46 gene	C1822755
+Leigh Disease	C0023264	ASSOCIATED_WITH	["30140060_fullText_2"]	MT-ATP6 gene	C1537983
+Leigh Disease	C0023264	ASSOCIATED_WITH	["11044474_fullText_5"]	SCO2 gene	C1419873
+Cytochrome-c Oxidase Deficiency	C0268237	ASSOCIATED_WITH	["22729865_fullText_6"]	Retinoic Acid Response Element	C1514917
+Cytochrome-c Oxidase Deficiency	C0268237	ASSOCIATED_WITH	["34627336_fullText_125"]	SURF1 gene	C1420527
+Mitochondrial Myopathies	C0162670	ASSOCIATED_WITH	["32366037_fullText_21"]	MT-ND5 gene	C1537994
+Mitochondrial Myopathies	C0162670	ASSOCIATED_WITH	["32366037_fullText_21"]	MELAS gene	C1417109
+Optic Atrophy, Hereditary, Leber	C0917796	ASSOCIATED_WITH	["10412694_fullText_3"]	MELAS gene	C1417109
+Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency	C0342776	ASSOCIATED_WITH	["34627336_fullText_125"]	Genes, Mitochondrial	C1563761
+Lesion of brain	C0221505	ASSOCIATED_WITH	["36056365_fullText_52"]	NDUFS4 gene	C1417647
+MITOCHONDRIAL COMPLEX I DEFICIENCY	C1838979	ASSOCIATED_WITH	["28916769_fullText_45"]	NDUFS4 gene	C1417647
+Liver diseases	C0023895	ASSOCIATED_WITH	["17393522_fullText_8"]	PEX2 gene	C1419149
+Leukoencephalopathies	C0270612	ASSOCIATED_WITH	["28857146_fullText_4"]	Exome	C3178814
+Migraine Disorders	C0149931	ASSOCIATED_WITH	["35076091_fullText_1","35076091_fullText_7"]	IMPACT gene	C1825598
+Hypoglycemia	C0020615	ASSOCIATED_WITH	["35308014_fullText_149"]	PMM2 gene	C1418674
+Glutaric aciduria, type 1	C0268595	ASSOCIATED_WITH	["28545977_fullText_2"]	DHTKD1 gene	C1428130
+Complex V deficiency	C0342779	ASSOCIATED_WITH	["34627336_fullText_125"]	MT-ATP6 gene	C1537983
+MERRF Syndrome	C0162672	ASSOCIATED_WITH	["10412694_fullText_3"]	MELAS gene	C1417109
+Neuromuscular Diseases	C0027868	ASSOCIATED_WITH	["18602826_fullText_1"]	DAG1 gene	C1413902
+Neuromuscular Diseases	C0027868	ASSOCIATED_WITH	["32888768_fullText_2"]	PROS1 wt Allele	C3813209
+Neuromuscular Diseases	C0027868	ASSOCIATED_WITH	["18602826_fullText_1"]	BGN gene	C1412792
+Septicemia	C0036690	ASSOCIATED_WITH	["37047682_fullText_4"]	P2RY12 gene	C1425330
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["15238907_fullText_5"]	NBL1 gene	C0919442
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["8831077_fullText_1","2591403_fullText_1"]	Alleles	C0002085
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["15906708_fullText_9"]	SLC5A7 gene	C1422359
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["1240817_fullText_1"]	CYP51A1 gene	C1413892
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["36787440_fullText_7","7812811_fullText_1"]	PAH gene	C1418251
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["7967476_fullText_1"]	HYPERPHENYLALANINEMIA, NON-PKU	C2676533
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["29596327_fullText_6"]	ALLC gene	C1424945
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["30046012_fullText_10"]	SLC6A19 gene	C1428660
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["36787440_fullText_7"]	T gene	C1420562
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["26258410_fullText_5"]	INDUCIBLE cAMP EARLY REPRESSOR	C1852403
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["27447460_fullText_13"]	Open Reading Frames	C0079941
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["31992763_abstract_1"]	LRSAM1 gene	C1428449
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["38115737_fullText_4"]	NBN gene	C1334862
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["38139256_fullText_3","31030702_fullText_3","9934648_fullText_2","9118832_fullText_2"]	IMPACT gene	C1825598
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["11581453_fullText_9"]	RAB3D gene	C1419208
+Phenylketonurias	C0031485	ASSOCIATED_WITH	["29628378_fullText_1"]	SMARCB1 gene	C0812273
+Hypertensive disease	C0020538	ASSOCIATED_WITH	["35502665_fullText_6"]	FGR gene	C0919478
+Congenital Disorders	C0242354	ASSOCIATED_WITH	["34999954_fullText_3"]	SLC10A7 gene	C1822740
+Cardiovascular Diseases	C0007222	ASSOCIATED_WITH	["34577088_fullText_7"]	LPAR3 wt Allele	C3812695
+Cardiovascular Diseases	C0007222	ASSOCIATED_WITH	["36719527_fullText_2"]	SEPT4 gene	C1539747
+Cardiovascular Diseases	C0007222	ASSOCIATED_WITH	["36732830_fullText_1"]	P2RY12 gene	C1425330
+Myasthenic Syndromes, Congenital	C0751882	ASSOCIATED_WITH	["24234034_fullText_1"]	COLQ gene	C1413603
+Myasthenia Gravis	C0026896	ASSOCIATED_WITH	["23637281_fullText_7"]	LRP4 gene	C1416916
+Maple Syrup Urine Disease	C0024776	ASSOCIATED_WITH	["24341803_fullText_52"]	LIAS gene	C1424272
+Maple Syrup Urine Disease	C0024776	ASSOCIATED_WITH	["26258410_fullText_5"]	INDUCIBLE cAMP EARLY REPRESSOR	C1852403
+Maple Syrup Urine Disease	C0024776	ASSOCIATED_WITH	["24341803_fullText_52"]	LIPT2 gene	C2829636
+Moyamoya Disease	C0026654	ASSOCIATED_WITH	["37924258_fullText_1"]	cancer-predisposing genes	C0919453
+Amino Acid Metabolism, Inborn Errors	C0002514	ASSOCIATED_WITH	["30046012_fullText_10"]	SLC6A19 gene	C1428660
+Congenital disorder of glycosylation type 1A	C0349653	ASSOCIATED_WITH	["32630370_fullText_2"]	SLCO2A1 gene	C1420129
+Sialorrhea	C0037036	ASSOCIATED_WITH	["34742343_fullText_1"]	IMPACT gene	C1825598
+Irritable Bowel Syndrome	C0022104	ASSOCIATED_WITH	["34254966_fullText_9"]	SAT1 wt Allele	C1705827
+Irritable Bowel Syndrome	C0022104	ASSOCIATED_WITH	["34081905_fullText_3"]	HTR3A gene	C1333933
+Chronic Obstructive Airway Disease	C0024117	ASSOCIATED_WITH	["34528220_fullText_1","34628125_fullText_3","34489206_fullText_1","34023320_fullText_1","34530132_fullText_1","36442662_fullText_1"]	LAMA1 gene	C1416775
+Chronic Obstructive Airway Disease	C0024117	ASSOCIATED_WITH	["37013442_fullText_7"]	SLC22A16 gene	C1426843
+Chronic Obstructive Airway Disease	C0024117	ASSOCIATED_WITH	["34569408_fullText_1","34289189_fullText_2","33860810_fullText_6"]	IMPACT gene	C1825598
+Heart failure	C0018801	ASSOCIATED_WITH	["34104088_fullText_1"]	IMPACT gene	C1825598
+Isovaleryl-CoA dehydrogenase deficiency	C0268575	ASSOCIATED_WITH	["26258410_fullText_5"]	INDUCIBLE cAMP EARLY REPRESSOR	C1852403
+Gastrointestinal Diseases	C0017178	ASSOCIATED_WITH	["34432256_fullText_2"]	HRH1 gene	C1439351
+Familial dilated cardiomyopathy	C0340427	ASSOCIATED_WITH	["34023320_fullText_1"]	LAMA1 gene	C1416775
+Diabetic Neuropathies	C0011882	ASSOCIATED_WITH	["31636082_fullText_35","31636082_fullText_139"]	ARIH1 gene	C1412533
+Glaucoma	C0017601	ASSOCIATED_WITH	["33844617_fullText_10"]	TYRO3 gene	C1367457
+Renal fibrosis	C0151650	ASSOCIATED_WITH	["34305821_fullText_15"]	CNR1 gene	C1413554
+Congenital vascular anomaly	C1961121	ASSOCIATED_WITH	["34590496_fullText_4"]	IMPACT gene	C1825598
+Acute Coronary Syndrome	C0948089	ASSOCIATED_WITH	["36649890_fullText_1"]	P2RY12 gene	C1425330
+Chronic inflammatory disorder	C1290886	ASSOCIATED_WITH	["37863901_fullText_2"]	HRH4 gene	C1424950
+Hyperprolactinemia	C0020514	ASSOCIATED_WITH	["35226247_fullText_4"]	FNDC5 gene	C1426803
+Chronic Kidney Diseases	C1561643	ASSOCIATED_WITH	["34305821_fullText_15"]	CNR1 gene	C1413554
+Impaired glucose tolerance	C0271650	ASSOCIATED_WITH	["35922561_fullText_4"]	FAM132B gene	C2239422
+Allergic condition	C0851444	ASSOCIATED_WITH	["34622396_fullText_2","33894089_fullText_1"]	AHSG gene	C1412296
+Lung Diseases, Obstructive	C0600260	ASSOCIATED_WITH	["35074516_fullText_1"]	LAMA1 gene	C1416775
+Adrenoleukodystrophy	C0162309	ASSOCIATED_WITH	["31978407_abstract_1"]	PCSK7 gene	C1418392
+Adrenoleukodystrophy	C0162309	ASSOCIATED_WITH	["37189159_fullText_173"]	PEX2 gene	C1419149
+Adrenoleukodystrophy	C0162309	ASSOCIATED_WITH	["37189159_fullText_7"]	ABCD1 gene	C1412084
+Hepatic Encephalopathy	C0019151	ASSOCIATED_WITH	["31933517_abstract_8","31933517_abstract_9"]	ENPP2 gene	C1414408
+Old myocardial infarction	C0155668	ASSOCIATED_WITH	["33758122_fullText_6"]	P2RY12 gene	C1425330
+Viral respiratory infection	C0729531	ASSOCIATED_WITH	["35818943_fullText_5"]	IL13 gene	C1334103
+Childhood Obesity	C3645710	ASSOCIATED_WITH	["36536256_fullText_9"]	HTR2C gene	C1415811
+Hypercholesterolemia	C0020443	ASSOCIATED_WITH	["32145091_fullText_144"]	SREBF1 gene	C1420398
+PARKINSON DISEASE, LATE-ONSET	C3160718	ASSOCIATED_WITH	["30059502_fullText_73"]	SURF1 gene	C1420527
+Aortic Valve Stenosis	C0003507	ASSOCIATED_WITH	["34860593_fullText_1"]	DSE gene	C1427359
+Ventricular arrhythmia	C0085612	ASSOCIATED_WITH	["35809655_fullText_4"]	PEBP1 gene	C1826565
+Dejerine-Sottas Disease (disorder)	C0011195	ASSOCIATED_WITH	["34100397_fullText_8"]	NOX4 gene	C1417771
+Dejerine-Sottas Disease (disorder)	C0011195	ASSOCIATED_WITH	["34100397_fullText_8"]	CYBB gene	C1413844
+Dejerine-Sottas Disease (disorder)	C0011195	ASSOCIATED_WITH	["34100397_fullText_8"]	NCF1 gene	C1417608
+ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 5 (disorder)	C1858379	ASSOCIATED_WITH	["34412508_fullText_1"]	TMEM43 gene	C1540016
+asthma chronic	C0877430	ASSOCIATED_WITH	["36959028_fullText_12"]	IL13 gene	C1334103
+Motility disorder of intestine	C0400865	ASSOCIATED_WITH	["36408759_fullText_5"]	CGA gene	C1413366
+Endogenous Hyperinsulinism	C1257963	ASSOCIATED_WITH	["36143915_fullText_5"]	KDR gene	C1334306
+Endogenous Hyperinsulinism	C1257963	ASSOCIATED_WITH	["36143915_fullText_5"]	BRAF gene	C0812241
+Endogenous Hyperinsulinism	C1257963	ASSOCIATED_WITH	["36143915_fullText_5"]	TNIK gene	C1428997
+Taste Disorders	C0039338	ASSOCIATED_WITH	["35908177_fullText_2"]	IMPACT gene	C1825598
+Congenital disorder of glycosylation, type 2C	C0398739	ASSOCIATED_WITH	["37644541_fullText_40"]	PMM2 gene	C1418674
+6-pyruvoyl-tetrahydropterin synthase deficiency	C0878676	ASSOCIATED_WITH	["3297709_fullText_3"]	PTS gene	C1419129
+Medium-chain acyl-coenzyme A dehydrogenase deficiency	C0220710	ASSOCIATED_WITH	["31937333_abstract_5","31937333_fullText_5"]	IMPACT gene	C1825598
+Galactosemias	C0016952	ASSOCIATED_WITH	["37644541_fullText_44"]	SORD gene	C1420311
+Galactosemias	C0016952	ASSOCIATED_WITH	["37644541_fullText_44"]	PMM2 gene	C1418674
+Congenital Hypothyroidism	C0010308	ASSOCIATED_WITH	["38115737_fullText_4"]	NBN gene	C1334862
+CONGENITAL DISORDER OF DEGLYCOSYLATION	C3808991	ASSOCIATED_WITH	["35565658_fullText_31","35565658_fullText_271","33563880_fullText_7"]	NGLY1 gene	C1425023
+Congenital disorder of glycosylation type 1B	C1865145	ASSOCIATED_WITH	["22838182_fullText_116"]	PIGM gene	C1425829
+Myasthenic Syndrome	C0549225	ASSOCIATED_WITH	["16941657_fullText_5"]	PPAN gene	C1418773
+Congenital disorder of glycosylation, type 2G	C2931011	ASSOCIATED_WITH	["34625039_fullText_9"]	COG1 gene	C1416821
+Peroxisome biogenesis disorders	C1832200	ASSOCIATED_WITH	["26627464_fullText_4"]	PHEX gene	C1418526
+Malformations of Cortical Development, Group II	C1837249	ASSOCIATED_WITH	["10963364_fullText_6"]	DCX gene	C1413938
+Fabry Disease	C0002986	ASSOCIATED_WITH	["37627292_fullText_6"]	GAA gene	C1414899
+Malignant hyperpyrexia due to anesthesia	C0024591	ASSOCIATED_WITH	["1971150_fullText_5"]	RYR1 gene	C1419778
+Malignant hyperpyrexia due to anesthesia	C0024591	ASSOCIATED_WITH	["1970795_fullText_5"]	Candidate Disease Gene	C1332838
+Single-Gene Defects	C0037176	ASSOCIATED_WITH	["11517298_fullText_1"]	PGD gene	C1418504
+Kartagener Syndrome	C0022521	ASSOCIATED_WITH	["11237735_fullText_6"]	Candidate Disease Gene	C1332838
+DEAFNESS, AUTOSOMAL RECESSIVE 2	C1838701	ASSOCIATED_WITH	["25807530_fullText_55"]	MYO7A gene	C1417569
+Sandhoff Disease	C0036161	ASSOCIATED_WITH	["37526361_fullText_4"]	FAM64A gene	C1825121
+Oculocerebrorenal Syndrome	C0028860	ASSOCIATED_WITH	["16106856_fullText_9"]	Cyclic AMP Response Element	C1511573
+Anterior segment mesenchymal dysgenesis	C1862839	ASSOCIATED_WITH	["37453187_fullText_4"]	GPNMB gene	C1415205
+Hepatic ascites	C0401037	ASSOCIATED_WITH	["31933517_abstract_8","31933517_abstract_9"]	ENPP2 gene	C1414408
+Deuteranomaly	C3887938	ASSOCIATED_WITH	["39231983_fullText_53"]	GAD2 gene	C1414926
