@@ -1,0 +1,833 @@
+demokritosid,xref,pubchem_cid,IUPACname
+C0000376,http://purl.bioontology.org/ontology/MESH/D015102,https://pubchem.ncbi.nlm.nih.gov/compound/547,"3,4-Dihydroxyphenylacetic Acid"
+C0000379,http://purl.bioontology.org/ontology/MESH/D015104,https://pubchem.ncbi.nlm.nih.gov/compound/1614,"3,4-Methylenedioxyamphetamine"
+C0000477,http://purl.bioontology.org/ontology/SNOMEDCT/80994002,https://pubchem.ncbi.nlm.nih.gov/compound/1727,Dalfampridine
+C0000578,http://purl.bioontology.org/ontology/MESH/D006916,https://pubchem.ncbi.nlm.nih.gov/compound/144,5-Hydroxytryptophan
+C0000578,http://purl.bioontology.org/ontology/SNOMEDCT/73916008,https://pubchem.ncbi.nlm.nih.gov/compound/439280,Oxitriptan
+C0000610,http://purl.bioontology.org/ontology/MESH/D015120,https://pubchem.ncbi.nlm.nih.gov/compound/9500,6-Aminonicotinamide
+C0000970,http://purl.bioontology.org/ontology/SNOMEDCT/387517004,https://pubchem.ncbi.nlm.nih.gov/compound/1983,Acetaminophen
+C0000981,http://purl.bioontology.org/ontology/SNOMEDCT/372709008,https://pubchem.ncbi.nlm.nih.gov/compound/1986,Acetazolamide
+C0001002,http://purl.bioontology.org/ontology/MESH/D000096,https://pubchem.ncbi.nlm.nih.gov/compound/180,Acetone
+C0001002,http://purl.bioontology.org/ontology/SNOMEDCT/4370008,https://pubchem.ncbi.nlm.nih.gov/compound/180,Acetone
+C0001041,http://purl.bioontology.org/ontology/SNOMEDCT/57308006,https://pubchem.ncbi.nlm.nih.gov/compound/187,Acetylcholine
+C0001047,http://purl.bioontology.org/ontology/SNOMEDCT/387440002,https://pubchem.ncbi.nlm.nih.gov/compound/12035,Acetylcysteine
+C0001443,http://purl.bioontology.org/ontology/MESH/D000241,https://pubchem.ncbi.nlm.nih.gov/compound/60961,Adenosine
+C0001443,http://purl.bioontology.org/ontology/SNOMEDCT/35431001,https://pubchem.ncbi.nlm.nih.gov/compound/60961,Adenosine
+C0001771,http://purl.bioontology.org/ontology/MESH/D000362,https://pubchem.ncbi.nlm.nih.gov/compound/71571511,Agar
+C0001771,http://purl.bioontology.org/ontology/SNOMEDCT/10249006,https://pubchem.ncbi.nlm.nih.gov/compound/71571511,Agar
+C0001888,http://purl.bioontology.org/ontology/SNOMEDCT/1156230005,https://pubchem.ncbi.nlm.nih.gov/compound/6100671,Ajmaline
+C0001927,http://purl.bioontology.org/ontology/SNOMEDCT/372897005,https://pubchem.ncbi.nlm.nih.gov/compound/2083,Albuterol
+C0001933,http://purl.bioontology.org/ontology/MESH/D000423,https://pubchem.ncbi.nlm.nih.gov/compound/76418923,Alcian Blue
+C0001962,http://purl.bioontology.org/ontology/SNOMEDCT/419442005,https://pubchem.ncbi.nlm.nih.gov/compound/702,Ethanol
+C0001963,http://purl.bioontology.org/ontology/SNOMEDCT/259221006,https://pubchem.ncbi.nlm.nih.gov/compound/887,Methanol
+C0001992,http://purl.bioontology.org/ontology/MESH/D000447,https://pubchem.ncbi.nlm.nih.gov/compound/6449839,Aldehydes
+C0001992,http://purl.bioontology.org/ontology/SNOMEDCT/60530008,https://pubchem.ncbi.nlm.nih.gov/compound/6449839,Aldehyde
+C0001994,http://purl.bioontology.org/ontology/SNOMEDCT/65246003,https://pubchem.ncbi.nlm.nih.gov/compound/9570071,Aldicarb
+C0002006,http://purl.bioontology.org/ontology/MESH/D000450,https://pubchem.ncbi.nlm.nih.gov/compound/5839,Aldosterone
+C0002006,http://purl.bioontology.org/ontology/SNOMEDCT/42605004,https://pubchem.ncbi.nlm.nih.gov/compound/5839,Aldosterone
+C0002144,http://purl.bioontology.org/ontology/SNOMEDCT/387135004,https://pubchem.ncbi.nlm.nih.gov/compound/135401907,Allopurinol
+C0002151,http://purl.bioontology.org/ontology/MESH/D000496,https://pubchem.ncbi.nlm.nih.gov/compound/5781,Alloxan
+C0002151,http://purl.bioontology.org/ontology/SNOMEDCT/56796009,https://pubchem.ncbi.nlm.nih.gov/compound/5781,Alloxan
+C0002333,http://purl.bioontology.org/ontology/SNOMEDCT/386983007,https://pubchem.ncbi.nlm.nih.gov/compound/2118,Alprazolam
+C0002403,http://purl.bioontology.org/ontology/SNOMEDCT/372763006,https://pubchem.ncbi.nlm.nih.gov/compound/2130,Amantadine
+C0002475,http://purl.bioontology.org/ontology/SNOMEDCT/387331000,https://pubchem.ncbi.nlm.nih.gov/compound/5746,Mitomycin
+C0002502,http://purl.bioontology.org/ontology/SNOMEDCT/387503008,https://pubchem.ncbi.nlm.nih.gov/compound/16231,Amiloride
+C0002508,http://purl.bioontology.org/ontology/SNOMEDCT/43201005,https://pubchem.ncbi.nlm.nih.gov/compound/139106940,Amine
+C0002598,http://purl.bioontology.org/ontology/SNOMEDCT/372821002,https://pubchem.ncbi.nlm.nih.gov/compound/2157,Amiodarone
+C0002607,http://purl.bioontology.org/ontology/MESH/D000641,https://pubchem.ncbi.nlm.nih.gov/compound/222,Ammonia
+C0002607,http://purl.bioontology.org/ontology/SNOMEDCT/43953005,https://pubchem.ncbi.nlm.nih.gov/compound/222,Ammonia
+C0002615,http://purl.bioontology.org/ontology/MESH/D000643,https://pubchem.ncbi.nlm.nih.gov/compound/25517,Ammonium Chloride
+C0002615,http://purl.bioontology.org/ontology/SNOMEDCT/51366003,https://pubchem.ncbi.nlm.nih.gov/compound/25517,Ammonium chloride
+C0002658,http://purl.bioontology.org/ontology/SNOMEDCT/703842006,https://pubchem.ncbi.nlm.nih.gov/compound/3007,Amphetamine
+C0002679,http://purl.bioontology.org/ontology/MESH/D000666,https://pubchem.ncbi.nlm.nih.gov/compound/5280965,Amphotericin B
+C0002679,http://purl.bioontology.org/ontology/SNOMEDCT/77703004,https://pubchem.ncbi.nlm.nih.gov/compound/5280965,Amphotericin B
+C0002712,http://purl.bioontology.org/ontology/SNOMEDCT/387031005,https://pubchem.ncbi.nlm.nih.gov/compound/71475145,Amylase
+C0003009,http://purl.bioontology.org/ontology/SNOMEDCT/85267009,https://pubchem.ncbi.nlm.nih.gov/compound/172198,Angiotensin II
+C0003015,http://purl.bioontology.org/ontology/SNOMEDCT/372733002,https://pubchem.ncbi.nlm.nih.gov/compound/443376,Angiotensin-converting enzyme inhibitor
+C0003596,http://purl.bioontology.org/ontology/SNOMEDCT/387375001,https://pubchem.ncbi.nlm.nih.gov/compound/6005,Apomorphine
+C0003765,http://purl.bioontology.org/ontology/SNOMEDCT/52625008,https://pubchem.ncbi.nlm.nih.gov/compound/6322,Arginine
+C0003968,http://purl.bioontology.org/ontology/MESH/D001205,https://pubchem.ncbi.nlm.nih.gov/compound/54670067,Ascorbic Acid
+C0003968,http://purl.bioontology.org/ontology/SNOMEDCT/43706004,https://pubchem.ncbi.nlm.nih.gov/compound/54670067,Ascorbic acid
+C0003999,http://purl.bioontology.org/ontology/SNOMEDCT/11526002,https://pubchem.ncbi.nlm.nih.gov/compound/134601,Aspartame
+C0004057,http://purl.bioontology.org/ontology/SNOMEDCT/387458008,https://pubchem.ncbi.nlm.nih.gov/compound/2244,Aspirin
+C0004147,http://purl.bioontology.org/ontology/SNOMEDCT/387506000,https://pubchem.ncbi.nlm.nih.gov/compound/2249,Atenolol
+C0004234,http://purl.bioontology.org/ontology/SNOMEDCT/372835000,https://pubchem.ncbi.nlm.nih.gov/compound/47319,Atracurium
+C0004259,http://purl.bioontology.org/ontology/SNOMEDCT/372832002,https://pubchem.ncbi.nlm.nih.gov/compound/174174,Atropine
+C0004609,http://purl.bioontology.org/ontology/SNOMEDCT/387342009,https://pubchem.ncbi.nlm.nih.gov/compound/2284,Baclofen
+C0004906,http://purl.bioontology.org/ontology/SNOMEDCT/116575004,https://pubchem.ncbi.nlm.nih.gov/compound/21700,Beclomethasone dipropionate
+C0005014,http://purl.bioontology.org/ontology/MESH/D001545,https://pubchem.ncbi.nlm.nih.gov/compound/2327,Benserazide
+C0005014,http://purl.bioontology.org/ontology/SNOMEDCT/391821005,https://pubchem.ncbi.nlm.nih.gov/compound/2327,Benserazide
+C0005078,http://purl.bioontology.org/ontology/MESH/D001578,https://pubchem.ncbi.nlm.nih.gov/compound/9211,Benzopyrans
+C0005078,http://purl.bioontology.org/ontology/SNOMEDCT/424563009,https://pubchem.ncbi.nlm.nih.gov/compound/9211,Benzopyran
+C0005301,http://purl.bioontology.org/ontology/SNOMEDCT/418067008,https://pubchem.ncbi.nlm.nih.gov/compound/2366,Betahistine
+C0005304,http://purl.bioontology.org/ontology/SNOMEDCT/43356007,https://pubchem.ncbi.nlm.nih.gov/compound/247,Betaine
+C0005372,http://purl.bioontology.org/ontology/MESH/D001640,https://pubchem.ncbi.nlm.nih.gov/compound/10237,Bicuculline
+C0005390,http://purl.bioontology.org/ontology/SNOMEDCT/431067008,https://pubchem.ncbi.nlm.nih.gov/compound/439520,Bile acid
+C0005575,http://purl.bioontology.org/ontology/SNOMEDCT/8919000,https://pubchem.ncbi.nlm.nih.gov/compound/171548,Biotin
+C0006230,http://purl.bioontology.org/ontology/MESH/D001971,https://pubchem.ncbi.nlm.nih.gov/compound/31101,Bromocriptine
+C0006230,http://purl.bioontology.org/ontology/SNOMEDCT/387039007,https://pubchem.ncbi.nlm.nih.gov/compound/31101,Bromocriptine
+C0006388,http://purl.bioontology.org/ontology/MESH/D002040,https://pubchem.ncbi.nlm.nih.gov/compound/39468,Levobunolol
+C0006388,http://purl.bioontology.org/ontology/SNOMEDCT/418934007,https://pubchem.ncbi.nlm.nih.gov/compound/39468,Levobunolol
+C0006462,http://purl.bioontology.org/ontology/SNOMEDCT/387523009,https://pubchem.ncbi.nlm.nih.gov/compound/2477,Buspirone
+C0006519,http://purl.bioontology.org/ontology/SNOMEDCT/395739004,https://pubchem.ncbi.nlm.nih.gov/compound/6852391,Scopolamine butylbromide
+C0006644,http://purl.bioontology.org/ontology/SNOMEDCT/255641001,https://pubchem.ncbi.nlm.nih.gov/compound/2519,Caffeine
+C0006674,http://purl.bioontology.org/ontology/SNOMEDCT/259333003,https://pubchem.ncbi.nlm.nih.gov/compound/5280453,Calcitriol
+C0006675,http://purl.bioontology.org/ontology/MESH/D002118,https://pubchem.ncbi.nlm.nih.gov/compound/5460341,Calcium
+C0006675,http://purl.bioontology.org/ontology/SNOMEDCT/5540006,https://pubchem.ncbi.nlm.nih.gov/compound/5460341,Calcium
+C0006681,http://purl.bioontology.org/ontology/SNOMEDCT/387307005,https://pubchem.ncbi.nlm.nih.gov/compound/10112,Calcium carbonate
+C0006699,http://purl.bioontology.org/ontology/SNOMEDCT/387292008,https://pubchem.ncbi.nlm.nih.gov/compound/9290,Calcium gluconate
+C0006863,http://purl.bioontology.org/ontology/SNOMEDCT/96223000,https://pubchem.ncbi.nlm.nih.gov/compound/644019,Cannabidiol
+C0006864,http://purl.bioontology.org/ontology/MESH/D002186,https://pubchem.ncbi.nlm.nih.gov/compound/9852188,Cannabinoids
+C0006945,http://purl.bioontology.org/ontology/SNOMEDCT/387183001,https://pubchem.ncbi.nlm.nih.gov/compound/5831,Carbachol
+C0006949,http://purl.bioontology.org/ontology/SNOMEDCT/387222003,https://pubchem.ncbi.nlm.nih.gov/compound/2554,Carbamazepine
+C0006982,http://purl.bioontology.org/ontology/MESH/D002230,https://pubchem.ncbi.nlm.nih.gov/compound/34359,Carbidopa
+C0006982,http://purl.bioontology.org/ontology/SNOMEDCT/73579000,https://pubchem.ncbi.nlm.nih.gov/compound/34359,Carbidopa
+C0006995,http://purl.bioontology.org/ontology/MESH/D002235,https://pubchem.ncbi.nlm.nih.gov/compound/2566,Carbofuran
+C0006995,http://purl.bioontology.org/ontology/SNOMEDCT/73386007,https://pubchem.ncbi.nlm.nih.gov/compound/2566,Carbofuran
+C0007043,http://purl.bioontology.org/ontology/MESH/D002258,https://pubchem.ncbi.nlm.nih.gov/compound/2603,Carbonyl Cyanide m-Chlorophenyl Hydrazone
+C0007044,http://purl.bioontology.org/ontology/MESH/D002259,https://pubchem.ncbi.nlm.nih.gov/compound/3330,Carbonyl Cyanide p-Trifluoromethoxyphenylhydrazone
+C0007258,http://purl.bioontology.org/ontology/SNOMEDCT/59888006,https://pubchem.ncbi.nlm.nih.gov/compound/288,Carnitine
+C0007299,http://purl.bioontology.org/ontology/MESH/D002354,https://pubchem.ncbi.nlm.nih.gov/compound/2583,Carteolol
+C0007299,http://purl.bioontology.org/ontology/SNOMEDCT/386866004,https://pubchem.ncbi.nlm.nih.gov/compound/2583,Carteolol
+C0007404,http://purl.bioontology.org/ontology/SNOMEDCT/423247009,https://pubchem.ncbi.nlm.nih.gov/compound/9064,Catechin
+C0007412,http://purl.bioontology.org/ontology/SNOMEDCT/34582008,https://pubchem.ncbi.nlm.nih.gov/compound/189460,Catecholamine
+C0007561,http://purl.bioontology.org/ontology/SNOMEDCT/372670001,https://pubchem.ncbi.nlm.nih.gov/compound/5479530,Ceftriaxone
+C0007745,http://purl.bioontology.org/ontology/SNOMEDCT/37112001,https://pubchem.ncbi.nlm.nih.gov/compound/139583739,Ceramide
+C0007805,http://purl.bioontology.org/ontology/MESH/D002554,https://pubchem.ncbi.nlm.nih.gov/compound/10056286,Cerebrosides
+C0007935,http://purl.bioontology.org/ontology/MESH/D002599,https://pubchem.ncbi.nlm.nih.gov/compound/637760,Chalcone
+C0008238,http://purl.bioontology.org/ontology/MESH/D002725,https://pubchem.ncbi.nlm.nih.gov/compound/6212,Chloroform
+C0008238,http://purl.bioontology.org/ontology/SNOMEDCT/259153006,https://pubchem.ncbi.nlm.nih.gov/compound/6212,Chloroform
+C0008240,http://purl.bioontology.org/ontology/MESH/D002726,https://pubchem.ncbi.nlm.nih.gov/compound/1794427,Chlorogenic Acid
+C0008269,http://purl.bioontology.org/ontology/SNOMEDCT/373468005,https://pubchem.ncbi.nlm.nih.gov/compound/2719,Chloroquine
+C0008286,http://purl.bioontology.org/ontology/SNOMEDCT/387258005,https://pubchem.ncbi.nlm.nih.gov/compound/2726,Chlorpromazine
+C0008318,http://purl.bioontology.org/ontology/SNOMEDCT/18414002,https://pubchem.ncbi.nlm.nih.gov/compound/5280795,Cholecalciferol
+C0008377,http://purl.bioontology.org/ontology/MESH/D002784,https://pubchem.ncbi.nlm.nih.gov/compound/5997,Cholesterol
+C0008377,http://purl.bioontology.org/ontology/SNOMEDCT/84698008,https://pubchem.ncbi.nlm.nih.gov/compound/5997,Cholesterol
+C0008405,http://purl.bioontology.org/ontology/MESH/D002794,https://pubchem.ncbi.nlm.nih.gov/compound/305,Choline
+C0008405,http://purl.bioontology.org/ontology/SNOMEDCT/65123005,https://pubchem.ncbi.nlm.nih.gov/compound/305,Choline
+C0008803,http://purl.bioontology.org/ontology/SNOMEDCT/395955001,https://pubchem.ncbi.nlm.nih.gov/compound/1547484,Cinnarizine
+C0008838,http://purl.bioontology.org/ontology/SNOMEDCT/387318005,https://pubchem.ncbi.nlm.nih.gov/compound/5460033,Cisplatin
+C0008845,http://purl.bioontology.org/ontology/SNOMEDCT/372596005,https://pubchem.ncbi.nlm.nih.gov/compound/2771,Citalopram
+C0008864,http://purl.bioontology.org/ontology/MESH/D002956,https://pubchem.ncbi.nlm.nih.gov/compound/9750,Citrulline
+C0008864,http://purl.bioontology.org/ontology/SNOMEDCT/30022007,https://pubchem.ncbi.nlm.nih.gov/compound/9750,Citrulline
+C0008931,http://purl.bioontology.org/ontology/MESH/C084582,https://pubchem.ncbi.nlm.nih.gov/compound/2782,clemizole
+C0008931,http://purl.bioontology.org/ontology/SNOMEDCT/12821002,https://pubchem.ncbi.nlm.nih.gov/compound/2782,Clemizole
+C0009002,http://purl.bioontology.org/ontology/MESH/D002994,https://pubchem.ncbi.nlm.nih.gov/compound/2796,Clofibrate
+C0009002,http://purl.bioontology.org/ontology/SNOMEDCT/387439004,https://pubchem.ncbi.nlm.nih.gov/compound/2796,Clofibrate
+C0009010,http://purl.bioontology.org/ontology/MESH/D002997,https://pubchem.ncbi.nlm.nih.gov/compound/2801,Clomipramine
+C0009010,http://purl.bioontology.org/ontology/SNOMEDCT/372903001,https://pubchem.ncbi.nlm.nih.gov/compound/2801,Clomipramine
+C0009011,http://purl.bioontology.org/ontology/SNOMEDCT/387383007,https://pubchem.ncbi.nlm.nih.gov/compound/2802,Clonazepam
+C0009079,http://purl.bioontology.org/ontology/SNOMEDCT/387568001,https://pubchem.ncbi.nlm.nih.gov/compound/135398737,Clozapine
+C0009170,http://purl.bioontology.org/ontology/SNOMEDCT/387085005,https://pubchem.ncbi.nlm.nih.gov/compound/446220,Cocaine
+C0009968,http://purl.bioontology.org/ontology/MESH/D003300,https://pubchem.ncbi.nlm.nih.gov/compound/23978,Copper
+C0009968,http://purl.bioontology.org/ontology/SNOMEDCT/66925006,https://pubchem.ncbi.nlm.nih.gov/compound/23978,Copper
+C0010124,http://purl.bioontology.org/ontology/MESH/D003345,https://pubchem.ncbi.nlm.nih.gov/compound/5753,Corticosterone
+C0010124,http://purl.bioontology.org/ontology/SNOMEDCT/91521001,https://pubchem.ncbi.nlm.nih.gov/compound/5753,Corticosterone
+C0010137,http://purl.bioontology.org/ontology/SNOMEDCT/32498003,https://pubchem.ncbi.nlm.nih.gov/compound/222786,Cortisone
+C0010194,http://purl.bioontology.org/ontology/MESH/D003367,https://pubchem.ncbi.nlm.nih.gov/compound/854019,Cotinine
+C0010194,http://purl.bioontology.org/ontology/SNOMEDCT/115620009,https://pubchem.ncbi.nlm.nih.gov/compound/854019,Cotinine
+C0010207,http://purl.bioontology.org/ontology/MESH/D003374,https://pubchem.ncbi.nlm.nih.gov/compound/54678486,Coumarins
+C0010294,http://purl.bioontology.org/ontology/MESH/D003404,https://pubchem.ncbi.nlm.nih.gov/compound/588,Creatinine
+C0010294,http://purl.bioontology.org/ontology/SNOMEDCT/15373003,https://pubchem.ncbi.nlm.nih.gov/compound/588,Creatinine
+C0010558,http://purl.bioontology.org/ontology/MESH/D003505,https://pubchem.ncbi.nlm.nih.gov/compound/320760,Cyclodextrins
+C0010682,http://purl.bioontology.org/ontology/SNOMEDCT/37927000,https://pubchem.ncbi.nlm.nih.gov/compound/67678,Cystine
+C0010725,http://purl.bioontology.org/ontology/MESH/D003566,https://pubchem.ncbi.nlm.nih.gov/compound/13804,Cytidine Diphosphate Choline
+C0010725,http://purl.bioontology.org/ontology/SNOMEDCT/698027009,https://pubchem.ncbi.nlm.nih.gov/compound/13804,Citicoline
+C0010843,http://purl.bioontology.org/ontology/MESH/D003596,https://pubchem.ncbi.nlm.nih.gov/compound/597,Cytosine
+C0010843,http://purl.bioontology.org/ontology/SNOMEDCT/72069001,https://pubchem.ncbi.nlm.nih.gov/compound/597,Cytosine
+C0010976,http://purl.bioontology.org/ontology/MESH/D003620,https://pubchem.ncbi.nlm.nih.gov/compound/6914273,Dantrolene
+C0010976,http://purl.bioontology.org/ontology/SNOMEDCT/372819007,https://pubchem.ncbi.nlm.nih.gov/compound/6914273,Dantrolene
+C0010977,http://purl.bioontology.org/ontology/SNOMEDCT/81946009,https://pubchem.ncbi.nlm.nih.gov/compound/6604100,Dantrolene sodium
+C0011177,http://purl.bioontology.org/ontology/MESH/D003683,https://pubchem.ncbi.nlm.nih.gov/compound/440667,Dehydroascorbic Acid
+C0011177,http://purl.bioontology.org/ontology/SNOMEDCT/769208008,https://pubchem.ncbi.nlm.nih.gov/compound/440667,Dehydroascorbic acid
+C0011701,http://purl.bioontology.org/ontology/SNOMEDCT/126189002,https://pubchem.ncbi.nlm.nih.gov/compound/5311065,Desmopressin
+C0011816,http://purl.bioontology.org/ontology/MESH/D003915,https://pubchem.ncbi.nlm.nih.gov/compound/5360696,Dextromethorphan
+C0011816,http://purl.bioontology.org/ontology/SNOMEDCT/387114001,https://pubchem.ncbi.nlm.nih.gov/compound/5360696,Dextromethorphan
+C0012010,http://purl.bioontology.org/ontology/SNOMEDCT/387264003,https://pubchem.ncbi.nlm.nih.gov/compound/3016,Diazepam
+C0012132,http://purl.bioontology.org/ontology/MESH/D016047,https://pubchem.ncbi.nlm.nih.gov/compound/24066,Zalcitabine
+C0012132,http://purl.bioontology.org/ontology/SNOMEDCT/387187000,https://pubchem.ncbi.nlm.nih.gov/compound/24066,Zalcitabine
+C0012133,http://purl.bioontology.org/ontology/SNOMEDCT/387105006,https://pubchem.ncbi.nlm.nih.gov/compound/135398739,Didanosine
+C0012197,http://purl.bioontology.org/ontology/MESH/D004051,https://pubchem.ncbi.nlm.nih.gov/compound/8343,Diethylhexyl Phthalate
+C0012197,http://purl.bioontology.org/ontology/SNOMEDCT/79761007,https://pubchem.ncbi.nlm.nih.gov/compound/8343,Di-2-ethylhexyl phthalate
+C0012256,http://purl.bioontology.org/ontology/MESH/D004072,https://pubchem.ncbi.nlm.nih.gov/compound/6474107,Digitonin
+C0012381,http://purl.bioontology.org/ontology/SNOMEDCT/387469006,https://pubchem.ncbi.nlm.nih.gov/compound/10660,Dimenhydrinate
+C0012390,http://purl.bioontology.org/ontology/SNOMEDCT/387142004,https://pubchem.ncbi.nlm.nih.gov/compound/21855,Dimethindene
+C0012403,http://purl.bioontology.org/ontology/MESH/D004121,https://pubchem.ncbi.nlm.nih.gov/compound/679,Dimethyl Sulfoxide
+C0012403,http://purl.bioontology.org/ontology/SNOMEDCT/115535002,https://pubchem.ncbi.nlm.nih.gov/compound/679,Dimethyl sulfoxide
+C0012460,http://purl.bioontology.org/ontology/MESH/D004137,https://pubchem.ncbi.nlm.nih.gov/compound/6,Dinitrochlorobenzene
+C0012460,http://purl.bioontology.org/ontology/SNOMEDCT/37566001,https://pubchem.ncbi.nlm.nih.gov/compound/6,Dinitrochlorobenzene
+C0012582,http://purl.bioontology.org/ontology/SNOMEDCT/387371005,https://pubchem.ncbi.nlm.nih.gov/compound/3108,Dipyridamole
+C0012702,http://purl.bioontology.org/ontology/SNOMEDCT/372844004,https://pubchem.ncbi.nlm.nih.gov/compound/3114,Disopyramide
+C0012963,http://purl.bioontology.org/ontology/SNOMEDCT/387145002,https://pubchem.ncbi.nlm.nih.gov/compound/36811,Dobutamine
+C0012990,http://purl.bioontology.org/ontology/MESH/D004286,https://pubchem.ncbi.nlm.nih.gov/compound/6433320,Dolichols
+C0013015,http://purl.bioontology.org/ontology/SNOMEDCT/387181004,https://pubchem.ncbi.nlm.nih.gov/compound/3151,Domperidone
+C0013030,http://purl.bioontology.org/ontology/MESH/D004298,https://pubchem.ncbi.nlm.nih.gov/compound/681,Dopamine
+C0013030,http://purl.bioontology.org/ontology/SNOMEDCT/412383006,https://pubchem.ncbi.nlm.nih.gov/compound/681,Dopamine
+C0013089,http://purl.bioontology.org/ontology/SNOMEDCT/372817009,https://pubchem.ncbi.nlm.nih.gov/compound/31703,Doxorubicin
+C0013090,http://purl.bioontology.org/ontology/SNOMEDCT/372478003,https://pubchem.ncbi.nlm.nih.gov/compound/54671203,Doxycycline
+C0013617,http://purl.bioontology.org/ontology/SNOMEDCT/11504003,https://pubchem.ncbi.nlm.nih.gov/compound/8307,Edrophonium chloride
+C0013900,http://purl.bioontology.org/ontology/MESH/D004610,https://pubchem.ncbi.nlm.nih.gov/compound/5281855,Ellagic Acid
+C0014448,http://purl.bioontology.org/ontology/SNOMEDCT/763042003,https://pubchem.ncbi.nlm.nih.gov/compound/11048,Eosin Y
+C0014448,http://purl.bioontology.org/ontology/SNOMEDCT/256012001,https://pubchem.ncbi.nlm.nih.gov/compound/11048,Eosine
+C0014479,http://purl.bioontology.org/ontology/MESH/D004809,https://pubchem.ncbi.nlm.nih.gov/compound/9294,Ephedrine
+C0014479,http://purl.bioontology.org/ontology/SNOMEDCT/387358007,https://pubchem.ncbi.nlm.nih.gov/compound/9294,Ephedrine
+C0014563,http://purl.bioontology.org/ontology/SNOMEDCT/387362001,https://pubchem.ncbi.nlm.nih.gov/compound/5816,Epinephrine
+C0014695,http://purl.bioontology.org/ontology/SNOMEDCT/23433006,https://pubchem.ncbi.nlm.nih.gov/compound/5280793,Ergocalciferol
+C0014710,http://purl.bioontology.org/ontology/SNOMEDCT/395975005,https://pubchem.ncbi.nlm.nih.gov/compound/8223,Ergotamine
+C0014898,http://purl.bioontology.org/ontology/SNOMEDCT/45120003,https://pubchem.ncbi.nlm.nih.gov/compound/165217,Ester
+C0014912,http://purl.bioontology.org/ontology/SNOMEDCT/126172005,https://pubchem.ncbi.nlm.nih.gov/compound/5757,Estradiol
+C0015023,http://purl.bioontology.org/ontology/MESH/D005001,https://pubchem.ncbi.nlm.nih.gov/compound/25674,Ethionine
+C0015111,http://purl.bioontology.org/ontology/MESH/D005038,https://pubchem.ncbi.nlm.nih.gov/compound/12967,Ethylnitrosourea
+C0015620,http://purl.bioontology.org/ontology/SNOMEDCT/387211002,https://pubchem.ncbi.nlm.nih.gov/compound/5702160,Famotidine
+C0015846,http://purl.bioontology.org/ontology/SNOMEDCT/373492002,https://pubchem.ncbi.nlm.nih.gov/compound/3345,Fentanyl
+C0016006,http://purl.bioontology.org/ontology/SNOMEDCT/259790000,https://pubchem.ncbi.nlm.nih.gov/compound/119,Factor I
+C0016295,http://purl.bioontology.org/ontology/SNOMEDCT/418221001,https://pubchem.ncbi.nlm.nih.gov/compound/941361,Flunarizine
+C0016360,http://purl.bioontology.org/ontology/SNOMEDCT/387172005,https://pubchem.ncbi.nlm.nih.gov/compound/3385,Fluorouracil
+C0016365,http://purl.bioontology.org/ontology/SNOMEDCT/372767007,https://pubchem.ncbi.nlm.nih.gov/compound/3386,Fluoxetine
+C0016410,http://purl.bioontology.org/ontology/SNOMEDCT/63718003,https://pubchem.ncbi.nlm.nih.gov/compound/135398658,Folic acid
+C0016564,http://purl.bioontology.org/ontology/SNOMEDCT/111095003,https://pubchem.ncbi.nlm.nih.gov/compound/712,Formaldehyde
+C0016786,http://purl.bioontology.org/ontology/MESH/D005643,https://pubchem.ncbi.nlm.nih.gov/compound/17106,Fucose
+C0016786,http://purl.bioontology.org/ontology/SNOMEDCT/78527003,https://pubchem.ncbi.nlm.nih.gov/compound/17106,Fucose
+C0016896,http://purl.bioontology.org/ontology/MESH/D005678,https://pubchem.ncbi.nlm.nih.gov/compound/71308211,G(M2) Ganglioside
+C0016945,http://purl.bioontology.org/ontology/MESH/D005690,https://pubchem.ncbi.nlm.nih.gov/compound/6036,Galactose
+C0016945,http://purl.bioontology.org/ontology/SNOMEDCT/38182007,https://pubchem.ncbi.nlm.nih.gov/compound/6036,Galactose
+C0016967,http://purl.bioontology.org/ontology/SNOMEDCT/395727007,https://pubchem.ncbi.nlm.nih.gov/compound/9651,Galantamine
+C0017082,http://purl.bioontology.org/ontology/MESH/D005732,https://pubchem.ncbi.nlm.nih.gov/compound/163110884,Gangliosides
+C0017082,http://purl.bioontology.org/ontology/SNOMEDCT/31310007,https://pubchem.ncbi.nlm.nih.gov/compound/163110884,Ganglioside
+C0017687,http://purl.bioontology.org/ontology/MESH/D005934,https://pubchem.ncbi.nlm.nih.gov/compound/16132283,Glucagon
+C0017687,http://purl.bioontology.org/ontology/SNOMEDCT/66603002,https://pubchem.ncbi.nlm.nih.gov/compound/16132283,Glucagon
+C0017725,http://purl.bioontology.org/ontology/SNOMEDCT/67079006,https://pubchem.ncbi.nlm.nih.gov/compound/5793,Glucose
+C0017797,http://purl.bioontology.org/ontology/SNOMEDCT/25761002,https://pubchem.ncbi.nlm.nih.gov/compound/5961,Glutamine
+C0017814,http://purl.bioontology.org/ontology/SNOMEDCT/22242006,https://pubchem.ncbi.nlm.nih.gov/compound/3485,Glutaraldehyde
+C0017861,http://purl.bioontology.org/ontology/MESH/D005990,https://pubchem.ncbi.nlm.nih.gov/compound/753,Glycerol
+C0017861,http://purl.bioontology.org/ontology/SNOMEDCT/80582002,https://pubchem.ncbi.nlm.nih.gov/compound/753,Glycerin
+C0017890,http://purl.bioontology.org/ontology/SNOMEDCT/15331006,https://pubchem.ncbi.nlm.nih.gov/compound/750,Glycine
+C0017911,http://purl.bioontology.org/ontology/MESH/D006003,https://pubchem.ncbi.nlm.nih.gov/compound/439177,Glycogen
+C0017911,http://purl.bioontology.org/ontology/SNOMEDCT/36998008,https://pubchem.ncbi.nlm.nih.gov/compound/439177,Glycogen
+C0017950,http://purl.bioontology.org/ontology/MESH/D006017,https://pubchem.ncbi.nlm.nih.gov/compound/44176376,Glycolipids
+C0017970,http://purl.bioontology.org/ontology/MESH/D006024,https://pubchem.ncbi.nlm.nih.gov/compound/11693,Glycopyrrolate
+C0017970,http://purl.bioontology.org/ontology/SNOMEDCT/387122008,https://pubchem.ncbi.nlm.nih.gov/compound/11693,Glycopyrrolate
+C0018026,http://purl.bioontology.org/ontology/MESH/D006046,https://pubchem.ncbi.nlm.nih.gov/compound/23985,Gold
+C0018026,http://purl.bioontology.org/ontology/SNOMEDCT/2309006,https://pubchem.ncbi.nlm.nih.gov/compound/23985,Gold
+C0018330,http://purl.bioontology.org/ontology/MESH/D006151,https://pubchem.ncbi.nlm.nih.gov/compound/135398635,Guanosine
+C0018330,http://purl.bioontology.org/ontology/SNOMEDCT/529003,https://pubchem.ncbi.nlm.nih.gov/compound/135398635,Guanosine
+C0018546,http://purl.bioontology.org/ontology/SNOMEDCT/386837002,https://pubchem.ncbi.nlm.nih.gov/compound/3559,Haloperidol
+C0018964,http://purl.bioontology.org/ontology/MESH/D006416,https://pubchem.ncbi.nlm.nih.gov/compound/442514,Hematoxylin
+C0019588,http://purl.bioontology.org/ontology/SNOMEDCT/54235008,https://pubchem.ncbi.nlm.nih.gov/compound/774,Histamine
+C0019602,http://purl.bioontology.org/ontology/MESH/D006639,https://pubchem.ncbi.nlm.nih.gov/compound/6274,Histidine
+C0019602,http://purl.bioontology.org/ontology/SNOMEDCT/60260004,https://pubchem.ncbi.nlm.nih.gov/compound/6274,Histidine
+C0020268,http://purl.bioontology.org/ontology/SNOMEDCT/396458002,https://pubchem.ncbi.nlm.nih.gov/compound/5754,Hydrocortisone
+C0020316,http://purl.bioontology.org/ontology/MESH/D006879,https://pubchem.ncbi.nlm.nih.gov/compound/44475014,Hydroxocobalamin
+C0020316,http://purl.bioontology.org/ontology/SNOMEDCT/1217428002,https://pubchem.ncbi.nlm.nih.gov/compound/44475014,Hydroxocobalamin
+C0020361,http://purl.bioontology.org/ontology/MESH/D006897,https://pubchem.ncbi.nlm.nih.gov/compound/1826,Hydroxyindoleacetic Acid
+C0020934,http://purl.bioontology.org/ontology/SNOMEDCT/372718005,https://pubchem.ncbi.nlm.nih.gov/compound/3696,Imipramine
+C0021210,http://purl.bioontology.org/ontology/SNOMEDCT/29817006,https://pubchem.ncbi.nlm.nih.gov/compound/441564,Indican
+C0021236,http://purl.bioontology.org/ontology/MESH/C030374,https://pubchem.ncbi.nlm.nih.gov/compound/798,indole
+C0021236,http://purl.bioontology.org/ontology/SNOMEDCT/18858006,https://pubchem.ncbi.nlm.nih.gov/compound/798,Indole
+C0021246,http://purl.bioontology.org/ontology/SNOMEDCT/373513008,https://pubchem.ncbi.nlm.nih.gov/compound/3715,Indomethacin
+C0021528,http://purl.bioontology.org/ontology/MESH/D007288,https://pubchem.ncbi.nlm.nih.gov/compound/135398641,Inosine
+C0021528,http://purl.bioontology.org/ontology/SNOMEDCT/102640000,https://pubchem.ncbi.nlm.nih.gov/compound/135398641,Inosine
+C0021547,http://purl.bioontology.org/ontology/MESH/D007294,https://pubchem.ncbi.nlm.nih.gov/compound/892,Inositol
+C0021547,http://purl.bioontology.org/ontology/SNOMEDCT/72164009,https://pubchem.ncbi.nlm.nih.gov/compound/892,Inositol
+C0021641,http://purl.bioontology.org/ontology/SNOMEDCT/67866001,https://pubchem.ncbi.nlm.nih.gov/compound/70678557,Insulin
+C0021968,http://purl.bioontology.org/ontology/MESH/D007455,https://pubchem.ncbi.nlm.nih.gov/compound/807,Iodine
+C0021968,http://purl.bioontology.org/ontology/SNOMEDCT/44588005,https://pubchem.ncbi.nlm.nih.gov/compound/807,Iodine
+C0022179,http://purl.bioontology.org/ontology/MESH/D007529,https://pubchem.ncbi.nlm.nih.gov/compound/72304,Isoflavones
+C0022180,http://purl.bioontology.org/ontology/MESH/D007530,https://pubchem.ncbi.nlm.nih.gov/compound/3763,Isoflurane
+C0022180,http://purl.bioontology.org/ontology/SNOMEDCT/387368002,https://pubchem.ncbi.nlm.nih.gov/compound/3763,Isoflurane
+C0022192,http://purl.bioontology.org/ontology/MESH/D007532,https://pubchem.ncbi.nlm.nih.gov/compound/6306,Isoleucine
+C0022192,http://purl.bioontology.org/ontology/SNOMEDCT/14971004,https://pubchem.ncbi.nlm.nih.gov/compound/6306,Isoleucine
+C0022237,http://purl.bioontology.org/ontology/MESH/D019840,https://pubchem.ncbi.nlm.nih.gov/compound/3776,2-Propanol
+C0022237,http://purl.bioontology.org/ontology/SNOMEDCT/259268001,https://pubchem.ncbi.nlm.nih.gov/compound/3776,Isopropyl alcohol
+C0022239,http://purl.bioontology.org/ontology/MESH/D007544,https://pubchem.ncbi.nlm.nih.gov/compound/656894,Isopropyl Thiogalactoside
+C0022245,http://purl.bioontology.org/ontology/SNOMEDCT/372781009,https://pubchem.ncbi.nlm.nih.gov/compound/3779,Isoproterenol
+C0022614,http://purl.bioontology.org/ontology/SNOMEDCT/373464007,https://pubchem.ncbi.nlm.nih.gov/compound/3821,Ketamine
+C0022860,http://purl.bioontology.org/ontology/SNOMEDCT/372750000,https://pubchem.ncbi.nlm.nih.gov/compound/3869,Labetalol
+C0023401,http://purl.bioontology.org/ontology/MESH/D007930,https://pubchem.ncbi.nlm.nih.gov/compound/6106,Leucine
+C0023401,http://purl.bioontology.org/ontology/SNOMEDCT/83797003,https://pubchem.ncbi.nlm.nih.gov/compound/6106,Leucine
+C0023413,http://purl.bioontology.org/ontology/SNOMEDCT/396065004,https://pubchem.ncbi.nlm.nih.gov/compound/135403648,Leucovorin
+C0023570,http://purl.bioontology.org/ontology/SNOMEDCT/387086006,https://pubchem.ncbi.nlm.nih.gov/compound/6047,Levodopa
+C0023610,http://purl.bioontology.org/ontology/SNOMEDCT/397197007,https://pubchem.ncbi.nlm.nih.gov/compound/638793,Gonadorelin
+C0023660,http://purl.bioontology.org/ontology/SNOMEDCT/387480006,https://pubchem.ncbi.nlm.nih.gov/compound/3676,Lidocaine
+C0023791,http://purl.bioontology.org/ontology/SNOMEDCT/70496003,https://pubchem.ncbi.nlm.nih.gov/compound/6112,Lipoic acid
+C0023870,http://purl.bioontology.org/ontology/MESH/D008094,https://pubchem.ncbi.nlm.nih.gov/compound/3028194,Lithium
+C0023870,http://purl.bioontology.org/ontology/SNOMEDCT/85899009,https://pubchem.ncbi.nlm.nih.gov/compound/3028194,Lithium
+C0024002,http://purl.bioontology.org/ontology/SNOMEDCT/387106007,https://pubchem.ncbi.nlm.nih.gov/compound/3958,Lorazepam
+C0024027,http://purl.bioontology.org/ontology/SNOMEDCT/96303004,https://pubchem.ncbi.nlm.nih.gov/compound/53232,Lovastatin
+C0024337,http://purl.bioontology.org/ontology/MESH/D008239,https://pubchem.ncbi.nlm.nih.gov/compound/5962,Lysine
+C0024337,http://purl.bioontology.org/ontology/SNOMEDCT/75799006,https://pubchem.ncbi.nlm.nih.gov/compound/5962,Lysine
+C0024360,http://purl.bioontology.org/ontology/MESH/D008244,https://pubchem.ncbi.nlm.nih.gov/compound/5311264,Lysophosphatidylcholines
+C0024360,http://purl.bioontology.org/ontology/SNOMEDCT/54446009,https://pubchem.ncbi.nlm.nih.gov/compound/86554,Lysolecithin
+C0024643,http://purl.bioontology.org/ontology/MESH/D008315,https://pubchem.ncbi.nlm.nih.gov/compound/10964,Malondialdehyde
+C0024643,http://purl.bioontology.org/ontology/SNOMEDCT/706962006,https://pubchem.ncbi.nlm.nih.gov/compound/10964,Malonaldehyde
+C0024742,http://purl.bioontology.org/ontology/MESH/D008358,https://pubchem.ncbi.nlm.nih.gov/compound/18950,Mannose
+C0024742,http://purl.bioontology.org/ontology/SNOMEDCT/63089006,https://pubchem.ncbi.nlm.nih.gov/compound/18950,Mannose
+C0025175,http://purl.bioontology.org/ontology/MESH/D008535,https://pubchem.ncbi.nlm.nih.gov/compound/19090,Megestrol
+C0025175,http://purl.bioontology.org/ontology/SNOMEDCT/126091007,https://pubchem.ncbi.nlm.nih.gov/compound/19090,Megestrol
+C0025219,http://purl.bioontology.org/ontology/MESH/D008550,https://pubchem.ncbi.nlm.nih.gov/compound/896,Melatonin
+C0025219,http://purl.bioontology.org/ontology/SNOMEDCT/41199001,https://pubchem.ncbi.nlm.nih.gov/compound/896,Melatonin
+C0025242,http://purl.bioontology.org/ontology/SNOMEDCT/406458000,https://pubchem.ncbi.nlm.nih.gov/compound/4054,Memantine
+C0025270,http://purl.bioontology.org/ontology/SNOMEDCT/412244007,https://pubchem.ncbi.nlm.nih.gov/compound/4055,Menadione
+C0025417,http://purl.bioontology.org/ontology/MESH/D008627,https://pubchem.ncbi.nlm.nih.gov/compound/24085,Mercuric Chloride
+C0025417,http://purl.bioontology.org/ontology/SNOMEDCT/11496005,https://pubchem.ncbi.nlm.nih.gov/compound/24085,Mercuric chloride
+C0025598,http://purl.bioontology.org/ontology/MESH/D008687,https://pubchem.ncbi.nlm.nih.gov/compound/4091,Metformin
+C0025598,http://purl.bioontology.org/ontology/SNOMEDCT/372567009,https://pubchem.ncbi.nlm.nih.gov/compound/4091,Metformin
+C0025611,http://purl.bioontology.org/ontology/SNOMEDCT/387499002,https://pubchem.ncbi.nlm.nih.gov/compound/10836,Methamphetamine
+C0025627,http://purl.bioontology.org/ontology/MESH/D008702,https://pubchem.ncbi.nlm.nih.gov/compound/6292,Methaqualone
+C0025627,http://purl.bioontology.org/ontology/SNOMEDCT/71813009,https://pubchem.ncbi.nlm.nih.gov/compound/6292,Methaqualone
+C0025646,http://purl.bioontology.org/ontology/SNOMEDCT/312184007,https://pubchem.ncbi.nlm.nih.gov/compound/6137,L-methionine
+C0025677,http://purl.bioontology.org/ontology/SNOMEDCT/387381009,https://pubchem.ncbi.nlm.nih.gov/compound/126941,Methotrexate
+C0025706,http://purl.bioontology.org/ontology/MESH/D008741,https://pubchem.ncbi.nlm.nih.gov/compound/4156,Methyl Methanesulfonate
+C0025810,http://purl.bioontology.org/ontology/SNOMEDCT/373337007,https://pubchem.ncbi.nlm.nih.gov/compound/4158,Methylphenidate
+C0025853,http://purl.bioontology.org/ontology/SNOMEDCT/372776000,https://pubchem.ncbi.nlm.nih.gov/compound/4168,Metoclopramide
+C0025859,http://purl.bioontology.org/ontology/SNOMEDCT/372826007,https://pubchem.ncbi.nlm.nih.gov/compound/4171,Metoprolol
+C0025872,http://purl.bioontology.org/ontology/SNOMEDCT/372602008,https://pubchem.ncbi.nlm.nih.gov/compound/4173,Metronidazole
+C0025887,http://purl.bioontology.org/ontology/SNOMEDCT/372909002,https://pubchem.ncbi.nlm.nih.gov/compound/4178,Mexiletine
+C0026056,http://purl.bioontology.org/ontology/SNOMEDCT/373476007,https://pubchem.ncbi.nlm.nih.gov/compound/4192,Midazolam
+C0026078,http://purl.bioontology.org/ontology/SNOMEDCT/372504000,https://pubchem.ncbi.nlm.nih.gov/compound/4195,Midodrine
+C0026196,http://purl.bioontology.org/ontology/MESH/D008914,https://pubchem.ncbi.nlm.nih.gov/compound/4201,Minoxidil
+C0026196,http://purl.bioontology.org/ontology/SNOMEDCT/387272001,https://pubchem.ncbi.nlm.nih.gov/compound/4201,Minoxidil
+C0026549,http://purl.bioontology.org/ontology/SNOMEDCT/373529000,https://pubchem.ncbi.nlm.nih.gov/compound/5288826,Morphine
+C0026818,http://purl.bioontology.org/ontology/MESH/D009118,https://pubchem.ncbi.nlm.nih.gov/compound/4266,Muscimol
+C0026818,http://purl.bioontology.org/ontology/SNOMEDCT/303345007,https://pubchem.ncbi.nlm.nih.gov/compound/4266,Muscimol
+C0027138,http://purl.bioontology.org/ontology/SNOMEDCT/4546008,https://pubchem.ncbi.nlm.nih.gov/compound/11005,Myristic acid
+C0027270,http://purl.bioontology.org/ontology/SNOMEDCT/131143000,https://pubchem.ncbi.nlm.nih.gov/compound/5892,Nicotinamide adenine dinucleotide
+C0027289,http://purl.bioontology.org/ontology/MESH/D009243,https://pubchem.ncbi.nlm.nih.gov/compound/5892,NAD
+C0027302,http://purl.bioontology.org/ontology/MESH/D009248,https://pubchem.ncbi.nlm.nih.gov/compound/39147,Nadolol
+C0027302,http://purl.bioontology.org/ontology/SNOMEDCT/387482003,https://pubchem.ncbi.nlm.nih.gov/compound/39147,Nadolol
+C0027358,http://purl.bioontology.org/ontology/SNOMEDCT/372890007,https://pubchem.ncbi.nlm.nih.gov/compound/5284596,Naloxone
+C0027597,http://purl.bioontology.org/ontology/MESH/D009353,https://pubchem.ncbi.nlm.nih.gov/compound/57125363,Zinostatin
+C0027603,http://purl.bioontology.org/ontology/SNOMEDCT/373528008,https://pubchem.ncbi.nlm.nih.gov/compound/8378,Neomycin
+C0027679,http://purl.bioontology.org/ontology/SNOMEDCT/373346001,https://pubchem.ncbi.nlm.nih.gov/compound/4456,Neostigmine
+C0027996,http://purl.bioontology.org/ontology/SNOMEDCT/273943001,https://pubchem.ncbi.nlm.nih.gov/compound/938,Niacin
+C0028005,http://purl.bioontology.org/ontology/SNOMEDCT/372502001,https://pubchem.ncbi.nlm.nih.gov/compound/4474,Nicardipine
+C0028027,http://purl.bioontology.org/ontology/SNOMEDCT/173196005,https://pubchem.ncbi.nlm.nih.gov/compound/936,Niacinamide
+C0028040,http://purl.bioontology.org/ontology/SNOMEDCT/68540007,https://pubchem.ncbi.nlm.nih.gov/compound/89594,Nicotine
+C0028128,http://purl.bioontology.org/ontology/MESH/D009569,https://pubchem.ncbi.nlm.nih.gov/compound/145068,Nitric Oxide
+C0028128,http://purl.bioontology.org/ontology/SNOMEDCT/6710000,https://pubchem.ncbi.nlm.nih.gov/compound/145068,Nitric oxide
+C0028351,http://purl.bioontology.org/ontology/SNOMEDCT/45555007,https://pubchem.ncbi.nlm.nih.gov/compound/439260,Norepinephrine
+C0028403,http://purl.bioontology.org/ontology/MESH/D009655,https://pubchem.ncbi.nlm.nih.gov/compound/4581,Octopamine
+C0028403,http://purl.bioontology.org/ontology/SNOMEDCT/96261002,https://pubchem.ncbi.nlm.nih.gov/compound/4581,Octopamine
+C0028426,http://purl.bioontology.org/ontology/SNOMEDCT/387437002,https://pubchem.ncbi.nlm.nih.gov/compound/275196,Noscapine
+C0028833,http://purl.bioontology.org/ontology/SNOMEDCT/109053000,https://pubchem.ncbi.nlm.nih.gov/compound/448601,Octreotide
+C0028928,http://purl.bioontology.org/ontology/MESH/D019301,https://pubchem.ncbi.nlm.nih.gov/compound/445639,Oleic Acid
+C0028951,http://purl.bioontology.org/ontology/MESH/D009840,https://pubchem.ncbi.nlm.nih.gov/compound/78358496,Oligomycins
+C0029277,http://purl.bioontology.org/ontology/SNOMEDCT/8514004,https://pubchem.ncbi.nlm.nih.gov/compound/6262,Ornithine
+C0029300,http://purl.bioontology.org/ontology/SNOMEDCT/2254005,https://pubchem.ncbi.nlm.nih.gov/compound/967,Orotic acid
+C0030049,http://purl.bioontology.org/ontology/SNOMEDCT/55452001,https://pubchem.ncbi.nlm.nih.gov/compound/5284603,Oxycodone
+C0030054,http://purl.bioontology.org/ontology/MESH/D010100,https://pubchem.ncbi.nlm.nih.gov/compound/977,Oxygen
+C0030054,http://purl.bioontology.org/ontology/SNOMEDCT/24099007,https://pubchem.ncbi.nlm.nih.gov/compound/977,Oxygen
+C0030095,http://purl.bioontology.org/ontology/SNOMEDCT/112115002,https://pubchem.ncbi.nlm.nih.gov/compound/439302,Oxytocin
+C0030123,http://purl.bioontology.org/ontology/SNOMEDCT/43462003,https://pubchem.ncbi.nlm.nih.gov/compound/2148,Para-aminohippuric acid
+C0030493,http://purl.bioontology.org/ontology/MESH/D010269,https://pubchem.ncbi.nlm.nih.gov/compound/15939,Paraquat
+C0030493,http://purl.bioontology.org/ontology/SNOMEDCT/22065005,https://pubchem.ncbi.nlm.nih.gov/compound/15939,Paraquat
+C0030817,http://purl.bioontology.org/ontology/SNOMEDCT/387235007,https://pubchem.ncbi.nlm.nih.gov/compound/5852,Penicillamine
+C0030873,http://purl.bioontology.org/ontology/SNOMEDCT/387213004,https://pubchem.ncbi.nlm.nih.gov/compound/441278,Pentazocine
+C0030899,http://purl.bioontology.org/ontology/SNOMEDCT/387522004,https://pubchem.ncbi.nlm.nih.gov/compound/4740,Pentoxifylline
+C0031412,http://purl.bioontology.org/ontology/SNOMEDCT/373505007,https://pubchem.ncbi.nlm.nih.gov/compound/4763,Phenobarbital
+C0031430,http://purl.bioontology.org/ontology/MESH/D010637,https://pubchem.ncbi.nlm.nih.gov/compound/4766,Phenolsulfonphthalein
+C0031430,http://purl.bioontology.org/ontology/SNOMEDCT/23861006,https://pubchem.ncbi.nlm.nih.gov/compound/4766,Phenolsulfonphthalein
+C0031448,http://purl.bioontology.org/ontology/SNOMEDCT/372863003,https://pubchem.ncbi.nlm.nih.gov/compound/5775,Phentolamine
+C0031453,http://purl.bioontology.org/ontology/SNOMEDCT/1342410001,https://pubchem.ncbi.nlm.nih.gov/compound/6140,L-phenylalanine
+C0031463,http://purl.bioontology.org/ontology/SNOMEDCT/273951003,https://pubchem.ncbi.nlm.nih.gov/compound/4781,Phenylbutazone
+C0031469,http://purl.bioontology.org/ontology/SNOMEDCT/372771005,https://pubchem.ncbi.nlm.nih.gov/compound/6041,Phenylephrine
+C0031493,http://purl.bioontology.org/ontology/MESH/D010664,https://pubchem.ncbi.nlm.nih.gov/compound/4784,Phenylmethylsulfonyl Fluoride
+C0031499,http://purl.bioontology.org/ontology/SNOMEDCT/89071006,https://pubchem.ncbi.nlm.nih.gov/compound/997,Phenylpyruvic acid
+C0031507,http://purl.bioontology.org/ontology/SNOMEDCT/387220006,https://pubchem.ncbi.nlm.nih.gov/compound/1775,Phenytoin
+C0031634,http://purl.bioontology.org/ontology/SNOMEDCT/16984006,https://pubchem.ncbi.nlm.nih.gov/compound/9548602,Phosphocreatine
+C0031681,http://purl.bioontology.org/ontology/SNOMEDCT/84317008,https://pubchem.ncbi.nlm.nih.gov/compound/546,Phosphonacetic acid
+C0031851,http://purl.bioontology.org/ontology/MESH/D010831,https://pubchem.ncbi.nlm.nih.gov/compound/26840,Phytanic Acid
+C0031851,http://purl.bioontology.org/ontology/SNOMEDCT/87477008,https://pubchem.ncbi.nlm.nih.gov/compound/26840,Phytanic acid
+C0031923,http://purl.bioontology.org/ontology/SNOMEDCT/372895002,https://pubchem.ncbi.nlm.nih.gov/compound/5910,Pilocarpine
+C0031935,http://purl.bioontology.org/ontology/MESH/D010868,https://pubchem.ncbi.nlm.nih.gov/compound/16362,Pimozide
+C0031935,http://purl.bioontology.org/ontology/SNOMEDCT/386848009,https://pubchem.ncbi.nlm.nih.gov/compound/16362,Pimozide
+C0031978,http://purl.bioontology.org/ontology/SNOMEDCT/398669004,https://pubchem.ncbi.nlm.nih.gov/compound/4848,Pirenzepine
+C0032911,http://purl.bioontology.org/ontology/SNOMEDCT/387310003,https://pubchem.ncbi.nlm.nih.gov/compound/4891,Praziquantel
+C0032912,http://purl.bioontology.org/ontology/SNOMEDCT/387433003,https://pubchem.ncbi.nlm.nih.gov/compound/4893,Prazosin
+C0032952,http://purl.bioontology.org/ontology/SNOMEDCT/116602009,https://pubchem.ncbi.nlm.nih.gov/compound/5865,Prednisone
+C0033216,http://purl.bioontology.org/ontology/SNOMEDCT/372589008,https://pubchem.ncbi.nlm.nih.gov/compound/4913,Procainamide
+C0033229,http://purl.bioontology.org/ontology/MESH/D011346,https://pubchem.ncbi.nlm.nih.gov/compound/4917,Prochlorperazine
+C0033229,http://purl.bioontology.org/ontology/SNOMEDCT/372853006,https://pubchem.ncbi.nlm.nih.gov/compound/4917,Prochlorperazine
+C0033308,http://purl.bioontology.org/ontology/SNOMEDCT/16683002,https://pubchem.ncbi.nlm.nih.gov/compound/5994,Progesterone
+C0033371,http://purl.bioontology.org/ontology/MESH/D011388,https://pubchem.ncbi.nlm.nih.gov/compound/168266256,Prolactin
+C0033371,http://purl.bioontology.org/ontology/SNOMEDCT/70454002,https://pubchem.ncbi.nlm.nih.gov/compound/168266256,Prolactin
+C0033487,http://purl.bioontology.org/ontology/SNOMEDCT/387423006,https://pubchem.ncbi.nlm.nih.gov/compound/4943,Propofol
+C0033497,http://purl.bioontology.org/ontology/SNOMEDCT/372772003,https://pubchem.ncbi.nlm.nih.gov/compound/4946,Propranolol
+C0033567,http://purl.bioontology.org/ontology/MESH/D011464,https://pubchem.ncbi.nlm.nih.gov/compound/5282411,Epoprostenol
+C0033567,http://purl.bioontology.org/ontology/SNOMEDCT/372513003,https://pubchem.ncbi.nlm.nih.gov/compound/5282411,Epoprostenol
+C0033850,http://purl.bioontology.org/ontology/MESH/D011562,https://pubchem.ncbi.nlm.nih.gov/compound/10624,Psilocybin
+C0033850,http://purl.bioontology.org/ontology/SNOMEDCT/53513007,https://pubchem.ncbi.nlm.nih.gov/compound/10624,Psilocybine
+C0033954,http://purl.bioontology.org/ontology/MESH/D011609,https://pubchem.ncbi.nlm.nih.gov/compound/5280458,Psychosine
+C0034261,http://purl.bioontology.org/ontology/SNOMEDCT/373344003,https://pubchem.ncbi.nlm.nih.gov/compound/4991,Pyridostigmine
+C0034262,http://purl.bioontology.org/ontology/SNOMEDCT/34915005,https://pubchem.ncbi.nlm.nih.gov/compound/7550,Pyridostigmine bromide
+C0034263,http://purl.bioontology.org/ontology/MESH/D011730,https://pubchem.ncbi.nlm.nih.gov/compound/1050,Pyridoxal
+C0034263,http://purl.bioontology.org/ontology/SNOMEDCT/430926008,https://pubchem.ncbi.nlm.nih.gov/compound/1050,Pyridoxal
+C0034266,http://purl.bioontology.org/ontology/MESH/D011732,https://pubchem.ncbi.nlm.nih.gov/compound/1051,Pyridoxal Phosphate
+C0034266,http://purl.bioontology.org/ontology/SNOMEDCT/259663004,https://pubchem.ncbi.nlm.nih.gov/compound/1051,Pyridoxal phosphate
+C0034272,http://purl.bioontology.org/ontology/MESH/D011736,https://pubchem.ncbi.nlm.nih.gov/compound/1054,Pyridoxine
+C0034272,http://purl.bioontology.org/ontology/SNOMEDCT/430469009,https://pubchem.ncbi.nlm.nih.gov/compound/1054,Pyridoxine
+C0034320,http://purl.bioontology.org/ontology/SNOMEDCT/312278002,https://pubchem.ncbi.nlm.nih.gov/compound/644102,Pyrophosphate
+C0034392,http://purl.bioontology.org/ontology/MESH/D011794,https://pubchem.ncbi.nlm.nih.gov/compound/5280343,Quercetin
+C0034392,http://purl.bioontology.org/ontology/SNOMEDCT/52130006,https://pubchem.ncbi.nlm.nih.gov/compound/5280343,Quercetin
+C0034417,http://purl.bioontology.org/ontology/SNOMEDCT/373497008,https://pubchem.ncbi.nlm.nih.gov/compound/3034034,Quinine
+C0034665,http://purl.bioontology.org/ontology/SNOMEDCT/372755005,https://pubchem.ncbi.nlm.nih.gov/compound/3001055,Ranitidine
+C0034917,http://purl.bioontology.org/ontology/SNOMEDCT/63399009,https://pubchem.ncbi.nlm.nih.gov/compound/124886,Reduced glutathione
+C0035339,http://purl.bioontology.org/ontology/SNOMEDCT/372579009,https://pubchem.ncbi.nlm.nih.gov/compound/5282375,Retinoid
+C0035527,http://purl.bioontology.org/ontology/MESH/D012256,https://pubchem.ncbi.nlm.nih.gov/compound/493570,Riboflavin
+C0035527,http://purl.bioontology.org/ontology/SNOMEDCT/13235001,https://pubchem.ncbi.nlm.nih.gov/compound/493570,Riboflavin
+C0035609,http://purl.bioontology.org/ontology/MESH/D012294,https://pubchem.ncbi.nlm.nih.gov/compound/6324616,Rifamycins
+C0035871,http://purl.bioontology.org/ontology/MESH/D012402,https://pubchem.ncbi.nlm.nih.gov/compound/6758,Rotenone
+C0035871,http://purl.bioontology.org/ontology/SNOMEDCT/55792003,https://pubchem.ncbi.nlm.nih.gov/compound/6758,Rotenone
+C0035983,http://purl.bioontology.org/ontology/MESH/D012433,https://pubchem.ncbi.nlm.nih.gov/compound/11317883,Ryanodine
+C0035983,http://purl.bioontology.org/ontology/SNOMEDCT/40352008,https://pubchem.ncbi.nlm.nih.gov/compound/11317883,Ryanodine
+C0036442,http://purl.bioontology.org/ontology/SNOMEDCT/387409009,https://pubchem.ncbi.nlm.nih.gov/compound/3000322,Scopolamine
+C0036720,http://purl.bioontology.org/ontology/MESH/D012694,https://pubchem.ncbi.nlm.nih.gov/compound/5951,Serine
+C0036720,http://purl.bioontology.org/ontology/SNOMEDCT/14125007,https://pubchem.ncbi.nlm.nih.gov/compound/5951,Serine
+C0036751,http://purl.bioontology.org/ontology/SNOMEDCT/33635003,https://pubchem.ncbi.nlm.nih.gov/compound/5202,Serotonin
+C0037494,http://purl.bioontology.org/ontology/SNOMEDCT/387390002,https://pubchem.ncbi.nlm.nih.gov/compound/5234,Sodium chloride
+C0037556,http://purl.bioontology.org/ontology/SNOMEDCT/387320008,https://pubchem.ncbi.nlm.nih.gov/compound/23665772,Sodium tetradecyl sulfate
+C0037567,http://purl.bioontology.org/ontology/MESH/D014635,https://pubchem.ncbi.nlm.nih.gov/compound/3121,Valproic Acid
+C0037567,http://purl.bioontology.org/ontology/SNOMEDCT/387481005,https://pubchem.ncbi.nlm.nih.gov/compound/16760703,Valproate sodium
+C0037659,http://purl.bioontology.org/ontology/SNOMEDCT/49722008,https://pubchem.ncbi.nlm.nih.gov/compound/16129706,Somatostatin
+C0037663,http://purl.bioontology.org/ontology/MESH/D013006,https://pubchem.ncbi.nlm.nih.gov/compound/170907453,Growth Hormone
+C0037688,http://purl.bioontology.org/ontology/SNOMEDCT/19839007,https://pubchem.ncbi.nlm.nih.gov/compound/5780,Sorbitol
+C0037707,http://purl.bioontology.org/ontology/SNOMEDCT/372911006,https://pubchem.ncbi.nlm.nih.gov/compound/5253,Sotalol
+C0037871,http://purl.bioontology.org/ontology/MESH/D013095,https://pubchem.ncbi.nlm.nih.gov/compound/1102,Spermidine
+C0037871,http://purl.bioontology.org/ontology/SNOMEDCT/111992002,https://pubchem.ncbi.nlm.nih.gov/compound/1102,Spermidine
+C0037906,http://purl.bioontology.org/ontology/MESH/D013109,https://pubchem.ncbi.nlm.nih.gov/compound/44176376,Sphingomyelins
+C0037982,http://purl.bioontology.org/ontology/SNOMEDCT/387078006,https://pubchem.ncbi.nlm.nih.gov/compound/5833,Spironolactone
+C0038317,http://purl.bioontology.org/ontology/MESH/D013256,https://pubchem.ncbi.nlm.nih.gov/compound/139082353,Steroids
+C0038317,http://purl.bioontology.org/ontology/SNOMEDCT/116566001,https://pubchem.ncbi.nlm.nih.gov/compound/139082353,Steroid
+C0038432,http://purl.bioontology.org/ontology/SNOMEDCT/16915004,https://pubchem.ncbi.nlm.nih.gov/compound/29327,Streptozocin
+C0038636,http://purl.bioontology.org/ontology/MESH/D013395,https://pubchem.ncbi.nlm.nih.gov/compound/5988,Sucrose
+C0038636,http://purl.bioontology.org/ontology/SNOMEDCT/11320009,https://pubchem.ncbi.nlm.nih.gov/compound/5988,Sucrose
+C0038689,http://purl.bioontology.org/ontology/MESH/D013420,https://pubchem.ncbi.nlm.nih.gov/compound/5329,Sulfamethoxazole
+C0038689,http://purl.bioontology.org/ontology/SNOMEDCT/363528007,https://pubchem.ncbi.nlm.nih.gov/compound/5329,Sulfamethoxazole
+C0038727,http://purl.bioontology.org/ontology/MESH/D013433,https://pubchem.ncbi.nlm.nih.gov/compound/6451121,Sulfoglycosphingolipids
+C0038734,http://purl.bioontology.org/ontology/SNOMEDCT/115582009,https://pubchem.ncbi.nlm.nih.gov/compound/5460613,Sulfhydryl
+C0038760,http://purl.bioontology.org/ontology/SNOMEDCT/387406002,https://pubchem.ncbi.nlm.nih.gov/compound/5333,Sulfonamide
+C0038766,http://purl.bioontology.org/ontology/SNOMEDCT/372711004,https://pubchem.ncbi.nlm.nih.gov/compound/140987867,Sulfonylurea
+C0038774,http://purl.bioontology.org/ontology/MESH/D013455,https://pubchem.ncbi.nlm.nih.gov/compound/5362487,Sulfur
+C0038774,http://purl.bioontology.org/ontology/SNOMEDCT/43735007,https://pubchem.ncbi.nlm.nih.gov/compound/5362487,Sulfur
+C0038803,http://purl.bioontology.org/ontology/SNOMEDCT/395891007,https://pubchem.ncbi.nlm.nih.gov/compound/5355,Sulpiride
+C0039245,http://purl.bioontology.org/ontology/SNOMEDCT/373727000,https://pubchem.ncbi.nlm.nih.gov/compound/1935,Tacrine
+C0039350,http://purl.bioontology.org/ontology/SNOMEDCT/10944007,https://pubchem.ncbi.nlm.nih.gov/compound/1123,Taurine
+C0039542,http://purl.bioontology.org/ontology/SNOMEDCT/372745006,https://pubchem.ncbi.nlm.nih.gov/compound/5403,Terbutaline
+C0039561,http://purl.bioontology.org/ontology/SNOMEDCT/415710007,https://pubchem.ncbi.nlm.nih.gov/compound/6651,Terpene
+C0039601,http://purl.bioontology.org/ontology/SNOMEDCT/43688007,https://pubchem.ncbi.nlm.nih.gov/compound/6013,Testosterone
+C0039663,http://purl.bioontology.org/ontology/SNOMEDCT/96225007,https://pubchem.ncbi.nlm.nih.gov/compound/16078,Delta-9-tetrahydrocannabinol
+C0039663,http://purl.bioontology.org/ontology/SNOMEDCT/386846008,https://pubchem.ncbi.nlm.nih.gov/compound/16078,Dronabinol
+C0039663,http://purl.bioontology.org/ontology/SNOMEDCT/72024007,https://pubchem.ncbi.nlm.nih.gov/compound/16078,Tetrahydrocannabinol
+C0039771,http://purl.bioontology.org/ontology/SNOMEDCT/372810006,https://pubchem.ncbi.nlm.nih.gov/compound/2153,Theophylline
+C0039840,http://purl.bioontology.org/ontology/SNOMEDCT/259659006,https://pubchem.ncbi.nlm.nih.gov/compound/1130,Thiamine
+C0039872,http://purl.bioontology.org/ontology/MESH/D013853,https://pubchem.ncbi.nlm.nih.gov/compound/2723949,Thioacetamide
+C0040005,http://purl.bioontology.org/ontology/MESH/D013912,https://pubchem.ncbi.nlm.nih.gov/compound/6288,Threonine
+C0040005,http://purl.bioontology.org/ontology/SNOMEDCT/52736009,https://pubchem.ncbi.nlm.nih.gov/compound/6288,Threonine
+C0040180,http://purl.bioontology.org/ontology/SNOMEDCT/699180000,https://pubchem.ncbi.nlm.nih.gov/compound/5467,Tiapride
+C0040233,http://purl.bioontology.org/ontology/SNOMEDCT/372880004,https://pubchem.ncbi.nlm.nih.gov/compound/33624,Timolol
+C0040383,http://purl.bioontology.org/ontology/MESH/D014050,https://pubchem.ncbi.nlm.nih.gov/compound/1140,Toluene
+C0040383,http://purl.bioontology.org/ontology/SNOMEDCT/67127007,https://pubchem.ncbi.nlm.nih.gov/compound/1140,Methyl benzene
+C0040805,http://purl.bioontology.org/ontology/SNOMEDCT/372829000,https://pubchem.ncbi.nlm.nih.gov/compound/5533,Trazodone
+C0040815,http://purl.bioontology.org/ontology/MESH/D014199,https://pubchem.ncbi.nlm.nih.gov/compound/7427,Trehalose
+C0041004,http://purl.bioontology.org/ontology/SNOMEDCT/85600001,https://pubchem.ncbi.nlm.nih.gov/compound/11146,Triacylglycerol
+C0041041,http://purl.bioontology.org/ontology/SNOMEDCT/387179001,https://pubchem.ncbi.nlm.nih.gov/compound/5578,Trimethoprim
+C0041175,http://purl.bioontology.org/ontology/SNOMEDCT/59034000,https://pubchem.ncbi.nlm.nih.gov/compound/6503,Tromethamine
+C0041249,http://purl.bioontology.org/ontology/SNOMEDCT/54821000,https://pubchem.ncbi.nlm.nih.gov/compound/6305,Tryptophan
+C0041485,http://purl.bioontology.org/ontology/MESH/D014443,https://pubchem.ncbi.nlm.nih.gov/compound/6057,Tyrosine
+C0041485,http://purl.bioontology.org/ontology/SNOMEDCT/27378009,https://pubchem.ncbi.nlm.nih.gov/compound/6057,Tyrosine
+C0041536,http://purl.bioontology.org/ontology/SNOMEDCT/412129003,https://pubchem.ncbi.nlm.nih.gov/compound/5281915,Ubidecarenone
+C0041942,http://purl.bioontology.org/ontology/SNOMEDCT/387092000,https://pubchem.ncbi.nlm.nih.gov/compound/1176,Urea
+C0042105,http://purl.bioontology.org/ontology/SNOMEDCT/41143004,https://pubchem.ncbi.nlm.nih.gov/compound/31401,Ursodiol
+C0042285,http://purl.bioontology.org/ontology/MESH/D014633,https://pubchem.ncbi.nlm.nih.gov/compound/6287,Valine
+C0042285,http://purl.bioontology.org/ontology/SNOMEDCT/72840006,https://pubchem.ncbi.nlm.nih.gov/compound/6287,Valine
+C0042291,http://purl.bioontology.org/ontology/SNOMEDCT/387080000,https://pubchem.ncbi.nlm.nih.gov/compound/3121,Valproic acid
+C0042839,http://purl.bioontology.org/ontology/SNOMEDCT/82622003,https://pubchem.ncbi.nlm.nih.gov/compound/445354,Retinol
+C0042845,http://purl.bioontology.org/ontology/SNOMEDCT/304111003,https://pubchem.ncbi.nlm.nih.gov/compound/73415824,Cobalamin
+C0042845,http://purl.bioontology.org/ontology/SNOMEDCT/419382002,https://pubchem.ncbi.nlm.nih.gov/compound/166596686,Cyanocobalamin
+C0042874,http://purl.bioontology.org/ontology/MESH/D014810,https://pubchem.ncbi.nlm.nih.gov/compound/14985,Vitamin E
+C0042890,http://purl.bioontology.org/ontology/SNOMEDCT/87708000,https://pubchem.ncbi.nlm.nih.gov/compound/266052,Vitamin
+C0043031,http://purl.bioontology.org/ontology/SNOMEDCT/372756006,https://pubchem.ncbi.nlm.nih.gov/compound/54678486,Warfarin
+C0043047,http://purl.bioontology.org/ontology/MESH/D014867,https://pubchem.ncbi.nlm.nih.gov/compound/962,Water
+C0043047,http://purl.bioontology.org/ontology/SNOMEDCT/11713004,https://pubchem.ncbi.nlm.nih.gov/compound/962,Water
+C0043481,http://purl.bioontology.org/ontology/MESH/D015032,https://pubchem.ncbi.nlm.nih.gov/compound/23994,Zinc
+C0043481,http://purl.bioontology.org/ontology/SNOMEDCT/86739005,https://pubchem.ncbi.nlm.nih.gov/compound/23994,Zinc
+C0043791,http://purl.bioontology.org/ontology/MESH/C011439,https://pubchem.ncbi.nlm.nih.gov/compound/66021,"1,2-diacylglycerol"
+C0043791,http://purl.bioontology.org/ontology/MESH/D004075,https://pubchem.ncbi.nlm.nih.gov/compound/6026790,Diglycerides
+C0043799,http://purl.bioontology.org/ontology/MESH/C044819,https://pubchem.ncbi.nlm.nih.gov/compound/6441408,"1,2-diarachidonoyl-glycero-3-phosphocholine"
+C0044297,http://purl.bioontology.org/ontology/MESH/C022976,https://pubchem.ncbi.nlm.nih.gov/compound/189782,1-azidonaphthalene-5-sulfonate
+C0044369,http://purl.bioontology.org/ontology/MESH/C041277,https://pubchem.ncbi.nlm.nih.gov/compound/135903,1-dodecylpyridoxal
+C0045010,http://purl.bioontology.org/ontology/MESH/D019326,https://pubchem.ncbi.nlm.nih.gov/compound/6238,17-alpha-Hydroxyprogesterone
+C0045010,http://purl.bioontology.org/ontology/SNOMEDCT/126110005,https://pubchem.ncbi.nlm.nih.gov/compound/6238,Hydroxyprogesterone
+C0045283,http://purl.bioontology.org/ontology/MESH/C001803,https://pubchem.ncbi.nlm.nih.gov/compound/137994,tempol
+C0047053,http://purl.bioontology.org/ontology/MESH/C009413,https://pubchem.ncbi.nlm.nih.gov/compound/9974162,tetrahydrodeoxycorticosterone
+C0047130,http://purl.bioontology.org/ontology/MESH/C057213,https://pubchem.ncbi.nlm.nih.gov/compound/3082702,3-(2-phenylethyl)-4-methylsydnone
+C0048044,http://purl.bioontology.org/ontology/SNOMEDCT/310283001,https://pubchem.ncbi.nlm.nih.gov/compound/5665,Vigabatrin
+C0048243,http://purl.bioontology.org/ontology/MESH/C018511,https://pubchem.ncbi.nlm.nih.gov/compound/4685,4-dichlorobenzene
+C0048243,http://purl.bioontology.org/ontology/SNOMEDCT/43896004,https://pubchem.ncbi.nlm.nih.gov/compound/4685,p-Dichlorobenzene
+C0048898,http://purl.bioontology.org/ontology/SNOMEDCT/21706000,https://pubchem.ncbi.nlm.nih.gov/compound/135444742,Tetrahydrofolic acid
+C0048996,http://purl.bioontology.org/ontology/MESH/C055058,https://pubchem.ncbi.nlm.nih.gov/compound/163949,5-(3-hydroxybenzoyl)-2-thiophenesulfonamide
+C0049506,http://purl.bioontology.org/ontology/MESH/D000078785,https://pubchem.ncbi.nlm.nih.gov/compound/4205,Mirtazapine
+C0049506,http://purl.bioontology.org/ontology/SNOMEDCT/386847004,https://pubchem.ncbi.nlm.nih.gov/compound/4205,Mirtazapine
+C0049774,http://purl.bioontology.org/ontology/MESH/C017226,https://pubchem.ncbi.nlm.nih.gov/compound/135398687,"7,8-dihydrobiopterin"
+C0050063,http://purl.bioontology.org/ontology/MESH/C044258,https://pubchem.ncbi.nlm.nih.gov/compound/100299,8-chloro-cyclic adenosine monophosphate
+C0050423,http://purl.bioontology.org/ontology/MESH/C030686,https://pubchem.ncbi.nlm.nih.gov/compound/178,acetamide
+C0050423,http://purl.bioontology.org/ontology/SNOMEDCT/417551008,https://pubchem.ncbi.nlm.nih.gov/compound/178,Acetamide
+C0050940,http://purl.bioontology.org/ontology/SNOMEDCT/386888004,https://pubchem.ncbi.nlm.nih.gov/compound/3883,Lansoprazole
+C0051318,http://purl.bioontology.org/ontology/MESH/D018350,https://pubchem.ncbi.nlm.nih.gov/compound/1221,alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid
+C0051692,http://purl.bioontology.org/ontology/SNOMEDCT/96324009,https://pubchem.ncbi.nlm.nih.gov/compound/36324,Amitraz
+C0051696,http://purl.bioontology.org/ontology/SNOMEDCT/386864001,https://pubchem.ncbi.nlm.nih.gov/compound/2162,Amlodipine
+C0051767,http://purl.bioontology.org/ontology/MESH/C025953,https://pubchem.ncbi.nlm.nih.gov/compound/6668,amsonic acid
+C0052796,http://purl.bioontology.org/ontology/SNOMEDCT/387531004,https://pubchem.ncbi.nlm.nih.gov/compound/447043,Azithromycin
+C0053799,http://purl.bioontology.org/ontology/SNOMEDCT/386868003,https://pubchem.ncbi.nlm.nih.gov/compound/2405,Bisoprolol
+C0054015,http://purl.bioontology.org/ontology/SNOMEDCT/385678006,https://pubchem.ncbi.nlm.nih.gov/compound/71308561,Nesiritide
+C0054201,http://purl.bioontology.org/ontology/SNOMEDCT/395726003,https://pubchem.ncbi.nlm.nih.gov/compound/5281004,Budesonide
+C0054252,http://purl.bioontology.org/ontology/MESH/D019328,https://pubchem.ncbi.nlm.nih.gov/compound/21157,Buthionine Sulfoximine
+C0054534,http://purl.bioontology.org/ontology/MESH/C033668,https://pubchem.ncbi.nlm.nih.gov/compound/90488788,calpastatin
+C0054836,http://purl.bioontology.org/ontology/SNOMEDCT/386870007,https://pubchem.ncbi.nlm.nih.gov/compound/2585,Carvedilol
+C0055147,http://purl.bioontology.org/ontology/SNOMEDCT/372523007,https://pubchem.ncbi.nlm.nih.gov/compound/2678,Cetirizine
+C0055412,http://purl.bioontology.org/ontology/MESH/C011571,https://pubchem.ncbi.nlm.nih.gov/compound/17334,chloroflurenol-methyl
+C0055565,http://purl.bioontology.org/ontology/MESH/C007045,https://pubchem.ncbi.nlm.nih.gov/compound/65076,cholesteryl sulfate
+C0055565,http://purl.bioontology.org/ontology/SNOMEDCT/116772004,https://pubchem.ncbi.nlm.nih.gov/compound/65076,Cholesterol sulfate
+C0055568,http://purl.bioontology.org/ontology/SNOMEDCT/17147002,https://pubchem.ncbi.nlm.nih.gov/compound/221493,Cholic acid
+C0055753,http://purl.bioontology.org/ontology/SNOMEDCT/425837003,https://pubchem.ncbi.nlm.nih.gov/compound/444539,Cinnamic acid
+C0055891,http://purl.bioontology.org/ontology/SNOMEDCT/387572002,https://pubchem.ncbi.nlm.nih.gov/compound/2789,Clobazam
+C0055894,http://purl.bioontology.org/ontology/MESH/C000490,https://pubchem.ncbi.nlm.nih.gov/compound/735998,clobenzorex
+C0055894,http://purl.bioontology.org/ontology/SNOMEDCT/96240009,https://pubchem.ncbi.nlm.nih.gov/compound/735998,Clobenzorex
+C0056331,http://purl.bioontology.org/ontology/MESH/C058120,https://pubchem.ncbi.nlm.nih.gov/compound/6303,cordycepin
+C0056331,http://purl.bioontology.org/ontology/SNOMEDCT/428690000,https://pubchem.ncbi.nlm.nih.gov/compound/6303,3'-deoxyadenosine
+C0056582,http://purl.bioontology.org/ontology/MESH/D054728,https://pubchem.ncbi.nlm.nih.gov/compound/119287,Cucurbitacins
+C0056582,http://purl.bioontology.org/ontology/SNOMEDCT/58799006,https://pubchem.ncbi.nlm.nih.gov/compound/5281323,Cucurbitacin
+C0057090,http://purl.bioontology.org/ontology/MESH/C433579,https://pubchem.ncbi.nlm.nih.gov/compound/9837937,isoaurostatin
+C0057090,http://purl.bioontology.org/ontology/MESH/C004742,https://pubchem.ncbi.nlm.nih.gov/compound/5281708,daidzein
+C0057753,http://purl.bioontology.org/ontology/MESH/C011442,https://pubchem.ncbi.nlm.nih.gov/compound/193570,diazonaphthalenedisulfonic acid
+C0059747,http://purl.bioontology.org/ontology/MESH/C007650,https://pubchem.ncbi.nlm.nih.gov/compound/8857,ethyl acetate
+C0059747,http://purl.bioontology.org/ontology/SNOMEDCT/83298009,https://pubchem.ncbi.nlm.nih.gov/compound/8857,Ethyl acetate
+C0059804,http://purl.bioontology.org/ontology/MESH/C032766,https://pubchem.ncbi.nlm.nih.gov/compound/115176,ethylene diurea
+C0059865,http://purl.bioontology.org/ontology/SNOMEDCT/386860005,https://pubchem.ncbi.nlm.nih.gov/compound/3308,Etodolac
+C0060135,http://purl.bioontology.org/ontology/SNOMEDCT/96194006,https://pubchem.ncbi.nlm.nih.gov/compound/3331,Felbamate
+C0060454,http://purl.bioontology.org/ontology/MESH/C056895,https://pubchem.ncbi.nlm.nih.gov/compound/57347,flesinoxan
+C0060657,http://purl.bioontology.org/ontology/SNOMEDCT/414289007,https://pubchem.ncbi.nlm.nih.gov/compound/3410,Formoterol
+C0060926,http://purl.bioontology.org/ontology/SNOMEDCT/386845007,https://pubchem.ncbi.nlm.nih.gov/compound/3446,Gabapentin
+C0060974,http://purl.bioontology.org/ontology/SNOMEDCT/102661007,https://pubchem.ncbi.nlm.nih.gov/compound/123912,Galactose-1-phosphate
+C0061202,http://purl.bioontology.org/ontology/MESH/D019833,https://pubchem.ncbi.nlm.nih.gov/compound/5280961,Genistein
+C0061323,http://purl.bioontology.org/ontology/SNOMEDCT/386966003,https://pubchem.ncbi.nlm.nih.gov/compound/3476,Glimepiride
+C0061472,http://purl.bioontology.org/ontology/MESH/D018698,https://pubchem.ncbi.nlm.nih.gov/compound/33032,Glutamic Acid
+C0061472,http://purl.bioontology.org/ontology/SNOMEDCT/85214009,https://pubchem.ncbi.nlm.nih.gov/compound/33032,Glutamic acid
+C0061506,http://purl.bioontology.org/ontology/SNOMEDCT/115461001,https://pubchem.ncbi.nlm.nih.gov/compound/743,Glutaric acid
+C0061512,http://purl.bioontology.org/ontology/MESH/C053168,https://pubchem.ncbi.nlm.nih.gov/compound/71317118,glutarylcarnitine
+C0061512,http://purl.bioontology.org/ontology/SNOMEDCT/117465006,https://pubchem.ncbi.nlm.nih.gov/compound/71317118,Glutarylcarnitine
+C0061516,http://purl.bioontology.org/ontology/MESH/D019803,https://pubchem.ncbi.nlm.nih.gov/compound/65359,Glutathione Disulfide
+C0061626,http://purl.bioontology.org/ontology/SNOMEDCT/709131007,https://pubchem.ncbi.nlm.nih.gov/compound/763,Guanidinoacetic acid
+C0062961,http://purl.bioontology.org/ontology/MESH/C001355,https://pubchem.ncbi.nlm.nih.gov/compound/1646,tramiprosate
+C0064030,http://purl.bioontology.org/ontology/MESH/C004809,https://pubchem.ncbi.nlm.nih.gov/compound/1195,isopentenyl pyrophosphate
+C0064368,http://purl.bioontology.org/ontology/MESH/C009897,https://pubchem.ncbi.nlm.nih.gov/compound/33294,"O,O-diisopropyl-S-benzylthiophosphate"
+C0064494,http://purl.bioontology.org/ontology/MESH/C062058,https://pubchem.ncbi.nlm.nih.gov/compound/108144,carboxyamido-triazole
+C0064636,http://purl.bioontology.org/ontology/SNOMEDCT/387562000,https://pubchem.ncbi.nlm.nih.gov/compound/3878,Lamotrigine
+C0065180,http://purl.bioontology.org/ontology/SNOMEDCT/386884002,https://pubchem.ncbi.nlm.nih.gov/compound/3957,Loratadine
+C0065610,http://purl.bioontology.org/ontology/MESH/C017482,https://pubchem.ncbi.nlm.nih.gov/compound/3035236,maltose tetrapalmitate
+C0065610,http://purl.bioontology.org/ontology/SNOMEDCT/1575001,https://pubchem.ncbi.nlm.nih.gov/compound/3035236,Maltose tetrapalmitate
+C0065682,http://purl.bioontology.org/ontology/MESH/C047217,https://pubchem.ncbi.nlm.nih.gov/compound/644175,mannose 1-phosphate
+C0066621,http://purl.bioontology.org/ontology/SNOMEDCT/372493004,https://pubchem.ncbi.nlm.nih.gov/compound/5281042,Mivacurium
+C0066677,http://purl.bioontology.org/ontology/SNOMEDCT/387004007,https://pubchem.ncbi.nlm.nih.gov/compound/4236,Modafinil
+C0067762,http://purl.bioontology.org/ontology/MESH/D019158,https://pubchem.ncbi.nlm.nih.gov/compound/439197,N-Acetylneuraminic Acid
+C0067762,http://purl.bioontology.org/ontology/SNOMEDCT/43211003,https://pubchem.ncbi.nlm.nih.gov/compound/439197,n-Acetyl neuraminic acid
+C0068008,http://purl.bioontology.org/ontology/MESH/C026385,https://pubchem.ncbi.nlm.nih.gov/compound/8058,n-hexane
+C0068008,http://purl.bioontology.org/ontology/SNOMEDCT/40647006,https://pubchem.ncbi.nlm.nih.gov/compound/8058,Hexane
+C0068273,http://purl.bioontology.org/ontology/MESH/C059135,https://pubchem.ncbi.nlm.nih.gov/compound/197959,N-propionylprocainamide
+C0068475,http://purl.bioontology.org/ontology/SNOMEDCT/395808005,https://pubchem.ncbi.nlm.nih.gov/compound/71301,Nebivolol
+C0068527,http://purl.bioontology.org/ontology/SNOMEDCT/102694005,https://pubchem.ncbi.nlm.nih.gov/compound/135398721,Neopterin
+C0068700,http://purl.bioontology.org/ontology/MESH/D020108,https://pubchem.ncbi.nlm.nih.gov/compound/47528,Nicorandil
+C0068700,http://purl.bioontology.org/ontology/SNOMEDCT/395809002,https://pubchem.ncbi.nlm.nih.gov/compound/47528,Nicorandil
+C0068897,http://purl.bioontology.org/ontology/SNOMEDCT/372485004,https://pubchem.ncbi.nlm.nih.gov/compound/60648,Tiagabine
+C0068986,http://purl.bioontology.org/ontology/SNOMEDCT/96256004,https://pubchem.ncbi.nlm.nih.gov/compound/4538,Norfenefrine
+C0069016,http://purl.bioontology.org/ontology/MESH/C002753,https://pubchem.ncbi.nlm.nih.gov/compound/41169,nornuciferine
+C0069130,http://purl.bioontology.org/ontology/MESH/C036574,https://pubchem.ncbi.nlm.nih.gov/compound/123837,nuclear yellow
+C0069805,http://purl.bioontology.org/ontology/SNOMEDCT/372717000,https://pubchem.ncbi.nlm.nih.gov/compound/4634,Oxybutynin
+C0070066,http://purl.bioontology.org/ontology/MESH/C003043,https://pubchem.ncbi.nlm.nih.gov/compound/712,paraform
+C0070122,http://purl.bioontology.org/ontology/SNOMEDCT/372595009,https://pubchem.ncbi.nlm.nih.gov/compound/43815,Paroxetine
+C0070166,http://purl.bioontology.org/ontology/SNOMEDCT/386952008,https://pubchem.ncbi.nlm.nih.gov/compound/60606,Clopidogrel
+C0071011,http://purl.bioontology.org/ontology/MESH/D048789,https://pubchem.ncbi.nlm.nih.gov/compound/56842207,Phytoestrogens
+C0071097,http://purl.bioontology.org/ontology/SNOMEDCT/395828009,https://pubchem.ncbi.nlm.nih.gov/compound/4829,Pioglitazone
+C0071778,http://purl.bioontology.org/ontology/SNOMEDCT/80916004,https://pubchem.ncbi.nlm.nih.gov/compound/516951,Potassium phosphate
+C0071987,http://purl.bioontology.org/ontology/MESH/C002844,https://pubchem.ncbi.nlm.nih.gov/compound/123929,pristanic acid
+C0071987,http://purl.bioontology.org/ontology/SNOMEDCT/430908005,https://pubchem.ncbi.nlm.nih.gov/compound/123929,Pristanic acid
+C0072059,http://purl.bioontology.org/ontology/MESH/C011536,https://pubchem.ncbi.nlm.nih.gov/compound/123786,proctolin
+C0072149,http://purl.bioontology.org/ontology/MESH/C060580,https://pubchem.ncbi.nlm.nih.gov/compound/133082085,Promega
+C0072497,http://purl.bioontology.org/ontology/SNOMEDCT/80918003,https://pubchem.ncbi.nlm.nih.gov/compound/4971,Protoporphyrin IX
+C0072591,http://purl.bioontology.org/ontology/MESH/C033607,https://pubchem.ncbi.nlm.nih.gov/compound/5281807,puerarin
+C0072879,http://purl.bioontology.org/ontology/MESH/D017378,https://pubchem.ncbi.nlm.nih.gov/compound/1066,Quinolinic Acid
+C0072879,http://purl.bioontology.org/ontology/SNOMEDCT/710174009,https://pubchem.ncbi.nlm.nih.gov/compound/1066,Quinolinic acid
+C0072892,http://purl.bioontology.org/ontology/MESH/D019257,https://pubchem.ncbi.nlm.nih.gov/compound/54562,Quinpirole
+C0072916,http://purl.bioontology.org/ontology/SNOMEDCT/387164008,https://pubchem.ncbi.nlm.nih.gov/compound/6917698,Cisapride
+C0072980,http://purl.bioontology.org/ontology/SNOMEDCT/387014003,https://pubchem.ncbi.nlm.nih.gov/compound/5284616,Sirolimus
+C0073096,http://purl.bioontology.org/ontology/SNOMEDCT/96383001,https://pubchem.ncbi.nlm.nih.gov/compound/445154,Resveratrol
+C0073374,http://purl.bioontology.org/ontology/MESH/D000078262,https://pubchem.ncbi.nlm.nih.gov/compound/6436173,Rifaximin
+C0073374,http://purl.bioontology.org/ontology/SNOMEDCT/412553001,https://pubchem.ncbi.nlm.nih.gov/compound/6436173,Rifaximin
+C0073379,http://purl.bioontology.org/ontology/SNOMEDCT/386980005,https://pubchem.ncbi.nlm.nih.gov/compound/5070,Riluzole
+C0073393,http://purl.bioontology.org/ontology/SNOMEDCT/386840002,https://pubchem.ncbi.nlm.nih.gov/compound/5073,Risperidone
+C0073633,http://purl.bioontology.org/ontology/MESH/D000069458,https://pubchem.ncbi.nlm.nih.gov/compound/56959,Ranolazine
+C0073633,http://purl.bioontology.org/ontology/SNOMEDCT/420365007,https://pubchem.ncbi.nlm.nih.gov/compound/56959,Ranolazine
+C0073992,http://purl.bioontology.org/ontology/SNOMEDCT/372515005,https://pubchem.ncbi.nlm.nih.gov/compound/5152,Salmeterol
+C0074349,http://purl.bioontology.org/ontology/SNOMEDCT/725632002,https://pubchem.ncbi.nlm.nih.gov/compound/135398579,Sepiapterin
+C0074391,http://purl.bioontology.org/ontology/SNOMEDCT/409280001,https://pubchem.ncbi.nlm.nih.gov/compound/65863,Sertaconazole
+C0074393,http://purl.bioontology.org/ontology/SNOMEDCT/372594008,https://pubchem.ncbi.nlm.nih.gov/compound/68617,Sertraline
+C0074414,http://purl.bioontology.org/ontology/MESH/D000077149,https://pubchem.ncbi.nlm.nih.gov/compound/5206,Sevoflurane
+C0074414,http://purl.bioontology.org/ontology/SNOMEDCT/386842005,https://pubchem.ncbi.nlm.nih.gov/compound/5206,Sevoflurane
+C0074676,http://purl.bioontology.org/ontology/MESH/C055267,https://pubchem.ncbi.nlm.nih.gov/compound/91273,tandospirone
+C0074710,http://purl.bioontology.org/ontology/MESH/D000077487,https://pubchem.ncbi.nlm.nih.gov/compound/119570,Pramipexole
+C0074710,http://purl.bioontology.org/ontology/SNOMEDCT/386852009,https://pubchem.ncbi.nlm.nih.gov/compound/119570,Pramipexole
+C0074996,http://purl.bioontology.org/ontology/MESH/C035742,https://pubchem.ncbi.nlm.nih.gov/compound/6441677,sphingosyl beta-glucoside
+C0075246,http://purl.bioontology.org/ontology/MESH/C012043,https://pubchem.ncbi.nlm.nih.gov/compound/442089,stevioside
+C0075632,http://purl.bioontology.org/ontology/MESH/D018170,https://pubchem.ncbi.nlm.nih.gov/compound/5358,Sumatriptan
+C0075632,http://purl.bioontology.org/ontology/SNOMEDCT/395892000,https://pubchem.ncbi.nlm.nih.gov/compound/5358,Sumatriptan
+C0075710,http://purl.bioontology.org/ontology/MESH/C028305,https://pubchem.ncbi.nlm.nih.gov/compound/5316860,syringin
+C0076080,http://purl.bioontology.org/ontology/SNOMEDCT/387009002,https://pubchem.ncbi.nlm.nih.gov/compound/5394,Temozolomide
+C0076107,http://purl.bioontology.org/ontology/SNOMEDCT/387068008,https://pubchem.ncbi.nlm.nih.gov/compound/5401,Terazosin
+C0076823,http://purl.bioontology.org/ontology/SNOMEDCT/407037005,https://pubchem.ncbi.nlm.nih.gov/compound/54841,Atomoxetine
+C0076829,http://purl.bioontology.org/ontology/SNOMEDCT/386844006,https://pubchem.ncbi.nlm.nih.gov/compound/5284627,Topiramate
+C0077069,http://purl.bioontology.org/ontology/MESH/C023764,https://pubchem.ncbi.nlm.nih.gov/compound/65399,triciribine
+C0077194,http://purl.bioontology.org/ontology/MESH/C005855,https://pubchem.ncbi.nlm.nih.gov/compound/1145,trimethyloxamine
+C0077768,http://purl.bioontology.org/ontology/SNOMEDCT/386924004,https://pubchem.ncbi.nlm.nih.gov/compound/54405,Brimonidine tartrate
+C0077857,http://purl.bioontology.org/ontology/SNOMEDCT/698807007,https://pubchem.ncbi.nlm.nih.gov/compound/5639,Urapidil
+C0078844,http://purl.bioontology.org/ontology/MESH/D000078305,https://pubchem.ncbi.nlm.nih.gov/compound/5734,Zonisamide
+C0078844,http://purl.bioontology.org/ontology/SNOMEDCT/125693002,https://pubchem.ncbi.nlm.nih.gov/compound/5734,Zonisamide
+C0079389,http://purl.bioontology.org/ontology/MESH/D016257,https://pubchem.ncbi.nlm.nih.gov/compound/57054,Fura-2
+C0079883,http://purl.bioontology.org/ontology/MESH/D016202,https://pubchem.ncbi.nlm.nih.gov/compound/22880,N-Methylaspartate
+C0080356,http://purl.bioontology.org/ontology/SNOMEDCT/264325000,https://pubchem.ncbi.nlm.nih.gov/compound/3549980,Valproate
+C0081660,http://purl.bioontology.org/ontology/MESH/C017032,https://pubchem.ncbi.nlm.nih.gov/compound/119034,asiatic acid
+C0081758,http://purl.bioontology.org/ontology/MESH/C064089,https://pubchem.ncbi.nlm.nih.gov/compound/3036909,beta-cyclodextrin tetradecasulfate
+C0082607,http://purl.bioontology.org/ontology/SNOMEDCT/397192001,https://pubchem.ncbi.nlm.nih.gov/compound/5311101,Fluticasone
+C0082711,http://purl.bioontology.org/ontology/MESH/C063288,https://pubchem.ncbi.nlm.nih.gov/compound/6449939,globotriaosyl lysosphingolipid
+C0083701,http://purl.bioontology.org/ontology/MESH/C064357,https://pubchem.ncbi.nlm.nih.gov/compound/4418,naftopidil
+C0084183,http://purl.bioontology.org/ontology/MESH/C066229,https://pubchem.ncbi.nlm.nih.gov/compound/10176668,prolinedithiocarbamate
+C0084393,http://purl.bioontology.org/ontology/MESH/C064758,https://pubchem.ncbi.nlm.nih.gov/compound/5083,Ro 31-8220
+C0084563,http://purl.bioontology.org/ontology/MESH/C067113,https://pubchem.ncbi.nlm.nih.gov/compound/1218,SK&F 81297
+C0084866,http://purl.bioontology.org/ontology/MESH/C050414,https://pubchem.ncbi.nlm.nih.gov/compound/122724,celastrol
+C0085161,http://purl.bioontology.org/ontology/SNOMEDCT/96085003,https://pubchem.ncbi.nlm.nih.gov/compound/3357,Fleroxacin
+C0085170,http://purl.bioontology.org/ontology/SNOMEDCT/387333002,https://pubchem.ncbi.nlm.nih.gov/compound/2247,Astemizole
+C0085196,http://purl.bioontology.org/ontology/MESH/D016627,https://pubchem.ncbi.nlm.nih.gov/compound/4624,Oxidopamine
+C0085208,http://purl.bioontology.org/ontology/SNOMEDCT/387564004,https://pubchem.ncbi.nlm.nih.gov/compound/444,Bupropion
+C0085228,http://purl.bioontology.org/ontology/SNOMEDCT/372905008,https://pubchem.ncbi.nlm.nih.gov/compound/5324346,Fluvoxamine
+C0085237,http://purl.bioontology.org/ontology/SNOMEDCT/372479006,https://pubchem.ncbi.nlm.nih.gov/compound/38945,Tocainide
+C0085272,http://purl.bioontology.org/ontology/SNOMEDCT/397198002,https://pubchem.ncbi.nlm.nih.gov/compound/657181,Leuprolide
+C0085542,http://purl.bioontology.org/ontology/SNOMEDCT/373566006,https://pubchem.ncbi.nlm.nih.gov/compound/54687,Pravastatin
+C0087093,http://purl.bioontology.org/ontology/SNOMEDCT/75359005,https://pubchem.ncbi.nlm.nih.gov/compound/5281056,Timolol maleate
+C0087163,http://purl.bioontology.org/ontology/MESH/D002331,https://pubchem.ncbi.nlm.nih.gov/compound/288,Carnitine
+C0087163,http://purl.bioontology.org/ontology/SNOMEDCT/372601001,https://pubchem.ncbi.nlm.nih.gov/compound/10917,Levocarnitine
+C0088321,http://purl.bioontology.org/ontology/MESH/C051360,https://pubchem.ncbi.nlm.nih.gov/compound/1329,"1,3-dipropyl-8-cyclopentylxanthine"
+C0090306,http://purl.bioontology.org/ontology/SNOMEDCT/386926002,https://pubchem.ncbi.nlm.nih.gov/compound/5311221,Latanoprost
+C0093437,http://purl.bioontology.org/ontology/SNOMEDCT/409284005,https://pubchem.ncbi.nlm.nih.gov/compound/25137844,Cevimeline
+C0095278,http://purl.bioontology.org/ontology/MESH/C038131,https://pubchem.ncbi.nlm.nih.gov/compound/1549120,epalrestat
+C0099085,http://purl.bioontology.org/ontology/MESH/C072598,https://pubchem.ncbi.nlm.nih.gov/compound/195976,6-bromo-2-naphthyl sulfate
+C0107994,http://purl.bioontology.org/ontology/SNOMEDCT/386979007,https://pubchem.ncbi.nlm.nih.gov/compound/54746,Cabergoline
+C0108192,http://purl.bioontology.org/ontology/MESH/C071482,https://pubchem.ncbi.nlm.nih.gov/compound/73364,calpeptin
+C0113293,http://purl.bioontology.org/ontology/MESH/D020927,https://pubchem.ncbi.nlm.nih.gov/compound/5311068,Dexmedetomidine
+C0113293,http://purl.bioontology.org/ontology/SNOMEDCT/437750002,https://pubchem.ncbi.nlm.nih.gov/compound/5311068,Dexmedetomidine
+C0114217,http://purl.bioontology.org/ontology/MESH/C039602,https://pubchem.ncbi.nlm.nih.gov/compound/5281612,diosmetin
+C0114873,http://purl.bioontology.org/ontology/SNOMEDCT/372508002,https://pubchem.ncbi.nlm.nih.gov/compound/3157,Doxazosin
+C0116569,http://purl.bioontology.org/ontology/MESH/C036604,https://pubchem.ncbi.nlm.nih.gov/compound/59768,esmolol
+C0116569,http://purl.bioontology.org/ontology/SNOMEDCT/372847006,https://pubchem.ncbi.nlm.nih.gov/compound/59768,Esmolol
+C0117996,http://purl.bioontology.org/ontology/SNOMEDCT/396064000,https://pubchem.ncbi.nlm.nih.gov/compound/444036,Fluticasone propionate
+C0119188,http://purl.bioontology.org/ontology/MESH/C477042,https://pubchem.ncbi.nlm.nih.gov/compound/9909368,ginkgolide A
+C0123091,http://purl.bioontology.org/ontology/SNOMEDCT/386850001,https://pubchem.ncbi.nlm.nih.gov/compound/5002,Quetiapine
+C0123163,http://purl.bioontology.org/ontology/SNOMEDCT/429666007,https://pubchem.ncbi.nlm.nih.gov/compound/3686,Idebenone
+C0125821,http://purl.bioontology.org/ontology/MESH/C070840,https://pubchem.ncbi.nlm.nih.gov/compound/5318998,licochalcone A
+C0126174,http://purl.bioontology.org/ontology/SNOMEDCT/373567002,https://pubchem.ncbi.nlm.nih.gov/compound/3961,Losartan
+C0126177,http://purl.bioontology.org/ontology/SNOMEDCT/387047007,https://pubchem.ncbi.nlm.nih.gov/compound/444025,Loteprednol etabonate
+C0128170,http://purl.bioontology.org/ontology/SNOMEDCT/391795000,https://pubchem.ncbi.nlm.nih.gov/compound/657381,Atropine methonitrate
+C0138666,http://purl.bioontology.org/ontology/SNOMEDCT/395997007,https://pubchem.ncbi.nlm.nih.gov/compound/4942,Propiverine
+C0142812,http://purl.bioontology.org/ontology/MESH/D020148,https://pubchem.ncbi.nlm.nih.gov/compound/264,Butyric Acid
+C0144576,http://purl.bioontology.org/ontology/SNOMEDCT/387374002,https://pubchem.ncbi.nlm.nih.gov/compound/36314,Paclitaxel
+C0146011,http://purl.bioontology.org/ontology/SNOMEDCT/373440006,https://pubchem.ncbi.nlm.nih.gov/compound/5487,Tizanidine
+C0163557,http://purl.bioontology.org/ontology/SNOMEDCT/781257003,https://pubchem.ncbi.nlm.nih.gov/compound/9832912,Moxidectin
+C0166479,http://purl.bioontology.org/ontology/MESH/C073710,https://pubchem.ncbi.nlm.nih.gov/compound/73581,bilobalide
+C0171023,http://purl.bioontology.org/ontology/MESH/D000077152,https://pubchem.ncbi.nlm.nih.gov/compound/135398745,Olanzapine
+C0171023,http://purl.bioontology.org/ontology/SNOMEDCT/386849001,https://pubchem.ncbi.nlm.nih.gov/compound/135398745,Olanzapine
+C0173083,http://purl.bioontology.org/ontology/MESH/C077073,https://pubchem.ncbi.nlm.nih.gov/compound/115355,nitisinone
+C0173083,http://purl.bioontology.org/ontology/SNOMEDCT/385996000,https://pubchem.ncbi.nlm.nih.gov/compound/115355,Nitisinone
+C0175000,http://purl.bioontology.org/ontology/MESH/C078040,https://pubchem.ncbi.nlm.nih.gov/compound/91520,catalpol
+C0206794,http://purl.bioontology.org/ontology/MESH/C002634,https://pubchem.ncbi.nlm.nih.gov/compound/11668,ethane sulfonate
+C0207636,http://purl.bioontology.org/ontology/SNOMEDCT/259362002,https://pubchem.ncbi.nlm.nih.gov/compound/997,Phenylpyruvate
+C0209337,http://purl.bioontology.org/ontology/MESH/D000077123,https://pubchem.ncbi.nlm.nih.gov/compound/441290,Rocuronium
+C0209337,http://purl.bioontology.org/ontology/SNOMEDCT/372494005,https://pubchem.ncbi.nlm.nih.gov/compound/441290,Rocuronium
+C0211726,http://purl.bioontology.org/ontology/SNOMEDCT/1290107005,https://pubchem.ncbi.nlm.nih.gov/compound/5281969,Anandamide
+C0213771,http://purl.bioontology.org/ontology/SNOMEDCT/409169006,https://pubchem.ncbi.nlm.nih.gov/compound/5487427,Tiotropium
+C0215706,http://purl.bioontology.org/ontology/MESH/C080938,https://pubchem.ncbi.nlm.nih.gov/compound/119411,tris(2-carboxyethyl)phosphine
+C0216784,http://purl.bioontology.org/ontology/SNOMEDCT/386876001,https://pubchem.ncbi.nlm.nih.gov/compound/60846,Valsartan
+C0236556,http://purl.bioontology.org/ontology/SNOMEDCT/79706000,https://pubchem.ncbi.nlm.nih.gov/compound/5280352,Bilirubin
+C0242531,http://purl.bioontology.org/ontology/SNOMEDCT/372883002,https://pubchem.ncbi.nlm.nih.gov/compound/39765,Vecuronium
+C0244104,http://purl.bioontology.org/ontology/SNOMEDCT/430640006,https://pubchem.ncbi.nlm.nih.gov/compound/107735,Pyruvate
+C0244404,http://purl.bioontology.org/ontology/SNOMEDCT/109029006,https://pubchem.ncbi.nlm.nih.gov/compound/5035,Raloxifene
+C0244821,http://purl.bioontology.org/ontology/SNOMEDCT/372499000,https://pubchem.ncbi.nlm.nih.gov/compound/5095,Ropinirole
+C0245561,http://purl.bioontology.org/ontology/MESH/D000068736,https://pubchem.ncbi.nlm.nih.gov/compound/60834,Duloxetine Hydrochloride
+C0245561,http://purl.bioontology.org/ontology/SNOMEDCT/407032004,https://pubchem.ncbi.nlm.nih.gov/compound/60835,Duloxetine
+C0246421,http://purl.bioontology.org/ontology/SNOMEDCT/386911004,https://pubchem.ncbi.nlm.nih.gov/compound/3902,Letrozole
+C0246631,http://purl.bioontology.org/ontology/SNOMEDCT/386839004,https://pubchem.ncbi.nlm.nih.gov/compound/60815,Remifentanil
+C0246904,http://purl.bioontology.org/ontology/SNOMEDCT/442795003,https://pubchem.ncbi.nlm.nih.gov/compound/3033825,Levosimendan
+C0256089,http://purl.bioontology.org/ontology/MESH/C046650,https://pubchem.ncbi.nlm.nih.gov/compound/3086401,quinagolide
+C0256089,http://purl.bioontology.org/ontology/SNOMEDCT/395850005,https://pubchem.ncbi.nlm.nih.gov/compound/3086401,Quinagolide
+C0257190,http://purl.bioontology.org/ontology/MESH/D000077550,https://pubchem.ncbi.nlm.nih.gov/compound/132999,Ivabradine
+C0257190,http://purl.bioontology.org/ontology/SNOMEDCT/421228002,https://pubchem.ncbi.nlm.nih.gov/compound/132999,Ivabradine
+C0257343,http://purl.bioontology.org/ontology/SNOMEDCT/372509005,https://pubchem.ncbi.nlm.nih.gov/compound/129211,Tamsulosin
+C0257357,http://purl.bioontology.org/ontology/MESH/C088489,https://pubchem.ncbi.nlm.nih.gov/compound/133040,1-(saligenin cyclic phospho)-9-biotinyldiaminononane
+C0258259,http://purl.bioontology.org/ontology/MESH/C088936,https://pubchem.ncbi.nlm.nih.gov/compound/6438361,"3-(2,4-dimethoxybenzylidene)anabaseine"
+C0282090,http://purl.bioontology.org/ontology/SNOMEDCT/372800002,https://pubchem.ncbi.nlm.nih.gov/compound/5199,Laxative
+C0282151,http://purl.bioontology.org/ontology/SNOMEDCT/16257000,https://pubchem.ncbi.nlm.nih.gov/compound/65340,Dopamine hydrochloride
+C0286651,http://purl.bioontology.org/ontology/SNOMEDCT/373444002,https://pubchem.ncbi.nlm.nih.gov/compound/60823,Atorvastatin
+C0298130,http://purl.bioontology.org/ontology/SNOMEDCT/373728005,https://pubchem.ncbi.nlm.nih.gov/compound/5281040,Montelukast
+C0299792,http://purl.bioontology.org/ontology/MESH/D000068180,https://pubchem.ncbi.nlm.nih.gov/compound/60795,Aripiprazole
+C0299792,http://purl.bioontology.org/ontology/SNOMEDCT/406784005,https://pubchem.ncbi.nlm.nih.gov/compound/60795,Aripiprazole
+C0301677,http://purl.bioontology.org/ontology/SNOMEDCT/37315007,https://pubchem.ncbi.nlm.nih.gov/compound/899,n-Acetyl mannosamine
+C0302583,http://purl.bioontology.org/ontology/MESH/D007501,https://pubchem.ncbi.nlm.nih.gov/compound/23925,Iron
+C0302583,http://purl.bioontology.org/ontology/SNOMEDCT/3829006,https://pubchem.ncbi.nlm.nih.gov/compound/23925,Iron
+C0348029,http://purl.bioontology.org/ontology/SNOMEDCT/28823005,https://pubchem.ncbi.nlm.nih.gov/compound/17100,Terpineol
+C0368608,http://purl.bioontology.org/ontology/MESH/C116917,https://pubchem.ncbi.nlm.nih.gov/compound/34755,acylcarnitine
+C0368608,http://purl.bioontology.org/ontology/SNOMEDCT/102651000,https://pubchem.ncbi.nlm.nih.gov/compound/34755,Acylcarnitine
+C0373704,http://purl.bioontology.org/ontology/MESH/D011284,https://pubchem.ncbi.nlm.nih.gov/compound/8955,Pregnenolone
+C0373704,http://purl.bioontology.org/ontology/SNOMEDCT/47350002,https://pubchem.ncbi.nlm.nih.gov/compound/8955,Pregnenolone
+C0376261,http://purl.bioontology.org/ontology/SNOMEDCT/83036002,https://pubchem.ncbi.nlm.nih.gov/compound/91435,Lactate
+C0388753,http://purl.bioontology.org/ontology/SNOMEDCT/372570008,https://pubchem.ncbi.nlm.nih.gov/compound/443879,Tolterodine
+C0525227,http://purl.bioontology.org/ontology/SNOMEDCT/372547000,https://pubchem.ncbi.nlm.nih.gov/compound/2435,Brimonidine
+C0526399,http://purl.bioontology.org/ontology/MESH/C060343,https://pubchem.ncbi.nlm.nih.gov/compound/65866,lercanidipine
+C0526399,http://purl.bioontology.org/ontology/SNOMEDCT/395986007,https://pubchem.ncbi.nlm.nih.gov/compound/65866,Lercanidipine
+C0526470,http://purl.bioontology.org/ontology/MESH/C062018,https://pubchem.ncbi.nlm.nih.gov/compound/107778,HU 211
+C0527316,http://purl.bioontology.org/ontology/SNOMEDCT/386855006,https://pubchem.ncbi.nlm.nih.gov/compound/3152,Donepezil
+C0528166,http://purl.bioontology.org/ontology/SNOMEDCT/363582006,https://pubchem.ncbi.nlm.nih.gov/compound/60857,Zolmitriptan
+C0529351,http://purl.bioontology.org/ontology/SNOMEDCT/416140008,https://pubchem.ncbi.nlm.nih.gov/compound/444031,Darifenacin
+C0529793,http://purl.bioontology.org/ontology/SNOMEDCT/372572000,https://pubchem.ncbi.nlm.nih.gov/compound/135398744,Sildenafil
+C0534009,http://purl.bioontology.org/ontology/MESH/C103505,https://pubchem.ncbi.nlm.nih.gov/compound/2125,AM 251
+C0537147,http://purl.bioontology.org/ontology/SNOMEDCT/417025001,https://pubchem.ncbi.nlm.nih.gov/compound/135409453,Tegaserod
+C0540623,http://purl.bioontology.org/ontology/SNOMEDCT/363571003,https://pubchem.ncbi.nlm.nih.gov/compound/4440,Naratriptan
+C0541315,http://purl.bioontology.org/ontology/SNOMEDCT/428698007,https://pubchem.ncbi.nlm.nih.gov/compound/6442177,Everolimus
+C0541746,http://purl.bioontology.org/ontology/SNOMEDCT/860766002,https://pubchem.ncbi.nlm.nih.gov/compound/2720,Thiazide
+C0556152,http://purl.bioontology.org/ontology/SNOMEDCT/226371009,https://pubchem.ncbi.nlm.nih.gov/compound/53477619,Pentasaccharide
+C0596087,http://purl.bioontology.org/ontology/SNOMEDCT/409408008,https://pubchem.ncbi.nlm.nih.gov/compound/5714572,Angiogenesis inhibitor
+C0596577,http://purl.bioontology.org/ontology/SNOMEDCT/424943007,https://pubchem.ncbi.nlm.nih.gov/compound/10251,Flavonoid
+C0603200,http://purl.bioontology.org/ontology/MESH/C007563,https://pubchem.ncbi.nlm.nih.gov/compound/197004,"1,2-di-(4-sulfamidophenyl)-4-butylpyrazolidine-3,5-dione"
+C0605315,http://purl.bioontology.org/ontology/MESH/C012622,https://pubchem.ncbi.nlm.nih.gov/compound/198101,compound 17
+C0608070,http://purl.bioontology.org/ontology/MESH/C018917,https://pubchem.ncbi.nlm.nih.gov/compound/52415,dicarboxydine
+C0613621,http://purl.bioontology.org/ontology/MESH/C030536,https://pubchem.ncbi.nlm.nih.gov/compound/152803,"2,2-dichloro-1,1-difluoroethyl difluoromethyl ether"
+C0634829,http://purl.bioontology.org/ontology/MESH/C057077,https://pubchem.ncbi.nlm.nih.gov/compound/6438565,"1,2-dilinolenoyl-3-(4-aminobutyryl)propane-1,2,3-triol"
+C0637261,http://purl.bioontology.org/ontology/MESH/C059702,https://pubchem.ncbi.nlm.nih.gov/compound/3082911,sulfoenolpyruvate
+C0642228,http://purl.bioontology.org/ontology/MESH/C065145,https://pubchem.ncbi.nlm.nih.gov/compound/6441229,N(4)-oleylcytosine arabinoside
+C0645102,http://purl.bioontology.org/ontology/MESH/C068170,https://pubchem.ncbi.nlm.nih.gov/compound/5353846,oleyloxyethylphosphorylcholine
+C0649350,http://purl.bioontology.org/ontology/MESH/D000068836,https://pubchem.ncbi.nlm.nih.gov/compound/77991,Rivastigmine
+C0649350,http://purl.bioontology.org/ontology/SNOMEDCT/395868008,https://pubchem.ncbi.nlm.nih.gov/compound/77991,Rivastigmine
+C0657912,http://purl.bioontology.org/ontology/SNOMEDCT/415160008,https://pubchem.ncbi.nlm.nih.gov/compound/5486971,Pregabalin
+C0658102,http://purl.bioontology.org/ontology/MESH/C080430,https://pubchem.ncbi.nlm.nih.gov/compound/150455,N-methyl-valyl-amiclenomycin
+C0663241,http://purl.bioontology.org/ontology/SNOMEDCT/387056004,https://pubchem.ncbi.nlm.nih.gov/compound/441401,Linezolid
+C0667581,http://purl.bioontology.org/ontology/MESH/C108959,https://pubchem.ncbi.nlm.nih.gov/compound/181976,3-hydroxyglutaric acid
+C0671375,http://purl.bioontology.org/ontology/MESH/C110630,https://pubchem.ncbi.nlm.nih.gov/compound/3081355,SR 144528
+C0672708,http://purl.bioontology.org/ontology/SNOMEDCT/422505001,https://pubchem.ncbi.nlm.nih.gov/compound/5311,Vorinostat
+C0673470,http://purl.bioontology.org/ontology/SNOMEDCT/789546007,https://pubchem.ncbi.nlm.nih.gov/compound/5311037,Istradefylline
+C0673966,http://purl.bioontology.org/ontology/SNOMEDCT/386925003,https://pubchem.ncbi.nlm.nih.gov/compound/68844,Brinzolamide
+C0677647,http://purl.bioontology.org/ontology/SNOMEDCT/259467009,https://pubchem.ncbi.nlm.nih.gov/compound/4478250,Mevalonate
+C0724441,http://purl.bioontology.org/ontology/SNOMEDCT/73407000,https://pubchem.ncbi.nlm.nih.gov/compound/8969,Yohimbine
+C0754188,http://purl.bioontology.org/ontology/MESH/C095108,https://pubchem.ncbi.nlm.nih.gov/compound/65016,amprenavir
+C0754188,http://purl.bioontology.org/ontology/SNOMEDCT/387006009,https://pubchem.ncbi.nlm.nih.gov/compound/65016,Amprenavir
+C0754659,http://purl.bioontology.org/ontology/SNOMEDCT/385572003,https://pubchem.ncbi.nlm.nih.gov/compound/6918296,Dutasteride
+C0771469,http://purl.bioontology.org/ontology/SNOMEDCT/129490002,https://pubchem.ncbi.nlm.nih.gov/compound/53477580,Formoterol fumarate
+C0771752,http://purl.bioontology.org/ontology/MESH/C093230,https://pubchem.ncbi.nlm.nih.gov/compound/3348,fexofenadine
+C0771752,http://purl.bioontology.org/ontology/SNOMEDCT/108653007,https://pubchem.ncbi.nlm.nih.gov/compound/63002,Fexofenadine hydrochloride
+C0905464,http://purl.bioontology.org/ontology/MESH/C077049,https://pubchem.ncbi.nlm.nih.gov/compound/114905,landiolol
+C0908935,http://purl.bioontology.org/ontology/MESH/C121345,https://pubchem.ncbi.nlm.nih.gov/compound/124087,desloratadine
+C0908935,http://purl.bioontology.org/ontology/SNOMEDCT/396015008,https://pubchem.ncbi.nlm.nih.gov/compound/124087,Desloratadine
+C0913506,http://purl.bioontology.org/ontology/SNOMEDCT/699273008,https://pubchem.ncbi.nlm.nih.gov/compound/3052762,Prucalopride
+C0917964,http://purl.bioontology.org/ontology/MESH/D005576,https://pubchem.ncbi.nlm.nih.gov/compound/47936,Colforsin
+C0937898,http://purl.bioontology.org/ontology/MESH/C409045,https://pubchem.ncbi.nlm.nih.gov/compound/123606,almotriptan
+C0937898,http://purl.bioontology.org/ontology/SNOMEDCT/129478004,https://pubchem.ncbi.nlm.nih.gov/compound/123607,Almotriptan malate
+C0960756,http://purl.bioontology.org/ontology/MESH/C413332,https://pubchem.ncbi.nlm.nih.gov/compound/119102,factor A
+C0965044,http://purl.bioontology.org/ontology/MESH/C422645,https://pubchem.ncbi.nlm.nih.gov/compound/9867770,JTE 907
+C0965129,http://purl.bioontology.org/ontology/SNOMEDCT/700067006,https://pubchem.ncbi.nlm.nih.gov/compound/446157,Rosuvastatin
+C0965618,http://purl.bioontology.org/ontology/SNOMEDCT/448971002,https://pubchem.ncbi.nlm.nih.gov/compound/449193,Roflumilast
+C0968642,http://purl.bioontology.org/ontology/MESH/C432747,https://pubchem.ncbi.nlm.nih.gov/compound/6918505,"1,1-dimethylbutyl-1-deoxy-Delta(9)-THC"
+C0969677,http://purl.bioontology.org/ontology/MESH/D024502,https://pubchem.ncbi.nlm.nih.gov/compound/14985,alpha-Tocopherol
+C0969677,http://purl.bioontology.org/ontology/SNOMEDCT/259666007,https://pubchem.ncbi.nlm.nih.gov/compound/14985,Alpha-tocopherol
+C0969677,http://purl.bioontology.org/ontology/SNOMEDCT/116776001,https://pubchem.ncbi.nlm.nih.gov/compound/14985,D-alpha-tocopherol
+C0971637,http://purl.bioontology.org/ontology/MESH/C084711,https://pubchem.ncbi.nlm.nih.gov/compound/82148,agomelatine
+C0971637,http://purl.bioontology.org/ontology/SNOMEDCT/698012009,https://pubchem.ncbi.nlm.nih.gov/compound/82148,Agomelatine
+C0971841,http://purl.bioontology.org/ontology/MESH/C434276,https://pubchem.ncbi.nlm.nih.gov/compound/9898878,CGP 36216
+C1096766,http://purl.bioontology.org/ontology/SNOMEDCT/372495006,https://pubchem.ncbi.nlm.nih.gov/compound/62887,Cisatracurium
+C1097132,http://purl.bioontology.org/ontology/MESH/C420062,https://pubchem.ncbi.nlm.nih.gov/compound/6604926,"1-(2-methylbenzoxazol-6-yl)-3-(1,5)naphthyridin-4-yl urea"
+C1098261,http://purl.bioontology.org/ontology/SNOMEDCT/718852000,https://pubchem.ncbi.nlm.nih.gov/compound/131682,Safinamide
+C1099034,http://purl.bioontology.org/ontology/MESH/C439358,https://pubchem.ncbi.nlm.nih.gov/compound/102416773,alternan
+C1099456,http://purl.bioontology.org/ontology/SNOMEDCT/400447003,https://pubchem.ncbi.nlm.nih.gov/compound/146570,Escitalopram
+C1099677,http://purl.bioontology.org/ontology/SNOMEDCT/407030007,https://pubchem.ncbi.nlm.nih.gov/compound/154059,Solifenacin
+C1101148,http://purl.bioontology.org/ontology/MESH/C445659,https://pubchem.ncbi.nlm.nih.gov/compound/185460,bilastine
+C1101148,http://purl.bioontology.org/ontology/SNOMEDCT/697973006,https://pubchem.ncbi.nlm.nih.gov/compound/185460,Bilastine
+C1115590,http://purl.bioontology.org/ontology/SNOMEDCT/707615006,https://pubchem.ncbi.nlm.nih.gov/compound/10855600,Isobutyrylglycine
+C1121991,http://purl.bioontology.org/ontology/SNOMEDCT/716118009,https://pubchem.ncbi.nlm.nih.gov/compound/9854012,Cangrelor
+C1142933,http://purl.bioontology.org/ontology/SNOMEDCT/422794008,https://pubchem.ncbi.nlm.nih.gov/compound/104850,Rimonabant
+C1173066,http://purl.bioontology.org/ontology/MESH/C469870,https://pubchem.ncbi.nlm.nih.gov/compound/6450813,indiplon
+C1173565,http://purl.bioontology.org/ontology/MESH/C470430,https://pubchem.ncbi.nlm.nih.gov/compound/167453,Amplex Red
+C1174893,http://purl.bioontology.org/ontology/MESH/C472067,https://pubchem.ncbi.nlm.nih.gov/compound/1549000,levocetirizine
+C1174893,http://purl.bioontology.org/ontology/SNOMEDCT/421889003,https://pubchem.ncbi.nlm.nih.gov/compound/1549000,Levocetirizine
+C1176306,http://purl.bioontology.org/ontology/SNOMEDCT/409205009,https://pubchem.ncbi.nlm.nih.gov/compound/135413536,Aprepitant
+C1176309,http://purl.bioontology.org/ontology/SNOMEDCT/407097007,https://pubchem.ncbi.nlm.nih.gov/compound/387447,Bortezomib
+C1176316,http://purl.bioontology.org/ontology/SNOMEDCT/407111005,https://pubchem.ncbi.nlm.nih.gov/compound/110635,Tadalafil
+C1306772,http://purl.bioontology.org/ontology/SNOMEDCT/425812008,https://pubchem.ncbi.nlm.nih.gov/compound/5487426,Tiotropium bromide
+C1432891,http://purl.bioontology.org/ontology/MESH/C479831,https://pubchem.ncbi.nlm.nih.gov/compound/448014,"N-(4-methoxybenzyl)-N'-(5-nitro-1,3-thiazol-2-yl)urea"
+C1456408,http://purl.bioontology.org/ontology/MESH/D000069450,https://pubchem.ncbi.nlm.nih.gov/compound/16134956,Liraglutide
+C1456408,http://purl.bioontology.org/ontology/SNOMEDCT/444828003,https://pubchem.ncbi.nlm.nih.gov/compound/16134956,Liraglutide
+C1456443,http://purl.bioontology.org/ontology/MESH/C476308,https://pubchem.ncbi.nlm.nih.gov/compound/2455,"4-methyl-4'-(3,5-bis(trifluoromethyl)-1H-pyrazol-1-yl)-1,2,3-thiadiazole-5-carboxanilide"
+C1512474,http://purl.bioontology.org/ontology/SNOMEDCT/423078004,https://pubchem.ncbi.nlm.nih.gov/compound/10095659,Histone deacetylase inhibitor
+C1533126,http://purl.bioontology.org/ontology/SNOMEDCT/441641002,https://pubchem.ncbi.nlm.nih.gov/compound/65833,Milnacipran
+C1565316,http://purl.bioontology.org/ontology/MESH/C495910,https://pubchem.ncbi.nlm.nih.gov/compound/208902,ramelteon
+C1565316,http://purl.bioontology.org/ontology/SNOMEDCT/419878007,https://pubchem.ncbi.nlm.nih.gov/compound/208902,Ramelteon
+C1565750,http://purl.bioontology.org/ontology/SNOMEDCT/423307000,https://pubchem.ncbi.nlm.nih.gov/compound/4369359,Sitagliptin
+C1567066,http://purl.bioontology.org/ontology/MESH/C498148,https://pubchem.ncbi.nlm.nih.gov/compound/10479060,"3-(2-cyano-3-(trifluoromethyl)phenoxy)phenyl-4,4,4-trifluoro-1-butanesulfonate"
+C1567346,http://purl.bioontology.org/ontology/MESH/C080955,https://pubchem.ncbi.nlm.nih.gov/compound/4553,N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide
+C1569608,http://purl.bioontology.org/ontology/SNOMEDCT/421772003,https://pubchem.ncbi.nlm.nih.gov/compound/5310966,Varenicline
+C1571583,http://purl.bioontology.org/ontology/SNOMEDCT/700029008,https://pubchem.ncbi.nlm.nih.gov/compound/135565674,Dabigatran etexilate
+C1620287,http://purl.bioontology.org/ontology/SNOMEDCT/443129001,https://pubchem.ncbi.nlm.nih.gov/compound/6918456,Prasugrel
+C1698215,http://purl.bioontology.org/ontology/SNOMEDCT/430242005,https://pubchem.ncbi.nlm.nih.gov/compound/219024,Regadenoson
+C1699861,http://purl.bioontology.org/ontology/SNOMEDCT/420813001,https://pubchem.ncbi.nlm.nih.gov/compound/9837243,Brivaracetam
+C1700283,http://purl.bioontology.org/ontology/MESH/C509595,https://pubchem.ncbi.nlm.nih.gov/compound/31253,myrcene
+C1700683,http://purl.bioontology.org/ontology/SNOMEDCT/421924006,https://pubchem.ncbi.nlm.nih.gov/compound/59227,Rotigotine
+C1700695,http://purl.bioontology.org/ontology/SNOMEDCT/442340006,https://pubchem.ncbi.nlm.nih.gov/compound/6918585,Sugammadex
+C1722260,http://purl.bioontology.org/ontology/SNOMEDCT/702801003,https://pubchem.ncbi.nlm.nih.gov/compound/6918554,Indacaterol
+C1722267,http://purl.bioontology.org/ontology/SNOMEDCT/721997002,https://pubchem.ncbi.nlm.nih.gov/compound/10071196,Pimavanserin
+C1723019,http://purl.bioontology.org/ontology/MESH/C511534,https://pubchem.ncbi.nlm.nih.gov/compound/164521,bepotastine besilate
+C1723019,http://purl.bioontology.org/ontology/SNOMEDCT/443616002,https://pubchem.ncbi.nlm.nih.gov/compound/164521,Bepotastine besilate
+C1869787,http://purl.bioontology.org/ontology/MESH/C518875,https://pubchem.ncbi.nlm.nih.gov/compound/11717831,BAY 60-6583
+C1870115,http://purl.bioontology.org/ontology/SNOMEDCT/442042006,https://pubchem.ncbi.nlm.nih.gov/compound/5312125,Silodosin
+C1873151,http://purl.bioontology.org/ontology/MESH/C517409,https://pubchem.ncbi.nlm.nih.gov/compound/2779853,stattic
+C1876226,http://purl.bioontology.org/ontology/MESH/C120953,https://pubchem.ncbi.nlm.nih.gov/compound/6433090,imidafenacin
+C1996349,http://purl.bioontology.org/ontology/SNOMEDCT/434239009,https://pubchem.ncbi.nlm.nih.gov/compound/135409471,Sapropterin dihydrochloride
+C1999375,http://purl.bioontology.org/ontology/SNOMEDCT/698805004,https://pubchem.ncbi.nlm.nih.gov/compound/9871419,Ticagrelor
+C2001572,http://purl.bioontology.org/ontology/SNOMEDCT/698874004,https://pubchem.ncbi.nlm.nih.gov/compound/9930049,Vernakalant
+C2003424,http://purl.bioontology.org/ontology/SNOMEDCT/703115008,https://pubchem.ncbi.nlm.nih.gov/compound/213046,Lurasidone
+C2343853,http://purl.bioontology.org/ontology/MESH/C526675,https://pubchem.ncbi.nlm.nih.gov/compound/6918558,fesoterodine
+C2343853,http://purl.bioontology.org/ontology/SNOMEDCT/432255001,https://pubchem.ncbi.nlm.nih.gov/compound/6918558,Fesoterodine
+C2350948,http://purl.bioontology.org/ontology/SNOMEDCT/716226007,https://pubchem.ncbi.nlm.nih.gov/compound/11658860,Lorcaserin
+C2698220,http://purl.bioontology.org/ontology/MESH/C090092,https://pubchem.ncbi.nlm.nih.gov/compound/176077,migalastat
+C2698220,http://purl.bioontology.org/ontology/SNOMEDCT/765340000,https://pubchem.ncbi.nlm.nih.gov/compound/176077,Migalastat
+C2698764,http://purl.bioontology.org/ontology/MESH/C551441,https://pubchem.ncbi.nlm.nih.gov/compound/9924495,perampanel
+C2698764,http://purl.bioontology.org/ontology/SNOMEDCT/703127006,https://pubchem.ncbi.nlm.nih.gov/compound/9924495,Perampanel
+C2699757,http://purl.bioontology.org/ontology/SNOMEDCT/703921008,https://pubchem.ncbi.nlm.nih.gov/compound/11434515,Aclidinium
+C2699758,http://purl.bioontology.org/ontology/MESH/C542859,https://pubchem.ncbi.nlm.nih.gov/compound/11519741,aclidinium bromide
+C2699758,http://purl.bioontology.org/ontology/SNOMEDCT/703922001,https://pubchem.ncbi.nlm.nih.gov/compound/11519741,Aclidinium bromide
+C2700226,http://purl.bioontology.org/ontology/SNOMEDCT/703122000,https://pubchem.ncbi.nlm.nih.gov/compound/9883933,Gabapentin enacarbil
+C2745274,http://purl.bioontology.org/ontology/SNOMEDCT/703348000,https://pubchem.ncbi.nlm.nih.gov/compound/11001318,Tafamidis
+C2745877,http://purl.bioontology.org/ontology/SNOMEDCT/396033002,https://pubchem.ncbi.nlm.nih.gov/compound/27522,Distigmine bromide
+C2930696,http://purl.bioontology.org/ontology/SNOMEDCT/704313003,https://pubchem.ncbi.nlm.nih.gov/compound/9926791,Tofacitinib
+C2932366,http://purl.bioontology.org/ontology/MESH/C547688,https://pubchem.ncbi.nlm.nih.gov/compound/9549289,TWS 119
+C2934193,http://purl.bioontology.org/ontology/SNOMEDCT/704459002,https://pubchem.ncbi.nlm.nih.gov/compound/11504295,Olodaterol
+C2935082,http://purl.bioontology.org/ontology/MESH/C550547,https://pubchem.ncbi.nlm.nih.gov/compound/5113032,"6-chloro-2,3,4,9-tetrahydro-1H-carbazole-1-carboxamide"
+C2936609,http://purl.bioontology.org/ontology/MESH/D058988,https://pubchem.ncbi.nlm.nih.gov/compound/656969,Phosphodiesterase 4 Inhibitors
+C2936609,http://purl.bioontology.org/ontology/SNOMEDCT/703351007,https://pubchem.ncbi.nlm.nih.gov/compound/656969,Phosphodiesterase 4 inhibitor
+C2983812,http://purl.bioontology.org/ontology/SNOMEDCT/703803006,https://pubchem.ncbi.nlm.nih.gov/compound/9865528,Mirabegron
+C3179535,http://purl.bioontology.org/ontology/MESH/C551624,https://pubchem.ncbi.nlm.nih.gov/compound/24965990,suvorexant
+C3179535,http://purl.bioontology.org/ontology/SNOMEDCT/708714001,https://pubchem.ncbi.nlm.nih.gov/compound/24965990,Suvorexant
+C3253985,http://purl.bioontology.org/ontology/SNOMEDCT/713464000,https://pubchem.ncbi.nlm.nih.gov/compound/54726191,Dolutegravir
+C3273375,http://purl.bioontology.org/ontology/MESH/C520571,https://pubchem.ncbi.nlm.nih.gov/compound/11313622,tideglusib
+C3490348,http://purl.bioontology.org/ontology/SNOMEDCT/703894008,https://pubchem.ncbi.nlm.nih.gov/compound/11949646,Empagliflozin
+C3491843,http://purl.bioontology.org/ontology/MESH/C571746,https://pubchem.ncbi.nlm.nih.gov/compound/46184405,alpha-tocotrienol quinone
+C3529928,http://purl.bioontology.org/ontology/SNOMEDCT/716308007,https://pubchem.ncbi.nlm.nih.gov/compound/9948102,Pitolisant
+C3536856,http://purl.bioontology.org/ontology/MESH/D002511,https://pubchem.ncbi.nlm.nih.gov/compound/25058126,Cephalosporins
+C3657851,http://purl.bioontology.org/ontology/MESH/C578860,https://pubchem.ncbi.nlm.nih.gov/compound/7019985,arginyl-glutamine
+C3661274,http://purl.bioontology.org/ontology/SNOMEDCT/706898002,https://pubchem.ncbi.nlm.nih.gov/compound/11519070,Umeclidinium
+C3661282,http://purl.bioontology.org/ontology/MESH/D000078784,https://pubchem.ncbi.nlm.nih.gov/compound/9966051,Vortioxetine
+C3661282,http://purl.bioontology.org/ontology/SNOMEDCT/708717008,https://pubchem.ncbi.nlm.nih.gov/compound/9966051,Vortioxetine
+C4519229,http://purl.bioontology.org/ontology/SNOMEDCT/770965008,https://pubchem.ncbi.nlm.nih.gov/compound/86278362,Pegvaliase
+C5139806,http://purl.bioontology.org/ontology/MESH/C000720427,https://pubchem.ncbi.nlm.nih.gov/compound/4147757,leriglitazone
