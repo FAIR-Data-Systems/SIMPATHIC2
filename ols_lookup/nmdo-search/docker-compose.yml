@@ -1,0 +1,36 @@
+services:
+
+  # ── Python ONNX embedding sidecar ─────────────────────────────────────────
+  embedder:
+    build: ./embedder
+    restart: unless-stopped
+    # NOT exposed externally — only the ruby-app talks to it
+    expose:
+      - "5001"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:5001/health')"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 60s   # model download on first run can take a moment
+
+  # ── Ruby Sinatra semantic search API ──────────────────────────────────────
+  search:
+    build: ./ruby-app
+    restart: unless-stopped
+    depends_on:
+      embedder:
+        condition: service_healthy
+    ports:
+      - "4567:4567"       # ← the port you expose / proxy via nginx/caddy
+    volumes:
+      - index_data:/data  # persists the built index across container restarts
+    environment:
+      OWL_URL:       "https://raw.githubusercontent.com/NeuromuscularDisease/neuromuscular-disease-ontology/refs/heads/main/nmdo.owl"
+      EMBEDDER_URL:  "http://embedder:5001"
+      OLS4_BASE_URL: "https://simpathic.services/ols4"
+      TOP_K:         "10"
+      INDEX_FILE:    "/data/index.json"
+
+volumes:
+  index_data:

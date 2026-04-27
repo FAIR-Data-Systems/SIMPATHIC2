@@ -1,0 +1,145 @@
+{
+    "query": "duchenne",
+    "top_k": 10,
+    "results": [
+        {
+            "score": 0.3432,
+            "iri": "http://purl.obolibrary.org/obo/MONDO_0016899",
+            "short_id": "MONDO_0016899",
+            "prefix": "mondo",
+            "label": "obsolete Duchenne and Becker muscular dystrophy",
+            "definition": "OBSOLETE. Duchenne and Becker muscular dystrophies (DMD and BMD) are neuromuscular diseases characterized by progressive muscle wasting and weakness due to degeneration of skeletal, smooth and cardiac muscle.",
+            "synonyms": [
+                "severe dystrophinopathy, Duchenne and Becker type"
+            ],
+            "ols4_url": "https://simpathic.services/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0016899"
+        },
+        {
+            "score": 0.3182,
+            "iri": "http://purl.obolibrary.org/obo/MONDO_0010679",
+            "short_id": "MONDO_0010679",
+            "prefix": "mondo",
+            "label": "Duchenne muscular dystrophy",
+            "definition": "Duchenne muscular dystrophy (DMD) is a neuromuscular disease characterized by rapidly progressive muscle weakness and wasting due to degeneration of skeletal, smooth and cardiac muscle.",
+            "synonyms": [
+                "DMD",
+                "Duchenne muscular dystrophy, X-linked recessive",
+                "muscular dystrophy, Duchenne",
+                "severe dystrophinopathy, Duchenne type"
+            ],
+            "ols4_url": "https://simpathic.services/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0010679"
+        },
+        {
+            "score": 0.3061,
+            "iri": "http://purl.obolibrary.org/obo/MONDO_0016097",
+            "short_id": "MONDO_0016097",
+            "prefix": "mondo",
+            "label": "symptomatic form of muscular dystrophy of Duchenne and Becker in female carriers",
+            "definition": "Symptomatic forms of Duchenne and Becker muscular dystrophies (DMD and BMD) in females carriers are characterized by variable degrees of muscle weakness due to progressive skeletal myopathy, sometimes associated with dilated cardiomyopathy or left ventricle dilation.",
+            "synonyms": [],
+            "ols4_url": "https://simpathic.services/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0016097"
+        },
+        {
+            "score": 0.2434,
+            "iri": "http://purl.obolibrary.org/obo/MONDO_0036193",
+            "short_id": "MONDO_0036193",
+            "prefix": "mondo",
+            "label": "parkinsonism with polyneuropathy",
+            "definition": null,
+            "synonyms": [],
+            "ols4_url": "https://simpathic.services/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0036193"
+        },
+        {
+            "score": 0.1863,
+            "iri": "http://purl.obolibrary.org/obo/MONDO_0018873",
+            "short_id": "MONDO_0018873",
+            "prefix": "mondo",
+            "label": "anterior cutaneous nerve entrapment syndrome",
+            "definition": "Anterior cutaneous nerve entrapment syndrome (ACNES) is a chronic neuropathic pain syndrome of the abdominal wall caused by entrapment of anterior cutaneous branches of 7 to 12th intercostal nerves along the lateral border of the anterior rectus abdominis fascia causing severe pain and tenderness of the involved dermatome.",
+            "synonyms": [
+                "ACNES",
+                "intercostal nerve syndrome",
+                "rectus abdominis syndrome"
+            ],
+            "ols4_url": "https://simpathic.services/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0018873"
+        },
+        {
+            "score": 0.1856,
+            "iri": "http://purl.obolibrary.org/obo/MONDO_0018993",
+            "short_id": "MONDO_0018993",
+            "prefix": "mondo",
+            "label": "Charcot-Marie-Tooth disease type 2",
+            "definition": "A Charcot-Marie-Tooth disease characterized by abnormalities in the axon of the peripheral nerve cell.",
+            "synonyms": [
+                "CMT2",
+                "autosomal dominant axonal Charcot-Marie-Tooth disease",
+                "hereditary motor and sensory neuropathy Guadalajara neuronal type",
+                "hereditary motor and sensory neuropathy Okinawa type",
+                "hereditary motor and sensory neuropathy type 2"
+            ],
+            "ols4_url": "https://simpathic.services/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0018993"
+        },
+        {
+            "score": 0.1826,
+            "iri": "http://purl.obolibrary.org/obo/MONDO_0011570",
+            "short_id": "MONDO_0011570",
+            "prefix": "mondo",
+            "label": "Charcot-Marie-Tooth disease type 2B2",
+            "definition": "Charcot-Marie-Tooth disease, type 2B2 (CMT2B2, also referred to as CMT4C3) is an axonal CMT peripheral sensorimotor polyneuropathy that has been described in a large consanguineous Costa Rican family of Spanish ancestry.",
+            "synonyms": [
+                "AR-CMT2B2",
+                "ARCMT2B",
+                "CMT2B2",
+                "Charcot-Marie-Tooth disease neuronal type 2B2",
+                "Charcot-Marie-Tooth disease, type 2B2",
+                "Charcot-Marie-Tooth neuropathy type 2B2",
+                "autosomal recessive axonal CMT4C3",
+                "autosomal recessive axonal Charcot-Marie-Tooth disease type 2B2"
+            ],
+            "ols4_url": "https://simpathic.services/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0011570"
+        },
+        {
+            "score": 0.1765,
+            "iri": "http://purl.obolibrary.org/obo/MONDO_0012096",
+            "short_id": "MONDO_0012096",
+            "prefix": "mondo",
+            "label": "Charcot-Marie-Tooth disease axonal type 2L",
+            "definition": "Autosomal dominant Charcot-Marie-Tooth disease type 2L (CMT2L) is a form of axonal Charcot-Marie-Tooth disease, a peripheral sensorimotor neuropathy. In the single family reported to date, CMT2L onset is between 15 and 33 years. Patients present with a symmetric distal weakness of legs and occasionally of the hands, absent or reduced tendon reflexes, distal legs sensory loss and frequently a pes cavus. Progression is slow.",
+            "synonyms": [
+                "CMT2L",
+                "Charcot-Marie-Tooth disease type 2 caused by mutation in HSPB8",
+                "Charcot-Marie-Tooth neuropathy axonal type 2L",
+                "HSPB8 Charcot-Marie-Tooth disease type 2",
+                "autosomal dominant Charcot-Marie-Tooth disease type 2L",
+                "autosomal dominant axonal Charcot-Marie-Tooth disease type 2L"
+            ],
+            "ols4_url": "https://simpathic.services/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0012096"
+        },
+        {
+            "score": 0.1728,
+            "iri": "http://purl.obolibrary.org/obo/MONDO_0011463",
+            "short_id": "MONDO_0011463",
+            "prefix": "mondo",
+            "label": "polyneuropathy, lethal neonatal, axonal sensorimotor, autosomal recessive",
+            "definition": "A rare, genetic, autosomal recessive axonal hereditary motor and sensory neuropathy disease characterized by prenatal onset of a severe sensorimotor axonal polyneuropathy (reflected by reduced fetal movement and polyhydramnios), manifesting, at birth, with respiratory failure requiring mechanical ventilation, profound muscular hypotonia, rapidly progressing distal muscle weakness, and absent deep tendon reflexes, in the absence of contractures, leading to death before 8 months of age. Neuropathological findings show severe loss of large- and medium-sized myelinated fibers without signs of demyelination.",
+            "synonyms": [
+                "polyneuropathy, lethal neonatal, axonal sensorimotor, autosomal recessive"
+            ],
+            "ols4_url": "https://simpathic.services/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0011463"
+        },
+        {
+            "score": 0.1721,
+            "iri": "http://purl.obolibrary.org/obo/MONDO_0018995",
+            "short_id": "MONDO_0018995",
+            "prefix": "mondo",
+            "label": "Charcot-Marie-Tooth disease type 4",
+            "definition": "Charcot-Marie-Tooth disease type 4 (CMT4) belongs to the genetically heterogeneous group of CMT peripheral sensorimotor polyneuropathy diseases.",
+            "synonyms": [
+                "AR-CMT1",
+                "CMT4",
+                "autosomal recessive demyelinating Charcot-Marie-Tooth"
+            ],
+            "ols4_url": "https://simpathic.services/ols4/ontologies/mondo/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMONDO_0018995"
+        }
+    ]
+}
