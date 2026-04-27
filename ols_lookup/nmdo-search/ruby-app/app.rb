@@ -282,6 +282,14 @@ end
 set :bind,          '0.0.0.0'
 set :port,          4567
 set :show_exceptions, false
+set :protection, host_authorization: {
+  permitted_hosts: [
+    'simpathic.services',
+    'www.simpathic.services',
+    '127.0.0.1',
+    'localhost'
+  ]
+}
 
 before do
   content_type 'application/json'
