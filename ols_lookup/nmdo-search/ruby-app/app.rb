@@ -295,7 +295,7 @@ end
 # ── Routes ─────────────────────────────────────────────────────────────────────
 
 # GET /health
-get '/health' do
+get '/llm_search/health' do
   JSON.generate({
                   status: INDEX.ready? ? 'ready' : 'building',
                   term_count: INDEX.term_count,
@@ -305,7 +305,7 @@ get '/health' do
 end
 
 # GET /search?q=myopathy&top_k=5
-get '/search' do
+get '/llm_search/search' do
   q = params['q']&.strip
   halt 400, JSON.generate({ error: "Missing query parameter 'q'" }) if q.nil? || q.empty?
   halt 503, JSON.generate({ error: 'Index not ready yet — please retry shortly' }) unless INDEX.ready?
@@ -321,7 +321,7 @@ get '/search' do
 end
 
 # POST /reindex  — re-fetch OWL and rebuild (useful after ontology updates)
-post '/reindex' do
+post '/llm_search/reindex' do
   Thread.new { INDEX.build! }
   status 202
   JSON.generate({ message: 'Reindex started in background. Poll /health to check progress.' })
