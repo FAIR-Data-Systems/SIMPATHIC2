@@ -1,0 +1,38 @@
+#  PURPOSE:  Create a tag that aligns the Radboud "TREATS" with the three "TREATS" tags in the Demokritos SKG.
+#  This will allow us to use the same tag for both datasets, and thus to easily combine them in queries.
+# According to Open PHACTS, the "TREATS" tag is a broad clinical relation between a drug and a disease.
+# in the Demokritos SKG this is represented by five different tags:
+# DISRUPTS" , "DISRUPTS__SPEC__" "IS_TREATED", "PREVENTS","PREVENTS__SPEC__"
+
+PREFIX simp: <urn:simpathic:>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX upg: <http://purl.uniprot.org/geneid/>
+PREFIX up: <http://purl.uniprot.org/uniprot/>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX edam: <http://edamontology.org/>
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX pubchem: <https://pubchem.ncbi.nlm.nih.gov/compound/>
+
+
+INSERT {
+  GRAPH ?metaGraph {
+    ?graph simp:source-relation "TREATS_EXPANSIVE" .
+  }
+}
+WHERE {
+  GRAPH ?metaGraph {
+    ?graph simp:skg-source "DEMOKRITOS" .
+    ?graph simp:source-relation ?rel .
+    FILTER(?rel IN ("DISRUPTS", "DISRUPTS__SPEC__", "IS_TREATED", "PREVENTS", "PREVENTS__SPEC__"))
+  }
+  GRAPH ?graph {
+    ?s ?p ?o .
+    ?s a biolink:Drug .
+    ?o a biolink:Disease .
+  }
+  FILTER NOT EXISTS {
+    GRAPH ?metaGraph { ?graph simp:source-relation "TREATS_EXPANSIVE" . }
+  }
+}

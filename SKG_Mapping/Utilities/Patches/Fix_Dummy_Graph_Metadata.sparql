@@ -1,0 +1,16 @@
+#  PURPOSE:  Virtuoso places triples in <urn:dummy> when no named graph is specified at load time.
+#  This patch moves all simp: metadata triples (simp:source-relation, simp:skg-source, etc.)
+#  from <urn:dummy> into the canonical metadata graph <urn:simpathic:context:all_metadata>,
+#  then removes them from <urn:dummy>.
+#  Run this once after any data load that produced triples in <urn:dummy>.
+
+PREFIX simp: <urn:simpathic:>
+
+DELETE { GRAPH <urn:dummy> { ?s ?p ?o . } }
+INSERT { GRAPH <urn:simpathic:context:all_metadata> { ?s ?p ?o . } }
+WHERE {
+  GRAPH <urn:dummy> {
+    ?s ?p ?o .
+    FILTER(STRSTARTS(STR(?p), "urn:simpathic:"))
+  }
+}

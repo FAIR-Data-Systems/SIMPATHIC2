@@ -1,0 +1,5 @@
+curl -v -X POST \
+  "http://57.128.119.57:8890/sparql-auth" \
+    --digest \
+  --user "skg_loader:skg_loader" \
+  --data-urlencode "update@DEMOKRITOS_Add_Relation_Tags.sparql" \
