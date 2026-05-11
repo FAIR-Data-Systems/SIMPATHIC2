@@ -1,0 +1,359 @@
+phenotype lookup failed	UMLS:C0422837	Neurological observations
+phenotype lookup failed	UMLS:C0231172	handicapping condition
+drug lookup failed	UMLS:C0005064	Benzodiazepines
+drug lookup failed	UMLS:C0003360	Antihistamines
+drug lookup failed	UMLS:C0008425	Cholinesterase Inhibitors
+phenotype lookup failed	UMLS:C1847652	Parkinsonian symptoms
+phenotype lookup failed	UMLS:C0700329	Physical shape
+phenotype lookup failed	UMLS:C0426980	Motor symptoms
+phenotype lookup failed	UMLS:C3840763	Rescue
+phenotype lookup failed	UMLS:C1457868	Worse
+phenotype lookup failed	UMLS:C1705232	Death Related to Adverse Event
+drug lookup failed	UMLS:C0006055	Botulinum Toxins
+drug lookup failed	UMLS:C0013036	Dopaminergic Agents
+phenotype lookup failed	UMLS:C1836408	Severe phenotype
+drug lookup failed	UMLS:C2936526	Serotonin 5-HT3 Receptor Antagonists
+drug lookup failed	UMLS:C0000545	Eicosapentaenoic Acid
+drug lookup failed	UMLS:C2349941	fosaprepitant
+drug lookup failed	UMLS:C2917388	Dopamine-2 Receptor Antagonist [EPC]
+phenotype lookup failed	UMLS:C0751377	Neurologic Dysfunction
+phenotype lookup failed	UMLS:C0679218	Resting state
+phenotype lookup failed	UMLS:C0683954	research results
+phenotype lookup failed	UMLS:C0086132	Depressive Symptoms
+phenotype lookup failed	UMLS:C1850620	Clinical heterogeneity
+phenotype lookup failed	UMLS:C0518214	Perceived quality of life
+drug lookup failed	UMLS:C0013231	Drugs, Non-Prescription
+drug lookup failed	UMLS:C0003289	Antidepressive Agents
+drug lookup failed	UMLS:C0041098	Triprolidine
+drug lookup failed	UMLS:C0064694	lavender oil
+drug lookup failed	UMLS:C0024808	Marihuana
+drug lookup failed	UMLS:C0076380	theanine
+phenotype lookup failed	UMLS:C0442726	Detected (finding)
+phenotype lookup failed	UMLS:C0016928	Gait
+phenotype lookup failed	UMLS:C1518294	Neuronal Differentiation
+drug lookup failed	UMLS:C0065502	Madopar
+phenotype lookup failed	UMLS:C0235169	Excitability
+phenotype lookup failed	UMLS:C1518681	Outcome of Therapy
+phenotype lookup failed	UMLS:C3842582	90%
+drug lookup failed	UMLS:C0055182	CGP 20712A
+drug lookup failed	UMLS:C0012265	Digoxin
+phenotype lookup failed	UMLS:C0521989	Associated symptom
+phenotype lookup failed	UMLS:C1836348	Severe disorder
+phenotype lookup failed	UMLS:C1444656	Indicated
+phenotype lookup failed	UMLS:C0424575	General body state finding
+phenotype lookup failed	UMLS:C3245470	GeneticObservationValue <HOMO>
+phenotype lookup failed	UMLS:C0277786	Chief complaint (finding)
+phenotype lookup failed	UMLS:C1290905	Discrepancy
+phenotype lookup failed	UMLS:C0425152	Engaged to be married
+phenotype lookup failed	UMLS:C0425946	Short menstrual periods
+phenotype lookup failed	UMLS:C3151529	Lethal
+phenotype lookup failed	UMLS:C1545588	Protection
+drug lookup failed	UMLS:C1956071	Histamine H3 Antagonists
+drug lookup failed	UMLS:C2917359	GLP-1 Receptor Agonist [EPC]
+phenotype lookup failed	UMLS:C3840862	75+ years
+phenotype lookup failed	UMLS:C0231218	Malaise
+phenotype lookup failed	UMLS:C3842508	1 - 9%
+phenotype lookup failed	UMLS:C0235031	Neurologic Symptoms
+phenotype lookup failed	UMLS:C0037088	Signs and Symptoms
+phenotype lookup failed	UMLS:C1836717	Phenotypic variation
+drug lookup failed	UMLS:C0243192	agonists
+drug lookup failed	UMLS:C0225326	Fiber
+drug lookup failed	UMLS:C2987634	Agonist
+drug lookup failed	UMLS:C2926735	Duration
+drug lookup failed	UMLS:C0242896	Anticholinergic Agents
+drug lookup failed	UMLS:C0074332	sennosides, USP
+phenotype lookup failed	UMLS:C1519255	Serious Adverse Event
+phenotype lookup failed	UMLS:C3843647	> 2 years
+phenotype lookup failed	UMLS:C0683521	patient condition
+drug lookup failed	UMLS:C0056077	coenzyme Q10
+drug lookup failed	UMLS:C0041009	Trihexyphenidyl
+drug lookup failed	UMLS:C0026457	Monoamine Oxidase Inhibitors
+drug lookup failed	UMLS:C0178601	Dopamine Agonists
+phenotype lookup failed	UMLS:C0518609	consideration
+phenotype lookup failed	UMLS:C0557351	Employed
+phenotype lookup failed	UMLS:C0872173	functional disability
+drug lookup failed	UMLS:C0019392	Hesperidin
+drug lookup failed	UMLS:C0304402	Stimulant
+drug lookup failed	UMLS:C1608770	SB 399885
+phenotype lookup failed	UMLS:C0436345	Symptom severe
+phenotype lookup failed	UMLS:C0694563	Excessive daytime somnolence
+phenotype lookup failed	UMLS:C3810854	Close
+phenotype lookup failed	UMLS:C0007294	Genetic Carriers
+phenotype lookup failed	UMLS:C0442749	6/5
+phenotype lookup failed	UMLS:C2004062	History of previous events
+phenotype lookup failed	UMLS:C0871269	Rhythm
+drug lookup failed	UMLS:C1254351	Pharmacologic Substance
+drug lookup failed	UMLS:C0282374	Decongestants
+drug lookup failed	UMLS:C0040614	Tranquilizing Agents
+drug lookup failed	UMLS:C3540676	Blockade
+drug lookup failed	UMLS:C0162758	Serotonin Uptake Inhibitors
+drug lookup failed	UMLS:C0020591	Hypnotics
+drug lookup failed	UMLS:C2948167	Renown
+drug lookup failed	UMLS:C0360105	Selective Serotonin Reuptake Inhibitors
+phenotype lookup failed	UMLS:C3540840	Sign or Symptom
+phenotype lookup failed	UMLS:C1514815	Refractory Disease
+phenotype lookup failed	UMLS:C3844320	One day
+phenotype lookup failed	UMLS:C1306577	Death (finding)
+phenotype lookup failed	UMLS:C0598463	Functional Status
+phenotype lookup failed	UMLS:C0871189	Psychotic symptom
+phenotype lookup failed	UMLS:C3842553	Much difficulty
+phenotype lookup failed	UMLS:C0749075	structural abnormalities
+phenotype lookup failed	UMLS:C0231217	Multiple symptoms
+phenotype lookup failed	UMLS:C0231239	Fluctuation
+phenotype lookup failed	UMLS:C1833300	White matter changes
+phenotype lookup failed	UMLS:C1858576	Heterogeneous disorder
+phenotype lookup failed	UMLS:C0233401	Psychiatric symptom
+phenotype lookup failed	UMLS:C3714811	Resolved
+phenotype lookup failed	UMLS:C1718498	Voluntary movement
+phenotype lookup failed	UMLS:C0238711	australian
+phenotype lookup failed	UMLS:C3151413	Behavioral abnormalities
+drug lookup failed	UMLS:C0242702	Dopamine Antagonists
+drug lookup failed	UMLS:C0073631	Ketorolac
+drug lookup failed	UMLS:C0040615	Antipsychotic Agents
+phenotype lookup failed	UMLS:C0474395	Behavior showing increased motor activity
+phenotype lookup failed	UMLS:C1272641	Systemic arterial pressure
+phenotype lookup failed	UMLS:C0428679	Minute volume
+phenotype lookup failed	UMLS:C3277906	Cardiac dysfunction
+phenotype lookup failed	UMLS:C1561566	FEV1 Adverse Event
+phenotype lookup failed	UMLS:C1855585	Mild phenotype
+phenotype lookup failed	UMLS:C0578818	In further education
+phenotype lookup failed	UMLS:C0221423	Illness (finding)
+phenotype lookup failed	UMLS:C0424099	Reduced concentration
+phenotype lookup failed	UMLS:C3714738	Compliance
+phenotype lookup failed	UMLS:C2346414	History of recreational running
+phenotype lookup failed	UMLS:C0436343	Symptom mild
+phenotype lookup failed	UMLS:C1998319	Functional capacity
+drug lookup failed	UMLS:C0063103	hydroquinidine
+phenotype lookup failed	UMLS:C0677874	In complete remission
+drug lookup failed	UMLS:C1276996	Atypical antipsychotic
+drug lookup failed	UMLS:C1268904	Alpha 2 adrenergic agonist
+phenotype lookup failed	UMLS:C0459424	Abnormal result
+phenotype lookup failed	UMLS:C0231337	Senility
+phenotype lookup failed	UMLS:C1956415	Paroxysmal nocturnal dyspnea
+phenotype lookup failed	UMLS:C1321756	Achalasia
+phenotype lookup failed	UMLS:C0449380	Associated finding
+drug lookup failed	UMLS:C0003299	Antiepileptic Agents
+drug lookup failed	UMLS:C1874451	Basis
+drug lookup failed	UMLS:C0003419	Antipyretics
+phenotype lookup failed	UMLS:C1842211	Severe course
+phenotype lookup failed	UMLS:C0686744	Well child
+phenotype lookup failed	UMLS:C0022107	Irritable Mood
+phenotype lookup failed	UMLS:C0231187	Decompensation
+phenotype lookup failed	UMLS:C0238884	canadian
+phenotype lookup failed	UMLS:C0231224	Crisis
+phenotype lookup failed	UMLS:C1707743	Diffuse Lesion
+phenotype lookup failed	UMLS:C0517967	Respiratory pattern
+phenotype lookup failed	UMLS:C1320408	Urinary elimination status
+phenotype lookup failed	UMLS:C1821244	Normal development
+drug lookup failed	UMLS:C2607958	satavaptan
+phenotype lookup failed	UMLS:C2957106	headache severe
+phenotype lookup failed	UMLS:C1850767	Neurologic deterioration
+phenotype lookup failed	UMLS:C0544452	Disease remission
+drug lookup failed	UMLS:C0012086	Dichlorphenamide
+drug lookup failed	UMLS:C2746052	mTOR Inhibitor
+phenotype lookup failed	UMLS:C0234650	Ocular flutter
+drug lookup failed	UMLS:C3539957	opium alkaloids and derivative combination cough suppressants
+drug lookup failed	UMLS:C0001648	Adrenergic Agonists
+phenotype lookup failed	UMLS:C0728899	Intoxication
+phenotype lookup failed	UMLS:C3842955	<30 min
+phenotype lookup failed	UMLS:C0496675	medical care
+phenotype lookup failed	UMLS:C2826244	Life Threatening
+phenotype lookup failed	UMLS:C0917799	Hypersomnia
+phenotype lookup failed	UMLS:C0043084	Weaning
+phenotype lookup failed	UMLS:C0235195	Sedated state
+drug lookup failed	UMLS:C0596005	Atropine Sulfate
+phenotype lookup failed	UMLS:C2674422	Seizures, intractable
+drug lookup failed	UMLS:C1871004	maropitant
+phenotype lookup failed	UMLS:C1317600	patient symptoms
+phenotype lookup failed	UMLS:C0235874	Disease Exacerbation
+phenotype lookup failed	UMLS:C0860803	glucose high
+phenotype lookup failed	UMLS:C0518031	Endurance
+phenotype lookup failed	UMLS:C0578757	Good neonatal condition at birth
+phenotype lookup failed	UMLS:C0422879	CNS symptom
+drug lookup failed	UMLS:C0001617	Adrenal Cortex Hormones
+phenotype lookup failed	UMLS:C0270844	Seizures, Tonic
+phenotype lookup failed	UMLS:C0600457	Gravidity
+phenotype lookup failed	UMLS:C1521726	partial response
+phenotype lookup failed	UMLS:C3809885	Self injury
+phenotype lookup failed	UMLS:C3275909	Seizures, early onset
+drug lookup failed	UMLS:C0001645	Adrenergic beta-Antagonists
+phenotype lookup failed	UMLS:C1304680	Observation of attack
+phenotype lookup failed	UMLS:C3872830	Inflammatory lesion
+phenotype lookup failed	UMLS:C3843422	Abstinence
+phenotype lookup failed	UMLS:C1827547	Repetitious behavior
+drug lookup failed	UMLS:C2697571	Heat Shock Protein Inhibitor
+drug lookup failed	UMLS:C0005525	Biological Response Modifiers
+drug lookup failed	UMLS:C2927148	Cannabinoid Receptor Agonists
+phenotype lookup failed	UMLS:C3272281	American College of Cardiology/American Heart Association Lesion Complexity Score A
+phenotype lookup failed	UMLS:C3714652	Ventricular Premature Complex by ECG Finding
+phenotype lookup failed	UMLS:C0234251	Inflammatory pain
+phenotype lookup failed	UMLS:C0027796	Neuralgia
+phenotype lookup failed	UMLS:C2712122	Actual Positive Blood Pressure
+phenotype lookup failed	UMLS:C0020429	Hyperalgesia
+phenotype lookup failed	UMLS:C0582148	Pain score
+phenotype lookup failed	UMLS:C3843385	36+ months
+phenotype lookup failed	UMLS:C0429029	ST segment
+phenotype lookup failed	UMLS:C1962973	Urinary Incontinence Adverse Event
+phenotype lookup failed	UMLS:C0700327	Memory observations
+phenotype lookup failed	UMLS:C0474415	Non-compliant behavior
+phenotype lookup failed	UMLS:C3843640	> 2/day
+phenotype lookup failed	UMLS:C0425560	Cardiovascular finding
+phenotype lookup failed	UMLS:C2936719	Mechanical Allodynia
+phenotype lookup failed	UMLS:C0549405	blood pressure fluctuation
+phenotype lookup failed	UMLS:C0541854	daytime sleepiness
+phenotype lookup failed	UMLS:C0231918	Nose symptoms
+phenotype lookup failed	UMLS:C0278060	Mental state (observable entity)
+phenotype lookup failed	UMLS:C0948482	analgesic effect
+phenotype lookup failed	UMLS:C0231441	Immobile
+phenotype lookup failed	UMLS:C3714625	Neuropathic pain
+phenotype lookup failed	UMLS:C0751213	Tactile Allodynia
+phenotype lookup failed	UMLS:C0877006	cholinesterase inhibition
+phenotype lookup failed	UMLS:C1320716	Cardiovascular event
+phenotype lookup failed	UMLS:C3812244	Minimal Disseminated Disease
+phenotype lookup failed	UMLS:C0564182	Vocalization (finding)
+drug lookup failed	UMLS:C0242402	Opioids
+drug lookup failed	UMLS:C0080138	SCH 23390
+phenotype lookup failed	UMLS:C0439663	Infected
+phenotype lookup failed	UMLS:C0860603	Anxiety symptoms
+phenotype lookup failed	UMLS:C0341742	Acute retention of urine
+phenotype lookup failed	UMLS:C0741548	bladder symptoms
+phenotype lookup failed	UMLS:C0233397	Psychological symptom
+phenotype lookup failed	UMLS:C0241863	diabetic
+phenotype lookup failed	UMLS:C0458960	Peripheral neuropathic pain
+phenotype lookup failed	UMLS:C0010201	Chronic cough
+phenotype lookup failed	UMLS:C0184567	Acute onset pain
+drug lookup failed	UMLS:C3537046	Norepinephrine Reuptake Inhibitor [EPC]
+phenotype lookup failed	UMLS:C0686750	Well adult
+phenotype lookup failed	UMLS:C0030201	Pain, Postoperative
+phenotype lookup failed	UMLS:C3263685	Hormone abnormality
+phenotype lookup failed	UMLS:C1997354	Early repolarization
+phenotype lookup failed	UMLS:C0581126	Severe asthma
+phenotype lookup failed	UMLS:C0553654	Does steer
+phenotype lookup failed	UMLS:C0087169	Withdrawal Symptoms
+phenotype lookup failed	UMLS:C3854130	T2d
+phenotype lookup failed	UMLS:C0877014	Sympathomimetic Effect
+phenotype lookup failed	UMLS:C3840622	5 - 9
+phenotype lookup failed	UMLS:C0041674	Unemployment
+phenotype lookup failed	UMLS:C0429826	Dysfunctional voiding of urine
+phenotype lookup failed	UMLS:C0426359	Urinary symptoms
+phenotype lookup failed	UMLS:C0426576	Gastrointestinal symptom
+phenotype lookup failed	UMLS:C0424400	Erotic interest
+phenotype lookup failed	UMLS:C0231402	Moderate anxiety
+phenotype lookup failed	UMLS:C0740418	Chronic back pain
+phenotype lookup failed	UMLS:C0349790	Exacerbation of asthma
+phenotype lookup failed	UMLS:C1623040	Breastfeeding (mother)
+phenotype lookup failed	UMLS:C0150044	Total urinary incontinence
+phenotype lookup failed	UMLS:C3812282	Ventricular Arrhythmia ECG Assessment
+phenotype lookup failed	UMLS:C0040210	Tidal Volume
+phenotype lookup failed	UMLS:C3687559	Ovariectomized female
+phenotype lookup failed	UMLS:C1277590	Unexplained cough
+phenotype lookup failed	UMLS:C0525041	Neurobehavioral Manifestations
+phenotype lookup failed	UMLS:C1869116	ASTHMA, SUSCEPTIBILITY TO (finding)
+phenotype lookup failed	UMLS:C3668831	Lactation established in non-human animal
+phenotype lookup failed	UMLS:C0574785	Lower Urinary Tract Symptoms
+phenotype lookup failed	UMLS:C3538872	ST Elevation Myocardial Infarction by ECG Finding
+phenotype lookup failed	UMLS:C3554639	Severe cognitive impairment
+phenotype lookup failed	UMLS:C0030200	Pain, Intractable
+phenotype lookup failed	UMLS:C0850760	cardiovascular problem
+phenotype lookup failed	UMLS:C0232597	Acute vomiting
+phenotype lookup failed	UMLS:C0234245	Visceral Pain
+phenotype lookup failed	UMLS:C0424095	Social withdrawal
+drug lookup failed	UMLS:C0003385	Muscarinic Antagonists
+phenotype lookup failed	UMLS:C0232849	Bladder pain
+phenotype lookup failed	UMLS:C0425945	Prolonged menses
+phenotype lookup failed	UMLS:C1287298	Urine volume finding
+phenotype lookup failed	UMLS:C1882085	New York Heart Association Class II
+phenotype lookup failed	UMLS:C0424594	Frailty
+phenotype lookup failed	UMLS:C0848894	normal patient
+phenotype lookup failed	UMLS:C0080203	Tachyarrhythmia
+phenotype lookup failed	UMLS:C0314719	Dryness of eye
+phenotype lookup failed	UMLS:C0549400	Low APGAR scores
+phenotype lookup failed	UMLS:C0549649	MISUSE
+phenotype lookup failed	UMLS:C0497406	Overweight
+phenotype lookup failed	UMLS:C0159028	General symptom
+phenotype lookup failed	UMLS:C0232807	Decreased renal function
+phenotype lookup failed	UMLS:C0237154	Homelessness
+phenotype lookup failed	UMLS:C3845714	Several days
+phenotype lookup failed	UMLS:C2228139	Primary nocturnal enuresis
+phenotype lookup failed	UMLS:C0369610	total lipids
+phenotype lookup failed	UMLS:C0751229	Hypersomnolence
+phenotype lookup failed	UMLS:C3251812	blood loss risk
+phenotype lookup failed	UMLS:C1319214	Blood loss status
+phenotype lookup failed	UMLS:C3537184	Non-ST Elevation Myocardial Infarction by ECG Finding
+phenotype lookup failed	UMLS:C0559964	Ability to walk
+phenotype lookup failed	UMLS:C0239966	Hospital patient (finding)
+phenotype lookup failed	UMLS:C0449437	Patient status
+phenotype lookup failed	UMLS:C0750479	blank
+phenotype lookup failed	UMLS:C1332555	Biphasic Pattern
+phenotype lookup failed	UMLS:C0460089	Duration of gestation
+phenotype lookup failed	UMLS:C0740903	allergic symptom
+phenotype lookup failed	UMLS:C0235828	Lack of Efficacy
+phenotype lookup failed	UMLS:C0553702	ca increase
+phenotype lookup failed	UMLS:C0241526	Unresponsiveness
+phenotype lookup failed	UMLS:C0026858	Musculoskeletal Pain
+phenotype lookup failed	UMLS:C0848067	Mental problem
+phenotype lookup failed	UMLS:C0520819	Decreased pressure
+phenotype lookup failed	UMLS:C0267167	Nonulcer dyspepsia
+phenotype lookup failed	UMLS:C1299448	Patient ventilated
+phenotype lookup failed	UMLS:C1882084	New York Heart Association Class I
+phenotype lookup failed	UMLS:C0871754	Frail
+phenotype lookup failed	UMLS:C0427126	Step length
+phenotype lookup failed	UMLS:C3842783	Injury 2
+phenotype lookup failed	UMLS:C3815188	Supraventricular Tachycardia by ECG Finding
+phenotype lookup failed	UMLS:C0745114	hypertension chronic
+phenotype lookup failed	UMLS:C2698969	Canadian Cardiovascular Society Grading Scale Class III
+phenotype lookup failed	UMLS:C0599766	Recovery of Function
+phenotype lookup failed	UMLS:C0542079	Abnormal androgen
+phenotype lookup failed	UMLS:C2985294	Fourth Stage of Labor
+phenotype lookup failed	UMLS:C3279537	Severe brain damage
+phenotype lookup failed	UMLS:C0520909	Postoperative Nausea and Vomiting
+phenotype lookup failed	UMLS:C0429856	Arterial flow
+phenotype lookup failed	UMLS:C0424236	Constant movement
+phenotype lookup failed	UMLS:C3843265	Line 2
+phenotype lookup failed	UMLS:C1960756	Complicated grieving
+phenotype lookup failed	UMLS:C0426857	Short arm
+phenotype lookup failed	UMLS:C3278535	Lipid droplet accumulation
+phenotype lookup failed	UMLS:C1631070	6/4.5
+phenotype lookup failed	UMLS:C0518534	identifies medication
+phenotype lookup failed	UMLS:C1319803	Epilepsy severity
+phenotype lookup failed	UMLS:C0085988	Cephalopelvic Disproportion
+phenotype lookup failed	UMLS:C2220255	Motor disturbances
+phenotype lookup failed	UMLS:C0232193	Rhythm from artificial pacing
+phenotype lookup failed	UMLS:C2202981	watery rhinorrhea
+phenotype lookup failed	UMLS:C1843368	Perseverative behavior
+phenotype lookup failed	UMLS:C0457950	Acute low back pain
+phenotype lookup failed	UMLS:C0426317	Genitourinary symptoms
+phenotype lookup failed	UMLS:C3840680	GA-1
+phenotype lookup failed	UMLS:C0741585	body ache
+phenotype lookup failed	UMLS:C3273930	Tumor Mass
+phenotype lookup failed	UMLS:C0428698	Train of four ratio
+phenotype lookup failed	UMLS:C0425092	Self-employed
+phenotype lookup failed	UMLS:C3531755	Sedative withdrawal
+phenotype lookup failed	UMLS:C0520890	Increased vascular resistance
+phenotype lookup failed	UMLS:C3494360	Prodromal Period
+phenotype lookup failed	UMLS:C0424919	Language spoken
+phenotype lookup failed	UMLS:C0278147	Radicular pain
+phenotype lookup failed	UMLS:C1879338	Bereavement, life event (finding)
+phenotype lookup failed	UMLS:C0565998	Ability to communicate
+phenotype lookup failed	UMLS:C0241718	Vulval pain
+phenotype lookup failed	UMLS:C1314759	Aroused sexually
+phenotype lookup failed	UMLS:C1998297	Recent myocardial infarction
+phenotype lookup failed	UMLS:C1883654	completed ninth grade
+phenotype lookup failed	UMLS:C1883651	completed seventh grade
+phenotype lookup failed	UMLS:C0086189	Drug Withdrawal Symptoms
+phenotype lookup failed	UMLS:C3151685	Seizures in the newborn, refractory
+phenotype lookup failed	UMLS:C0814346	prevention side effects
+phenotype lookup failed	UMLS:C1948079	abnormal quantities
+phenotype lookup failed	UMLS:C0239988	Increased IgG
+phenotype lookup failed	UMLS:C2750596	Endocrine dysgenesis
+phenotype lookup failed	UMLS:C2215935	Electrocardiogram atrioventricular block complete heart block
+phenotype lookup failed	UMLS:C0949156	Genetic carrier status
+phenotype lookup failed	UMLS:C1867795	Reduced fertility
+phenotype lookup failed	UMLS:C0151956	Increased tolerance
+phenotype lookup failed	UMLS:C1268572	Laryngeal paresis
+phenotype lookup failed	UMLS:C3813722	MUT
+phenotype lookup failed	UMLS:C3844842	Hb S
+phenotype lookup failed	UMLS:C5445274	METHOD:*
+phenotype lookup failed	UMLS:C0749645	treated by diet
+phenotype lookup failed	UMLS:C4317123	Myoclonic Seizures
+phenotype lookup failed	UMLS:C4016624	EPILEPSY, MITOCHONDRIAL

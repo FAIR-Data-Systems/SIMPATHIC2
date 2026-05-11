@@ -1,0 +1,269 @@
+phenotype lookup failed	UMLS:C0422837	Neurological observations
+phenotype lookup failed	UMLS:C1833334	Early-onset
+phenotype lookup failed	UMLS:C3840763	Rescue
+gene lookup failed	UMLS:C3147377	GBP1P1 gene
+gene lookup failed	UMLS:C1419999	SFSWAP gene
+phenotype lookup failed	UMLS:C0234366	ataxic
+gene lookup failed	UMLS:C1427641	SAFB2 gene
+phenotype lookup failed	UMLS:C1457868	Worse
+gene lookup failed	UMLS:C1416549	KCNA6 gene
+gene lookup failed	UMLS:C0002085	Alleles
+phenotype lookup failed	UMLS:C1836408	Severe phenotype
+gene lookup failed	UMLS:C1537986	MT-CO2 gene
+gene lookup failed	UMLS:C1826571	PGAM5 gene
+phenotype lookup failed	UMLS:C0086132	Depressive Symptoms
+gene lookup failed	UMLS:C1420514	SULT1A1 gene
+gene lookup failed	UMLS:C1413687	CPSF4 gene
+phenotype lookup failed	UMLS:C3845876	Consequent
+gene lookup failed	UMLS:C3813209	PROS1 wt Allele
+phenotype lookup failed	UMLS:C0518214	Perceived quality of life
+gene lookup failed	UMLS:C1422277	C6orf15 gene
+gene lookup failed	UMLS:C1418465	PER2 gene
+phenotype lookup failed	UMLS:C0043096	Body Weight decreased
+gene lookup failed	UMLS:C3811119	LRP2 wt Allele
+phenotype lookup failed	UMLS:C1518294	Neuronal Differentiation
+phenotype lookup failed	UMLS:C0235169	Excitability
+gene lookup failed	UMLS:C1537855	MIR218-2 gene
+gene lookup failed	UMLS:C1705924	TAC1 wt Allele
+gene lookup failed	UMLS:C1707163	CTSL1 wt Allele
+gene lookup failed	UMLS:C1537647	MALAT1 gene
+phenotype lookup failed	UMLS:C3842582	90%
+gene lookup failed	UMLS:C1514917	Retinoic Acid Response Element
+phenotype lookup failed	UMLS:C0595998	Household composition
+phenotype lookup failed	UMLS:C2015861	Multiple birth (finding)
+gene lookup failed	UMLS:C1823143	STX5 gene
+phenotype lookup failed	UMLS:C1836348	Severe disorder
+gene lookup failed	UMLS:C1417173	MJD gene
+phenotype lookup failed	UMLS:C1273937	Not significant
+phenotype lookup failed	UMLS:C0027854	Neurologic Manifestations
+phenotype lookup failed	UMLS:C0425152	Engaged to be married
+phenotype lookup failed	UMLS:C3151529	Lethal
+phenotype lookup failed	UMLS:C1832073	Handling
+gene lookup failed	UMLS:C2239937	SMAD5-AS1 gene
+gene lookup failed	UMLS:C1417869	NTS gene
+phenotype lookup failed	UMLS:C1545588	Protection
+phenotype lookup failed	UMLS:C1855073	Mortality, Premature
+gene lookup failed	UMLS:C1426946	INSIG2 gene
+gene lookup failed	UMLS:C1538722	CENPV gene
+gene lookup failed	UMLS:C3540595	CD8A wt Allele
+gene lookup failed	UMLS:C1422833	DEAF1 gene
+phenotype lookup failed	UMLS:C0424641	Decrease in height
+phenotype lookup failed	UMLS:C1836407	Early death
+phenotype lookup failed	UMLS:C0235031	Neurologic Symptoms
+phenotype lookup failed	UMLS:C2717879	Genotype-Phenotype Associations
+phenotype lookup failed	UMLS:C0037088	Signs and Symptoms
+gene lookup failed	UMLS:C1537998	MT-TA gene
+gene lookup failed	UMLS:C1426330	GPBAR1 gene
+phenotype lookup failed	UMLS:C1519255	Serious Adverse Event
+phenotype lookup failed	UMLS:C3670500	Neuronal degeneration
+phenotype lookup failed	UMLS:C0683521	patient condition
+gene lookup failed	UMLS:C3178814	Exome
+phenotype lookup failed	UMLS:C0518609	consideration
+phenotype lookup failed	UMLS:C0038187	Starvation
+phenotype lookup failed	UMLS:C0271093	Stargardt's disease
+phenotype lookup failed	UMLS:C0240417	Form of muscle
+gene lookup failed	UMLS:C3813713	SLC6A3 wt Allele
+phenotype lookup failed	UMLS:C0814161	impaired motor coordination
+phenotype lookup failed	UMLS:C0436345	Symptom severe
+gene lookup failed	UMLS:C1413101	CAMK2D gene
+gene lookup failed	UMLS:C1508293	Myotonic dystrophy gene
+phenotype lookup failed	UMLS:C0442749	6/5
+phenotype lookup failed	UMLS:C0871269	Rhythm
+gene lookup failed	UMLS:C1416765	KSS gene
+phenotype lookup failed	UMLS:C1397014	Imbalance
+phenotype lookup failed	UMLS:C0560435	Does skip
+gene lookup failed	UMLS:C0678941	mutant gene
+phenotype lookup failed	UMLS:C0596020	Does hit (finding)
+phenotype lookup failed	UMLS:C0598463	Functional Status
+phenotype lookup failed	UMLS:C0871189	Psychotic symptom
+gene lookup failed	UMLS:C2681540	GATS gene
+phenotype lookup failed	UMLS:C0231217	Multiple symptoms
+gene lookup failed	UMLS:C1426940	FBRS gene
+gene lookup failed	UMLS:C1415797	HTL gene
+phenotype lookup failed	UMLS:C0237677	insensitivity
+phenotype lookup failed	UMLS:C3845288	Strong positive
+phenotype lookup failed	UMLS:C1299582	Unable
+phenotype lookup failed	UMLS:C0561942	Does climb
+gene lookup failed	UMLS:C0017428	Genome
+phenotype lookup failed	UMLS:C3845593	Major change
+phenotype lookup failed	UMLS:C0474395	Behavior showing increased motor activity
+gene lookup failed	UMLS:C1425225	TRPM6 gene
+phenotype lookup failed	UMLS:C3277906	Cardiac dysfunction
+gene lookup failed	UMLS:C0812214	PIM1 gene
+phenotype lookup failed	UMLS:C1260922	Abnormal breathing
+phenotype lookup failed	UMLS:C0027769	Nervousness
+phenotype lookup failed	UMLS:C1855585	Mild phenotype
+gene lookup failed	UMLS:C1415179	GOSR1 gene
+gene lookup failed	UMLS:C1426180	BET1L gene
+gene lookup failed	UMLS:C3541334	TMPO wt Allele
+gene lookup failed	UMLS:C1428110	ADO gene
+phenotype lookup failed	UMLS:C0221423	Illness (finding)
+phenotype lookup failed	UMLS:C0424099	Reduced concentration
+phenotype lookup failed	UMLS:C1998319	Functional capacity
+gene lookup failed	UMLS:C1333402	Enzyme Gene
+phenotype lookup failed	UMLS:C0231337	Senility
+phenotype lookup failed	UMLS:C1956415	Paroxysmal nocturnal dyspnea
+gene lookup failed	UMLS:C1823376	TMEM115 gene
+phenotype lookup failed	UMLS:C0015411	Eye Manifestations
+phenotype lookup failed	UMLS:C3554093	Impaired mitochondrial respiration
+phenotype lookup failed	UMLS:C3845270	Heteroplasmic
+phenotype lookup failed	UMLS:C1835590	Male predominance
+phenotype lookup failed	UMLS:C0543419	Sequela of disorder
+phenotype lookup failed	UMLS:C3845273	Missense
+gene lookup failed	UMLS:C2677743	TRAPPC9 gene
+gene lookup failed	UMLS:C0282641	Transgenes
+gene lookup failed	UMLS:C1825021	EARS2 gene
+phenotype lookup failed	UMLS:C1561319	CTCAE Grade 5 Encephalopathy
+phenotype lookup failed	UMLS:C1842211	Severe course
+gene lookup failed	UMLS:C1423700	PRND gene
+phenotype lookup failed	UMLS:C0231224	Crisis
+phenotype lookup failed	UMLS:C1837325	Fiber size variation
+phenotype lookup failed	UMLS:C1334928	Necrotic changes (finding)
+phenotype lookup failed	UMLS:C1953353	Amino acid change
+phenotype lookup failed	UMLS:C1320408	Urinary elimination status
+phenotype lookup failed	UMLS:C3554130	Encephalomyopathy
+phenotype lookup failed	UMLS:C0231796	respiratory abnormalities
+phenotype lookup failed	UMLS:C1821244	Normal development
+gene lookup failed	UMLS:C1332027	ADRA1B gene
+gene lookup failed	UMLS:C1425233	NISCH gene
+phenotype lookup failed	UMLS:C1838994	Rapid onset
+phenotype lookup failed	UMLS:C3280118	Mild disorder
+gene lookup failed	UMLS:C1538531	OIT3 gene
+phenotype lookup failed	UMLS:C0687129	Encounter due to vagabond status
+gene lookup failed	UMLS:C1427150	TPCN2 gene
+gene lookup failed	UMLS:C3538714	TTN wt Allele
+gene lookup failed	UMLS:C2677317	MLST8 gene
+phenotype lookup failed	UMLS:C2675556	ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED, SUSCEPTIBILITY TO, 3
+gene lookup failed	UMLS:C3539530	AMD1 wt Allele
+phenotype lookup failed	UMLS:C1857104	Neonatal lethal
+phenotype lookup failed	UMLS:C1836107	Early lethality
+phenotype lookup failed	UMLS:C0522072	Defective biosynthesis
+phenotype lookup failed	UMLS:C1864676	Glial activation
+gene lookup failed	UMLS:C3540626	HNRNPD wt Allele
+phenotype lookup failed	UMLS:C1299590	Seizure free
+gene lookup failed	UMLS:C1428445	SGOL1 gene
+phenotype lookup failed	UMLS:C1304680	Observation of attack
+phenotype lookup failed	UMLS:C3843422	Abstinence
+phenotype lookup failed	UMLS:C0234251	Inflammatory pain
+phenotype lookup failed	UMLS:C0027796	Neuralgia
+phenotype lookup failed	UMLS:C0020429	Hyperalgesia
+gene lookup failed	UMLS:C1420544	SYN2 gene
+phenotype lookup failed	UMLS:C2936719	Mechanical Allodynia
+gene lookup failed	UMLS:C0599797	hla gene
+phenotype lookup failed	UMLS:C0231918	Nose symptoms
+phenotype lookup failed	UMLS:C0743284	drug exposure
+phenotype lookup failed	UMLS:C0948482	analgesic effect
+gene lookup failed	UMLS:C1335671	Receptor Gene
+phenotype lookup failed	UMLS:C0231441	Immobile
+phenotype lookup failed	UMLS:C0239313	exercise induced
+phenotype lookup failed	UMLS:C3714625	Neuropathic pain
+phenotype lookup failed	UMLS:C0877006	cholinesterase inhibition
+phenotype lookup failed	UMLS:C0439663	Infected
+gene lookup failed	UMLS:C3538756	NLRP1 wt Allele
+phenotype lookup failed	UMLS:C0030201	Pain, Postoperative
+phenotype lookup failed	UMLS:C3178766	Nociceptive Pain
+phenotype lookup failed	UMLS:C0376618	Endotoxemia
+phenotype lookup failed	UMLS:C0751214	Hyperalgesia, Thermal
+phenotype lookup failed	UMLS:C0087169	Withdrawal Symptoms
+gene lookup failed	UMLS:C1366752	Neomycin resistance gene
+phenotype lookup failed	UMLS:C3842672	Day 7
+phenotype lookup failed	UMLS:C0425168	Relationship problems (finding)
+phenotype lookup failed	UMLS:C0004093	Asthenia
+gene lookup failed	UMLS:C3538774	S100A10 wt Allele
+phenotype lookup failed	UMLS:C0855333	Corrected Prolonged QT Interval by ECG Finding
+phenotype lookup failed	UMLS:C0349790	Exacerbation of asthma
+phenotype lookup failed	UMLS:C0231184	Inefficiency
+phenotype lookup failed	UMLS:C0040210	Tidal Volume
+phenotype lookup failed	UMLS:C3687559	Ovariectomized female
+phenotype lookup failed	UMLS:C0525041	Neurobehavioral Manifestations
+phenotype lookup failed	UMLS:C3671772	Change in diet
+gene lookup failed	UMLS:C3810537	PSAT1 wt Allele
+phenotype lookup failed	UMLS:C1862763	Small airways
+gene lookup failed	UMLS:C0086344	Ir Genes
+gene lookup failed	UMLS:C3812373	CHAF1A wt Allele
+phenotype lookup failed	UMLS:C0037285	Skin Manifestations
+phenotype lookup failed	UMLS:C0694536	Drug seeking behavior
+phenotype lookup failed	UMLS:C1268740	At risk for falls
+gene lookup failed	UMLS:C0017361	Genes, Recessive
+phenotype lookup failed	UMLS:C0497406	Overweight
+phenotype lookup failed	UMLS:C3840880	Traffic
+phenotype lookup failed	UMLS:C0020557	Hypertriglyceridemia
+gene lookup failed	UMLS:C1414832	FTCD gene
+phenotype lookup failed	UMLS:C0679217	active state
+gene lookup failed	UMLS:C2678557	GSAP gene
+phenotype lookup failed	UMLS:C1517940	Long Term Survivorship
+gene lookup failed	UMLS:C1422181	FAM3A gene
+phenotype lookup failed	UMLS:C0683317	activity level
+gene lookup failed	UMLS:C1708407	IFNAR1 wt Allele
+phenotype lookup failed	UMLS:C0040336	Tobacco Use Disorder
+phenotype lookup failed	UMLS:C0026858	Musculoskeletal Pain
+phenotype lookup failed	UMLS:C0037383	Sneezing
+phenotype lookup failed	UMLS:C1319208	Ability to make coordinated movements
+gene lookup failed	UMLS:C1412165	ACTN1 gene
+gene lookup failed	UMLS:C1825591	IKZF5 gene
+gene lookup failed	UMLS:C1420507	STXBP2 gene
+phenotype lookup failed	UMLS:C0740411	Delayed gastric emptying
+phenotype lookup failed	UMLS:C0013395	Dyspepsia
+phenotype lookup failed	UMLS:C0556385	Craving for alcohol
+phenotype lookup failed	UMLS:C2678248	Mood instability
+phenotype lookup failed	UMLS:C1840470	Complete penetrance
+phenotype lookup failed	UMLS:C3686869	Microthrombosis
+gene lookup failed	UMLS:C1414459	ESD gene
+phenotype lookup failed	UMLS:C0560219	Alcohol intake above recommended sensible limits
+phenotype lookup failed	UMLS:C0860901	Decreased total protein
+phenotype lookup failed	UMLS:C3842673	Day 6
+phenotype lookup failed	UMLS:C0235193	Torpor
+phenotype lookup failed	UMLS:C0231488	Decreased muscle function
+phenotype lookup failed	UMLS:C1268764	Respiratory alteration
+phenotype lookup failed	UMLS:C3840680	GA-1
+phenotype lookup failed	UMLS:C3686832	Glycogen accumulation
+gene lookup failed	UMLS:C1412118	CNNM2 gene
+phenotype lookup failed	UMLS:C0002020	Alexithymia
+phenotype lookup failed	UMLS:C3806327	Skeletal muscle weakness
+phenotype lookup failed	UMLS:C3160733	THROMBOPHILIA DUE TO THROMBIN DEFECT
+phenotype lookup failed	UMLS:C0239779	Grimaces
+phenotype lookup failed	UMLS:C1859817	2-AMINOADIPIC 2-OXOADIPIC ACIDURIA
+phenotype lookup failed	UMLS:C3845645	Partial loss
+phenotype lookup failed	UMLS:C3553578	N-glycosylation defect
+phenotype lookup failed	UMLS:C3552784	Impaired N-glycosylation
+phenotype lookup failed	UMLS:C0423154	Lack of tear production
+phenotype lookup failed	UMLS:C0086437	Hypermobility, Joint
+phenotype lookup failed	UMLS:C1837218	Cleft palate, isolated
+phenotype lookup failed	UMLS:C3553572	Abnormal fat distribution
+phenotype lookup failed	UMLS:C2673413	Variable features
+phenotype lookup failed	UMLS:C0746554	metabolic deficiency
+phenotype lookup failed	UMLS:C0678807	prenatal alcohol exposure
+phenotype lookup failed	UMLS:C2748971	Fetal akinesia
+phenotype lookup failed	UMLS:C3280971	Structural brain anomalies
+phenotype lookup failed	UMLS:C3279400	Peroxisome deficiency
+phenotype lookup failed	UMLS:C0560175	Carrier of disorder
+phenotype lookup failed	UMLS:C1859141	Plasmalogen deficiency
+phenotype lookup failed	UMLS:C0917731	Male sterility
+phenotype lookup failed	UMLS:C0013911	Emaciation
+phenotype lookup failed	UMLS:C1850834	Atrophic fibers
+phenotype lookup failed	UMLS:C1866179	Subcapsular opacities
+phenotype lookup failed	UMLS:C0152150	Pregnancy, Twin
+gene lookup failed	UMLS:C1418502	PGAM2 gene
+phenotype lookup failed	UMLS:C0429216	Gastric pressure
+phenotype lookup failed	UMLS:C0575078	Skeletal muscle problem
+phenotype lookup failed	UMLS:C1721096	Brugada ECG Pattern
+phenotype lookup failed	UMLS:C0848676	Subfertility, Male
+phenotype lookup failed	UMLS:C0806591	lamellar bodies
+phenotype lookup failed	UMLS:C3714772	Recurrent fevers
+phenotype lookup failed	UMLS:C0240817	Proteinuria, severe
+phenotype lookup failed	UMLS:C3280984	Decreased mtDNA
+phenotype lookup failed	UMLS:C0035863	Rosette formation
+phenotype lookup failed	UMLS:C0574927	Joint absent
+phenotype lookup failed	UMLS:C1848694	Episodic paralysis
+phenotype lookup failed	UMLS:C3554190	Impaired mitochondrial translation
+phenotype lookup failed	UMLS:C0549634	Lipids abnormal
+phenotype lookup failed	UMLS:C1335761	Honeycomb Pattern
+phenotype lookup failed	UMLS:C3845568	Other nursing home
+phenotype lookup failed	UMLS:C0700153	Myotonus (finding)
+phenotype lookup failed	UMLS:C5441816	Psychomotor Impairment
+phenotype lookup failed	UMLS:C5201140	1 (finding)
+phenotype lookup failed	UMLS:C4055506	Accumulation
+phenotype lookup failed	UMLS:C5203119	Intensity and Distress 5
+phenotype lookup failed	UMLS:C4693871	Motility problems
+phenotype lookup failed	UMLS:C5555125	Mutation Load
+phenotype lookup failed	UMLS:C4281748	Leakage

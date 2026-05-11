@@ -1,0 +1,650 @@
+Disease	Disease_id	RELATION	PROVENANCE	Phenotype	Phenotype_id
+Rare Diseases	C0678236	CAUSES	["1676468_fullText_1"]	Muscle Cramp	C0026821
+Isaacs syndrome	C0242287	CAUSES__SPEC__	["1676468_fullText_1"]	Muscle Cramp	C0026821
+Respiratory Failure	C1145670	COEXISTS_WITH	["23180777_fullText_6"]	Neurological observations	C0422837
+Chronic pain	C0150055	COEXISTS_WITH	["37232008_fullText_1"]	Neurological observations	C0422837
+Epilepsy	C0014544	COEXISTS_WITH	["37232008_fullText_1"]	Neurological observations	C0422837
+Strabismus	C0038379	ISA	["35308014_fullText_7"]	Neurological observations	C0422837
+Machado-Joseph Disease	C0024408	ISA	["37866221_fullText_1","27584711_fullText_1"]	Neurological observations	C0422837
+Nystagmus	C0028738	ISA	["30146593_fullText_4"]	Neurological observations	C0422837
+Hereditary Diseases	C0019247	AFFECTS	["6239015_fullText_1"]	Neurological observations	C0422837
+Multisystem disorder	C0559758	AFFECTS	["34802815_fullText_1"]	Neurological observations	C0422837
+Congenital disorder of glycosylation type 1A	C0349653	AFFECTS	["12889654_fullText_7"]	Neurological observations	C0422837
+Huntington Disease	C0020179	AFFECTS__SPEC__	["6239015_fullText_1"]	Neurological observations	C0422837
+Myotonic Dystrophy	C0027126	AFFECTS__SPEC__	["6239015_fullText_1"]	Neurological observations	C0422837
+Congenital disorder of glycosylation type 1A	C0349653	AFFECTS__SPEC__	["11343337_fullText_3"]	Neurological observations	C0422837
+Glutaric aciduria, type 1	C0268595	COEXISTS_WITH	["23326493_fullText_1"]	handicapping condition	C0231172
+Myotonia Congenita	C0027127	COEXISTS_WITH	["2239155_fullText_1"]	Progressive disorder	C1864985
+Dystrophia myotonica 1	C2931688	AFFECTS	["36192279_fullText_8"]	Emotional	C0849912
+Rare Diseases	C0678236	AFFECTS	["28274259_fullText_1"]	Emotional	C0849912
+Neurodegenerative Disorders	C0524851	AFFECTS	["11420419_fullText_6"]	Neuronal loss	C1850496
+Acute encephalopathy	C1306587	COEXISTS_WITH	["29335023_fullText_52"]	Early-onset	C1833334
+Respiration Disorders	C0035204	COEXISTS_WITH	["30425197_fullText_89"]	Early-onset	C1833334
+Leigh Disease	C0023264	COEXISTS_WITH	["37667390_fullText_76"]	Early-onset	C1833334
+Glutaric aciduria, type 1	C0268595	COEXISTS_WITH	["15318278_fullText_9"]	Early-onset	C1833334
+Lysosomal Storage Diseases	C0085078	COEXISTS_WITH	["32259258_fullText_85"]	Rescue	C3840763
+nerve lesion	C0847483	COEXISTS_WITH	["35224825_fullText_5"]	ataxic	C0234366
+Encephalopathies	C0085584	COEXISTS_WITH	["15272617_fullText_3"]	Worse	C1457868
+cerebellar function	C0742034	AFFECTS	["32789747_fullText_8"]	Worse	C1457868
+Neonatal Abstinence Syndrome	C0027609	PREDISPOSES	["33829329_fullText_6"]	Worse	C1457868
+Machado-Joseph Disease	C0024408	COEXISTS_WITH	["32867861_fullText_11"]	Normal general body function	C0231162
+Anorexia	C0003123	COEXISTS_WITH	["32357546_fullText_27"]	Cerebellar Ataxia	C0007758
+Machado-Joseph Disease	C0024408	COEXISTS_WITH	["30616057_fullText_2"]	Cerebellar Ataxia	C0007758
+Congenital Disorders	C0242354	CAUSES	["25425520_fullText_3"]	Cerebellar Ataxia	C0007758
+Optic Atrophy	C0029124	CAUSES	["1660181_fullText_3"]	Cerebellar Ataxia	C0007758
+Retinal Degeneration	C0035304	CAUSES	["1660181_fullText_3"]	Cerebellar Ataxia	C0007758
+Spinocerebellar Ataxia Type 1	C0752120	ISA	["32285347_fullText_1","8773601_fullText_1","8815156_fullText_1"]	Cerebellar Ataxia	C0007758
+Spinocerebellar Ataxia Type 6 (disorder)	C0752124	ISA	["32285347_fullText_1"]	Cerebellar Ataxia	C0007758
+Machado-Joseph Disease	C0024408	ISA	["37005010_fullText_1","36323979_fullText_1","34273111_fullText_1","32285347_fullText_1","32087274_fullText_1","31272408_fullText_1","27689815_fullText_1","27328712_fullText_1","26362908_fullText_1","24817574_fullText_1","18413477_fullText_1","15727252_fullText_1","12614315_fullText_1","12422070_fullText_1","9779663_fullText_1","9532283_fullText_1","8937340_fullText_1","8773601_fullText_1","8815156_fullText_1","8523034_fullText_1","32357546_fullText_1"]	Cerebellar Ataxia	C0007758
+Ataxia, Spinocerebellar	C0087012	ISA	["8523034_fullText_1"]	Cerebellar Ataxia	C0007758
+Symptomatic Nystagmus	C0271383	COEXISTS_WITH	["28273704_fullText_8"]	Extrapyramidal sign	C0234133
+Leigh Disease	C0023264	COEXISTS_WITH	["27079373_fullText_6"]	Severe phenotype	C1836408
+Congenital Disorders	C0242354	AFFECTS	["34106226_fullText_5"]	Severe phenotype	C1836408
+Mitochondrial Diseases	C0751651	AFFECTS	["10412694_fullText_1"]	Severe phenotype	C1836408
+Muscular Atrophy	C0026846	PREDISPOSES	["29091763_fullText_7"]	Severe phenotype	C1836408
+Myotonic Dystrophy	C0027126	COEXISTS_WITH	["2731026_fullText_6"]	Fatigue	C0015672
+Dystrophia myotonica 1	C2931688	CAUSES	["29934199_fullText_1"]	Fatigue	C0015672
+Neuromuscular Diseases	C0027868	CAUSES	["16243623_fullText_3","29390978_fullText_44"]	Fatigue	C0015672
+Metabolic Diseases	C0025517	COEXISTS_WITH	["822514_fullText_1"]	Neurologic Dysfunction	C0751377
+Neurodegenerative Disorders	C0524851	COEXISTS_WITH	["25807530_fullText_13"]	Symmetrical	C0332516
+Peripheral Neuropathy	C0031117	AFFECTS	["2996109_fullText_10"]	Symmetrical	C0332516
+Leigh Disease	C0023264	AFFECTS	["36813312_fullText_4"]	Symmetrical	C0332516
+Leigh Disease	C0023264	COEXISTS_WITH__SPEC__	["25807530_fullText_13"]	Symmetrical	C0332516
+Phenylketonurias	C0031485	COEXISTS_WITH	["1296300_fullText_1"]	Very large	C0450093
+Floppy infant syndrome	C0270971	COEXISTS_WITH	["28588248_fullText_2"]	Very large	C0450093
+Nystagmus	C0028738	COEXISTS_WITH	["23829769_fullText_21"]	Abnormal movement	C0558189
+Nance-Horan syndrome	C0796085	COEXISTS_WITH	["34613609_fullText_5"]	research results	C0683954
+Sialorrhea	C0037036	COEXISTS_WITH	["35989107_fullText_5"]	research results	C0683954
+Placental Insufficiency	C0032051	AFFECTS	["34400844_fullText_3"]	White matter abnormalities	C1866186
+Chronic pain	C0150055	CAUSES	["34208781_fullText_7"]	Depressive Symptoms	C0086132
+Craniosynostosis	C0010278	CAUSES	["34875999_fullText_8"]	Depressive Symptoms	C0086132
+Phenylketonurias	C0031485	COEXISTS_WITH	["37740225_fullText_10"]	Perceived quality of life	C0518214
+Chronic disease	C0008679	AFFECTS	["23537423_fullText_1"]	Perceived quality of life	C0518214
+Cardiac Arrest	C0018790	AFFECTS	["31575582_fullText_113"]	Perceived quality of life	C0518214
+Restless Legs Syndrome	C0035258	AFFECTS	["36853797_fullText_11"]	Perceived quality of life	C0518214
+Neuroleptic Malignant Syndrome	C0027849	AFFECTS	["36701529_fullText_8"]	Perceived quality of life	C0518214
+Restless Legs Syndrome	C0035258	CAUSES	["35256685_fullText_1"]	Sleep disturbances	C0037317
+Narcolepsy	C0027404	ISA	["34052813_fullText_2","37598758_fullText_1","16006155_fullText_1"]	Sleep disturbances	C0037317
+Restless Legs Syndrome	C0035258	ISA	["22632781_fullText_2","21287304_fullText_3","34225668_fullText_1","37590826_fullText_6","34967659_fullText_4","35808955_fullText_2"]	Sleep disturbances	C0037317
+Sleep Apnea Syndromes	C0037315	ISA	["36275739_fullText_5","23837695_fullText_6"]	Sleep disturbances	C0037317
+Phenylketonurias	C0031485	COEXISTS_WITH	["9275410_fullText_5"]	Detected (finding)	C0442726
+Deglutition Disorders	C0011168	AFFECTS	["19167224_fullText_7"]	Body Weight decreased	C0043096
+Non-human disorder	C1290829	COEXISTS_WITH	["31246996_fullText_95"]	Gait	C0016928
+Neurodegenerative Disorders	C0524851	COEXISTS_WITH	["17894834_fullText_1"]	Gait	C0016928
+Machado-Joseph Disease	C0024408	COEXISTS_WITH	["36043376_fullText_3"]	Gait	C0016928
+Machado-Joseph Disease	C0024408	AFFECTS	["39320846_fullText_87"]	Gait	C0016928
+Machado-Joseph Disease	C0024408	COEXISTS_WITH__SPEC__	["17894834_fullText_1"]	Gait	C0016928
+Cerebellar Diseases	C0007760	AFFECTS	["21047555_fullText_3"]	Neuronal Differentiation	C1518294
+Migraine Disorders	C0149931	COEXISTS_WITH	["35917017_fullText_5"]	Family history	C0241889
+EPILEPSY, PYRIDOXINE-DEPENDENT	C1849508	AFFECTS	["6859931_fullText_1"]	Uncertainty	C0087130
+Rare Diseases	C0678236	AFFECTS	["27832415_fullText_1"]	Severely Abnormal Ventricular Ejection Fraction	C3274777
+Peroxisome biogenesis disorders	C1832200	COEXISTS_WITH	["15868469_fullText_1"]	Severely Abnormal Ventricular Ejection Fraction	C3274777
+Peroxisomal Disorders	C0282528	COEXISTS_WITH	["11478384_fullText_1","9382874_fullText_1"]	Severely Abnormal Ventricular Ejection Fraction	C3274777
+Unspecified anomaly of muscle	C0235947	COEXISTS_WITH	["18413477_fullText_19"]	Excitability	C0235169
+Central convulsion	C0234534	CAUSES	["25630614_fullText_131"]	Excitability	C0235169
+Agenesis of corpus callosum	C0175754	CAUSES	["34507588_fullText_9","34507588_fullText_10"]	Excitability	C0235169
+Chronic pain	C0150055	CAUSES	["37734381_fullText_7"]	Excitability	C0235169
+Failure to Thrive	C0015544	COEXISTS_WITH	["21266382_fullText_2"]	90%	C3842582
+Heart failure	C0018801	CAUSES	["37081685_fullText_14"]	Tachycardia	C0039231
+Fragile X Syndrome	C0016667	AFFECTS	["8293721_fullText_3"]	Variable expressivity	C1861403
+Bulbospinal Neuronopathy	C0393547	AFFECTS	["8293721_fullText_3"]	Variable expressivity	C1861403
+Myotonic Dystrophy	C0027126	AFFECTS	["23611887_fullText_2"]	Household composition	C0595998
+Myopathy	C0026848	AFFECTS	["33269537_fullText_2"]	Household composition	C0595998
+Phenylketonurias	C0031485	COEXISTS_WITH	["25338975_fullText_1"]	Severe disorder	C1836348
+Nystagmus	C0028738	COEXISTS_WITH	["37541626_fullText_5"]	Severe disorder	C1836348
+Blood Coagulation Disorders	C0005779	COEXISTS_WITH	["11901181_fullText_1"]	Severe disorder	C1836348
+Hydrocephalus	C0020255	COEXISTS_WITH	["11901181_fullText_1"]	Severe disorder	C1836348
+Vitamin K Deficiency	C0042880	COEXISTS_WITH	["20605848_fullText_1"]	Severe disorder	C1836348
+Myopathy	C0026848	COEXISTS_WITH	["11901181_fullText_1"]	Severe disorder	C1836348
+Glutaric aciduria, type 1	C0268595	COEXISTS_WITH	["11508549_fullText_2"]	Severe disorder	C1836348
+Cytochrome-c Oxidase Deficiency	C0268237	COEXISTS_WITH	["11955926_fullText_1"]	Severe disorder	C1836348
+Metabolic myopathy	C0270984	PREDISPOSES	["37982853_fullText_1"]	Severe disorder	C1836348
+Hepatic impairment	C0948807	PREDISPOSES	["35272847_fullText_5"]	Not significant	C1273937
+Mitochondrial Diseases	C0751651	COEXISTS_WITH	["23021068_fullText_1"]	Neurologic Manifestations	C0027854
+Leigh Disease	C0023264	AFFECTS	["34716721_fullText_52"]	Neurologic Manifestations	C0027854
+Pyruvate Dehydrogenase Complex Deficiency Disease	C0034345	COEXISTS_WITH__SPEC__	["23021068_fullText_1"]	Neurologic Manifestations	C0027854
+Phenylketonurias	C0031485	COEXISTS_WITH	["7106768_fullText_2"]	GeneticObservationValue <HOMO>	C3245470
+Cytochrome-c Oxidase Deficiency	C0268237	COEXISTS_WITH	["29601977_fullText_181"]	Discrepancy	C1290905
+HOMOCYSTINURIA DUE TO DEFICIENCY OF N(5,10)-METHYLENETETRAHYDROFOLATE REDUCTASE ACTIVITY	C1856058	COEXISTS_WITH	["37440674_fullText_8"]	Engaged to be married	C0425152
+Anemia of prematurity	C0158996	COEXISTS_WITH	["30059502_fullText_61"]	Lethal	C3151529
+SHAHEEN SYNDROME	C3809160	AFFECTS	["26260076_fullText_6"]	Lethal	C3151529
+Oculomelic amyoplasia	C1862472	AFFECTS	["37117011_fullText_5"]	Lethal	C3151529
+POLYCYSTIC KIDNEY DISEASE 1	C3149841	COEXISTS_WITH	["37149124_fullText_12"]	Handling	C1832073
+Myoclonic Encephalopathy	C0438414	COEXISTS_WITH	["35833444_fullText_1"]	Progressive Disease	C1335499
+Metabolic Diseases	C0025517	CAUSES	["21904051_fullText_1"]	Muscle Rigidity	C0026837
+Spinocerebellar Ataxia Type 6 (disorder)	C0752124	AFFECTS	["21372168_fullText_3"]	regional difference	C0682132
+Machado-Joseph Disease	C0024408	AFFECTS	["21372168_fullText_3"]	regional difference	C0682132
+Phenylketonurias	C0031485	COEXISTS_WITH	["39231333_fullText_4"]	Protection	C1545588
+metabolic disturbance	C0746556	COEXISTS_WITH	["35806019_fullText_5"]	Protection	C1545588
+Machado-Joseph Disease	C0024408	AFFECTS	["33516872_fullText_1"]	Mortality, Premature	C1855073
+Late-Onset Disorders	C0376415	AFFECTS	["32274760_fullText_2"]	Mortality, Premature	C1855073
+Hereditary Diseases	C0019247	AFFECTS	["25859781_fullText_1"]	Mortality, Premature	C1855073
+Brain Developmental Abnormality	C3272759	CAUSES	["30570710_fullText_106"]	Equilibration disorder	C0575090
+Neuromuscular Diseases	C0027868	CAUSES	["32314404_fullText_1"]	Equilibration disorder	C0575090
+Phenylketonurias	C0031485	COEXISTS_WITH	["7719440_fullText_11"]	Weight Gain	C0043094
+Obesity	C0028754	ISA	["36237192_fullText_2"]	Weight Gain	C0043094
+Deglutition Disorders	C0011168	AFFECTS	["35206276_fullText_90"]	Weight Gain	C0043094
+myotonic muscular dystrophy	C0242007	COEXISTS_WITH	["6123399_fullText_12"]	Abnormality	C1704258
+Myopathy	C0026848	COEXISTS_WITH	["12030525_fullText_6"]	Abnormality	C1704258
+Hypertrophic Cardiomyopathy	C0007194	ISA	["35872650_fullText_9"]	Abnormality	C1704258
+Dystrophia myotonica 1	C2931688	ISA	["21169018_fullText_7"]	Abnormality	C1704258
+Miyoshi myopathy	C1850808	ISA	["31046780_fullText_2"]	Abnormality	C1704258
+Myotonic Dystrophy	C0027126	ISA	["7396152_fullText_2","6875606_fullText_3"]	Abnormality	C1704258
+Esotropia	C0014877	COEXISTS_WITH	["36729871_fullText_11"]	Gaze	C0553544
+Ataxia, Spinocerebellar	C0087012	CAUSES	["32789747_fullText_2"]	Abnormal coordination	C0520966
+Neurodegenerative Disorders	C0524851	CAUSES	["35859208_fullText_1"]	Abnormal coordination	C0520966
+Machado-Joseph Disease	C0024408	CAUSES	["27165717_fullText_77"]	Abnormal coordination	C0520966
+Acidosis, Lactic	C0001125	COEXISTS_WITH	["15798212_fullText_1"]	Early death	C1836407
+Encephalomyelopathy	C0598106	COEXISTS_WITH	["15798212_fullText_1"]	Early death	C1836407
+Mitochondrial Diseases	C0751651	COEXISTS_WITH	["27977873_fullText_0"]	Early death	C1836407
+Systemic disease	C0442893	AFFECTS	["26502900_fullText_7"]	Early death	C1836407
+Peroxisome biogenesis disorders	C1832200	AFFECTS	["11583975_fullText_1"]	Early death	C1836407
+Peroxisomal Disorders	C0282528	AFFECTS	["10618001_fullText_1"]	Early death	C1836407
+Pyruvate Dehydrogenase Complex Deficiency Disease	C0034345	COEXISTS_WITH__SPEC__	["15798212_fullText_1"]	Early death	C1836407
+Deuteranomaly	C3887938	COEXISTS_WITH	["39231983_fullText_51"]	Neurologic Symptoms	C0235031
+Congenital Disorders	C0242354	COEXISTS_WITH	["35279850_fullText_1"]	Neurologic Symptoms	C0235031
+Phenylketonurias	C0031485	CAUSES	["28165881_fullText_1"]	Neurologic Symptoms	C0235031
+Leigh Disease	C0023264	CAUSES	["36543208_fullText_2"]	Neurologic Symptoms	C0235031
+Autoimmune Diseases	C0004364	CAUSES	["36200199_fullText_2"]	Neurologic Symptoms	C0235031
+Night Blindness	C0028077	ISA	["32147747_fullText_97"]	Neurologic Symptoms	C0235031
+Rare Diseases	C0678236	COEXISTS_WITH	["36840359_fullText_10"]	Genotype-Phenotype Associations	C2717879
+Muscular Atrophy	C0026846	ISA	["20487562_fullText_1"]	Signs and Symptoms	C0037088
+Adrenal gland hypofunction	C0001623	ISA	["35741019_fullText_173"]	Signs and Symptoms	C0037088
+Neurodegenerative Disorders	C0524851	ISA	["20843336_fullText_20"]	Signs and Symptoms	C0037088
+Parkinson Disease	C0030567	ISA	["8868342_fullText_30"]	Signs and Symptoms	C0037088
+Myotonic Dystrophy	C0027126	ISA	["9094985_fullText_7","8464127_fullText_9"]	Signs and Symptoms	C0037088
+Respiratory Failure	C1145670	ISA	["25753091_fullText_2"]	Signs and Symptoms	C0037088
+Zellweger Syndrome	C0043459	ISA	["8147505_fullText_3"]	Signs and Symptoms	C0037088
+Parkinsonian Disorders	C0242422	ISA	["19811945_fullText_9"]	Signs and Symptoms	C0037088
+Leigh Disease	C0023264	ISA	["4051461_fullText_3","30848071_fullText_4"]	Signs and Symptoms	C0037088
+Machado-Joseph Disease	C0024408	COEXISTS_WITH	["32745980_fullText_6"]	Aggressive Clinical Course	C1332223
+Multisystem disorder	C0559758	COEXISTS_WITH	["33743737_fullText_25"]	Constipation	C0009806
+Parkinsonian Disorders	C0242422	COEXISTS_WITH	["35695543_fullText_3"]	patient condition	C0683521
+Encephalopathies	C0085584	COEXISTS_WITH	["17895983_fullText_100"]	Reproductive History	C0206076
+Restless Legs Syndrome	C0035258	PREDISPOSES	["34732752_fullText_4"]	Reproductive History	C0206076
+Movement Disorders	C0026650	CAUSES	["35220110_fullText_1"]	Tremor	C0040822
+Cerebellar Diseases	C0007760	CAUSES	["36497147_fullText_6"]	Tremor	C0040822
+Cataract, congenital, with microcornea or slight microphthalmia	C2930878	COEXISTS_WITH	["37515745_fullText_6"]	consideration	C0518609
+Muscular Atrophy	C0026846	COEXISTS_WITH	["36864049_fullText_6"]	Form of muscle	C0240417
+Syndrome	C0039082	COEXISTS_WITH	["71410_fullText_1"]	Form of muscle	C0240417
+metabolic disturbance	C0746556	COEXISTS_WITH	["12630069_fullText_4"]	Form of muscle	C0240417
+Retinal Dystrophies	C0854723	COEXISTS_WITH	["35205402_fullText_11"]	Childhood onset	C1837352
+Alzheimer's Disease	C0002395	AFFECTS	["35227014_fullText_1"]	Progressive neurodegeneration	C1845518
+Machado-Joseph Disease	C0024408	AFFECTS	["31124318_fullText_1"]	Progressive neurodegeneration	C1845518
+Rare Diseases	C0678236	CAUSES	["1676468_fullText_1"]	Muscular fasciculation	C0015644
+Isaacs syndrome	C0242287	CAUSES__SPEC__	["1676468_fullText_1"]	Muscular fasciculation	C0015644
+Metabolic Diseases	C0025517	AFFECTS	["8269530_fullText_1"]	Vitality	C0424589
+Hereditary Diseases	C0019247	COEXISTS_WITH	["30157945_fullText_1"]	Symptom severe	C0436345
+Epilepsy	C0014544	COEXISTS_WITH	["30420707_fullText_2"]	Symptom severe	C0436345
+Phenylketonurias	C0031485	COEXISTS_WITH__SPEC__	["30157945_fullText_1"]	Symptom severe	C0436345
+Hyperphenylalaninaemia	C0751435	AFFECTS	["9241405_fullText_6"]	Intellectual ability	C0423898
+Mitochondrial Diseases	C0751651	COEXISTS_WITH	["37344065_fullText_1"]	Hypometabolism	C0347938
+Sleep Apnea, Obstructive	C0520679	CAUSES	["12798791_fullText_2"]	Excessive daytime somnolence	C0694563
+Myotonic Dystrophy	C0027126	CAUSES	["3833140_fullText_5"]	Excessive daytime somnolence	C0694563
+Movement Disorders	C0026650	AFFECTS	["26693825_fullText_20"]	Test Result	C0456984
+Dystrophia myotonica 1	C2931688	PREDISPOSES	["23586035_fullText_55"]	Test Result	C0456984
+Phenylketonurias	C0031485	COEXISTS_WITH	["30157945_fullText_2"]	Behavioral disturbances	C1822046
+COENZYME Q10 DEFICIENCY	C1843920	COEXISTS_WITH	["29560582_fullText_10"]	Clinical variability	C1842176
+Parkinson Disease	C0030567	COEXISTS_WITH	["33808714_fullText_4"]	Autonomic symptoms	C2674101
+Machado-Joseph Disease	C0024408	AFFECTS	["25267338_fullText_3"]	Prosody	C0233743
+Brain Diseases	C0006111	COEXISTS_WITH	["35332995_fullText_11"]	Imbalance	C1397014
+nervous system disorder	C0027765	COEXISTS_WITH	["37688896_fullText_6"]	Imbalance	C1397014
+Dystrophia myotonica 1	C2931688	CAUSES	["33252090_fullText_1"]	Mobility Limitation	C1565249
+Restless Legs Syndrome	C0035258	CAUSES	["34708126_fullText_7"]	Sleeplessness	C0917801
+nervous system disorder	C0027765	CAUSES	["37194531_fullText_1"]	Sleeplessness	C0917801
+Restless Legs Syndrome	C0035258	CAUSES__SPEC__	["37194531_fullText_1"]	Sleeplessness	C0917801
+Mitochondrial Diseases	C0751651	COEXISTS_WITH	["25807530_fullText_14"]	Sign or Symptom	C3540840
+Dehydration	C0011175	ISA	["35770802_fullText_17"]	Sign or Symptom	C3540840
+Mitochondrial Diseases	C0751651	ISA	["30379275_fullText_42"]	Sign or Symptom	C3540840
+Leigh Disease	C0023264	ISA	["25807530_fullText_14"]	Sign or Symptom	C3540840
+Myasthenic Syndromes, Congenital	C0751882	ISA	["16355692_fullText_3"]	Sign or Symptom	C3540840
+Ocular Hypotension	C0028841	ISA	["8407221_fullText_2"]	Sign or Symptom	C3540840
+Myotonic Dystrophy	C0027126	ISA	["10957785_fullText_12"]	Sign or Symptom	C3540840
+Cardiac Arrest	C0018790	ISA	["23857626_fullText_1"]	Sign or Symptom	C3540840
+nervous system disorder	C0027765	ISA	["2537772_fullText_1"]	Sign or Symptom	C3540840
+Optic Atrophy	C0029124	ISA	["29481804_fullText_2","29481804_fullText_8"]	Sign or Symptom	C3540840
+Metabolic Diseases	C0025517	ISA	["29335023_fullText_11"]	Sign or Symptom	C3540840
+heart inflammation	C0744673	AFFECTS	["36449214_fullText_9"]	One day	C3844320
+Brain Diseases	C0006111	COEXISTS_WITH	["36677616_fullText_1"]	Death (finding)	C1306577
+Vitamin D Deficiency	C0042870	COEXISTS_WITH	["37528759_fullText_6"]	Death (finding)	C1306577
+Alzheimer's Disease	C0002395	COEXISTS_WITH__SPEC__	["36677616_fullText_1"]	Death (finding)	C1306577
+Cerebellar Diseases	C0007760	PREDISPOSES	["33619652_fullText_82"]	Functional Status	C0598463
+Symptomatic Nystagmus	C0271383	COEXISTS_WITH	["28273704_fullText_8"]	Ophthalmoplegia	C0029089
+Failure to Thrive	C0015544	COEXISTS_WITH	["29601977_fullText_130"]	Does swallow	C0740170
+Dyskinetic syndrome	C0013384	COEXISTS_WITH	["7834040_fullText_2"]	Does swallow	C0740170
+Spastic Quadriplegia	C0426970	COEXISTS_WITH	["7834040_fullText_2"]	Does swallow	C0740170
+Respiration Disorders	C0035204	COEXISTS_WITH	["1214149_fullText_2"]	Does swallow	C0740170
+Deglutition Disorders	C0011168	COEXISTS_WITH	["37091528_fullText_2"]	Does swallow	C0740170
+Cerebral Infarction	C0007785	CAUSES	["33891540_fullText_4"]	Fluctuation	C0231239
+Machado-Joseph Disease	C0024408	COEXISTS_WITH	["25897782_fullText_2"]	insensitivity	C0237677
+Machado-Joseph Disease	C0024408	COEXISTS_WITH__SPEC__	["16407371_fullText_1"]	Intraneuronal inclusions	C3553502
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844	AFFECTS	["17924342_fullText_6"]	Energetic	C3842459
+Developmental regression	C1836830	COEXISTS_WITH	["34716721_fullText_0"]	Heterogeneous disorder	C1858576
+Progressive cerebellar ataxia	C0393525	COEXISTS_WITH	["10732811_fullText_1"]	Heterogeneous disorder	C1858576
+Anovulation	C0003128	COEXISTS_WITH	["36699037_fullText_1"]	Heterogeneous disorder	C1858576
+Phenylketonurias	C0031485	COEXISTS_WITH	["37081197_fullText_6"]	Psychiatric symptom	C0233401
+Restless Legs Syndrome	C0035258	ISA	["36697248_fullText_5"]	Psychiatric symptom	C0233401
+Intraoperative floppy iris syndrome	C1688637	COEXISTS_WITH	["34609669_fullText_3"]	3/4	C0442757
+Muscular Atrophy	C0026846	COEXISTS_WITH	["27805016_fullText_16"]	Does climb	C0561942
+Diabetes	C0011847	COEXISTS_WITH	["35711025_fullText_10"]	sleep loss	C0235161
+Strabismus	C0038379	COEXISTS_WITH	["34246313_fullText_134"]	Hearing Loss, Partial	C0018772
+Phenylketonurias	C0031485	COEXISTS_WITH	["9343573_fullText_7"]	Blind Vision	C0456909
+Macular Edema, Cystoid	C0024440	COEXISTS_WITH	["37541626_fullText_8"]	Blind Vision	C0456909
+Glaucoma	C0017601	AFFECTS	["26627182_fullText_41"]	Blind Vision	C0456909
+Retinitis Pigmentosa	C0035334	AFFECTS	["26627182_fullText_41"]	Blind Vision	C0456909
+Retinal Diseases	C0035309	AFFECTS	["31254513_fullText_2"]	Blind Vision	C0456909
+Retinal Degeneration	C0035304	AFFECTS	["37541626_fullText_1"]	Blind Vision	C0456909
+Diabetes	C0011847	PREDISPOSES	["34281162_fullText_3"]	Blind Vision	C0456909
+Urinary tract infection	C0042029	COEXISTS_WITH	["37506033_fullText_7"]	Headache	C0018681
+Hyperphenylalaninaemia	C0751435	CAUSES	["12971421_fullText_1"]	Headache	C0018681
+Tension Headache	C0033893	ISA	["36138260_fullText_4"]	Headache	C0018681
+Migraine Disorders	C0149931	ISA	["36138260_fullText_4"]	Headache	C0018681
+Phenylketonurias	C0031485	COEXISTS_WITH	["3499326_fullText_1"]	Related to Cancer	C2826292
+Subacute Sclerosing Panencephalitis	C0038522	COEXISTS_WITH	["3499326_fullText_1"]	Related to Cancer	C2826292
+Leigh Disease	C0023264	COEXISTS_WITH	["3499326_fullText_1"]	Related to Cancer	C2826292
+Leigh Disease	C0023264	ISA	["2587018_fullText_2"]	Finding of brain	C0576471
+Machado-Joseph Disease	C0024408	COEXISTS_WITH	["21555642_fullText_1"]	Axonal sensorimotor polyneuropathy	C3806705
+Acne	C0702166	COEXISTS_WITH	["34822601_fullText_4"]	Behavior showing increased motor activity	C0474395
+Dermatologic disorders	C0037274	COEXISTS_WITH	["34822601_fullText_4"]	Behavior showing increased motor activity	C0474395
+Dermatologic disorders	C0037274	COEXISTS_WITH__SPEC__	["34822601_fullText_4"]	Behavior showing increased motor activity	C0474395
+Acne	C0702166	COEXISTS_WITH__SPEC__	["34822601_fullText_4"]	Behavior showing increased motor activity	C0474395
+Sinus Tachycardia	C0039239	COEXISTS_WITH	["33960155_fullText_13"]	Systemic arterial pressure	C1272641
+Failure to Thrive	C0015544	AFFECTS	["34246313_fullText_133"]	Poor posture	C0426976
+Dyskinetic syndrome	C0013384	CAUSES	["37774703_fullText_1"]	Involuntary Movements	C0427086
+Sleep Apnea, Central	C0520680	COEXISTS_WITH	["7669417_fullText_3"]	Stage 1	C3840271
+Conduction system abnormalities	C0151236	COEXISTS_WITH	["6682507_fullText_3"]	Cardiac dysfunction	C3277906
+Chronic Obstructive Airway Disease	C0024117	COEXISTS_WITH	["37382864_fullText_2","37276335_fullText_14"]	FEV1 Adverse Event	C1561566
+Polycystic Kidney Diseases	C0022680	COEXISTS_WITH	["28784167_fullText_4"]	Mild phenotype	C1855585
+Rare Diseases	C0678236	COEXISTS_WITH	["39482754_fullText_11"]	Misdiagnosis	C0679838
+Phenylketonurias	C0031485	COEXISTS_WITH	["4441120_fullText_5"]	Misdiagnosis	C0679838
+Hypergammaglobulinemia	C0020455	AFFECTS	["32057684_abstract_5"]	Misdiagnosis	C0679838
+Classical phenylketonuria	C0751434	PREDISPOSES	["8929956_fullText_5"]	Misdiagnosis	C0679838
+Akathisia, Tardive	C0162549	ISA	["34060465_fullText_3"]	Akathisia	C0392156
+Septicemia	C0036690	COEXISTS_WITH	["24957181_fullText_53"]	Normal concentration	C1277200
+Phenylketonuria II	C0268465	COEXISTS_WITH	["3288039_fullText_1"]	Illness (finding)	C0221423
+Acute encephalopathy	C1306587	COEXISTS_WITH	["8837070_fullText_10"]	Illness (finding)	C0221423
+nervous system disorder	C0027765	COEXISTS_WITH	["8837070_fullText_13"]	Illness (finding)	C0221423
+Phenylketonuria II	C0268465	ISA	["3288039_fullText_1"]	Illness (finding)	C0221423
+Virus Diseases	C0042769	ISA	["35206276_fullText_159"]	Illness (finding)	C0221423
+Guillain-Barre Syndrome	C0018378	ISA	["11135285_fullText_1"]	Illness (finding)	C0221423
+Anemia	C0002871	ISA	["37758136_fullText_10"]	Illness (finding)	C0221423
+Huntington Disease	C0020179	ISA	["37132103_fullText_4"]	Illness (finding)	C0221423
+Alcoholic Liver Diseases	C0023896	ISA	["34443679_fullText_1"]	Illness (finding)	C0221423
+nervous system disorder	C0027765	ISA	["37634747_fullText_1"]	Illness (finding)	C0221423
+multiple pathologies	C0679225	ISA	["33950473_fullText_6"]	Illness (finding)	C0221423
+Multiple Sclerosis	C0026769	ISA	["37132103_fullText_4"]	Illness (finding)	C0221423
+Diabetes	C0011847	ISA	["36674669_fullText_1"]	Illness (finding)	C0221423
+Alzheimer's Disease	C0002395	ISA	["37132103_fullText_4"]	Illness (finding)	C0221423
+Liver diseases	C0023895	ISA	["37758136_fullText_10"]	Illness (finding)	C0221423
+Phenylketonurias	C0031485	COEXISTS_WITH	["8828616_fullText_1"]	Reduced concentration	C0424099
+Syndrome	C0039082	COEXISTS_WITH	["12632995_fullText_2"]	Visual Impairment	C3665347
+Phenylketonurias	C0031485	COEXISTS_WITH	["10916518_fullText_3","7474891_fullText_4"]	Compliance	C3714738
+Phenylketonurias	C0031485	AFFECTS	["20373144_fullText_3","20373144_fullText_5"]	Compliance	C3714738
+Chronic metabolic disorder	C1263722	AFFECTS	["16435177_fullText_1"]	Compliance	C3714738
+Van der Woude syndrome	C0175697	AFFECTS	["19743980_fullText_2"]	Compliance	C3714738
+Bilateral total vocal cord paralysis	C0155850	CAUSES	["10207933_fullText_2"]	Stridor	C0038450
+Peroxisome Biogenesis Disorder, Complementation Group G	C1864172	AFFECTS	["29967337_fullText_3"]	Symptom mild	C0436343
+Phenylketonurias	C0031485	AFFECTS__SPEC__	["20123473_fullText_11"]	Symptom mild	C0436343
+Phenylketonurias	C0031485	COEXISTS_WITH	["34391119_fullText_1"]	Undiagnosed	C1408353
+Dermatitis, Phototoxic	C0162830	CAUSES	["34743684_fullText_3"]	Exanthema	C0015230
+Muscular Dystrophy	C0026850	PREDISPOSES	["33864373_fullText_5"]	Dystrophic changes	C3276192
+Spastic syndrome	C0270814	COEXISTS_WITH	["11271368_fullText_2"]	Diffuse Pattern	C1333299
+Pierson syndrome	C1836876	COEXISTS_WITH	["27925579_fullText_3"]	Abnormal result	C0459424
+Leigh Disease	C0023264	COEXISTS_WITH	["24731534_fullText_49"]	Convulsive Seizures	C0751494
+Neurodegenerative Disorders	C0524851	COEXISTS_WITH	["37652198_fullText_1"]	Senility	C0231337
+Axonal neuropathy	C0270921	CAUSES	["9343141_fullText_1"]	Proximal weakness	C0750403
+Virus Diseases	C0042769	COEXISTS_WITH	["31735801_fullText_9"]	Achalasia	C1321756
+Congenital Disorders	C0242354	COEXISTS_WITH	["35665995_fullText_3"]	Achalasia	C1321756
+Classical phenylketonuria	C0751434	CAUSES	["11043162_fullText_1"]	Clouded consciousness	C0683369
+Beriberi	C0005122	CAUSES	["18467350_fullText_2"]	Clouded consciousness	C0683369
+Acute infectious disease	C0275518	COEXISTS_WITH	["34255953_fullText_1"]	Falls	C0085639
+Acute Cerebrovascular Accidents	C0751956	PREDISPOSES	["34015940_fullText_1"]	Falls	C0085639
+Parkinson Disease	C0030567	PREDISPOSES	["35485491_fullText_8"]	Falls	C0085639
+Bannayan-Riley-Ruvalcaba Syndrome	C0265326	PREDISPOSES	["35229895_fullText_1"]	Falls	C0085639
+Macrocephaly	C0221355	COEXISTS_WITH	["12210585_fullText_7"]	Dilated	C0700124
+Mitochondrial Myopathies	C0162670	COEXISTS_WITH	["37534760_fullText_2"]	Heteroplasmic	C3845270
+Acidosis, Lactic	C0001125	COEXISTS_WITH	["37534760_fullText_2"]	Heteroplasmic	C3845270
+Encephalopathies	C0085584	COEXISTS_WITH	["37534760_fullText_2"]	Heteroplasmic	C3845270
+Cardiomyopathies	C0878544	COEXISTS_WITH	["32867169_fullText_77"]	Heteroplasmic	C3845270
+Heart failure	C0018801	COEXISTS_WITH	["34928236_fullText_76"]	Heteroplasmic	C3845270
+Leigh Disease	C0023264	COEXISTS_WITH	["36335839_fullText_1"]	Heteroplasmic	C3845270
+Depletion of mitochondrial DNA	C0342782	COEXISTS_WITH	["31261379_fullText_8"]	Heteroplasmic	C3845270
+Rare Diseases	C0678236	COEXISTS_WITH	["32013919_fullText_79"]	Motor retardation	C0424230
+Hereditary Diseases	C0019247	COEXISTS_WITH	["8530628_fullText_1"]	Motor retardation	C0424230
+Congenital Disorders of Glycosylation	C0282577	COEXISTS_WITH__SPEC__	["8530628_fullText_1"]	Motor retardation	C0424230
+Usher Syndrome	C0271097	COEXISTS_WITH	["26287655_fullText_82"]	Deafness	C0011053
+Developmental regression	C1836830	COEXISTS_WITH	["36412346_fullText_40"]	White matter lesions	C2752009
+Developmental regression	C1836830	COEXISTS_WITH	["36412346_fullText_14"]	Consciousness, Level Altered	C0751054
+Acute respiratory failure	C0264490	COEXISTS_WITH	["30172469_fullText_4"]	Term infant	C0456128
+Telangiectasis	C0039446	COEXISTS_WITH	["36896690_fullText_8"]	Term infant	C0456128
+Phenylketonurias	C0031485	COEXISTS_WITH	["38203665_fullText_4"]	Missense	C3845273
+LEBER OPTIC ATROPHY AND DYSTONIA	C1839040	COEXISTS_WITH	["19458970_fullText_1"]	Unspecified visual loss	C3665346
+Optic Atrophy, Hereditary, Leber	C0917796	COEXISTS_WITH	["19458970_fullText_1"]	Unspecified visual loss	C3665346
+Peroxisomal Disorders	C0282528	AFFECTS	["27827795_fullText_2"]	Neonatal Death	C0410916
+Failure to Thrive	C0015544	COEXISTS_WITH	["2716238_fullText_3"]	Vomiting, recurrent	C0750325
+Cytochrome-c Oxidase Deficiency	C0268237	COEXISTS_WITH	["29601977_fullText_170"]	CTCAE Grade 5 Encephalopathy	C1561319
+Nicotinamide adenine dinucleotide coenzyme Q reductase deficiency	C0342776	COEXISTS_WITH	["31967322_fullText_79"]	Prognosis bad	C0278252
+Heart Diseases	C0018799	COEXISTS_WITH	["36404400_fullText_1"]	Prognosis bad	C0278252
+Phenylketonurias	C0031485	COEXISTS_WITH	["1494969_fullText_2"]	Poor outcome	C3806166
+Asthma	C0004096	COEXISTS_WITH	["33863317_fullText_1"]	Poor outcome	C3806166
+Cytochrome-c Oxidase Deficiency	C0268237	COEXISTS_WITH	["9843204_fullText_1"]	Necrotic Lesion	C1334929
+Leigh Disease	C0023264	IS_TREATED	["39066889_fullText_34"]	Ketogenic Diet	C0259972
+Hereditary myopathy NOS	C1399469	COEXISTS_WITH	["36534775_fullText_1"]	Variable severity	C1836143
+Hyperinsulinism	C0020459	COEXISTS_WITH	["19101627_fullText_2"]	Variable severity	C1836143
+Phenylketonurias	C0031485	AFFECTS	["20023364_fullText_1"]	Nervous system problem	C0221571
+Medium-chain acyl-coenzyme A dehydrogenase deficiency	C0220710	AFFECTS	["12523003_fullText_6"]	Metabolic crises	C3278052
+Infectious disease of digestive tract	C1264613	COEXISTS_WITH	["19616603_fullText_6"]	Impaired exercise tolerance	C0424551
+Wernicke Encephalopathy	C0043121	COEXISTS_WITH	["37525097_fullText_12"]	Bilateral Deafness	C3665473
+Telogen effluvium	C0263518	IS_A		Alopecia	C0002170
+Loose Anagen Hair Syndrome	C0406468	IS_A		Alopecia	C0002170
+Maple Syrup Urine Disease	C0024776	COEXISTS_WITH	["17761035_fullText_2"]	Decompensation	C0231187
+Cerebral atrophy	C0235946	COEXISTS_WITH	["24341803_fullText_39","24341803_fullText_83"]	Decompensation	C0231187
+Hyperuricemia	C0740394	PREDISPOSES	["32048023_abstract_14"]	Decompensation	C0231187
+Liver Failure	C0085605	PREDISPOSES	["36064306_fullText_4"]	Decompensation	C0231187
+Cirrhosis	C1623038	PREDISPOSES	["35661713_fullText_9"]	Decompensation	C0231187
+Phenylketonurias	C0031485	COEXISTS_WITH	["7913864_fullText_2"]	canadian	C0238884
+Hereditary Diseases	C0019247	COEXISTS_WITH	["22894767_fullText_17"]	canadian	C0238884
+Glutaric aciduria, type 1	C0268595	COEXISTS_WITH	["23326493_fullText_85"]	Crisis	C0231224
+Cerebrovascular accident	C0038454	COEXISTS_WITH	["25835550_fullText_126"]	Crisis	C0231224
+Multisystem disorder	C0559758	COEXISTS_WITH	["33190906_fullText_1"]	Crisis	C0231224
+Rare Diseases	C0678236	COEXISTS_WITH	["16641220_fullText_1"]	Crisis	C0231224
+Leukodystrophy	C0023520	COEXISTS_WITH	["31125684_fullText_2"]	Crisis	C0231224
+Endocrine System Diseases	C0014130	AFFECTS	["33835005_fullText_1"]	Crisis	C0231224
+Leigh syndrome , French Canadian type	C1857355	AFFECTS	["25835550_fullText_12"]	Crisis	C0231224
+Mitochondrial Diseases	C0751651	PREDISPOSES	["26565911_fullText_53"]	Crisis	C0231224
+Dystrophia myotonica 1	C2931688	COEXISTS_WITH__SPEC__	["33190906_fullText_1"]	Crisis	C0231224
+Glutaric aciduria, type 1	C0268595	COEXISTS_WITH__SPEC__	["17520433_fullText_1","16641220_fullText_1"]	Crisis	C0231224
+Glutaric aciduria	C0268594	COEXISTS_WITH__SPEC__	["17520433_fullText_1"]	Crisis	C0231224
+Spastic tetraparesis	C0575059	COEXISTS_WITH	["36093993_fullText_77"]	Axial hypotonia	C1853743
+Generalized dystonia	C1848954	COEXISTS_WITH	["36093993_fullText_77"]	Axial hypotonia	C1853743
+Leigh Disease	C0023264	COEXISTS_WITH__SPEC__	["29715184_fullText_1"]	Psychomotor regression	C1855019
+Neurodegenerative Disorders	C0524851	COEXISTS_WITH	["29715184_fullText_1"]	Psychomotor regression	C1855019
+Cardiac defects	C0741916	COEXISTS_WITH	["21669930_fullText_7"]	Hypotonia, severe	C1839630
+Leigh Disease	C0023264	AFFECTS	["31479473_fullText_5"]	Encephalomyopathy	C3554130
+Peroxisomal Disorders	C0282528	AFFECTS	["10618001_fullText_1"]	Severe psychomotor retardation	C1854919
+Congenital Disorders of Glycosylation	C0282577	AFFECTS__SPEC__	["11529501_fullText_1"]	Severe psychomotor retardation	C1854919
+Hereditary Diseases	C0019247	COEXISTS_WITH	["14601252_fullText_1"]	Severe psychomotor retardation	C1854919
+Glutaric aciduria, type 1	C0268595	COEXISTS_WITH	["25190159_fullText_10"]	Severe psychomotor retardation	C1854919
+Metabolic Diseases	C0025517	AFFECTS	["31990683_abstract_7"]	Normal development	C1821244
+Nystagmus	C0028738	AFFECTS	["3095672_fullText_2"]	Hirsutism	C0019572
+Kidney Diseases	C0022658	COEXISTS_WITH	["9810562_fullText_3"]	Laboratory test finding	C0587081
+Hyperaldosteronism	C0020428	COEXISTS_WITH__SPEC__	["9810562_fullText_3"]	Laboratory test finding	C0587081
+Endocrine System Diseases	C0014130	COEXISTS_WITH__SPEC__	["9810562_fullText_3"]	Laboratory test finding	C0587081
+Diabetes Mellitus	C0011849	COEXISTS_WITH	["32188809_fullText_1"]	Syncope	C0039070
+Dystrophia myotonica 1	C2931688	CAUSES	["31961442_fullText_5"]	Syncope	C0039070
+Vasovagal syncope	C0042420	ISA	["31956193_abstract_9"]	Syncope	C0039070
+Extrapontine Myelinolysis	C0393667	CAUSES	["37968847_fullText_4"]	Paraparesis	C0221166
+Virus Diseases	C0042769	COEXISTS_WITH	["26081110_fullText_74"]	Pallor	C0030232
+Myasthenic Syndromes, Congenital	C0751882	COEXISTS_WITH	["26659129_fullText_3"]	Paralysed	C0522224
+Cranial nerve palsies	C0151311	ISA	["17228821_fullText_2"]	Paralysed	C0522224
+Primary biliary cirrhosis	C0008312	AFFECTS	["34728431_fullText_5"]	Hypotension	C0020649
+Degenerative disorder	C1285162	AFFECTS	["4051461_fullText_4"]	Specimen unsatisfactory for diagnosis	C0702119
+Horizontal Nystagmus	C0271385	COEXISTS_WITH	["34831340_fullText_46"]	Does play	C0600138
+Nephrocalcinosis	C0027709	COEXISTS_WITH	["35741019_fullText_69"]	Hepatomegaly	C0019209
+Congenital Disorders	C0242354	CAUSES	["12872847_fullText_1"]	Hepatomegaly	C0019209
+Phenylketonurias	C0031485	COEXISTS_WITH	["26088792_fullText_5"]	Intoxication	C0728899
+Hypoglycemia	C0020615	COEXISTS_WITH	["34848131_fullText_4"]	Intoxication	C0728899
+SVEINSSON CHORIORETINAL ATROPHY	C1862382	PREDISPOSES	["34850659_fullText_9"]	Intoxication	C0728899
+Neonatal Abstinence Syndrome	C0027609	AFFECTS	["33798593_fullText_1"]	seizure activity	C1148454
+Epilepsy	C0014544	COEXISTS_WITH	["36460464_fullText_8"]	seizure activity	C1148454
+Phenylketonurias	C0031485	AFFECTS	["23946023_fullText_1"]	medical care	C0496675
+Cerebrovascular accident	C0038454	AFFECTS	["24468193_fullText_1"]	Rapid onset	C1838994
+Malnutrition	C0162429	AFFECTS	["24731534_fullText_85"]	exacerbation acute	C0743630
+Dehydration	C0011175	AFFECTS	["24731534_fullText_85"]	exacerbation acute	C0743630
+Phenylketonurias	C0031485	COEXISTS_WITH	["30823463_fullText_2","28940742_fullText_1"]	Weaning	C0043084
+Nasopharyngitis	C0027441	COEXISTS_WITH	["37449930_fullText_9"]	Sedated state	C0235195
+Disorder of eye	C0015397	COEXISTS_WITH	["9282370_fullText_9"]	ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED, SUSCEPTIBILITY TO, 3	C2675556
+Lesion of brain	C0221505	COEXISTS_WITH	["12070722_fullText_1"]	ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED, SUSCEPTIBILITY TO, 3	C2675556
+Acute respiratory failure	C0264490	COEXISTS_WITH	["36581920_fullText_3"]	Respiratory distress	C0476273
+Myotonic Dystrophy	C0027126	CAUSES	["26092529_fullText_78"]	Respiratory distress	C0476273
+Pleural effusion disorder	C0032227	CAUSES	["35308014_fullText_56"]	Respiratory distress	C0476273
+Stimulus deprivation amblyopia	C0152189	IS_A		Amblyopia	C0002418
+Refractive amblyopia	C0152190	IS_A		Amblyopia	C0002418
+Amblyopia, Suppression	C0750903	IS_A		Amblyopia	C0002418
+Anemia	C0002871	COEXISTS_WITH	["29560582_fullText_3"]	underdiagnosis	C0679837
+Cardiomyopathies	C0878544	COEXISTS_WITH	["29560582_fullText_3"]	underdiagnosis	C0679837
+Syndrome	C0039082	COEXISTS_WITH	["17228821_fullText_2"]	skeletal deformity	C0241052
+CODAS syndrome	C1838180	COEXISTS_WITH	["29518248_fullText_3"]	Marked clinical heterogeneity	C1857382
+Hereditary Diseases	C0019247	CAUSES	["39151654_fullText_1"]	Muscle Weakness	C0151786
+Myasthenic crisis	C0270942	ISA	["32660532_fullText_2"]	Muscle Weakness	C0151786
+Ketosis	C0022638	COEXISTS_WITH	["21431619_fullText_22"]	Vomiting	C0042963
+Failure to Thrive	C0015544	COEXISTS_WITH	["9669722_fullText_11"]	Vomiting	C0042963
+Mitochondrial Diseases	C0751651	AFFECTS	["28899781_fullText_3"]	poor health	C0683321
+Metabolic Diseases	C0025517	COEXISTS_WITH	["21431621_fullText_168"]	Skin Wrinkling	C0037301
+Glaucoma	C0017601	AFFECTS	["34402741_fullText_1"]	Scotoma	C0036454
+Beta-Hydroxyisobutyryl CoA Deacylase Deficiency	C0342738	COEXISTS_WITH	["26026795_fullText_2"]	screen techniques	C0807878
+Rare Diseases	C0678236	COEXISTS_WITH	["37578052_fullText_1"]	Variable manifestations	C3150238
+Fabry Disease	C0002986	COEXISTS_WITH__SPEC__	["37578052_fullText_1"]	Variable manifestations	C3150238
+Myasthenic Syndromes, Congenital	C0751882	COEXISTS_WITH	["19520274_fullText_1"]	Newborn (finding)	C2239178
+Myotonic Dystrophy	C0027126	COEXISTS_WITH	["6543902_fullText_1"]	Newborn (finding)	C2239178
+Centronuclear myopathy	C0175709	COEXISTS_WITH	["525348_fullText_5"]	Newborn (finding)	C2239178
+EPILEPSY, PYRIDOXINE-DEPENDENT	C1849508	COEXISTS_WITH	["27186704_fullText_4","26101365_fullText_8"]	Newborn (finding)	C2239178
+Acidosis, Lactic	C0001125	AFFECTS	["24113355_fullText_1"]	Newborn (finding)	C2239178
+Mitochondrial Myopathies	C0162670	COEXISTS_WITH	["23835682_fullText_14","20091552_fullText_10"]	Endurance	C0518031
+Nephrocalcinosis	C0027709	COEXISTS_WITH	["35741019_fullText_69"]	Transaminases increased	C0438717
+LEBER OPTIC ATROPHY AND DYSTONIA	C1839040	COEXISTS_WITH	["19458970_fullText_1"]	Dystonia, progressive	C2676282
+Optic Atrophy, Hereditary, Leber	C0917796	COEXISTS_WITH	["19458970_fullText_1"]	Dystonia, progressive	C2676282
+Cardiomyopathies	C0878544	PREDISPOSES	["28344440_fullText_46"]	Electrocardiogram	C0013798
+Centronuclear myopathy	C0175709	ISA	["6186788_fullText_2"]	Muscle finding	C0427194
+Protein-Losing Enteropathies	C0033680	CAUSES	["22899857_fullText_5"]	Diarrhea	C0011991
+Dysbacteriosis	C1536021	CAUSES	["36591754_fullText_5"]	Diarrhea	C0011991
+OCCULT MACULAR DYSTROPHY	C3150833	COEXISTS_WITH	["33744095_fullText_5"]	Good neonatal condition at birth	C0578757
+Phenylketonurias	C0031485	COEXISTS_WITH	["1127497_fullText_5"]	Good neonatal condition at birth	C0578757
+Neuromuscular Diseases	C0027868	CAUSES	["37209494_fullText_1"]	CNS symptom	C0422879
+Depletion of mitochondrial DNA	C0342782	COEXISTS_WITH	["31996241_fullText_68"]	SUCLA2	C3811915
+Cerebral necrosis	C1392266	COEXISTS_WITH	["16488174_fullText_5"]	Unexpected death	C0277591
+Leigh Disease	C0023264	COEXISTS_WITH	["16815282_fullText_3"]	Macular dystrophy, concentric annular	C1828210
+Myotonic Dystrophy	C0027126	COEXISTS_WITH	["3799165_fullText_1"]	Gravidity	C0600457
+Cardiomyopathy, Dilated	C0007193	COEXISTS_WITH	["35767235_fullText_9"]	Cardiac Arrhythmia	C0003811
+Neuromuscular Diseases	C0027868	COEXISTS_WITH	["23097601_fullText_14"]	Cardiac Arrhythmia	C0003811
+Multisystem disorder	C0559758	COEXISTS_WITH	["12868497_fullText_1"]	Cardiac Arrhythmia	C0003811
+Atrioventricular Block	C0004245	ISA	["30838353_fullText_3"]	Cardiac Arrhythmia	C0003811
+Fibrillation	C0232197	ISA	["23097601_fullText_29"]	Cardiac Arrhythmia	C0003811
+Atrial Fibrillation	C0004238	ISA	["37331622_fullText_1","35106529_fullText_2","15042318_fullText_2"]	Cardiac Arrhythmia	C0003811
+Syndrome	C0039082	AFFECTS	["25883322_fullText_33"]	Cardiac Arrhythmia	C0003811
+Heart failure	C0018801	AFFECTS	["20627570_fullText_4"]	Cardiac Arrhythmia	C0003811
+Cardiomyopathies	C0878544	AFFECTS	["20627570_fullText_4"]	Cardiac Arrhythmia	C0003811
+Muscular Dystrophy	C0026850	PREDISPOSES	["17217326_fullText_7"]	Cardiac Arrhythmia	C0003811
+Myasthenic Syndromes, Congenital	C0751882	COEXISTS_WITH	["26552645_fullText_7"]	Proximal muscle weakness	C0221629
+Glutaric aciduria, type 1	C0268595	AFFECTS	["26693825_fullText_163"]	Cerebral malformations	C1838626
+Progressive Muscular Atrophy	C0917981	COEXISTS_WITH	["1424455_fullText_1"]	Uncommon disorder	C1847498
+Cluster Headache	C0009088	COEXISTS_WITH	["33888080_fullText_1"]	Observation of attack	C1304680
+Dermatitis	C0011603	COEXISTS_WITH	["34288036_fullText_7"]	Pruritus	C0033774
+Agenesis of corpus callosum	C0175754	COEXISTS_WITH	["36604775_fullText_6"]	Pruritus	C0033774
+Chronic Obstructive Airway Disease	C0024117	COEXISTS_WITH	["37276335_fullText_14"]	American College of Cardiology/American Heart Association Lesion Complexity Score A	C3272281
+Epilepsy	C0014544	COEXISTS_WITH	["36460464_fullText_8"]	Co-morbid conditions	C1275743
+Parkinson Disease	C0030567	COEXISTS_WITH	["37192341_fullText_7"]	Co-morbid conditions	C1275743
+Syndrome	C0039082	AFFECTS	["19207313_fullText_3"]	Endocrine finding	C0559306
+copd exacerbation	C0740304	COEXISTS_WITH	["37155496_fullText_8"]	Adherence To Medication Regime	C2364172
+Infantile Neuroaxonal Dystrophy	C0270724	PREDISPOSES	["38040431_fullText_8"]	Adherence To Medication Regime	C2364172
+Neuromuscular Diseases	C0027868	AFFECTS	["27452966_fullText_4"]	Cardiovascular finding	C0425560
+Hypoglycemia	C0020615	AFFECTS	["34848131_fullText_3"]	Cardiovascular finding	C0425560
+Lipodystrophy	C0023787	AFFECTS	["34638939_fullText_3"]	0 days	C3842337
+Sleep Apnea Syndromes	C0037315	PREDISPOSES	["8201339_fullText_3"]	daytime sleepiness	C0541854
+Hypothyroidism	C0020676	PREDISPOSES	["31673761_fullText_4"]	daytime sleepiness	C0541854
+Psoriasis	C0033860	COEXISTS_WITH	["34611920_fullText_2"]	drug exposure	C0743284
+Muscular Atrophy	C0026846	AFFECTS	["26092529_fullText_24"]	Immobile	C0231441
+metabolic disturbance	C0746556	PREDISPOSES	["34110910_fullText_6"]	Cardiovascular event	C1320716
+Myocardial Infarction	C0027051	PREDISPOSES	["35429947_fullText_2"]	Cardiovascular event	C1320716
+Alzheimer's Disease	C0002395	COEXISTS_WITH	["34334401_fullText_5"]	Mantle	C3846131
+Diabetes Mellitus	C0011849	COEXISTS_WITH	["35834260_fullText_1"]	diabetic	C0241863
+Hypoglycemia	C0020615	AFFECTS	["33855225_fullText_4"]	diabetic	C0241863
+Intraoperative floppy iris syndrome	C1688637	PREDISPOSES	["34321822_fullText_9"]	Anticipated	C3840775
+Rare Diseases	C0678236	CAUSES	["30767057_fullText_2"]	Fatigability	C0231230
+Incontinence	C0021167	COEXISTS_WITH	["37506033_fullText_5"]	Urgency of micturition	C0085606
+Obesity	C0028754	COEXISTS_WITH	["34027896_fullText_1"]	T2d	C3854130
+Neuromuscular Diseases	C0027868	CAUSES	["29390978_fullText_44"]	Asthenia	C0004093
+nervous system disorder	C0027765	PREDISPOSES	["37966437_fullText_1"]	Suicide	C0038661
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844	COEXISTS_WITH	["29648495_fullText_3"]	Poor metabolizer	C3845231
+Peptic Esophagitis	C0014869	COEXISTS_WITH	["35714110_fullText_12"]	Gastrointestinal symptom	C0426576
+Hydrops Fetalis	C0020305	COEXISTS_WITH	["26066342_fullText_8"]	Gastrointestinal symptom	C0426576
+Myotonic Dystrophy	C0027126	CAUSES	["31735801_fullText_8"]	Gastrointestinal symptom	C0426576
+Virus Diseases	C0042769	CAUSES	["23829769_fullText_18"]	Gastrointestinal symptom	C0426576
+Phenylketonuria, Maternal	C0085547	AFFECTS	["10769367_fullText_7"]	Pregnancy Outcome	C0032972
+Obesity	C0028754	AFFECTS	["37769981_fullText_1"]	Pregnancy Outcome	C0032972
+Phenylketonurias	C0031485	AFFECTS	["3468826_fullText_2"]	Breastfeeding (mother)	C1623040
+Syndrome	C0039082	AFFECTS	["24140416_fullText_1"]	Ventricular Tachyarrhythmia ECG Assessment	C3827656
+Jervell-Lange Nielsen Syndrome	C0022387	PREDISPOSES	["36422233_fullText_1"]	Ventricular Arrhythmia ECG Assessment	C3812282
+Chronic Kidney Diseases	C1561643	PREDISPOSES	["33835396_fullText_5"]	Hyperkalemia	C0020461
+Septicemia	C0036690	COEXISTS_WITH	["35322092_fullText_10"]	Cardiac index	C0428776
+Virus Diseases	C0042769	CAUSES	["31099193_fullText_45"]	Prodromal Symptoms	C3494358
+Septicemia	C0036690	COEXISTS_WITH	["35322092_fullText_8","35322092_fullText_10","35322092_fullText_12"]	Ovariectomized female	C3687559
+Nocturia	C0028734	ISA	["36067995_fullText_1"]	Lower Urinary Tract Symptoms	C0574785
+nervous system disorder	C0027765	CAUSES	["34175450_fullText_2"]	Forgetful	C0542476
+Phenylketonurias	C0031485	COEXISTS_WITH	["20331662_fullText_4"]	Severe cognitive impairment	C3554639
+Phenylketonurias	C0031485	COEXISTS_WITH__SPEC__	["26624009_fullText_1"]	Severe cognitive impairment	C3554639
+Myopathy	C0026848	CAUSES	["28330959_fullText_107"]	Myalgia	C0231528
+Fibromyalgia	C0016053	ISA	["24803843_fullText_30"]	Myalgia	C0231528
+Mitochondrial Diseases	C0751651	COEXISTS_WITH	["26977240_fullText_67"]	physical symptom	C0679309
+Phenylketonurias	C0031485	COEXISTS_WITH	["20478016_fullText_4"]	Abdominal Pain	C0000737
+Asthma	C0004096	AFFECTS	["34628125_fullText_2"]	Small airways	C1862763
+Chronic Obstructive Airway Disease	C0024117	AFFECTS	["34628125_fullText_2"]	Small airways	C1862763
+Epilepsy	C0014544	COEXISTS_WITH__SPEC__	["36854724_fullText_1"]	Hyperexcitability Behavior	C0856984
+Rare Diseases	C0678236	AFFECTS	["37607165_fullText_1"]	Reduced life expectancy	C1858274
+Gaucher Disease	C0017205	AFFECTS__SPEC__	["37607165_fullText_1"]	Reduced life expectancy	C1858274
+Left Ventricular Hypertrophy	C0149721	COEXISTS_WITH	["22827830_fullText_34"]	Left ventricular mass	C0455825
+Neuromuscular inhibition	C0234119	COEXISTS_WITH	["20565393_fullText_4"]	normal patient	C0848894
+Heart Diseases	C0018799	ISA	["17575483_fullText_3"]	Tachyarrhythmia	C0080203
+Syndrome	C0039082	AFFECTS	["27854224_fullText_256"]	Tachyarrhythmia	C0080203
+Obesity	C0028754	ISA	["38068741_abstract_45","36384480_fullText_8","34144002_fullText_1","34144002_fullText_2","34144002_fullText_4","34144002_fullText_5","34144002_fullText_7","34144002_fullText_8","26708644_fullText_1"]	Overweight	C0497406
+Chronic respiratory failure	C0264492	AFFECTS	["26786377_fullText_2"]	advanced disease	C0679246
+Hyperthyroidism	C0020550	AFFECTS	["34570185_fullText_7"]	Increased skin temperature	C0232417
+Hyperthyroidism	C0020550	AFFECTS	["34570185_fullText_7"]	Core body temperature	C0456240
+Chronic disease	C0008679	AFFECTS	["35247145_fullText_2"]	Peripheral perfusion	C0425710
+Phenylketonurias	C0031485	AFFECTS	["24048906_fullText_2"]	Patient Problem	C1254481
+Respiratory Failure	C1145670	AFFECTS	["38041474_fullText_8"]	Patient on waiting list (finding)	C0422768
+Chronic pain	C0150055	COEXISTS_WITH	["37348821_fullText_2"]	Cachexia	C0006625
+Muscular Dystrophy	C0026850	CAUSES	["37318869_fullText_1"]	Cachexia	C0006625
+Muscular Atrophy	C0026846	COEXISTS_WITH__SPEC__	["28367954_fullText_1"]	Cachexia	C0006625
+Myotonic Dystrophy	C0027126	COEXISTS_WITH__SPEC__	["3065594_fullText_1"]	Cachexia	C0006625
+Hereditary Diseases	C0019247	CAUSES	["37406430_fullText_1"]	Single organ dysfunction	C0349410
+Epilepsy	C0014544	COEXISTS_WITH	["30420707_fullText_2"]	Long Term Survivorship	C1517940
+Lentivirus Infections	C0079680	AFFECTS	["25333616_fullText_31"]	blank	C0750479
+Tuberculosis, Pulmonary	C0041327	COEXISTS_WITH	["34882838_fullText_4"]	Duration of gestation	C0460089
+Phenylketonurias	C0031485	COEXISTS_WITH	["17607414_fullText_4"]	Autistic features	C1846135
+Dermatitis	C0011603	COEXISTS_WITH__SPEC__	["34288036_fullText_7"]	Generalized pruritus	C0475858
+Hypertensive disease	C0020538	COEXISTS_WITH	["35482399_fullText_4"]	Second half	C3843057
+Myotonic Dystrophy	C0027126	AFFECTS	["2128051_fullText_6"]	Increased prolactin level	C0747979
+Metabolic Diseases	C0025517	COEXISTS_WITH	["36246929_fullText_3"]	Increased prolactin level	C0747979
+Hyperprolactinemia	C0020514	COEXISTS_WITH	["36286827_fullText_10"]	peri-menopausal	C0849668
+Nephrosis	C0027720	IS_A		Proteinuria	C0033687
+Chronic Headache	C0151293	AFFECTS	["35840874_fullText_8"]	Pain Threshold	C0162703
+Chronic disease	C0008679	COEXISTS_WITH	["36790443_fullText_1"]	chemical exposure	C0678803
+Paraphimosis	C0030483	IS_A		Phimosis	C0031538
+Epilepsy	C0014544	COEXISTS_WITH	["28344438_fullText_15"]	Histological finding	C0449575
+Hydrops Fetalis, Non-Immune	C0455988	COEXISTS_WITH	["31420886_fullText_10"]	Thrombocytopenia	C0040034
+Blood Coagulation Disorders	C0005779	COEXISTS_WITH	["26066342_fullText_9"]	Thrombocytopenia	C0040034
+Acquired thrombocytopenia	C0154301	IS_A		Thrombocytopenia	C0040034
+Thrombocytopenia due to platelet alloimmunization	C0272286	IS_A		Thrombocytopenia	C0040034
+Phenylketonurias	C0031485	COEXISTS_WITH	["31112507_fullText_5"]	Fourth Stage of Labor	C2985294
+Phenylketonurias	C0031485	AFFECTS	["21216643_fullText_1"]	Severe brain damage	C3279537
+Allergic condition	C0851444	AFFECTS	["34482800_fullText_1"]	Severe inflammation	C0522569
+Asthma	C0004096	COEXISTS_WITH	["34449953_fullText_6","34449953_fullText_9","34449953_fullText_10","34449953_fullText_11"]	Skier	C0425040
+Glaucoma	C0017601	COEXISTS_WITH	["37150298_fullText_4"]	3/12	C0442761
+SVEINSSON CHORIORETINAL ATROPHY	C1862382	COEXISTS_WITH	["35738030_fullText_3"]	Military service	C3714797
+Glaucoma	C0017601	ISA	["35587357_fullText_1"]	Abnormal blood pressure	C0005826
+Myotonic Dystrophy	C0027126	COEXISTS_WITH	["7811171_fullText_5"]	chronic fatigue	C0518656
+Ischemic stroke	C0948008	COEXISTS_WITH	["36778208_fullText_7"]	Lymphocyte count decreased	C0853986
+BRACHYDACTYLY, TYPE D	C0220664	COEXISTS_WITH	["37500247_fullText_1"]	physical appearance	C0750731
+Asthma	C0004096	COEXISTS_WITH	["36959028_fullText_2"]	Airway Remodeling	C2717792
+Akathisia, Tardive	C0162549	AFFECTS	["36522124_fullText_1"]	Repetitive movements	C3806732
+Carnitine deficiency	C1142132	COEXISTS_WITH	["32872442_fullText_158"]	GA-1	C3840680
+Acute encephalopathy	C1306587	COEXISTS_WITH	["15689364_fullText_2"]	GA-1	C3840680
+Macrocephaly	C0221355	COEXISTS_WITH	["16430418_fullText_3"]	GA-1	C3840680
+Migraine Disorders	C0149931	COEXISTS_WITH	["35848693_fullText_2"]	Source of information	C0683836
+Chronic pain syndrome	C1298685	AFFECTS	["35544938_fullText_6"]	Eye symptom	C0586406
+Cardiovascular Diseases	C0007222	COEXISTS_WITH	["34103192_fullText_7"]	Bereavement, life event (finding)	C1879338
+Myotonic Dystrophy	C0027126	COEXISTS_WITH__SPEC__	["3065594_fullText_1"]	Skeletal muscle weakness	C3806327
+Parkinson Disease	C0030567	AFFECTS	["35041839_fullText_10"]	Procedural memory	C0561782
+Chronic disease	C0008679	AFFECTS	["35468904_fullText_1"]	Memory difficulties	C1843862
+Neuromuscular Diseases	C0027868	CAUSES	["29390978_fullText_44"]	Early satiety	C0239233
+Cholelithiasis	C0008350	CAUSES	["18653337_fullText_5"]	abdominal symptom	C0740651
+Epilepsy	C0014544	COEXISTS_WITH	["37580162_fullText_1"]	Seizures in the newborn, refractory	C3151685
+Hyperphenylalaninaemia	C0751435	COEXISTS_WITH	["9542220_fullText_3"]	Previous pregnancies 2	C0232997
+Malignant hyperpyrexia due to anesthesia	C0024591	COEXISTS_WITH	["3207229_fullText_1"]	Previous pregnancies 2	C0232997
+Equine laminitis	C0263541	AFFECTS	["38459834_fullText_85"]	Partial loss	C3845645
+Kernicterus due to isoimmunization	C0270204	IS_A		Neonatal Jaundice	C0022353
+Perinatal jaundice due to hepatocellular damage	C0158976	IS_A		Neonatal Jaundice	C0022353
+Congenital Disorders	C0242354	COEXISTS_WITH	["36965289_fullText_1"]	Variable features	C2673413
+Hypoglycemia	C0020615	COEXISTS_WITH	["35308014_fullText_4"]	Hyperinsulinemic hypoglycemia	C1864903
+Spinal Muscular Atrophy	C0026847	COEXISTS_WITH	["1202397_fullText_3"]	Place in family order: youngest sibling	C0728834
+Congenital Disorders	C0242354	COEXISTS_WITH	["22801829_fullText_1"]	Electroretinographic (ERG) finding	C0429401
+Sleep Apnea, Obstructive	C0520679	AFFECTS	["36528660_fullText_2"]	Small corpus callosum	C1846150
+Rare Diseases	C0678236	AFFECTS	["36181121_fullText_1"]	Connective and Soft Tissue Finding	C3714517
+Dystrophia myotonica 1	C2931688	AFFECTS__SPEC__	["36181121_fullText_1"]	Connective and Soft Tissue Finding	C3714517
+Neuromuscular Diseases	C0027868	AFFECTS	["6702917_fullText_6"]	Fetus normal	C0566879
+Epilepsy	C0014544	COEXISTS_WITH	["30746764_fullText_7"]	EEG HYPSARRHYTHMIA	C2216187
+Zellweger Syndrome	C0043459	COEXISTS_WITH	["21826223_fullText_20"]	Infant Death	C0549159
+Phenylketonurias	C0031485	COEXISTS_WITH	["7195856_fullText_1"]	Severe viral infections	C3277428
+brain dysfunction	C0262405	COEXISTS_WITH	["37291632_fullText_2"]	Microcephaly, severe	C1850352
+Micronodular cirrhosis	C0267812	ISA	["17954208_fullText_5"]	General symptoms and signs (R50-R69)	C0478147
+Neurodegenerative Disorders	C0524851	AFFECTS	["20959636_fullText_120"]	Peroxisome deficiency	C3279400
+Rare Diseases	C0678236	COEXISTS_WITH	["32013919_fullText_79"]	Hearing impairment, sensorineural	C3275535
+Zellweger Syndrome	C0043459	COEXISTS_WITH	["15685158_fullText_9"]	Abnormal neuronal migration	C1837231
+Peroxisomal Disorders	C0282528	COEXISTS_WITH	["11478384_fullText_1","9382874_fullText_1"]	Abnormal neuronal migration	C1837231
+Hereditary Diseases	C0019247	COEXISTS_WITH	["877816_fullText_1"]	Carrier of disorder	C0560175
+Cystic Periventricular Leukomalacia	C0751280	COEXISTS_WITH	["7567228_fullText_1"]	Periventricular cysts	C1839858
+Myopathy	C0026848	COEXISTS_WITH	["27266866_fullText_17"]	Myotonic discharges	C1850308
+Respiratory Failure	C1145670	COEXISTS_WITH	["30838353_fullText_3"]	Respiratory muscle weakness	C1836141
+pulmonary involvement	C0748159	COEXISTS_WITH	["30301614_fullText_13"]	Respiratory muscle weakness	C1836141
+Syndrome	C0039082	COEXISTS_WITH	["671991_fullText_3"]	Cardialgia	C0858529
+Myopathy	C0026848	COEXISTS_WITH	["26501102_fullText_129"]	Atrophic fibers	C1850834
+CRANIOMETAPHYSEAL DYSPLASIA, AUTOSOMAL DOMINANT	C1852502	COEXISTS_WITH	["24932094_fullText_5","24932094_fullText_35"]	Electrocardiogram atrioventricular block complete heart block	C2215935
+Myotonic Dystrophy	C0027126	AFFECTS	["1346925_fullText_1"]	Muscle wasting, progressive	C2678062
+Deglutition Disorders	C0011168	AFFECTS	["30994189_fullText_2"]	Gagging	C0016927
+Diabetes	C0011847	COEXISTS_WITH	["18657426_fullText_9"]	Abnormal nerve conduction	C0234090
+nervous system disorder	C0027765	COEXISTS_WITH	["16006155_fullText_6"]	Sleep abnormalities	C3277092
+Congenital adrenal hyperplasia	C0001627	COEXISTS_WITH	["236512_fullText_10"]	Bone age	C0429620
+Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia	C3714844	COEXISTS_WITH	["23532445_fullText_4"]	Line 7	C3843260
+Virus Diseases	C0042769	COEXISTS_WITH	["26081110_fullText_74"]	Kussmaul's respiration	C0541813
+Somatotropin deficiency	C0271561	COEXISTS_WITH	["30419932_fullText_61"]	Short stature, severe	C1843670
+Brachydactyly	C0221357	ISA	["30419932_fullText_81"]	Short finger	C0239594
+Adrenal gland hypofunction	C0001623	AFFECTS	["30419932_fullText_212"]	Life crisis	C0438400
+Virus Diseases	C0042769	COEXISTS_WITH	["26081110_fullText_74"]	Upper limb dystonia	C1843267
+Diabetes Mellitus	C0011849	AFFECTS	["36557887_fullText_141"]	Tissue Failure	C1710427
+Chronic disease	C0008679	AFFECTS	["36412346_fullText_46"]	Cystic Change	C1511605
+Nephrocalcinosis	C0027709	COEXISTS_WITH	["35741019_fullText_69"]	Liver palpable	C0577045
+Phenylketonurias	C0031485	COEXISTS_WITH__SPEC__	["15088800_fullText_1"]	Progressive mental retardation	C1846149
+Metabolic Diseases	C0025517	COEXISTS_WITH	["15088800_fullText_1"]	Progressive mental retardation	C1846149
+Retinitis Pigmentosa	C0035334	AFFECTS	["26627182_fullText_41"]	Tunnel visual field constriction	C2937228
+Glaucoma	C0017601	AFFECTS	["26627182_fullText_41"]	Tunnel visual field constriction	C2937228
+Sandhoff Disease	C0036161	COEXISTS_WITH	["27682710_fullText_3"]	Cherry red spot	C0278234
+Dystrophia myotonica 1	C2931688	AFFECTS	["22131273_fullText_3"]	Tends not to be sociable	C0564537
+Dystrophia myotonica 1	C2931688	AFFECTS	["28344440_fullText_0"]	Abnormal Growth Hormone	C0860787
+Heart Block	C0018794	AFFECTS__SPEC__	["28344440_fullText_0"]	Abnormal Growth Hormone	C0860787
+Heart Diseases	C0018799	AFFECTS	["28344440_fullText_0"]	Abnormal Growth Hormone	C0860787
+Deuteranomaly	C3887938	AFFECTS	["39231983_fullText_51"]	Neuroinflammation	C5394393
+Cold paroxysmal hemoglobinuria	C0086774	IS_A		Hemoglobinuria	C0019048
+Gingival Hypertrophy	C0017567	IS_A		Gingival Overgrowth	C0376480
+Epulides	C0266919	IS_A		Gingival Overgrowth	C0376480
+Hereditary gingival fibromatosis	C0399440	IS_A		Gingival Overgrowth	C0376480
+Orbital Cellulitis	C0149507	IS_A		Acute inflammation of orbit	C0155256
+Tenonitis	C0155259	IS_A		Acute inflammation of orbit	C0155256
+Orbital osteomyelitis	C0155258	IS_A		Acute inflammation of orbit	C0155256
+Orbital periostitis	C0155257	IS_A		Acute inflammation of orbit	C0155256
+Familial lecithin cholesterol acyltransferase deficiency	C0023195	IS_A		Hypolipoproteinemias	C0020623
+Hypobetalipoproteinemias	C0020597	IS_A		Hypolipoproteinemias	C0020623
+Tangier Disease	C0039292	IS_A		Hypolipoproteinemias	C0020623
+Abetalipoproteinemia	C0000744	IS_A		Hypolipoproteinemias	C0020623
+Syphilis, Congenital	C0039131	IS_A		Syphilitic chancre	C0007939
+Syphilis, Latent	C0039133	IS_A		Syphilitic chancre	C0007939
+Syphilis, tertiary	C0153188	IS_A		Syphilitic chancre	C0007939
+Syphilis, secondary	C0149985	IS_A		Syphilitic chancre	C0007939
+Early symptomatic syphilis	C0153139	IS_A		Syphilitic chancre	C0007939
+Intervertebral disk calcification	C0410607	AFFECTS	["37563694_fullText_5"]	Joint stiffness, progressive	C3550574
+Mitochondrial Diseases	C0751651	COEXISTS_WITH	["38459834_fullText_87"]	1 (finding)	C5201140
+Phenylketonurias	C0031485	COEXISTS_WITH	["7719440_fullText_11"]	General physical condition	C1142435
+Hyperphenylalaninaemia	C0751435	COEXISTS_WITH	["21152388_fullText_10"]	Therapeutic diets	C0452264
+Hyperphenylalaninaemia	C0751435	AFFECTS	["21933604_fullText_1"]	Livebirth	C0419373
+Phenylketonurias	C0031485	COEXISTS_WITH	["18755275_fullText_1"]	Decreased brain weight	C1855082
+Phenylketonurias	C0031485	AFFECTS	["6446685_fullText_1"]	IMBECILITY	C0541729
+EPILEPSY, PYRIDOXINE-DEPENDENT	C1849508	AFFECTS	["38579001_fullText_4"]	Accumulation	C4055506
+Progressive cerebellar ataxia	C0393525	AFFECTS	["38580500_fullText_3"]	Motor incoordination	C4012581
+motor disorder	C0221163	COEXISTS_WITH	["38923784_fullText_75"]	SYSTEM:*	C5444317
+Acute encephalopathy	C1306587	COEXISTS_WITH	["38419071_fullText_12"]	Lethality	C5203340
+Respiratory Failure	C1145670	COEXISTS_WITH	["38419071_fullText_12"]	Lethality	C5203340
+Congenital disorder of glycosylation type 1G	C2931001	COEXISTS_WITH	["38876156_fullText_2"]	Ocular abnormalities	C5436858
+Syndrome	C0039082	COEXISTS_WITH	["39267509_fullText_3"]	Encounter for Genetic screening NEC in ICD9CM	C0017394
+Phenylketonurias	C0031485	AFFECTS	["39146838_fullText_2"]	Intensity and Distress 1	C5202796
+Epilepsy	C0014544	COEXISTS_WITH	["39231983_fullText_185"]	High risk	C4319571
+Machado-Joseph Disease	C0024408	COEXISTS_WITH	["36729871_fullText_22"]	Mixed Response	C5236980

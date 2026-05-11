@@ -1,0 +1,845 @@
+Drug	Drug_id	RELATION	PROVENANCE	Phenotype	Phenotype_id
+Basis	C1874451	AFFECTS	["27484195_fullText_55"]	Cardiac dysfunction	C3277906
+Dopamine Hydrochloride	C0282151	AFFECTS	["34556558_fullText_1"]	Excitability	C0235169
+Dopamine Hydrochloride	C0282151	PREDISPOSES	["35932698_fullText_3"]	Imbalance	C1397014
+Dopamine Hydrochloride	C0282151	INHIBITS	["34274430_fullText_20"]	2+	C3833492
+Dopamine	C0013030	CAUSES	["30853107_fullText_2"]	Neurologic Symptoms	C0235031
+Dopamine	C0013030	CAUSES	["35300994_fullText_6"]	Hyperalgesia	C0020429
+Dopamine	C0013030	AFFECTS	["37946079_fullText_3"]	Chemosensitivity	C2347610
+Dopamine	C0013030	AFFECTS	["34519561_fullText_3"]	acute stress	C0848237
+Dopamine	C0013030	AFFECTS	["35041839_fullText_3"]	Procedural memory	C0561782
+Dopamine	C0013030	AFFECTS	["35748393_fullText_2"]	Memory observations	C0700327
+Dopamine	C0013030	AFFECTS	["33942926_fullText_2"]	> 2 years	C3843647
+Dopamine	C0013030	AFFECTS	["37289360_fullText_11"]	Co-morbid conditions	C1275743
+Dopamine	C0013030	AFFECTS	["34724850_fullText_2"]	Finding relating to sexuality and sexual activity	C3495422
+Dopamine	C0013030	ASSOCIATED_WITH	["35806448_fullText_4"]	Psychiatric symptom	C0233401
+Dopamine	C0013030	ASSOCIATED_WITH	["34556558_fullText_9","35544785_fullText_1"]	Excitability	C0235169
+Dopamine	C0013030	INHIBITS	["36884013_fullText_1"]	patience	C0516943
+Dopamine Agonists	C0178601	CAUSES	["34704845_fullText_1"]	Falls	C0085639
+Dopamine Agonists	C0178601	AFFECTS	["33851429_fullText_12"]	Pregnancy Outcome	C0032972
+Dopamine Agonists	C0178601	PREVENTS	["36211804_fullText_6"]	Tremor	C0040822
+Dopamine Agonists	C0178601	PREVENTS	["33759401_fullText_3"]	Daytime somnolence	C2219848
+Catecholamines	C0007412	CAUSES	["30853107_fullText_2"]	Neurologic Symptoms	C0235031
+Catecholamines	C0007412	CAUSES__SPEC__	["35347385_fullText_2"]	Headache	C0018681
+Catecholamines	C0007412	CAUSES__SPEC__	["35347385_fullText_2"]	Sweating	C0038990
+Catecholamines	C0007412	CAUSES__SPEC__	["35347385_fullText_2"]	Palpitations	C0030252
+Catecholamines	C0007412	CAUSES__SPEC__	["35347385_fullText_2"]	Paroxysmal hypertension	C0221154
+Catecholamines	C0007412	AUGMENTS	["35959878_fullText_2"]	Androgen Receptor Positive	C2986463
+Levodopa	C0023570	CAUSES	["9545000_fullText_13"]	Prolactin level normal	C0580441
+Levodopa	C0023570	CAUSES	["16161143_fullText_6"]	Dystonia, Limb	C0751093
+Levodopa	C0023570	CAUSES	["2391519_fullText_3"]	Falls	C0085639
+Levodopa	C0023570	CAUSES	["16161143_fullText_6"]	Hypotonia, severe	C1839630
+Dopaminergic Agents	C0013036	AUGMENTS	["33754884_fullText_5"]	Step length	C0427126
+Calcium	C0006675	AFFECTS	["21685920_fullText_5"]	Cardiac dysfunction	C3277906
+Zinostatin	C0027597	INHIBITS	["39516744_fullText_22"]	6/4	C0442748
+Choline	C0008405	ASSOCIATED_WITH	["35987307_fullText_6"]	Depressive Symptoms	C0086132
+Taurine	C0039350	AFFECTS	["448391_fullText_4"]	Excitability	C0235169
+Taurine	C0039350	ASSOCIATED_WITH	["7131034_fullText_5"]	Excitability	C0235169
+Tryptophan	C0041249	CAUSES	["35840874_fullText_2"]	Headache	C0018681
+Loperamide	C0023992	CAUSES	["33750988_fullText_4"]	Colonic constipation	C1321663
+MG 132	C0246694	DISRUPTS	["39088078_fullText_137"]	Accumulation	C4055506
+Duration	C2926735	CAUSES	["37770252_fullText_18"]	Sequela of disorder	C0543419
+Duration	C2926735	CAUSES	["34052807_fullText_2"]	sleep loss	C0235161
+Duration	C2926735	CAUSES	["34052807_fullText_2"]	Sleep disturbances	C0037317
+Duration	C2926735	CAUSES	["34052807_fullText_2"]	Sleep Deprivation	C0037316
+Duration	C2926735	AUGMENTS	["36367720_fullText_2"]	Abstinence	C3843422
+Duration	C2926735	AUGMENTS	["36893630_fullText_13"]	Second half	C3843057
+Antioxidants	C0003402	CAUSES	["30429455_fullText_85"]	Rescue	C3840763
+Antioxidants	C0003402	AFFECTS	["35357374_fullText_1"]	Paralysed	C0522224
+Program	C2728259	AFFECTS	["27322473_fullText_9"]	Myalgia	C0231528
+Program	C2728259	AUGMENTS	["31607269_fullText_95"]	unwellness	C0683320
+1-cyclohexyl-3-(2-(4-morpholinyl)ethyl)carbodiimide tosylate	C0110177	AUGMENTS	["28542314_fullText_23"]	Sequela of disorder	C0543419
+Mediator brand of benfluorex hydrochloride	C0127400	DISRUPTS	["34811511_fullText_11"]	Excitability	C0235169
+Level	C2946261	AFFECTS	["34196591_fullText_6"]	Protection	C1545588
+animal allergen extracts	C3540698	CAUSES	["28753212_fullText_30"]	Weight Gain	C0043094
+animal allergen extracts	C3540698	INHIBITS	["37770252_fullText_94"]	Reflex, Righting	C0234156
+animal allergen extracts	C3540698	INHIBITS	["31509256_fullText_3"]	Endurance	C0518031
+animal allergen extracts	C3540698	AUGMENTS	["27063795_fullText_57"]	Electrocardiogram: P-R interval	C0429087
+animal allergen extracts	C3540698	DISRUPTS	["27484195_fullText_18"]	Consequent	C3845876
+animal allergen extracts	C3540698	DISRUPTS	["37972885_fullText_4"]	Xerostomia	C0043352
+8-chloro-cyclic adenosine monophosphate	C0050063	CAUSES	["36614209_fullText_6"]	Lipid droplet accumulation	C3278535
+Ethanol	C0001962	CAUSES	["36323379_fullText_2"]	Florid red complexion (finding)	C0232370
+Ethanol	C0001962	AUGMENTS	["37721993_fullText_9"]	Social Interaction	C0037420
+Ethanol	C0001962	DISRUPTS	["33965399_fullText_11"]	Excitability	C0235169
+Ethanol	C0001962	PREVENTS	["33965399_fullText_1"]	Excitability	C0235169
+Calcium ion	C0596235	AFFECTS	["28416514_fullText_144"]	Ventricular Tachyarrhythmia ECG Assessment	C3827656
+Calcium ion	C0596235	INHIBITS	["34831263_fullText_1"]	Handling	C1832073
+Calcium ion	C0596235	INHIBITS	["36057845_fullText_8","36057845_fullText_11","36057845_fullText_18"]	Encounter due to vagabond status	C0687129
+Lipids	C0023779	CAUSES	["31727010_fullText_0"]	Death Related to Adverse Event	C1705232
+Lipids	C0023779	CAUSES	["36426412_fullText_1"]	Heterogeneous disorder	C1858576
+other medicated shampoos in ATC	C3539125	CAUSES	["24179176_fullText_6"]	Imbalance	C1397014
+other medicated shampoos in ATC	C3539125	CAUSES	["34467644_fullText_77"]	Amino acid change	C1953353
+other medicated shampoos in ATC	C3539125	AFFECTS	["11595153_fullText_6"]	Excitability	C0235169
+other medicated shampoos in ATC	C3539125	AFFECTS	["20100232_fullText_6"]	Muscle Weakness	C0151786
+other medicated shampoos in ATC	C3539125	PREDISPOSES	["27063795_fullText_53"]	cardiac symptom	C0741933
+Naloxone	C0027358	AFFECTS	["35870169_fullText_1"]	Urethral function	C0422815
+Naloxone	C0027358	INHIBITS	["36368443_fullText_2"]	Immobile	C0231441
+Agonist	C2987634	CAUSES	["37493532_fullText_5"]	Absence of pain sensation	C0344307
+Agonist	C2987634	CAUSES	["37024011_fullText_7"]	Unable	C1299582
+Agonist	C2987634	AFFECTS	["34785162_fullText_1"]	Motor symptoms	C0426980
+Agonist	C2987634	AFFECTS	["35738452_fullText_9"]	Physical shape	C0700329
+Agonist	C2987634	INHIBITS	["34791301_fullText_10"]	Repetitious behavior	C1827547
+Agonist	C2987634	AUGMENTS	["33911115_fullText_11"]	Form of muscle	C0240417
+Agonist	C2987634	AUGMENTS	["35324488_fullText_1"]	Abstinence	C3843422
+Agonist	C2987634	DISRUPTS	["34004212_fullText_9"]	Tachycardia	C0039231
+Agonist	C2987634	PREVENTS	["35790401_fullText_19"]	Abdominal Pain	C0000737
+Cholesterol	C0008377	PREDISPOSES	["32368833_fullText_86"]	Associated symptom	C0521989
+Cholesterol	C0008377	AUGMENTS	["32368833_fullText_108"]	Clinical heterogeneity	C1850620
+rivastigmine	C0649350	CAUSES	["34397417_fullText_3"]	Does swallow	C0740170
+rivastigmine	C0649350	CAUSES	["34086100_fullText_7"]	Employed	C0557351
+rivastigmine	C0649350	CAUSES	["34397417_fullText_3"]	gastrointestinal distress	C0548823
+rivastigmine	C0649350	CAUSES	["34397417_fullText_3"]	Labored breathing	C0553668
+rivastigmine	C0649350	AFFECTS	["32992315_fullText_1"]	Gait	C0016928
+rivastigmine	C0649350	INHIBITS	["35665915_fullText_13"]	Falls	C0085639
+Citalopram	C0008845	AFFECTS	["36165531_fullText_3"]	Sleeplessness	C0917801
+Citalopram	C0008845	AFFECTS	["35879764_fullText_2"]	Weight Gain	C0043094
+Water	C0043047	AFFECTS	["8937344_fullText_6"]	Does swallow	C0740170
+Amino Acids	C0002520	CAUSES	["39267392_fullText_11"]	gastrointestinal discomfort	C1096250
+Amino Acids	C0002520	CAUSES	["2941618_fullText_6"]	Imbalance	C1397014
+Amino Acids	C0002520	CAUSES	["37204045_fullText_7"]	Severe phenotype	C1836408
+Amino Acids	C0002520	ASSOCIATED_WITH	["17347911_fullText_4"]	Imbalance	C1397014
+Amino Acids	C0002520	AUGMENTS	["1961204_fullText_4"]	Blood glucose normal	C0580545
+Selective Serotonin Reuptake Inhibitors	C0360105	CAUSES	["33836218_fullText_3"]	Behavioral abnormalities	C3151413
+Selective Serotonin Reuptake Inhibitors	C0360105	CAUSES	["34088639_fullText_2"]	Neurologic Manifestations	C0027854
+Selective Serotonin Reuptake Inhibitors	C0360105	CAUSES	["37819063_fullText_6"]	Mentally dull	C1621860
+Selective Serotonin Reuptake Inhibitors	C0360105	CAUSES	["35226247_fullText_2"]	hormonal changes	C1134488
+Selective Serotonin Reuptake Inhibitors	C0360105	CAUSES	["34643143_fullText_2"]	partial response	C1521726
+Selective Serotonin Reuptake Inhibitors	C0360105	CAUSES	["36644883_fullText_1"]	Indifferent mood	C0085632
+Selective Serotonin Reuptake Inhibitors	C0360105	CAUSES	["34999203_fullText_12"]	Resting state	C0679218
+Selective Serotonin Reuptake Inhibitors	C0360105	AFFECTS	["34001924_fullText_8"]	Depressive Symptoms	C0086132
+Selective Serotonin Reuptake Inhibitors	C0360105	AFFECTS	["37285976_fullText_10"]	Personality Traits	C0233849
+Selective Serotonin Reuptake Inhibitors	C0360105	AFFECTS	["36681669_fullText_5"]	Affective Symptoms	C0001726
+Selective Serotonin Reuptake Inhibitors	C0360105	AFFECTS	["35654396_fullText_5"]	Prognosis bad	C0278252
+Selective Serotonin Reuptake Inhibitors	C0360105	AFFECTS	["34876436_fullText_3","34876436_fullText_4"]	Suicide	C0038661
+Selective Serotonin Reuptake Inhibitors	C0360105	AFFECTS	["37507510_fullText_1"]	Suicidal behavior	C1760428
+Selective Serotonin Reuptake Inhibitors	C0360105	AFFECTS	["34083254_fullText_3"]	Clinical variability	C1842176
+Selective Serotonin Reuptake Inhibitors	C0360105	AFFECTS	["36847831_fullText_6"]	Fearful expression	C2674584
+Selective Serotonin Reuptake Inhibitors	C0360105	INHIBITS	["37074259_fullText_9"]	Anxiety symptoms	C0860603
+Selective Serotonin Reuptake Inhibitors	C0360105	INHIBITS	["36847831_fullText_3"]	Fearful expression	C2674584
+Selective Serotonin Reuptake Inhibitors	C0360105	INHIBITS	["33723417_fullText_4"]	Consequent	C3845876
+Selective Serotonin Reuptake Inhibitors	C0360105	AUGMENTS	["35246699_fullText_9"]	Abstinence	C3843422
+Selective Serotonin Reuptake Inhibitors	C0360105	AUGMENTS	["37068027_fullText_1"]	blood loss risk	C3251812
+Selective Serotonin Reuptake Inhibitors	C0360105	AUGMENTS	["34009863_fullText_8"]	Unemployment	C0041674
+Selective Serotonin Reuptake Inhibitors	C0360105	PREVENTS	["34727752_fullText_1","35246699_fullText_8"]	Depressive Symptoms	C0086132
+Clonazepam	C0009011	AFFECTS	["35008465_fullText_6"]	insensitivity	C0237677
+Trihexyphenidyl	C0041009	PREVENTS	["33852744_fullText_11"]	Xerostomia	C0043352
+Triglycerides	C0041004	AUGMENTS	["37805080_fullText_4"]	total lipids	C0369610
+Serotonin	C0036751	CAUSES	["30853107_fullText_2"]	Neurologic Symptoms	C0235031
+Serotonin	C0036751	CAUSES	["37584461_fullText_17"]	Muscular stiffness	C0221170
+Serotonin	C0036751	CAUSES	["36579847_fullText_4"]	Vomiting	C0042963
+Serotonin	C0036751	CAUSES	["36579847_fullText_4"]	Nausea	C0027497
+Serotonin	C0036751	AFFECTS	["34148100_fullText_5"]	Diarrhea	C0011991
+Serotonin	C0036751	AUGMENTS	["35417691_fullText_7"]	Learning performance	C0582590
+Serotonin	C0036751	DISRUPTS	["34029269_fullText_1"]	Systemic arterial pressure	C1272641
+varenicline	C1569608	CAUSES	["35395548_fullText_3"]	Abstinence	C3843422
+varenicline	C1569608	CAUSES	["35395548_fullText_3"]	2 to 3 days	C3843066
+varenicline	C1569608	AFFECTS	["33977560_fullText_2"]	Gait	C0016928
+caffeic acid	C0054433	CAUSES	["35640634_fullText_1"]	Blood glucose decreased	C0595883
+Blockade	C3540676	CAUSES	["34409771_fullText_7"]	Allodynia	C0458247
+Blockade	C3540676	CAUSES	["34409771_fullText_7"]	Hyperalgesia	C0020429
+Blockade	C3540676	CAUSES	["37778690_fullText_4"]	Low pH	C0728725
+Blockade	C3540676	AFFECTS	["35763518_fullText_5"]	Cardiac index	C0428776
+Blockade	C3540676	INHIBITS	["35763518_fullText_4"]	Cardiac index	C0428776
+Blockade	C3540676	AUGMENTS	["34233773_fullText_9"]	> 2/day	C3843640
+Blockade	C3540676	AUGMENTS	["36414159_fullText_3"]	Panic	C0030318
+Blockade	C3540676	PREVENTS	["34409771_fullText_6"]	Mechanical Allodynia	C2936719
+Blockade	C3540676	PREVENTS	["35380477_fullText_8"]	Hypercapnia	C0020440
+Endocannabinoids	C1172779	CAUSES	["35914767_fullText_1"]	Florid red complexion (finding)	C0232370
+Endocannabinoids	C1172779	CAUSES	["33933537_fullText_9"]	Protection	C1545588
+Endocannabinoids	C1172779	AFFECTS	["34822817_fullText_2"]	Excitability	C0235169
+Endocannabinoids	C1172779	ASSOCIATED_WITH	["36615298_fullText_5"]	Orofacial Pain	C0178782
+Endocannabinoids	C1172779	ASSOCIATED_WITH	["34891121_fullText_8"]	Eye pain	C0151827
+Caffeine	C0006644	AFFECTS	["36309115_fullText_4"]	Sleep disturbances	C0037317
+Caffeine	C0006644	AUGMENTS	["28032667_fullText_5"]	Behavioral disability	C0475639
+Enzymes, hematological	C3540017	INHIBITS	["9417495_fullText_1"]	Platelet volume	C1562590
+Enzymes, hematological	C3540017	INHIBITS	["9417495_fullText_1"]	Cardiac index	C0428776
+Glycine	C0017890	INHIBITS	["33865004_fullText_4"]	FEV1 Adverse Event	C1561566
+Acetylcholine	C0001041	AUGMENTS	["34520598_fullText_9"]	wave slowing	C0858603
+Atypical antipsychotic	C1276996	INHIBITS	["37811711_fullText_24","37811711_fullText_27"]	Self injury	C3809885
+Atypical antipsychotic	C1276996	INHIBITS	["37811711_fullText_23"]	Irritable Mood	C0022107
+aripiprazole	C0299792	AFFECTS	["31615832_fullText_156","35653343_fullText_147"]	Rescue	C3840763
+Pharmacologic Substance	C1254351	CAUSES	["34708126_fullText_8"]	Sedated state	C0235195
+Pharmacologic Substance	C1254351	AFFECTS	["36580744_fullText_1"]	cholinesterase inhibition	C0877006
+Pharmacologic Substance	C1254351	INHIBITS	["18270582_fullText_4"]	Somatic mosaicism	C1866227
+Pharmacologic Substance	C1254351	INHIBITS	["33798645_fullText_1"]	Peeling of skin	C0237849
+Pharmacologic Substance	C1254351	INHIBITS	["34186142_fullText_6"]	Hypothermia, natural	C0020672
+Pharmacologic Substance	C1254351	DISRUPTS	["36434678_fullText_5"]	Forced expiratory volume in 1 second finding	C0429706
+Serine	C0036720	CAUSES	["8707300_fullText_2"]	Amino acid change	C1953353
+Antineoplastic Agents	C0003392	CAUSES	["37584820_fullText_11"]	Nausea	C0027497
+Antineoplastic Agents	C0003392	CAUSES	["37584820_fullText_11"]	Vomiting	C0042963
+Anti-Anxiety Agents	C0040616	AFFECTS	["33723124_fullText_7"]	Increased appetite (finding)	C0232461
+polyphenols	C0071649	AFFECTS__SPEC__	["35357374_fullText_1"]	Paralysed	C0522224
+Glutamic Acid	C0061472	CAUSES	["25807530_fullText_115"]	Lethal	C3151529
+Glutamic Acid	C0061472	AFFECTS	["37259727_fullText_7"]	Prognosis bad	C0278252
+Glutamic Acid	C0061472	AFFECTS	["37385784_fullText_11"]	Tissue texture abnormality	C1627773
+Sulfhydryl Compounds	C0038734	AUGMENTS	["12879091_fullText_3"]	Vitamin intake	C0518041
+Glycerylphosphorylcholine	C0017889	ASSOCIATED_WITH	["35006557_fullText_7"]	Indifferent mood	C0085632
+Glycerylphosphorylcholine	C0017889	PREVENTS	["34727752_fullText_1"]	Depressive Symptoms	C0086132
+agonists	C0243192	CAUSES	["33781949_fullText_4"]	Feeling suicidal (finding)	C0424000
+agonists	C0243192	CAUSES	["35167270_fullText_8"]	Inflammatory pain	C0234251
+agonists	C0243192	CAUSES	["36153006_fullText_7"]	Hypothermia, natural	C0020672
+agonists	C0243192	AFFECTS	["36153006_fullText_8"]	Hypothermia, natural	C0020672
+agonists	C0243192	AFFECTS	["35294269_fullText_5"]	Excitability	C0235169
+agonists	C0243192	INHIBITS	["36448990_fullText_7"]	Shivering	C0036973
+agonists	C0243192	INHIBITS	["34774500_fullText_3"]	Allodynia	C0458247
+agonists	C0243192	AUGMENTS	["36889269_fullText_10"]	Dilated	C0700124
+agonists	C0243192	AUGMENTS	["34477163_fullText_5"]	Systemic arterial pressure	C1272641
+agonists	C0243192	AUGMENTS	["34477163_fullText_5"]	maximum heart rate	C0744679
+opium alkaloids and derivative combination cough suppressants	C3539957	CAUSES	["26287655_fullText_59"]	Gait abnormality	C0575081
+Insulin	C0021641	ASSOCIATED_WITH	["3552801_fullText_1"]	Tissue sensitivity	C0234235
+Insulin	C0021641	INHIBITS	["36894421_fullText_6"]	Glucose low	C0860801
+Air	C3536832	INHIBITS	["33752971_fullText_5"]	po2 normal	C0852876
+Dantrolene	C0010976	INHIBITS	["27854224_fullText_146"]	Cardiac Arrhythmia	C0003811
+Glucose	C0017725	CAUSES	["35050903_fullText_54"]	Unexpected therapeutic effect	C0235735
+Glucose	C0017725	CAUSES	["9669722_fullText_10"]	Gastrointestinal symptom	C0426576
+Glucose	C0017725	AFFECTS	["35358799_fullText_2"]	Imbalance	C1397014
+Glucose	C0017725	AFFECTS	["21812000_fullText_2"]	Neurological observations	C0422837
+Glucose	C0017725	AFFECTS	["36237192_fullText_6"]	Weight Gain	C0043094
+Morphine	C0026549	CAUSES	["37493532_fullText_5"]	Absence of pain sensation	C0344307
+Morphine	C0026549	AFFECTS	["35106734_fullText_8"]	Excitability	C0235169
+Morphine	C0026549	AUGMENTS	["35385881_fullText_6"]	Withdrawal Symptoms	C0087169
+Fentanyl	C0015846	INHIBITS	["36294112_fullText_5"]	Level of anxiety	C0564474
+Lactate	C0376261	AFFECTS	["33825506_fullText_9"]	Imbalance	C1397014
+Lactate	C0376261	AUGMENTS	["12638019_fullText_7"]	exercise induced	C0239313
+Mexiletine Hydrochloride	C0543459	AFFECTS	["12615652_fullText_4"]	Muscle Cramp	C0026821
+Mexiletine	C0025887	AFFECTS	["33046619_fullText_6"]	Handgrip myotonia	C2750560
+Mexiletine	C0025887	AFFECTS	["36706619_fullText_10"]	Anticipated	C3840775
+Mexiletine	C0025887	AFFECTS	["33046619_fullText_7"]	Walking distance	C0429886
+Fluoxetine	C0016365	CAUSES	["33942795_fullText_9"]	Recovery of Function	C0599766
+Fluoxetine	C0016365	CAUSES	["36256730_fullText_5"]	Level of anxiety	C0564474
+Fluoxetine	C0016365	AFFECTS	["35879764_fullText_2"]	Weight Gain	C0043094
+Fluoxetine	C0016365	AFFECTS	["37858884_fullText_7"]	Immobile	C0231441
+Fluoxetine	C0016365	AFFECTS	["35234346_fullText_3"]	Weaning	C0043084
+Fluoxetine	C0016365	INHIBITS	["34744001_fullText_8"]	Reflex, Righting	C0234156
+Fluoxetine	C0016365	INHIBITS	["34465201_fullText_1"]	Increased fractures	C1838660
+Fluoxetine	C0016365	INHIBITS	["34465201_fullText_1"]	Hyponatremia	C0020625
+Dimethyl Sulfoxide	C0012403	AFFECTS	["26908607_fullText_114"]	Handling	C1832073
+Dimethyl Sulfoxide	C0012403	AUGMENTS	["34537380_fullText_8"]	Mechanical Allodynia	C2936719
+Dimethyl Sulfoxide	C0012403	AUGMENTS	["34537380_fullText_8"]	Hyperalgesia	C0020429
+TONICS	C3543842	DISRUPTS	["35934131_fullText_1"]	Excitability	C0235169
+Hypnotics	C0020591	AFFECTS	["37010536_fullText_1","37010536_fullText_3","37010536_fullText_5"]	At risk for falls	C1268740
+Norepinephrine	C0028351	AFFECTS	["33822820_fullText_7"]	Mean blood pressure	C0428886
+Norepinephrine	C0028351	AFFECTS	["36036112_fullText_4"]	Body Weight decreased	C0043096
+Norepinephrine	C0028351	AFFECTS	["34519561_fullText_3"]	acute stress	C0848237
+Norepinephrine	C0028351	AFFECTS	["35748393_fullText_2"]	Memory observations	C0700327
+Norepinephrine	C0028351	AFFECTS	["34358575_fullText_7"]	Vocalization (finding)	C0564182
+Norepinephrine	C0028351	AUGMENTS	["37838337_fullText_5"]	Excitability	C0235169
+Tyrosine	C0041485	CAUSES	["39388898_fullText_1"]	Accumulation	C4055506
+Tyrosine	C0041485	CAUSES	["1479795_fullText_4"]	Test Result	C0456984
+Tyrosine	C0041485	CAUSES	["3939586_fullText_4"]	Abnormality	C1704258
+Tyrosine	C0041485	CAUSES	["35840874_fullText_2"]	Headache	C0018681
+Tyrosine	C0041485	AFFECTS	["11013857_fullText_6"]	Normal development	C1821244
+Bactrim	C0591139	AFFECTS	["8597984_fullText_4"]	Gait	C0016928
+NADH	C0027289	CAUSES	["34743684_fullText_8"]	Papule	C0332563
+NADH	C0027289	AFFECTS	["38870029_fullText_76"]	Accumulation	C4055506
+Galactose	C0016945	CAUSES	["31954591_abstract_9"]	Favorable Clinical Outcome	C1333602
+Valine	C0042285	INHIBITS	["33139125_fullText_12"]	Sequela of disorder	C0543419
+Sugars	C0242209	CAUSES	["24997537_fullText_6"]	Severe disorder	C1836348
+Steroids	C0038317	AUGMENTS	["36306407_fullText_8"]	Worse	C1457868
+Immunoglobulins, Intravenous	C0085297	AUGMENTS	["31099193_fullText_17"]	patient condition	C0683521
+Blood lactate	C3824990	CAUSES	["35050903_fullText_29"]	CNS symptom	C0422879
+Niacin	C0027996	CAUSES	["38949024_fullText_40"]	Dizziness	C0012833
+Niacin	C0027996	CAUSES	["38949024_fullText_40"]	Headache	C0018681
+Nicotinamide adenine dinucleotide (NAD)	C0027270	AFFECTS	["30429455_fullText_7"]	Rescue	C3840763
+Fatty Acids	C0015684	CAUSES	["11478383_fullText_7"]	Unresponsiveness	C0241526
+Vaccines	C0042210	CAUSES	["31996241_fullText_33"]	Decompensation	C0231187
+Thiamine	C0039840	AUGMENTS	["38316835_fullText_18"]	Very mild	C4036115
+Levocarnitine	C0087163	CAUSES	["29490096_fullText_6"]	Urinary elimination status	C1320408
+Levocarnitine	C0087163	CAUSES	["28143689_fullText_13"]	Normal development	C1821244
+Lactic acid	C0064582	INHIBITS	["39385390_fullText_17"]	Accumulation	C4055506
+Narcotic Antagonists	C0027410	INHIBITS	["36462602_fullText_7"]	analgesic effect	C0948482
+Naltrexone	C0027360	INHIBITS	["36642390_fullText_2"]	Sucrose intake	C0556137
+Baclofen	C0004609	AFFECTS	["36473166_fullText_13"]	Failure of transfer of passive immunity in newborn	C1299937
+Scopolamine	C0036442	CAUSES	["34251950_fullText_8"]	Intoxication	C0728899
+Adrenal Cortex Hormones	C0001617	ASSOCIATED_WITH	["36595087_fullText_8"]	Pruritus	C0033774
+Adrenal Cortex Hormones	C0001617	ASSOCIATED_WITH	["34002866_fullText_11"]	Nausea	C0027497
+Adrenal Cortex Hormones	C0001617	ASSOCIATED_WITH	["36595087_fullText_8"]	Rhinorrhea	C1260880
+Adrenal Cortex Hormones	C0001617	ASSOCIATED_WITH	["34002866_fullText_11"]	Vomiting	C0042963
+Adrenal Cortex Hormones	C0001617	INHIBITS	["36964764_fullText_2"]	patient symptoms	C1317600
+Propranolol	C0033497	AFFECTS	["34918994_fullText_8"]	Cardiovascular finding	C0425560
+Propranolol	C0033497	INHIBITS	["35361699_fullText_3"]	Well adult	C0686750
+Propranolol	C0033497	INHIBITS	["34143243_fullText_18"]	daytime sleepiness	C0541854
+Propranolol	C0033497	PREVENTS	["36497147_fullText_4","36497147_fullText_7","36497147_fullText_11"]	Tremor	C0040822
+Propranolol	C0033497	PREVENTS	["36497147_fullText_7"]	Physiological tremor	C1960562
+Lipopolysaccharides	C0023810	AUGMENTS	["34702901_fullText_6"]	Sexuality.status	C1829914
+Isoflurane	C0022180	CAUSES	["35050903_fullText_54"]	Unexpected therapeutic effect	C0235735
+Isoflurane	C0022180	CAUSES	["37770252_fullText_18"]	Sequela of disorder	C0543419
+Isoflurane	C0022180	AUGMENTS	["37770252_fullText_67"]	Mocking	C0562577
+Cisplatin	C0008838	CAUSES	["36148411_fullText_1","36148411_fullText_3","36148411_fullText_6","36148411_fullText_11"]	Vomiting	C0042963
+Cisplatin	C0008838	PREVENTS	["35763658_fullText_1"]	Vomiting	C0042963
+Cisplatin	C0008838	PREVENTS	["35763658_fullText_1"]	Nausea	C0027497
+Propofol	C0033487	AFFECTS	["29390978_fullText_38"]	Hepatomegaly	C0019209
+Propofol	C0033487	AFFECTS	["29390978_fullText_38"]	Myoglobinuria	C0027080
+Buthionine Sulfoximine	C0054252	AUGMENTS	["34110719_fullText_9"]	Urinary elimination status	C1320408
+Antiepileptic Agents	C0003299	AFFECTS__SPEC__	["34440401_fullText_3"]	Laboratory test result abnormal	C0438215
+olanzapine	C0171023	CAUSES	["35321690_fullText_5"]	Unable to concentrate	C0235198
+olanzapine	C0171023	CAUSES	["35321690_fullText_5"]	daytime sleepiness	C0541854
+Oxaloacetates	C0029989	AUGMENTS	["30429455_fullText_92"]	Rescue	C3840763
+remifentanil	C0246631	CAUSES	["34166321_fullText_1"]	Hyperalgesia	C0020429
+Analgesics	C0002771	AFFECTS	["36232883_fullText_12"]	analgesic effect	C0948482
+Aminoglycosides	C0002556	CAUSES	["17276742_fullText_1"]	Deafness	C0011053
+Immunoglobulins	C0021027	AFFECTS	["1096999_fullText_2"]	Defective biosynthesis	C0522072
+Magnesium Cation	C2346927	AFFECTS	["34389324_fullText_7"]	Lethal	C3151529
+Capsaicin	C0006931	CAUSES	["37030486_fullText_2"]	Does cough	C0687152
+cobaltous cation	C2347816	CAUSES	["35708704_fullText_7"]	Hyperventilation	C0020578
+cobaltous cation	C2347816	AFFECTS	["1614221_fullText_6"]	Tidal Volume	C0040210
+cobaltous cation	C2347816	INHIBITS	["25753091_fullText_7"]	Respiratory muscle weakness	C1836141
+cobaltous cation	C2347816	AUGMENTS	["36326471_fullText_5"]	Arterial diameter	C0579132
+Sucrose	C0038636	CAUSES	["38375626_fullText_7"]	Decompensation	C0231187
+Ketamine	C0022614	CAUSES	["35110693_fullText_5"]	Diestrus	C0012154
+Ketamine	C0022614	CAUSES	["34715446_fullText_4"]	Abnormality	C1704258
+Ketamine	C0022614	CAUSES	["34715446_fullText_4"]	Behavioral disturbances	C1822046
+Ketamine	C0022614	PREVENTS	["34052834_fullText_1"]	Depressive Symptoms	C0086132
+Midazolam	C0026056	AFFECTS	["35008465_fullText_6"]	insensitivity	C0237677
+Succinylcholine	C0038627	AUGMENTS	["30301614_fullText_38"]	Hyperkalemia	C0020461
+Virulence Factors	C1136170	AUGMENTS	["11420171_fullText_1"]	Severe phenotype	C1836408
+Bupropion	C0085208	AUGMENTS	["37230961_fullText_14"]	Serious Adverse Event	C1519255
+Pramipexole	C0074710	CAUSES	["37633178_fullText_2"]	Worse	C1457868
+Pramipexole	C0074710	AFFECTS	["34175373_fullText_6"]	Medication rate	C2359857
+Pramipexole	C0074710	AFFECTS	["37105127_fullText_1"]	neurobehavior	C0872354
+Antipsychotic Agents	C0040615	CAUSES	["35962748_fullText_2"]	Headache	C0018681
+Antipsychotic Agents	C0040615	CAUSES	["34735098_fullText_1"]	Weight Gain	C0043094
+Antipsychotic Agents	C0040615	PREVENTS	["33922888_fullText_2"]	Psychotic symptom	C0871189
+Antipsychotic Agents	C0040615	PREVENTS	["33922888_fullText_2"]	Neurobehavioral Manifestations	C0525041
+Antipsychotic Agents	C0040615	PREVENTS	["35079985_fullText_9"]	Psychiatric symptom	C0233401
+N-Methylaspartate	C0079883	INHIBITS	["37051629_fullText_3"]	Intoxication	C0728899
+Aspirin	C0004057	INHIBITS	["33877270_fullText_12"]	Cardiovascular event	C1320716
+Memantine	C0025242	AFFECTS	["35006557_fullText_11"]	Indifferent mood	C0085632
+Cannabidiol	C0006863	INHIBITS	["39231983_fullText_188"]	Neuroinflammation	C5394393
+Carbidopa	C0006982	CAUSES	["37762646_fullText_12"]	Increased serum IgE	C2673464
+Carbidopa	C0006982	CAUSES	["37050032_fullText_1"]	Intoxication	C0728899
+Carbidopa	C0006982	CAUSES	["37335211_fullText_8"]	gastrointestinal discomfort	C1096250
+Carbidopa	C0006982	CAUSES	["34192579_fullText_5"]	analgesic effect	C0948482
+Carbidopa	C0006982	CAUSES	["36493860_fullText_6"]	Protection	C1545588
+Carbidopa	C0006982	CAUSES	["33998876_fullText_3","37335211_fullText_8"]	Nausea	C0027497
+Carbidopa	C0006982	AFFECTS	["35955774_fullText_9"]	Allodynia	C0458247
+Carbidopa	C0006982	INHIBITS	["35955774_fullText_1"]	Allodynia	C0458247
+Carbidopa	C0006982	AUGMENTS	["37762646_fullText_8"]	Thickened	C0205400
+Carbidopa	C0006982	DISRUPTS	["33998876_fullText_3"]	Nausea	C0027497
+Central Nervous System Agents	C0007680	AFFECTS	["34852735_fullText_10"]	Drug problem	C0740721
+Histamine	C0019588	CAUSES	["33894061_fullText_3","35063141_fullText_5"]	Pruritus	C0033774
+Histamine	C0019588	AFFECTS	["34599508_fullText_3","35073211_fullText_9"]	Excitability	C0235169
+Histamine	C0019588	ASSOCIATED_WITH	["34830245_fullText_1"]	Pruritus	C0033774
+Histamine	C0019588	AUGMENTS	["35063141_fullText_10"]	Pruritus	C0033774
+Histamine	C0019588	ASSOCIATED_WITH__SPEC__	["35743023_fullText_8"]	Pruritus	C0033774
+Histamine	C0019588	PREVENTS__SPEC__	["36677806_fullText_1"]	Vomiting	C0042963
+Histamine	C0019588	PREVENTS__SPEC__	["36677806_fullText_1"]	Nausea	C0027497
+Histamine	C0019588	PREVENTS__SPEC__	["36677806_fullText_1"]	Dizziness	C0012833
+Histamine H1 Antagonists	C0019592	PREVENTS	["36677806_fullText_1"]	Nausea	C0027497
+Histamine H1 Antagonists	C0019592	PREVENTS	["36677806_fullText_1"]	Dizziness	C0012833
+Histamine H1 Antagonists	C0019592	PREVENTS	["36677806_fullText_1"]	Vomiting	C0042963
+MK-801	C0813872	CAUSES	["34098454_fullText_11"]	Loss of neurons	C0598940
+NMDA receptor antagonist	C0598695	AUGMENTS	["36462636_fullText_2"]	Excitability	C0235169
+Nitric Oxide	C0028128	AFFECTS	["37946079_fullText_3"]	Chemosensitivity	C2347610
+Nitric Oxide	C0028128	ASSOCIATED_WITH	["35675220_fullText_2"]	Pruritus	C0033774
+Nitric Oxide	C0028128	AUGMENTS	["35753358_fullText_2"]	Florid red complexion (finding)	C0232370
+Antidepressive Agents	C0003289	CAUSES	["35258103_fullText_1","35258103_fullText_2"]	Hyponatremia	C0020625
+Antidepressive Agents	C0003289	CAUSES	["33814367_fullText_5"]	Weight Gain	C0043094
+Antidepressive Agents	C0003289	CAUSES	["36853797_fullText_1"]	Perceived quality of life	C0518214
+Antidepressive Agents	C0003289	AFFECTS	["35272493_fullText_4"]	Prospective, NOS	C3846446
+Antidepressive Agents	C0003289	AFFECTS	["36374097_fullText_16"]	Outcome of Therapy	C1518681
+Antidepressive Agents	C0003289	AFFECTS	["34096973_fullText_9"]	Lacrimation	C0423153
+Antidepressive Agents	C0003289	INHIBITS	["34405666_fullText_3"]	Suicide	C0038661
+Antidepressive Agents	C0003289	PREVENTS	["36999619_fullText_15","34029378_fullText_10","34029378_fullText_17","34029378_fullText_18"]	Depressive Symptoms	C0086132
+Antidepressive Agents	C0003289	AUGMENTS__SPEC__	["36625096_fullText_7"]	consideration	C0518609
+Botulinum Toxin Type A	C0006050	INHIBITS	["34822601_fullText_2"]	SKIN OILINESS	C0241135
+Gold	C0018026	AUGMENTS	["26501102_fullText_53"]	Redness	C0332575
+monoamine	C0599682	AUGMENTS	["37838337_fullText_6"]	Excitability	C0235169
+Adrenergic beta-Antagonists	C0001645	CAUSES	["35593361_fullText_6"]	Hypotension	C0020649
+Adrenergic beta-Antagonists	C0001645	AFFECTS	["35686862_fullText_6"]	Rhythm	C0871269
+Adrenergic beta-Antagonists	C0001645	AFFECTS	["35686862_fullText_6"]	Chronotropic incompetence	C1997984
+Adrenergic beta-Antagonists	C0001645	INHIBITS	["36897269_fullText_6"]	Decompensation	C0231187
+Adrenergic beta-Antagonists	C0001645	INHIBITS	["35202021_fullText_1","35202021_fullText_7"]	Cardiovascular event	C1320716
+Adrenergic beta-Antagonists	C0001645	AUGMENTS	["34351426_fullText_1"]	ST segment	C0429029
+Adrenergic beta-Antagonists	C0001645	AUGMENTS	["33901249_fullText_3"]	5 mm	C3840882
+Nicotine	C0028040	CAUSES	["34618202_fullText_4"]	REACTION TIME DECREASED	C0542189
+Nicotine	C0028040	AFFECTS	["37857771_fullText_7"]	Systemic arterial pressure	C1272641
+Nicotine	C0028040	AFFECTS	["36126221_fullText_2"]	Protection	C1545588
+Nicotine	C0028040	AFFECTS	["35216970_fullText_14"]	Omission	C3845736
+Nicotine	C0028040	AUGMENTS	["36464098_fullText_8"]	Resting state	C0679218
+Antiparkinson Agents	C0003405	PREDISPOSES	["34320022_fullText_1"]	Sleep disturbances	C0037317
+mirabegron	C2983812	AFFECTS	["34742663_fullText_1"]	drug exposure	C0743284
+mirabegron	C2983812	AFFECTS	["35536677_fullText_8"]	Agitation	C0085631
+mirabegron	C2983812	PREDISPOSES	["35708534_fullText_6"]	Acute retention of urine	C0341742
+mirabegron	C2983812	INHIBITS	["35858980_fullText_2"]	Behavior showing increased motor activity	C0474395
+mirabegron	C2983812	INHIBITS	["35987885_fullText_6"]	Systemic arterial pressure	C1272641
+capadenoson	C2828243	PREVENTS	["34313915_fullText_2"]	Neuralgia	C0027796
+Quinpirole	C0072892	AFFECTS	["34296531_fullText_6"]	N18	C0442791
+donepezil	C0527316	CAUSES	["33851543_fullText_10"]	Hypothermia, natural	C0020672
+donepezil	C0527316	AFFECTS	["35988219_fullText_4"]	Complete Response with Incomplete Bone Marrow Recovery	C3538993
+donepezil	C0527316	INHIBITS	["33851543_fullText_5"]	Hypothermia, natural	C0020672
+GABA Agonists	C0242974	CAUSES	["34075828_fullText_1"]	Neuronal degeneration	C3670500
+Muscimol	C0026818	AFFECTS	["36372242_fullText_5"]	Neuralgia	C0027796
+Muscimol	C0026818	AFFECTS	["34507588_fullText_6"]	Inflammatory pain	C0234251
+Muscimol	C0026818	AUGMENTS	["36372242_fullText_5"]	Allodynia	C0458247
+Muscimol	C0026818	PREVENTS	["34502229_fullText_10"]	Excitability	C0235169
+Antihypertensive Agents	C0003364	INHIBITS	["35880517_fullText_6"]	Cardiovascular event	C1320716
+Calcium Channel Blockers	C0006684	INHIBITS	["37530605_fullText_7"]	1-2	C3843716
+Thiazide Diuretics	C0012802	AFFECTS	["35259925_fullText_5"]	Cardiovascular event	C1320716
+Didanosine	C0012133	CAUSES	["34214182_fullText_5"]	Co-morbid conditions	C1275743
+Didanosine	C0012133	CAUSES	["33998860_fullText_5"]	Serious Adverse Event	C1519255
+Benzodiazepines	C0005064	CAUSES	["34643143_fullText_2"]	partial response	C1521726
+Benzodiazepines	C0005064	AFFECTS	["36180380_fullText_5"]	ataxic	C0234366
+Benzodiazepines	C0005064	AUGMENTS	["36331050_fullText_6"]	medication use	C0240320
+Tricyclic Antidepressive Agents	C0003290	CAUSES	["34643143_fullText_2"]	partial response	C1521726
+Epoprostenol	C0033567	CAUSES	["36980851_fullText_6"]	Test Result	C0456984
+Antihistamines	C0003360	CAUSES	["36250781_fullText_27"]	Sedated state	C0235195
+Antihistamines	C0003360	CAUSES	["36752814_fullText_4"]	analgesic effect	C0948482
+Antihistamines	C0003360	AFFECTS	["33729599_fullText_6"]	Death (finding)	C1306577
+Antihistamines	C0003360	PREVENTS	["34397204_fullText_3"]	Pruritus	C0033774
+Sepranolone	C0376202	CAUSES	["34601389_fullText_8"]	Hyperactive behavior	C0424295
+Sepranolone	C0376202	AFFECTS	["33894327_fullText_2"]	Well adult	C0686750
+Sepranolone	C0376202	AFFECTS	["36473166_fullText_13"]	Failure of transfer of passive immunity in newborn	C1299937
+Sepranolone	C0376202	ASSOCIATED_WITH	["36274158_fullText_3"]	Fatigue	C0015672
+Solifenacin	C1099677	INHIBITS	["35987885_fullText_6"]	Systemic arterial pressure	C1272641
+Solifenacin	C1099677	INHIBITS	["35731251_fullText_4"]	Bladder capacity	C0429807
+Solifenacin	C1099677	INHIBITS	["33734828_fullText_12"]	Drowsiness	C0013144
+Solifenacin	C1099677	INHIBITS	["35858980_fullText_2"]	Behavior showing increased motor activity	C0474395
+Neurosteroids	C0815278	CAUSES	["35014105_fullText_11"]	Burst suppression	C0429306
+Neurosteroids	C0815278	AFFECTS	["34506047_fullText_3","35014105_fullText_11"]	Excitability	C0235169
+Muscarinic Antagonists	C0003385	CAUSES	["36124780_fullText_3"]	Poor compliance	C0032646
+Muscarinic Antagonists	C0003385	AFFECTS	["37245173_fullText_3"]	Falls	C0085639
+Muscarinic Antagonists	C0003385	DISRUPTS	["36002781_fullText_9"]	Excitability	C0235169
+dalfampridine	C0000477	AFFECTS	["31968060_fullText_142"]	insensitivity	C0237677
+gabazine	C0628385	CAUSES	["34884577_fullText_8"]	Hyperactive behavior	C0424295
+Sertraline	C0074393	AFFECTS	["35879764_fullText_2"]	Weight Gain	C0043094
+Sertraline	C0074393	PREVENTS	["35023557_fullText_7"]	Depressive Symptoms	C0086132
+cabergoline	C0107994	INHIBITS	["36894421_fullText_8"]	Reduced concentration	C0424099
+cabergoline	C0107994	INHIBITS	["36894421_fullText_6"]	Glucose low	C0860801
+Cocaine	C0009170	CAUSES	["33940055_fullText_2"]	sleep loss	C0235161
+Cocaine	C0009170	CAUSES	["36301205_fullText_5"]	<30 min	C3842955
+Cocaine	C0009170	CAUSES	["36301205_fullText_3"]	Hyperactive behavior	C0424295
+Cocaine	C0009170	CAUSES	["38017642_fullText_1"]	Drug seeking behavior	C0694536
+Cocaine	C0009170	CAUSES	["38017642_fullText_1"]	Behavior showing increased motor activity	C0474395
+Cocaine	C0009170	AFFECTS__SPEC__	["37466616_fullText_2"]	MISUSE	C0549649
+Cannabinoids	C0006864	CAUSES	["35429587_fullText_3"]	Social Interaction	C0037420
+Cannabinoids	C0006864	AFFECTS	["37834122_fullText_7"]	Illness (finding)	C0221423
+Cannabinoids	C0006864	AFFECTS	["37278703_fullText_7"]	Anticipated	C3840775
+Cannabinoids	C0006864	AFFECTS	["36939145_fullText_2","36327298_fullText_4"]	Intoxication	C0728899
+Cannabinoids	C0006864	AFFECTS	["36710256_fullText_2"]	prenatal exposure	C0871124
+Cannabinoids	C0006864	AFFECTS	["34165606_fullText_3"]	Hypothermia, natural	C0020672
+Cannabinoids	C0006864	PREVENTS	["33737752_fullText_1","33737752_fullText_6"]	Tremor	C0040822
+Psychoactive substance	C0682880	AFFECTS	["37922577_fullText_2"]	Detected (finding)	C0442726
+Atropine	C0004259	CAUSES	["37742601_fullText_1"]	Visual Impairment	C3665347
+Amphetamine	C0002658	CAUSES	["34389398_fullText_6"]	Hyperactive behavior	C0424295
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	CAUSES	["33901435_fullText_6"]	Imbalance	C1397014
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	AFFECTS	["36001790_fullText_2"]	Fatigue	C0015672
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	INHIBITS	["34545997_fullText_3"]	90%	C3842582
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	AUGMENTS	["35445439_fullText_2"]	Excitability	C0235169
+5-(3-hydroxybenzoyl)-2-thiophenesulfonamide	C0048996	DISRUPTS	["34851768_fullText_7"]	Fluctuation	C0231239
+Tetrahydrocannabinol	C0039663	AFFECTS	["35955774_fullText_8"]	Allodynia	C0458247
+Tetrahydrocannabinol	C0039663	INHIBITS	["35955774_fullText_1"]	Allodynia	C0458247
+Tetrahydrocannabinol	C0039663	INHIBITS	["37863313_fullText_5"]	Weight Gain	C0043094
+Tetrahydrocannabinol	C0039663	AUGMENTS	["33999707_fullText_7"]	Oxygen content	C0391841
+Marihuana	C0024808	CAUSES	["34134573_fullText_4"]	Personality Traits	C0233849
+Marihuana	C0024808	AFFECTS	["37715955_fullText_5"]	Hypothermia, natural	C0020672
+Marihuana	C0024808	AFFECTS	["35352276_fullText_1"]	seizure activity	C1148454
+Marihuana	C0024808	AFFECTS	["36897501_fullText_2"]	patient symptoms	C1317600
+Marihuana	C0024808	AFFECTS	["34102966_fullText_9"]	Cardiovascular finding	C0425560
+Marihuana	C0024808	INHIBITS	["37314807_fullText_5"]	Social stigmata	C0277787
+Marihuana	C0024808	INHIBITS	["35955774_fullText_1"]	Allodynia	C0458247
+Hallucinogens	C0018533	CAUSES	["35164453_fullText_1"]	Hyperactive behavior	C0424295
+Hallucinogens	C0018533	CAUSES	["34715446_fullText_6"]	Social Interaction	C0037420
+Hallucinogens	C0018533	CAUSES	["34715446_fullText_6"]	head jerking	C0239876
+Hallucinogens	C0018533	INHIBITS	["34417357_fullText_1"]	Rapid onset	C1838994
+Psilocybine	C0033850	INHIBITS	["36192411_fullText_4"]	Vitality	C0424589
+Dexmedetomidine	C0113293	AFFECTS	["34214520_fullText_7"]	slight fever	C1096446
+Dexmedetomidine	C0113293	INHIBITS	["34130390_fullText_11"]	Systemic arterial pressure	C1272641
+Dexmedetomidine	C0113293	AUGMENTS	["37286034_fullText_5"]	analgesic effect	C0948482
+Dexmedetomidine	C0113293	AUGMENTS	["36254422_fullText_10"]	Sedated state	C0235195
+Dexmedetomidine	C0113293	DISRUPTS	["36613961_fullText_5"]	Excitability	C0235169
+Dexmedetomidine	C0113293	PREVENTS	["36745083_fullText_4"]	Agitation	C0085631
+Escitalopram	C1099456	AFFECTS	["35132611_fullText_11"]	Recurrent falls	C0458990
+Escitalopram	C1099456	AFFECTS	["34999203_fullText_9"]	Resting state	C0679218
+Cholinesterase Inhibitors	C0008425	CAUSES	["36725013_fullText_7"]	Abnormal posture	C0231471
+Cholinesterase Inhibitors	C0008425	INHIBITS	["37993407_fullText_6","35665915_fullText_13","35665915_fullText_18"]	Falls	C0085639
+yohimbine	C0724441	CAUSES	["34817810_fullText_10"]	Left shifted white blood cells	C0240173
+yohimbine	C0724441	AFFECTS	["36374735_fullText_5"]	Protection	C1545588
+yohimbine	C0724441	INHIBITS	["34162157_fullText_10"]	Protection	C1545588
+Hydrocortisone	C0020268	CAUSES	["34601389_fullText_8"]	Hyperactive behavior	C0424295
+Hydrocortisone	C0020268	INHIBITS	["36894421_fullText_8"]	Reduced concentration	C0424099
+Prolactin	C0033371	CAUSES	["33234470_fullText_13"]	Short stature for age	C2732728
+Phenylalanine	C0031453	CAUSES	["38433424_fullText_11"]	Normal delivery	C1384485
+Phenylalanine	C0031453	CAUSES	["39135125_fullText_1","36999718_fullText_6"]	Accumulation	C4055506
+Phenylalanine	C0031453	CAUSES	["86428_fullText_4","663350_fullText_6"]	Intoxication	C0728899
+Phenylalanine	C0031453	CAUSES	["15665165_fullText_2"]	Pregnancy, Twin	C0152150
+Phenylalanine	C0031453	CAUSES	["23628728_fullText_1"]	handicapping condition	C0231172
+Phenylalanine	C0031453	CAUSES	["37700622_fullText_1"]	Poor outcome	C3806166
+Phenylalanine	C0031453	CAUSES	["8828606_fullText_12"]	Sequela of disorder	C0543419
+Phenylalanine	C0031453	CAUSES	["23628728_fullText_1"]	Stillbirth	C0595939
+Phenylalanine	C0031453	CAUSES	["12032274_fullText_9","2941618_fullText_4"]	Imbalance	C1397014
+Phenylalanine	C0031453	CAUSES	["29941359_fullText_4"]	consideration	C0518609
+Phenylalanine	C0031453	CAUSES	["36521084_fullText_1"]	Perceived quality of life	C0518214
+Phenylalanine	C0031453	CAUSES	["31471952_fullText_2"]	Severely Abnormal Ventricular Ejection Fraction	C3274777
+Phenylalanine	C0031453	CAUSES	["3819940_fullText_3"]	Good neonatal condition at birth	C0578757
+Phenylalanine	C0031453	CAUSES	["7014037_fullText_4"]	Increased excretory function	C0311428
+Phenylalanine	C0031453	AFFECTS	["39468625_fullText_9"]	Perceived quality of life	C0518214
+Phenylalanine	C0031453	AFFECTS	["34864852_fullText_1","11032331_fullText_1"]	Phenotypic variability	C1853719
+Phenylalanine	C0031453	AFFECTS	["11749047_fullText_1"]	Pregnancy Outcome	C0032972
+Phenylalanine	C0031453	AFFECTS	["26084935_fullText_9"]	Emotional	C0849912
+Phenylalanine	C0031453	AFFECTS	["37700622_fullText_2"]	Non-compliant behavior	C0474415
+Phenylalanine	C0031453	AFFECTS	["36628809_fullText_5"]	Weight Gain	C0043094
+Phenylalanine	C0031453	AFFECTS	["11032331_fullText_10"]	Very high	C0442804
+Phenylalanine	C0031453	AFFECTS	["12408183_fullText_9"]	Abnormal result	C0459424
+Phenylalanine	C0031453	AFFECTS	["20884009_fullText_4"]	Normal development	C1821244
+Phenylalanine	C0031453	AFFECTS	["37827804_fullText_3","23306691_fullText_3"]	Breastfeeding (mother)	C1623040
+Phenylalanine	C0031453	AFFECTS	["36628809_fullText_5"]	Lipids abnormal	C0549634
+Phenylalanine	C0031453	PREDISPOSES	["36384480_fullText_7"]	Overweight	C0497406
+Phenylalanine	C0031453	ASSOCIATED_WITH	["1750755_fullText_10"]	high weight	C0948775
+Phenylalanine	C0031453	ASSOCIATED_WITH	["27612877_fullText_8"]	Overweight	C0497406
+Phenylalanine	C0031453	ASSOCIATED_WITH	["24206931_fullText_2"]	Indifferent mood	C0085632
+Phenylalanine	C0031453	INHIBITS	["1916459_fullText_4"]	Psychiatric disturbances	C1856060
+Phenylalanine	C0031453	INHIBITS	["7836491_fullText_2"]	Time 2	C0808270
+Phenylalanine	C0031453	INHIBITS	["37922902_abstract_1"]	Body Weight decreased	C0043096
+Phenylalanine	C0031453	INHIBITS	["37922902_abstract_1"]	Decreased tyrosine	C1291165
+Phenylalanine	C0031453	AUGMENTS	["38999811_fullText_8"]	>40 years	C4699619
+Phenylalanine	C0031453	AUGMENTS	["9266384_fullText_7"]	Distance vision 6/9	C0442751
+Phenylalanine	C0031453	AUGMENTS	["29285660_fullText_1"]	Imbalance	C1397014
+Phenylalanine	C0031453	AUGMENTS	["30930161_fullText_3"]	Low self-esteem	C0679136
+Phenylalanine	C0031453	AUGMENTS	["133670_fullText_5"]	Day 2	C3842676
+Phenylalanine	C0031453	ASSOCIATED_WITH__INFER__	["30047169_fullText_6","30047169_fullText_7"]	Fluctuation	C0231239
+Phenylalanine	C0031453	ASSOCIATED_WITH__INFER__	["33222540_fullText_6"]	Headache	C0018681
+Dopamine Antagonists	C0242702	DISRUPTS	["34002866_fullText_9"]	Vomiting	C0042963
+Dopamine Antagonists	C0242702	PREVENTS	["34002866_fullText_9"]	Postoperative Nausea	C0520904
+Dopamine Antagonists	C0242702	PREVENTS	["34002866_fullText_9"]	Nausea	C0027497
+Nifedipine	C0028066	INHIBITS	["26254182_fullText_5"]	Systemic arterial pressure	C1272641
+GABA-B Receptor Agonists	C2936800	DISRUPTS	["34058433_fullText_7"]	Excitability	C0235169
+Adrenergic alpha-Antagonists	C0001641	AFFECTS	["37245173_fullText_3"]	Falls	C0085639
+Adrenergic alpha-Antagonists	C0001641	AUGMENTS	["36167697_fullText_7"]	6/5	C0442749
+Triprolidine	C0041098	AUGMENTS	["33768603_fullText_7"]	daytime sleepiness	C0541854
+Anticholinergic Agents	C0242896	CAUSES	["36628441_fullText_1","37506033_fullText_8"]	Xerostomia	C0043352
+Anticholinergic Agents	C0242896	CAUSES	["37506033_fullText_8"]	Constipation	C0009806
+Anticholinergic Agents	C0242896	AFFECTS	["37054659_fullText_7"]	physical function	C0516981
+Anticholinergic Agents	C0242896	INHIBITS	["33911165_fullText_1"]	Urine volume finding	C1287298
+Anticholinergic Agents	C0242896	INHIBITS	["35658842_fullText_5"]	Distance vision 6/9	C0442751
+Anticholinergic Agents	C0242896	AUGMENTS	["36331050_fullText_6"]	medication use	C0240320
+Anticholinergic Agents	C0242896	PREVENTS	["36211804_fullText_6"]	Tremor	C0040822
+Anticholinergic Agents	C0242896	PREVENTS	["34609452_fullText_2"]	Death rattle	C0547002
+Leukotrienes	C0023545	CAUSES	["36211437_fullText_5"]	Pruritus	C0033774
+Paroxetine	C0070122	CAUSES	["35226247_fullText_5"]	Decreased testosterone level	C1295654
+Paroxetine	C0070122	CAUSES	["35226247_fullText_5"]	Increased prolactin	C0553731
+Paroxetine	C0070122	AFFECTS	["35879764_fullText_2"]	Weight Gain	C0043094
+Paroxetine	C0070122	CAUSES__SPEC__	["35226247_fullText_2"]	hormonal changes	C1134488
+Paroxetine	C0070122	DISRUPTS	["34851768_fullText_3"]	Physiological tremor	C1960562
+venlafaxine	C0078569	CAUSES	["34100266_fullText_3"]	patient condition	C0683521
+Proton Pump Inhibitors	C0358591	AUGMENTS	["35505518_fullText_5"]	Negative Finding	C1513916
+Proton Pump Inhibitors	C0358591	DISRUPTS	["37458926_fullText_5"]	Irritable Mood	C0022107
+Proton Pump Inhibitors	C0358591	DISRUPTS	["37458926_fullText_5"]	Weight Gain	C0043094
+Prednisone	C0032952	AUGMENTS	["7804464_fullText_5"]	Form of muscle	C0240417
+Metoclopramide	C0025853	CAUSES	["35962748_fullText_2"]	Headache	C0018681
+Metoclopramide	C0025853	CAUSES	["33849703_fullText_3"]	Nausea	C0027497
+Metoclopramide	C0025853	CAUSES	["33849703_fullText_3"]	Vomiting	C0042963
+Ticagrelor	C1999375	AFFECTS	["33966075_fullText_3"]	Thrombocytopenia	C0040034
+Ticagrelor	C1999375	AUGMENTS	["34283374_fullText_4"]	Protection	C1545588
+clopidogrel	C0070166	CAUSES__SPEC__	["34563718_fullText_1"]	Fatigue	C0015672
+clopidogrel	C0070166	INHIBITS	["35037896_fullText_3"]	Household income	C0557163
+8-Hydroxy-2-(di-n-propylamino)tetralin	C0050079	CAUSES	["35707918_fullText_7"]	Hypothermia, natural	C0020672
+8-Hydroxy-2-(di-n-propylamino)tetralin	C0050079	CAUSES	["34728431_fullText_1","34728431_fullText_5"]	Hyperventilation	C0020578
+fostriecin	C0118175	INHIBITS	["34498115_fullText_7"]	Immobile	C0231441
+fostriecin	C0118175	INHIBITS	["34498115_fullText_7"]	Does climb	C0561942
+Progesterone	C0033308	CAUSES	["34601389_fullText_8"]	Hyperactive behavior	C0424295
+Progesterone	C0033308	DISRUPTS	["34813897_fullText_7"]	Mechanical Allodynia	C2936719
+Methamphetamine	C0025611	CAUSES	["36269378_fullText_3"]	Lethal	C3151529
+Trazodone	C0040805	AFFECTS	["33731232_fullText_5"]	Sleep disturbances	C0037317
+Organic phosphorus insecticide, NOS	C0301172	CAUSES	["35643835_fullText_2"]	skeletal muscle paralysis	C0235055
+GABA-A Receptor Antagonists	C2936801	INHIBITS	["33927244_fullText_8"]	Allodynia	C0458247
+Corticosterone	C0010124	AFFECTS	["39267392_fullText_96"]	Functional Status	C0598463
+Corticosterone	C0010124	AUGMENTS__SPEC__	["35504472_fullText_1"]	Form of muscle	C0240417
+Norepinephrine Reuptake Inhibitor [EPC]	C3537046	CAUSES	["35243962_fullText_7"]	Hematuria	C0018965
+Norepinephrine Reuptake Inhibitor [EPC]	C3537046	INHIBITS	["37074259_fullText_9"]	Anxiety symptoms	C0860603
+Psychotropic Drugs	C0033978	CAUSES	["36473166_fullText_13"]	Failure of transfer of passive immunity in newborn	C1299937
+5-Hydroxytryptophan	C0000578	CAUSES	["18502400_fullText_3"]	Cognitive delay	C1864897
+Dopamine-2 Receptor Antagonist [EPC]	C2917388	CAUSES	["36269378_fullText_7"]	Lethal	C3151529
+Curcumin	C0010467	CAUSES	["31988047_abstract_6"]	Fatty deposition	C0333574
+Curcumin	C0010467	INHIBITS	["31988047_abstract_1"]	Fatty deposition	C0333574
+Psychostimulant	C0304403	AFFECTS	["37466616_fullText_2"]	MISUSE	C0549649
+Central Nervous System Stimulants	C0002763	AFFECTS	["34010807_fullText_2"]	Endurance	C0518031
+Adrenergic Agonists	C0001648	CAUSES	["36394965_fullText_6"]	Absence of pain sensation	C0344307
+Adrenergic Agonists	C0001648	CAUSES	["34855077_fullText_2"]	Tachycardia	C0039231
+Adrenergic Agonists	C0001648	AFFECTS	["33709435_fullText_5"]	Pulmonary Dysfunction	C1709770
+Adrenergic Agonists	C0001648	AFFECTS	["35588870_fullText_4"]	Behavior showing increased motor activity	C0474395
+Adrenergic Agonists	C0001648	AFFECTS	["37721189_fullText_4"]	Urethral function	C0422815
+Adrenergic Agonists	C0001648	AUGMENTS	["35184981_fullText_13"]	Sweating	C0038990
+Adrenergic Agonists	C0001648	AUGMENTS	["35504472_fullText_1"]	Form of muscle	C0240417
+Epinephrine	C0014563	CAUSES	["36394965_fullText_6"]	Absence of pain sensation	C0344307
+Epinephrine	C0014563	AUGMENTS	["36394965_fullText_5"]	analgesic effect	C0948482
+Epinephrine	C0014563	DISRUPTS	["34477163_fullText_4"]	Tachycardia	C0039231
+Agomelatine	C0971637	AFFECTS	["34919834_fullText_13"]	Interpretation of behavior	C0475175
+Mirtazapine	C0049506	CAUSES	["35258103_fullText_5"]	Hyponatremia	C0020625
+Mirtazapine	C0049506	CAUSES__SPEC__	["33814367_fullText_5"]	Weight Gain	C0043094
+Human Interleukin-10 (Nonglycosylated)	C2983956	CAUSES	["35733107_fullText_2"]	Hyperalgesia	C0020429
+ractopamine	C0072954	AUGMENTS__SPEC__	["34337648_fullText_6"]	Weight Gain	C0043094
+ractopamine	C0072954	AUGMENTS__SPEC__	["34337648_fullText_6"]	Thinness	C0039870
+Zilpaterol	C1259819	AUGMENTS__SPEC__	["34337648_fullText_6"]	Weight Gain	C0043094
+Zilpaterol	C1259819	AUGMENTS__SPEC__	["34337648_fullText_6"]	Thinness	C0039870
+Adrenergic beta-Agonists	C0001644	AUGMENTS	["34337648_fullText_6"]	Weight Gain	C0043094
+Adrenergic beta-Agonists	C0001644	AUGMENTS	["34337648_fullText_6"]	Thinness	C0039870
+Albuterol	C0001927	AFFECTS	["34129945_fullText_3"]	FEV1 Adverse Event	C1561566
+quetiapine	C0123091	CAUSES	["34004020_fullText_5"]	Dysfunctional voiding of urine	C0429826
+Clozapine	C0009079	AFFECTS	["36473166_fullText_13"]	Failure of transfer of passive immunity in newborn	C1299937
+Clozapine	C0009079	AFFECTS	["37400227_fullText_3"]	Psychotic symptom	C0871189
+Haloperidol	C0018546	CAUSES	["36623805_fullText_2"]	Extrapyramidal sign	C0234133
+Haloperidol	C0018546	CAUSES__SPEC__	["36522124_fullText_5"]	Akathisia	C0392156
+Haloperidol	C0018546	INHIBITS	["37578035_fullText_3","37578035_fullText_5"]	Reflex, Righting	C0234156
+Sulpiride	C0038803	CAUSES	["37422466_fullText_4"]	high weight	C0948775
+carvedilol	C0054836	AUGMENTS	["36232617_fullText_6"]	Fractional shortening	C2599768
+gabapentin	C0060926	DISRUPTS	["34036823_fullText_4"]	Tinnitus	C0040264
+Lidocaine	C0023660	CAUSES	["35217147_fullText_10"]	Sedated state	C0235195
+Tramadol	C0040610	AUGMENTS	["34128998_fullText_6"]	Mild Adverse Event	C1513302
+Opioids	C0242402	CAUSES	["27631259_fullText_5","27631259_fullText_22"]	Muscle Rigidity	C0026837
+Opioids	C0242402	AFFECTS	["36232883_fullText_12"]	analgesic effect	C0948482
+Opioids	C0242402	AUGMENTS	["36331050_fullText_6"]	medication use	C0240320
+Opioids	C0242402	AUGMENTS	["35020700_fullText_2"]	Lethal	C3151529
+Opioids	C0242402	DISRUPTS	["35790401_fullText_17"]	Abdominal Pain	C0000737
+Opioids	C0242402	PREVENTS	["36745083_fullText_4"]	Agitation	C0085631
+tamsulosin	C0257343	PREVENTS__SPEC__	["36812907_fullText_10"]	Pain, Postoperative	C0030201
+Suvorexant	C3179535	CAUSES	["35868501_fullText_3"]	Mechanical Allodynia	C2936719
+CL 316243	C0171208	DISRUPTS	["36597221_fullText_7"]	Stiffness	C0427008
+dezocine	C0057626	CAUSES	["36397408_fullText_1"]	Postoperative Nausea	C0520904
+dezocine	C0057626	CAUSES	["36397408_fullText_1"]	Vomiting	C0042963
+Oxidopamine	C0085196	AUGMENTS	["34556558_fullText_7"]	Excitability	C0235169
+Quercetin	C0034392	AFFECTS	["34875999_fullText_11"]	Glucose low	C0860801
+cinnamic acid	C0055753	AFFECTS	["34875999_fullText_11"]	Glucose low	C0860801
+Berberine	C0005117	AFFECTS	["34875999_fullText_11"]	Glucose low	C0860801
+Hypnotics and Sedatives	C0020592	AFFECTS	["37054659_fullText_7"]	physical function	C0516981
+Hypnotics and Sedatives	C0020592	INHIBITS	["37054659_fullText_1"]	physical function	C0516981
+Fluvoxamine	C0085228	CAUSES	["35258103_fullText_5"]	Hyponatremia	C0020625
+Fluvoxamine	C0085228	AFFECTS	["36103313_fullText_13"]	Serious Adverse Event	C1519255
+lafutidine	C0172827	INHIBITS	["34848484_fullText_4"]	Abnormal digestive tract function	C0232459
+Fluorouracil	C0016360	CAUSES	["34605226_fullText_6"]	Consequent	C3845876
+Anti-Inflammatory Agents	C0003209	AFFECTS	["35565998_fullText_1"]	diabetic	C0241863
+fluorophore	C0598447	AFFECTS	["24781112_fullText_26"]	Very important	C3844729
+atomoxetine	C0076823	AFFECTS	["34143680_fullText_4"]	Co-morbid conditions	C1275743
+atomoxetine	C0076823	INHIBITS	["35691145_fullText_3"]	Anxiety symptoms	C0860603
+Hyaluronic Acid	C0020196	ASSOCIATED_WITH	["34214592_fullText_5"]	Imbalance	C1397014
+fesoterodine	C2343853	PREDISPOSES	["35708534_fullText_6"]	Acute retention of urine	C0341742
+Viloxazine	C0042665	AFFECTS	["34269426_fullText_2"]	Missed Dose	C1709043
+Cholinergic Antagonists	C0242897	PREDISPOSES	["34555904_fullText_8"]	Psychotic symptom	C0871189
+Bicuculline	C0005372	INHIBITS__SPEC__	["33927244_fullText_8"]	Allodynia	C0458247
+Bronchodilator Agents	C0006280	AUGMENTS	["36272353_fullText_4"]	Cardiovascular event	C1320716
+Cholinergic Agonists	C0242894	CAUSES	["36970756_fullText_9"]	Encounter due to vagabond status	C0687129
+Dimethylnitrosamine	C0012431	AUGMENTS	["34180947_fullText_1","34180947_fullText_5"]	Urinary elimination status	C1320408
+Doxazosin	C0114873	CAUSES	["34958827_fullText_8"]	Senility	C0231337
+Galantamine	C0016967	AFFECTS	["35006557_fullText_11"]	Indifferent mood	C0085632
+aluminum chloride	C0102840	CAUSES	["35576663_fullText_1"]	Progressive neurodegeneration	C1845518
+nebivolol	C0068475	INHIBITS	["35202021_fullText_7"]	Cardiovascular event	C1320716
+cariprazine	C2936870	CAUSES	["35156402_fullText_9"]	Akathisia	C0392156
+Guanfacine	C0079466	INHIBITS	["33923533_fullText_1"]	Hyperactive behavior	C0424295
+2,5-dichloro-4-bromophenol	C0045550	INHIBITS	["36058298_fullText_6"]	Repolarization abnormalities	C3279217
+Citicoline	C0010725	PREVENTS	["37827341_fullText_7"]	Imbalance	C1397014
+Citicoline	C0010725	PREVENTS	["34727752_fullText_1"]	Depressive Symptoms	C0086132
+Luteinizing Hormone	C0023607	INHIBITS	["36984518_fullText_5"]	Test Result	C0456984
+Testosterone	C0039601	CAUSES	["34601389_fullText_8"]	Hyperactive behavior	C0424295
+Colforsin	C0917964	CAUSES	["36614209_fullText_6"]	Lipid droplet accumulation	C3278535
+Famotidine	C0015620	INHIBITS	["34214498_fullText_7"]	Poor outcome	C3806166
+Medical Marijuana	C0813973	INHIBITS	["35343818_fullText_2"]	Behavioral difficulties	C3275496
+Win 55212-2	C0148782	CAUSES	["35341569_fullText_5"]	Absence of pain sensation	C0344307
+Antiplatelet Agents	C0085826	CAUSES	["34563718_fullText_1"]	Fatigue	C0015672
+silodosin	C1870115	AFFECTS	["36059204_fullText_11"]	Systemic arterial pressure	C1272641
+Terpenes	C0039561	CAUSES	["34846548_fullText_3"]	Absence of pain sensation	C0344307
+WAY 100635	C0290799	AFFECTS	["34192579_fullText_5"]	Mechanical Allodynia	C2936719
+WAY 100635	C0290799	AFFECTS	["34192579_fullText_5"]	Immobile	C0231441
+Isoflurophate	C0022181	AFFECTS	["35897817_fullText_12"]	Hyperexcitability Behavior	C0856984
+Bisoprolol	C0053799	AFFECTS	["35093388_fullText_5"]	Ventricular Arrhythmia ECG Assessment	C3812282
+Dihydroergotamine	C0012291	AUGMENTS	["34128998_fullText_6"]	Mild Adverse Event	C1513302
+Histamine H1 Antagonists, Non-Sedating	C1136312	INHIBITS	["37815801_fullText_1"]	Sedated state	C0235195
+Polyunsaturated Fatty Acids	C0032615	AUGMENTS	["33804754_fullText_2"]	Cardiovascular event	C1320716
+Methacholine	C0600370	CAUSES	["34069899_fullText_4","34069899_fullText_5"]	Small airways	C1862763
+Bilirubin	C0005437	DISRUPTS	["28644367_fullText_67"]	Urinary elimination status	C1320408
+aprepitant	C1176306	AFFECTS	["36856158_fullText_3"]	Nose symptoms	C0231918
+aprepitant	C1176306	INHIBITS	["37958914_fullText_7"]	Sequela of disorder	C0543419
+aprepitant	C1176306	INHIBITS	["34244927_fullText_5"]	HEMORRHAGE, INTRACEREBRAL, SUSCEPTIBILITY TO	C3281105
+Ondansetron	C0061851	PREVENTS	["36635365_fullText_4"]	Vomiting	C0042963
+Ondansetron	C0061851	PREVENTS	["36635365_fullText_4"]	Nausea	C0027497
+Finasteride	C0060389	AUGMENTS	["35122898_fullText_9"]	Omission	C3845736
+Sodium Benzoate	C0142805	AFFECTS	["31978010_abstract_8"]	Day 5	C3842674
+modafinil	C0066677	AFFECTS	["19808135_fullText_10"]	Daytime somnolence	C2219848
+modafinil	C0066677	INHIBITS	["12499477_fullText_6"]	Drowsiness	C0013144
+Arecoline	C0003753	CAUSES	["33916832_fullText_7","33916832_fullText_9"]	Hyperactive behavior	C0424295
+butylscopolamine bromide	C0006519	AUGMENTS	["34174090_fullText_12"]	6/5	C0442749
+SCH 23390	C0080138	CAUSES	["35986048_fullText_11"]	Sedated state	C0235195
+Estrogens	C0014939	ASSOCIATED_WITH	["37791545_fullText_7"]	Urinary symptoms	C0426359
+Estrogens	C0014939	AUGMENTS	["34339849_fullText_2"]	Syncope	C0039070
+Adenosine-5'-(N-ethylcarboxamide)	C0050789	CAUSES	["33802928_fullText_10"]	Hypotension	C0020649
+Adenosine-5'-(N-ethylcarboxamide)	C0050789	AFFECTS	["33802928_fullText_9"]	Systemic arterial pressure	C1272641
+Benserazide	C0005014	CAUSES	["34478885_fullText_7"]	Muscle twitch	C0231530
+vortioxetine	C3661282	PREVENTS	["36376052_fullText_3"]	Depressive Symptoms	C0086132
+Pilocarpine	C0031923	INHIBITS	["36781441_fullText_8"]	Myeloid proliferation	C3808595
+Oxprenolol	C0030040	AFFECTS	["36346141_fullText_4"]	heart size	C0744689
+Oxprenolol	C0030040	AFFECTS	["36346141_fullText_2"]	Body Weight decreased	C0043096
+Amiodarone	C0002598	AFFECTS	["34796981_fullText_13"]	seizure activity	C1148454
+celecoxib	C0538927	AFFECTS	["35754107_fullText_8"]	Withdrawal Symptoms	C0087169
+landiolol	C0905464	INHIBITS	["34128200_fullText_4"]	Mean blood pressure	C0428886
+landiolol	C0905464	DISRUPTS	["34477163_fullText_4"]	Tachycardia	C0039231
+landiolol	C0905464	PREVENTS	["37877587_fullText_4"]	Single organ dysfunction	C0349410
+Drug Combinations	C0013162	CAUSES	["36752814_fullText_1"]	analgesic effect	C0948482
+Drug Combinations	C0013162	INHIBITS	["36508272_fullText_5"]	Systemic arterial pressure	C1272641
+Drug Combinations	C0013162	INHIBITS	["33734828_fullText_7"]	13-14	C3843711
+Gonadorelin	C0023610	AFFECTS	["33775739_fullText_2"]	Encounter due to vagabond status	C0687129
+Cyproheptadine	C0010620	AFFECTS	["35445439_fullText_11"]	Excitability	C0235169
+Amantadine	C0002403	CAUSES	["34324057_fullText_6"]	Symptom severe	C0436345
+atipamezole	C0052593	DISRUPTS	["33994525_fullText_5"]	Mechanical Allodynia	C2936719
+Antiemetics	C0003297	CAUSES	["35427418_fullText_2"]	Vomiting	C0042963
+Antiemetics	C0003297	CAUSES	["35427418_fullText_2"]	Nausea	C0027497
+Prostaglandin E2	C3813211	CAUSES	["34766335_fullText_7"]	Dilated	C0700124
+Emetics	C0013973	PREVENTS	["34071460_fullText_5"]	Vomiting	C0042963
+Timolol	C0040233	CAUSES	["33798551_fullText_7"]	Senility	C0231337
+Harmine	C0018605	CAUSES	["34078836_fullText_7"]	CNS symptom	C0422879
+Estradiol	C0014912	CAUSES	["35628371_fullText_10"]	Memory Loss	C0751295
+Estradiol	C0014912	ASSOCIATED_WITH	["36748975_fullText_7"]	Absence of pain sensation	C0344307
+Potassium Chloride	C0032825	AFFECTS	["448391_fullText_4"]	Excitability	C0235169
+Potassium Chloride	C0032825	ASSOCIATED_WITH	["6854347_fullText_2"]	Excitability	C0235169
+Clenbuterol	C0008932	CAUSES	["37062796_fullText_13"]	Life Threatening Adverse Event	C1517874
+pressors	C0237795	INHIBITS	["26254182_fullText_10"]	Systemic arterial pressure	C1272641
+milnacipran	C1533126	CAUSES	["35258103_fullText_5"]	Hyponatremia	C0020625
+ganaxolone	C0537150	DISRUPTS	["36208918_fullText_10"]	Depressive Symptoms	C0086132
+Anti-Arrhythmia Agents	C0003195	CAUSES	["36613736_fullText_8"]	Cardiac Arrhythmia	C0003811
+Anti-Arrhythmia Agents	C0003195	CAUSES	["36142287_fullText_10"]	heart rhythm irregular	C0744683
+Anti-Arrhythmia Agents	C0003195	INHIBITS	["33721036_fullText_1"]	Cardiac Arrhythmia	C0003811
+Loop Diuretics	C0354100	INHIBITS	["33759308_fullText_7"]	Non-compliant behavior	C0474415
+Protein-tyrosine kinase inhibitor	C1268567	INHIBITS	["34186142_fullText_5"]	Hypothermia, natural	C0020672
+amiridine	C0051691	INHIBITS	["34481434_fullText_2"]	Emotional	C0849912
+Phosphonoacetic Acid	C0031681	CAUSES	["2278031_fullText_8"]	Neural Tube Defects	C0027794
+Midodrine	C0026078	CAUSES	["35150075_fullText_5"]	Residual urine volume	C0429774
+Serotonin 5-HT3 Receptor Antagonists	C2936526	PREVENTS__SPEC__	["34208557_fullText_2"]	Vomiting	C0042963
+Serotonin 5-HT3 Receptor Antagonists	C2936526	PREVENTS__SPEC__	["34208557_fullText_2"]	Nausea	C0027497
+ranpirnase	C0069919	AFFECTS	["34296531_fullText_6"]	N18	C0442791
+Hemicholinium 3	C0018983	PREVENTS	["35124160_fullText_8"]	Tachycardia	C0039231
+Terbutaline	C0039542	CAUSES	["35994413_fullText_4"]	Encounter due to being a donor	C1527169
+Bile Acids	C0005390	CAUSES	["19674365_fullText_1"]	etiology unknown	C0743626
+Tannic Acid	C0039294	CAUSES	["19147685_fullText_6"]	Does skip	C0560435
+Adrenergic Agents	C0001637	AFFECTS	["34220796_fullText_3"]	destruction joint	C0541875
+CP-55,940	C0110893	AFFECTS	["34118232_fullText_11"]	Urine volume finding	C1287298
+Glucocorticoids	C0017710	ASSOCIATED_WITH	["36261014_fullText_5"]	acute stress	C0848237
+Glucocorticoids	C0017710	AUGMENTS	["36066078_fullText_4"]	Signs and Symptoms, Respiratory	C0037090
+Dehydroepiandrosterone Sulfate	C0057277	ASSOCIATED_WITH	["34874191_fullText_12"]	Behavioral Symptoms	C0004941
+Heroin	C0011892	CAUSES	["37040055_fullText_4"]	Drug seeking behavior	C0694536
+ferulic acid	C0060291	AFFECTS	["36166506_fullText_8"]	diabetic	C0241863
+Oxycodone	C0030049	AUGMENTS	["33988725_fullText_3"]	Absence of pain sensation	C0344307
+Cisatracurium	C1096766	AFFECTS	["35393764_fullText_10"]	Hyperhidrosis disorder	C0020458
+Cisatracurium	C1096766	INHIBITS	["35393764_fullText_6"]	Sweating	C0038990
+Colchicine	C0009262	CAUSES	["34086100_fullText_7"]	Employed	C0557351
+tyramine-deoxysorbitol	C0172161	AUGMENTS	["35648361_fullText_11"]	EMG amplitude	C0429340
+Transdermal Product	C3465388	CAUSES	["35575444_fullText_3"]	Skin irritation	C0152030
+cannabigerol	C0054593	AFFECTS__SPEC__	["36939145_fullText_2"]	Intoxication	C0728899
+Soma	C0702216	PREDISPOSES	["35445439_fullText_10"]	Excitability	C0235169
+Soma	C0702216	AFFECTS	["36195440_fullText_10"]	Excitability	C0235169
+Xylose	C0043375	CAUSES	["9669722_fullText_10"]	Gastrointestinal symptom	C0426576
+catharanthine	C0054863	CAUSES	["35304861_fullText_1"]	Sedated state	C0235195
+Lorazepam	C0024002	AFFECTS	["35008465_fullText_6"]	insensitivity	C0237677
+CLP257	C3713561	AFFECTS	["35352582_fullText_3"]	Hyperalgesia	C0020429
+scutellarein	C1579835	DISRUPTS	["35349945_fullText_1"]	7 mm	C3842085
+Zuclopenthixol	C0376160	CAUSES	["35342202_fullText_4"]	compromise	C2945640
+Carboplatin	C0079083	CAUSES	["35321690_fullText_3"]	Nausea	C0027497
+Carboplatin	C0079083	CAUSES	["35321690_fullText_3"]	Vomiting	C0042963
+Estrogen-progestin preparation	C0360526	AUGMENTS	["34339849_fullText_2"]	Syncope	C0039070
+Alprazolam	C0002333	CAUSES	["37220781_fullText_7"]	Sedated state	C0235195
+sodium dehydroacetate	C0142831	AUGMENTS	["23827125_fullText_5"]	total lipids	C0369610
+BD 1047	C0386444	DISRUPTS	["34813897_fullText_7"]	Mechanical Allodynia	C2936719
+YL-0919	C3886518	DISRUPTS	["34811511_fullText_7"]	Excitability	C0235169
+YL-0919	C3886518	AUGMENTS	["34811511_fullText_11"]	Excitability	C0235169
+ivabradine	C0257190	DISRUPTS	["35842897_fullText_7"]	angina symptom	C0858277
+ivabradine	C0257190	PREVENTS	["35842897_fullText_3"]	angina symptom	C0858277
+Androgens	C0002844	AUGMENTS	["2431651_fullText_2"]	Form of muscle	C0240417
+xanomeline	C0246836	PREVENTS	["35758639_fullText_3"]	Psychotic symptom	C0871189
+GSK 189254	C1958615	AFFECTS	["36430790_fullText_7"]	Hyperalgesia	C0020429
+Moxisylyte	C0040108	INHIBITS	["33998674_fullText_10"]	Observation of attack	C1304680
+SB 205384	C0665705	CAUSES	["34265354_fullText_7"]	Sedated state	C0235195
+Dopamine D2 Receptor Antagonists	C3850099	PREVENTS	["36522124_fullText_3"]	Akathisia	C0392156
+Folic Acid	C0016410	PREDISPOSES	["36384480_fullText_7"]	Overweight	C0497406
+Laxatives	C0282090	CAUSES	["38013547_fullText_6"]	Hypokalemia	C0020621
+Thymol	C0040096	AFFECTS	["34389324_fullText_7"]	Lethal	C3151529
+Biperiden Hydrochloride	C0304411	INHIBITS	["33734828_fullText_12"]	Drowsiness	C0013144
+fosaprepitant	C2349941	PREVENTS	["33729475_fullText_5"]	Eye pain	C0151827
+Fenclonine	C0030135	CAUSES	["34509822_fullText_3"]	Sleeplessness	C0917801
+Fenclonine	C0030135	CAUSES	["2941618_fullText_4"]	Imbalance	C1397014
+Urinary Bladder Tumor Antigen	C1519830	PREVENTS	["33852744_fullText_11"]	Xerostomia	C0043352
+Urinary Bladder Tumor Antigen	C1519830	PREVENTS	["33852744_fullText_9"]	Cervical Dystonia	C0949445
+flupirtine	C0060583	CAUSES	["36752814_fullText_4"]	analgesic effect	C0948482
+exenatide	C0167117	AFFECTS	["33831213_fullText_6"]	research results	C0683954
+exenatide	C0167117	INHIBITS	["33831213_fullText_7"]	Weight Gain	C0043094
+N-palmitoylsphingosine	C0386062	AUGMENTS	["34743684_fullText_7"]	Papule	C0332563
+Photosensitizing Agents	C0162713	CAUSES	["34743684_fullText_8"]	Papule	C0332563
+homocysteic acid	C0062933	DISRUPTS	["34879205_fullText_3"]	EMG amplitude	C0429340
+Opioid Agonist [EPC]	C1883695	INHIBITS	["35790401_fullText_11"]	analgesic effect	C0948482
+Opioid Agonist [EPC]	C1883695	PREVENTS	["35790401_fullText_19"]	Abdominal Pain	C0000737
+HU 308	C0911048	AUGMENTS	["34537380_fullText_8"]	Hyperalgesia	C0020429
+HU 308	C0911048	AUGMENTS	["34537380_fullText_8"]	Mechanical Allodynia	C2936719
+Dimethindene	C0012390	CAUSES	["33894061_fullText_4"]	Asthenia	C0004093
+Dizocilpine	C0079245	AUGMENTS	["35216970_fullText_13"]	Omission	C3845736
+Levetiracetam	C0377265	CAUSES	["34116078_fullText_5"]	Fluctuation	C0231239
+Adenosine Diphosphate Receptor Antagonists	C2936586	DISRUPTS	["36480147_fullText_1"]	Cardiovascular event	C1320716
+Prevail	C3152857	CAUSES	["19364241_fullText_4"]	Growth pattern	C1156245
+Thiabendazole	C0039832	INHIBITS	["34498115_fullText_7"]	Does climb	C0561942
+Thiabendazole	C0039832	INHIBITS	["34498115_fullText_7"]	Immobile	C0231441
+LY 235959	C0257654	PREVENTS	["34391797_fullText_5"]	Mechanical Allodynia	C2936719
+Fenfluramine	C0015827	CAUSES__SPEC__	["38042827_fullText_3"]	Depressive Symptoms	C0086132
+Cannabinoid Receptor Antagonists	C2927149	PREVENTS	["36869289_fullText_7"]	Excitability	C0235169
+Vitamin B 12	C0042845	AFFECTS	["12879091_fullText_8"]	Poor compliance	C0032646
+N-acetyl-4-benzoquinoneimine	C0067634	INHIBITS	["36379307_fullText_7"]	Fever	C0015967
+N-acetyl-4-benzoquinoneimine	C0067634	INHIBITS	["36379307_fullText_7"]	Hypothermia, natural	C0020672
+lavender oil	C0064694	AFFECTS	["36309115_fullText_4","36309115_fullText_8"]	Sleep disturbances	C0037317
+oleylamide	C0377344	INHIBITS	["30429455_fullText_93"]	Rescue	C3840763
+pyridoxine	C0034272	AFFECTS	["38636407_fullText_7"]	Dilated ventricles (finding)	C3278923
+pyridoxine	C0034272	AFFECTS	["36731270_fullText_10"]	Uncertainty	C0087130
+mullerian-inhibiting hormone	C0066928	INHIBITS	["36984518_fullText_5"]	Test Result	C0456984
+Carbaryl	C0036860	CAUSES	["36592917_fullText_8"]	Tachycardia	C0039231
+Fenitrothion	C0015832	CAUSES	["36592917_fullText_8"]	Tachycardia	C0039231
+11-hydroxyvittatine	C2607042	CAUSES	["36535411_fullText_8"]	6/5	C0442749
+Mexicor	C1869668	DISRUPTS	["37084369_fullText_3"]	Depressive Symptoms	C0086132
+Peripheral vasodilators	C0724804	AFFECTS	["37075940_fullText_5"]	Dyspnea	C0013404
+spermine	C0037874	ASSOCIATED_WITH	["34874191_fullText_12"]	Behavioral Symptoms	C0004941
+4-hydroxyphenylacetic acid	C0048385	AUGMENTS	["6085021_fullText_1"]	acid urine	C0854059
+dipalmitoylphosphatidylserine	C0058353	AUGMENTS	["36279397_fullText_7"]	insensitivity	C0237677
+GYKI 52466	C0062021	CAUSES	["36269378_fullText_7"]	Lethal	C3151529
+crotalphine	C2607211	AFFECTS	["36232883_fullText_12"]	analgesic effect	C0948482
+perfluorooctane	C0166273	CAUSES	["35259355_fullText_1"]	Behavioral abnormalities	C3151413
+Magnesium Sulfate	C0024480	CAUSES__SPEC__	["3966511_fullText_5"]	Premature contractions	C2114320
+bortezomib	C1176309	CAUSES	["31636082_fullText_79"]	Does hit (finding)	C0596020
+1,2-dihexadecyl-sn-glycero-3-phosphocholine	C0043813	AUGMENTS	["34881482_fullText_8"]	Memory observations	C0700327
+Nimodipine	C0028094	AFFECTS	["35006557_fullText_11"]	Indifferent mood	C0085632
+3-aminopyridine-2-carboxaldehyde thiosemicarbazone	C0210403	CAUSES	["35859208_fullText_7"]	Gait abnormality	C0575081
+ANTIANGINALS	C3537168	PREVENTS	["35842897_fullText_3"]	angina symptom	C0858277
+nandrolone decanoate	C0068395	INHIBITS	["35738337_fullText_6"]	Weight Gain	C0043094
+testosterone undecanoate	C0076195	INHIBITS	["35738337_fullText_6"]	Weight Gain	C0043094
+apraclonidine	C0048038	INHIBITS	["35093487_fullText_8"]	Decrease in height	C0424641
+trilostane	C0077144	INHIBITS	["36861666_fullText_6"]	Physical shape	C0700329
+buflomedil	C0054207	INHIBITS	["33998674_fullText_10"]	Observation of attack	C1304680
+glutaric acid	C0061506	CAUSES	["15505388_fullText_4"]	Imbalance	C1397014
+3-hydroxyglutaric acid	C0667581	CAUSES	["15505388_fullText_4","14705106_fullText_7"]	Imbalance	C1397014
+4-Aminohippuric Acid	C0030123	CAUSES	["38591802_fullText_1"]	High Level	C4321237
+4-Aminohippuric Acid	C0030123	CAUSES	["39548419_fullText_1","39047302_fullText_1","38321764_fullText_2"]	Accumulation	C4055506
+4-Aminohippuric Acid	C0030123	AFFECTS	["38905920_fullText_2"]	Missense	C3845273
+Protein C	C0033621	AFFECTS	["38968673_fullText_9"]	Coagulation abnormalities	C1846821
+Sialic Acids	C0037025	CAUSES	["36224347_fullText_82"]	Hydrocephalus, severe	C3278123
+Manganese Cation (2+)	C2347051	CAUSES	["30307768_fullText_6"]	Rescue	C3840763
+Gangliosides	C0017082	CAUSES	["7666061_fullText_5"]	Spinal tract degeneration	C1866771
+Gangliosides	C0017082	CAUSES	["7666061_fullText_5"]	Neuronal migration defect	C2750249
+Gangliosides	C0017082	CAUSES	["7666061_fullText_5"]	Dysmyelination	C1857639
+sialyl Lewis x	C0253307	CAUSES	["24403049_fullText_1"]	Recurrent infections	C0239998
+sialyl Lewis x	C0253307	CAUSES	["24403049_fullText_1"]	White blood cell count increased (lab result)	C0750426
+Glycerophospholipids	C0162448	CAUSES	["7666061_fullText_5"]	Neuronal migration defect	C2750249
+Glycerophospholipids	C0162448	CAUSES	["7666061_fullText_5"]	Dysmyelination	C1857639
+Glycerophospholipids	C0162448	CAUSES	["7666061_fullText_5"]	Spinal tract degeneration	C1866771
+Pentamidine	C0030863	INHIBITS	["26515653_fullText_9"]	Cardiac Arrhythmia	C0003811
+Pentamidine	C0030863	INHIBITS	["26515653_fullText_17"]	Rescue	C3840763
+Neuromuscular Depolarizing Agents	C0027867	CAUSES	["8148299_fullText_2"]	Hypothermia, natural	C0020672
+Neuromuscular Depolarizing Agents	C0027867	CAUSES	["8148299_fullText_2"]	Shivering	C0036973
+Neuromuscular Depolarizing Agents	C0027867	CAUSES	["8148299_fullText_2"]	Hyperkalemia	C0020461
+Neuromuscular Depolarizing Agents	C0027867	CAUSES	["8148299_fullText_2"]	Crisis	C0231224
+Ro 31-8220	C0084393	CAUSES	["24179176_fullText_45"]	Decreased total protein	C0860901
+Chromomycin A3	C0040563	CAUSES	["24179176_fullText_45"]	Decreased total protein	C0860901
+at night pain	C2912238	CAUSES	["20798200_fullText_3"]	Sleep disturbances	C0037317
+NA-5	C0131647	CAUSES	["35872650_fullText_51"]	na+ decrease	C0856883
+R-38486	C0701303	CAUSES	["25164807_fullText_71"]	Lethal	C3151529
+PJ-34	C2350800	AFFECTS	["28916769_fullText_55"]	Lethal	C3151529
+globotriaosyl lysosphingolipid	C0082711	AUGMENTS	["37499686_fullText_3"]	Albuminuria	C0001925
+sulforafan	C0163159	CAUSES	["31636082_fullText_144"]	Rescue	C3840763
+phenylpyruvic acid	C0031499	CAUSES	["13658992_fullText_1"]	Urinary elimination status	C1320408
+glycolic acid	C1533643	ASSOCIATED_WITH	["26287655_fullText_14"]	Exanthema	C0015230
+nandrolone phenpropionate	C0068397	AUGMENTS	["1170069_fullText_3"]	> 2 years	C3843647
+lactulose	C0022957	CAUSES	["39267392_fullText_11"]	gastrointestinal discomfort	C1096250
+G(M2) Ganglioside	C0016896	CAUSES	["37754769_fullText_2"]	Neuronal swelling	C3670503
+sepiapterin	C0074349	INHIBITS	["24316196_fullText_3"]	Perinatal death	C0701826
+Ethionine	C0015023	AFFECTS	["3741696_fullText_7"]	Weight Gain	C0043094
+Hippuric acid	C0062725	AUGMENTS	["6743769_fullText_7"]	acid urine	C0854059

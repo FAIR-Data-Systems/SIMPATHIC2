@@ -1,0 +1,2 @@
+phenotype lookup failed	UMLS:C3541461	MULTICENTRIC CASTLEMAN DISEASE, SUSCEPTIBILITY TO
+phenotype lookup failed	UMLS:C2674385	Elevated liver transaminases

@@ -1,0 +1,239 @@
+CUI	UMLS_Name	HPO	HPO_Name
+C0026821	Muscle Cramp	HP:0003394	Muscle spasm
+C1864985	Progressive disorder	HP:0003676	Progressive
+C1850496	Neuronal loss	HP:0002529	Neuronal loss in central nervous system
+C0007758	Cerebellar Ataxia	HP:0001251	Ataxia
+C0234133	Extrapyramidal sign	HP:0002071	Abnormality of extrapyramidal motor function
+C0015672	Fatigue	HP:0012378	Fatigue
+C0037317	Sleep disturbances	HP:0002360	Sleep disturbance
+C0039231	Tachycardia	HP:0001649	Tachycardia
+C1861403	Variable expressivity	HP:0003828	Variable expressivity
+C0026837	Muscle Rigidity	HP:0002063	Rigidity
+C0043094	Weight Gain	HP:0004324	Increased body weight
+C0520966	Abnormal coordination	HP:0002311	Incoordination
+C0009806	Constipation	HP:0002019	Constipation
+C0040822	Tremor	HP:0001337	Tremor
+C1837352	Childhood onset	HP:0011463	Childhood onset
+C0015644	Muscular fasciculation	HP:0002380	Fasciculations
+C0917801	Sleeplessness	HP:0100785	Insomnia
+C0029089	Ophthalmoplegia	HP:0000602	Ophthalmoplegia
+C0018772	Hearing Loss, Partial	HP:0000365	Hearing impairment
+C0456909	Blind Vision	HP:0000618	Blindness
+C0018681	Headache	HP:0002315	Headache
+C3665347	Visual Impairment	HP:0000505	Visual impairment
+C0038450	Stridor	HP:0010307	Stridor
+C0015230	Exanthema	HP:0000988	Skin rash
+C0085639	Falls	HP:0002527	Falls
+C0011053	Deafness	HP:0000365	Hearing impairment
+C0410916	Neonatal Death	HP:0003811	Neonatal death
+C0424551	Impaired exercise tolerance	HP:0003546	Exercise intolerance
+C0002170	Alopecia	HP:0001596	Alopecia
+C1853743	Axial hypotonia	HP:0008936	Axial hypotonia
+C1855019	Psychomotor regression	HP:0002376	Developmental regression
+C1839630	Hypotonia, severe	HP:0006829	Severe muscular hypotonia
+C1854919	Severe psychomotor retardation	HP:0011344	Severe global developmental delay
+C0019572	Hirsutism	HP:0001007	Hirsutism
+C0039070	Syncope	HP:0001279	Syncope
+C0221166	Paraparesis	HP:0002385	Paraparesis
+C0030232	Pallor	HP:0000980	Pallor
+C0522224	Paralysed	HP:0003470	Paralysis
+C0020649	Hypotension	HP:0002615	Hypotension
+C0019209	Hepatomegaly	HP:0002240	Hepatomegaly
+C0476273	Respiratory distress	HP:0002098	Respiratory distress
+C0002418	Amblyopia	HP:0000646	Amblyopia
+C0151786	Muscle Weakness	HP:0001324	Muscle weakness
+C0042963	Vomiting	HP:0002013	Vomiting
+C0037301	Skin Wrinkling	HP:0100678	Premature skin wrinkling
+C0036454	Scotoma	HP:0000575	Scotoma
+C0438717	Transaminases increased	HP:0002910	Elevated circulating hepatic transaminase concentration
+C0011991	Diarrhea	HP:0002014	Diarrhea
+C0003811	Cardiac Arrhythmia	HP:0011675	Arrhythmia
+C0221629	Proximal muscle weakness	HP:0003701	Proximal muscle weakness
+C0033774	Pruritus	HP:0000989	Pruritus
+C0085606	Urgency of micturition	HP:0000012	Urinary urgency
+C0020461	Hyperkalemia	HP:0002153	Hyperkalemia
+C0542476	Forgetful	HP:0002354	Memory impairment
+C0231528	Myalgia	HP:0003326	Myalgia
+C0000737	Abdominal Pain	HP:0002027	Abdominal pain
+C0006625	Cachexia	HP:0004326	Cachexia
+C0033687	Proteinuria	HP:0000093	Proteinuria
+C0040034	Thrombocytopenia	HP:0001873	Thrombocytopenia
+C0518656	chronic fatigue	HP:0012432	Chronic fatigue
+C0740651	abdominal symptom	HP:0011458	Abdominal symptom
+C0022353	Neonatal Jaundice	HP:0006579	Prolonged neonatal jaundice
+C1864903	Hyperinsulinemic hypoglycemia	HP:0000825	Hyperinsulinemic hypoglycemia
+C1839858	Periventricular cysts	HP:0007109	Periventricular cysts
+C0239594	Short finger	HP:0009381	Short finger
+C2937228	Tunnel visual field constriction	HP:0007994	Peripheral visual field loss
+C0019048	Hemoglobinuria	HP:0003641	Hemoglobinuria
+C0376480	Gingival Overgrowth	HP:0000212	Gingival overgrowth
+C0020623	Hypolipoproteinemias	HP:0010981	Hypolipoproteinemia
+C0038990	Sweating	HP:0000975	Hyperhidrosis
+C0030252	Palpitations	HP:0001962	Palpitations
+C0751093	Dystonia, Limb	HP:0002451	Limb dystonia
+C0043352	Xerostomia	HP:0000217	Xerostomia
+C0232370	Florid red complexion (finding)	HP:0001050	Plethora
+C0344307	Absence of pain sensation	HP:0007021	Pain insensitivity
+C0085632	Indifferent mood	HP:0000741	Apathy
+C0221170	Muscular stiffness	HP:0003552	Muscle stiffness
+C0027497	Nausea	HP:0002018	Nausea
+C0458247	Allodynia	HP:0012533	Allodynia
+C0020440	Hypercapnia	HP:0012416	Hypercapnia
+C0151827	Eye pain	HP:0200026	Ocular pain
+C1866227	Somatic mosaicism	HP:0001442	Typified by somatic mosaicism
+C0237849	Peeling of skin	HP:0040189	Scaling skin
+C0020672	Hypothermia, natural	HP:0002045	Hypothermia
+C0232461	Increased appetite (finding)	HP:0002591	Polyphagia
+C0575081	Gait abnormality	HP:0001288	Gait disturbance
+C0020625	Hyponatremia	HP:0002902	Hyponatremia
+C0332563	Papule	HP:0200034	Papule
+C0012833	Dizziness	HP:0002321	Vertigo
+C0027080	Myoglobinuria	HP:0002913	Myoglobinuria
+C0020578	Hyperventilation	HP:0002883	Hyperventilation
+C0085631	Agitation	HP:0000713	Agitation
+C0424295	Hyperactive behavior	HP:0000752	Hyperactivity
+C0013144	Drowsiness	HP:0002329	Drowsiness
+C0231471	Abnormal posture	HP:0002533	Abnormal posturing
+C0595939	Stillbirth	HP:0003826	Stillbirth
+C1295654	Decreased testosterone level	HP:0040171	Decreased serum testosterone concentration
+C0018965	Hematuria	HP:0000790	Hematuria
+C1864897	Cognitive delay	HP:0001263	Global developmental delay
+C0040264	Tinnitus	HP:0000360	Tinnitus
+C1513302	Mild Adverse Event	HP:0012825	Mild
+C0751295	Memory Loss	HP:0002354	Memory impairment
+C0027794	Neural Tube Defects	HP:0010301	Spinal dysraphism
+C0004941	Behavioral Symptoms	HP:0000708	Atypical behavior
+C0020458	Hyperhidrosis disorder	HP:0000975	Hyperhidrosis
+C0020621	Hypokalemia	HP:0002900	Hypokalemia
+C0949445	Cervical Dystonia	HP:0000473	Torticollis
+C0015967	Fever	HP:0001945	Fever
+C3278923	Dilated ventricles (finding)	HP:0002119	Ventriculomegaly
+C0013404	Dyspnea	HP:0002098	Respiratory distress
+C1846821	Coagulation abnormalities	HP:0001928	Abnormality of coagulation
+C3278123	Hydrocephalus, severe	HP:0006882	Severe hydrocephalus
+C0239998	Recurrent infections	HP:0002719	Recurrent infections
+C0001925	Albuminuria	HP:0012592	Albuminuria
+C0751837	Gait Ataxia	HP:0002066	Gait ataxia
+C0234379	Resting Tremor	HP:0002322	Resting tremor
+C0020651	Hypotension, Orthostatic	HP:0001278	Orthostatic hypotension
+C0037771	Paraparesis, Spastic	HP:0002313	Spastic paraparesis
+C0010200	Coughing	HP:0012735	Cough
+C0027066	Myoclonus	HP:0001336	Myoclonus
+C1850601	Brainstem abnormalities	HP:0002363	Abnormal brainstem morphology
+C0684219	Myokymia	HP:0002411	Myokymia
+C0151889	Hyperreflexia	HP:0001347	Hyperreflexia
+C0032617	Polyuria	HP:0000103	Polyuria
+C0003862	Arthralgia	HP:0002829	Arthralgia
+C1836598	Incomplete penetrance	HP:0003829	Typified by incomplete penetrance
+C1850719	Encephalopathy, recurrent	HP:0007335	Recurrent encephalopathy
+C0003962	Ascites	HP:0001541	Ascites
+C0746674	Generalized muscle weakness	HP:0003324	Generalized muscle weakness
+C1865916	Bilateral ptosis	HP:0001488	Bilateral ptosis
+C0751495	Seizures, Focal	HP:0007359	Focal-onset seizure
+C0018800	Cardiomegaly	HP:0001640	Cardiomegaly
+C0026826	Muscle Hypertonia	HP:0001276	Hypertonia
+C0037763	Spasm	HP:0002487	Hyperkinetic movements
+C0019214	Hepatosplenomegaly	HP:0001433	Hepatosplenomegaly
+C0023380	Lethargy	HP:0001254	Lethargy
+C1842820	Cardiac conduction abnormalities	HP:0011675	Arrhythmia
+C0684276	Hypsarrhythmia	HP:0002521	Hypsarrhythmia
+C0546884	Hypovolemia	HP:0011106	Hypovolemia
+C0497247	Increase in blood pressure	HP:0000822	Hypertension
+C0008031	Chest Pain	HP:0100749	Chest pain
+C0030554	Paresthesia	HP:0003401	Paresthesia
+C0026838	Muscle Spasticity	HP:0001257	Spasticity
+C0041834	Erythema	HP:0010783	Erythema
+C0085602	Polydipsia	HP:0001959	Polydipsia
+C0853697	Neutrophil count decreased	HP:0001875	Decreased total neutrophil count
+C0018834	Heartburn	HP:0002020	Gastroesophageal reflux
+C1527344	Dysphonia	HP:0001618	Dysphonia
+C0151878	Prolonged QT interval	HP:0001657	Prolonged QT interval
+C0016382	Flushing	HP:0010783	Erythema
+C0151723	Hypomagnesemia	HP:0002917	Hypomagnesemia
+C0038002	Splenomegaly	HP:0001744	Splenomegaly
+C0018991	Hemiplegia	HP:0002301	Hemiplegia
+C2751260	Macrothrombocytopenia	HP:0040185	Macrothrombocytopenia
+C1854570	Distal motor neuropathy	HP:0007002	Motor axonal neuropathy
+C1850830	Exercise-induced muscle pain	HP:0003738	Exercise-induced myalgia
+C1384666	hearing impairment	HP:0000365	Hearing impairment
+C0028961	Oliguria	HP:0100520	Oliguria
+C1843156	Hearing loss, progressive sensorineural	HP:0000408	Progressive sensorineural hearing impairment
+C1262477	Weight Loss	HP:0004325	Decreased body weight
+C0020450	Hyperemesis Gravidarum	HP:0012188	Hyperemesis gravidarum
+C2675111	Abnormal eyelash morphology	HP:0000499	Abnormal eyelash morphology
+C0427065	Distal muscle weakness	HP:0002460	Distal muscle weakness
+C0234132	Pyramidal sign	HP:0007256	Abnormal pyramidal sign
+C0742038	Cerebellar signs	HP:0001317	Abnormal cerebellum morphology
+C1843921	Postural instability	HP:0002172	Postural instability
+C1858395	Tubular atrophy	HP:0000092	Renal tubular atrophy
+C0231686	Gait, Unsteady	HP:0002317	Unsteady gait
+C0005747	Blepharospasm	HP:0000643	Blepharospasm
+C0497202	Abnormal ocular motility	HP:0000496	Abnormality of eye movement
+C0751401	Ophthalmoparesis	HP:0000597	Ophthalmoparesis
+C0700590	Increased sweating	HP:0000975	Hyperhidrosis
+C0234146	Absent reflex	HP:0001284	Areflexia
+C0427190	Ataxia, Truncal	HP:0002078	Truncal ataxia
+C0234376	Action Tremor	HP:0002080	Intention tremor
+C0233844	Clumsiness	HP:0002312	Clumsiness
+C1843865	Vestibular dysfunction	HP:0001751	Abnormal vestibular function
+C0023222	Pain in lower limb	HP:0012514	Lower limb pain
+C0003126	Anosmia	HP:0000458	Anosmia
+C0234378	Static Tremor	HP:0002174	Postural tremor
+C1857287	Stroke-like episodes	HP:0002401	Stroke-like episode
+C0232466	Feeding difficulties	HP:0011968	Feeding difficulties
+C3275417	Ragged red fibers	HP:0003200	Ragged-red muscle fibers
+C1844666	Immune dysregulation	HP:0002958	Immune dysregulation
+C0151611	Electroencephalogram abnormal	HP:0002353	EEG abnormality
+C1858120	Generalized hypotonia	HP:0001290	Generalized hypotonia
+C0235546	Slow shallow breathing	HP:0040213	Hypopnea
+C0240421	Muscle weakness, progressive	HP:0003323	Progressive muscle weakness
+C0425492	Irregular breathing	HP:0012195	Irregular respiration
+C0026827	Muscle hypotonia	HP:0001252	Hypotonia
+C0030214	Myoclonus, Palatal	HP:0010530	Palatal tremor
+C1857121	Neurodevelopmental regression	HP:0002376	Developmental regression
+C0004158	Athetosis	HP:0002305	Athetosis
+C0035300	Retinal abnormalities	HP:0000479	Abnormal retinal morphology
+C1854301	Motor delay	HP:0001270	Motor delay
+C0427055	Facial Paresis	HP:0010628	Facial palsy
+C0233763	Hallucinations, Visual	HP:0002367	Visual hallucination
+C0004604	Back Pain	HP:0003418	Back pain
+C0240735	Personality change	HP:0000751	Personality changes
+C0035232	Respiratory Paralysis	HP:0006597	Diaphragmatic paralysis
+C0522055	Electrocardiogram abnormal	HP:0011675	Arrhythmia
+C0041667	Underweight	HP:0004325	Decreased body weight
+C3714745	Malabsorption	HP:0002024	Malabsorption
+C0521532	Diaphragmatic paresis	HP:0009113	Diaphragmatic weakness
+C0270327	Bedwetting	HP:0010677	Enuresis nocturna
+C0221184	Bitemporal Hemianopia	HP:0030521	Bitemporal hemianopia
+C0574769	Loss of scalp hair	HP:0002293	Alopecia of scalp
+C1857175	Hypertension, episodic	HP:0000875	Episodic hypertension
+C0392039	Ovarian enlargement	HP:0100879	Enlarged ovaries
+C0240671	Partial thromboplastin time increased (finding)	HP:0003645	Prolonged partial thromboplastin time
+C0545053	Advanced bone age	HP:0005616	Accelerated skeletal maturation
+C0018808	Heart murmur	HP:0030148	Heart murmur
+C1864570	Insulin insensitivity	HP:0008189	Insulin insensitivity
+C0332573	Macule	HP:0012733	Macule
+C1836003	Facial diplegia	HP:0001349	Facial diplegia
+C0019825	Hoarseness	HP:0001609	Hoarse voice
+C0235475	Wide QRS complex	HP:0006677	Prolonged QRS complex
+C0008039	Cheyne-Stokes Respiration	HP:0012196	Cheyne-Stokes respiration
+C0476403	Electromyogram abnormal	HP:0003457	EMG abnormality
+C0241240	Tall stature	HP:0000098	Tall stature
+C0034194	Pyloric Stenosis	HP:0002021	Pyloric stenosis
+C0401149	Chronic constipation	HP:0012450	Chronic constipation
+C0270685	Cerebral calcification	HP:0002514	Cerebral calcification
+C1842073	Prolonged Electroretinal Response Suppression	HP:0030511	Bradyopsia
+C0022906	Lacrimal Duct Obstruction	HP:0000579	Nasolacrimal duct obstruction
+C0034359	Pyuria	HP:0012085	Pyuria
+C0004659	Bacteriuria	HP:0012461	Bacteriuria
+C1859506	Hyperammonemia, acute	HP:0008281	Acute hyperammonemia
+C0152191	Scotoma, Central	HP:0000603	Central scotoma
+C0042571	Vertigo	HP:0002321	Vertigo
+C0233565	Bradykinesia	HP:0002067	Bradykinesia
+C0024031	Low Back Pain	HP:0003419	Low back pain
+C0013428	Dysuria	HP:0100518	Dysuria
+C0013132	Drooling	HP:0003781	Excessive salivation
+C0234708	Raised intraocular pressure	HP:0007906	Ocular hypertension
+C0237304	Noisy respiration	HP:0010307	Stridor
+C0240231	Fractures of the long bones	HP:0003084	Recurrent long bone fractures
+C0027429	Nasal obstruction present finding	HP:0001742	Nasal congestion

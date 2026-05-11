@@ -1,0 +1,928 @@
+not_found	UMLS:C0422837	Neurological observations
+not_found	UMLS:C0231172	handicapping condition
+not_found	UMLS:C0849912	Emotional
+not_found	UMLS:C1833334	Early-onset
+not_found	UMLS:C3840763	Rescue
+not_found	UMLS:C0234366	ataxic
+not_found	UMLS:C1457868	Worse
+not_found	UMLS:C0231162	Normal general body function
+not_found	UMLS:C1836408	Severe phenotype
+not_found	UMLS:C0751377	Neurologic Dysfunction
+not_found	UMLS:C0332516	Symmetrical
+not_found	UMLS:C0450093	Very large
+not_found	UMLS:C0558189	Abnormal movement
+not_found	UMLS:C0683954	research results
+not_found	UMLS:C1866186	White matter abnormalities
+not_found	UMLS:C0086132	Depressive Symptoms
+not_found	UMLS:C0518214	Perceived quality of life
+not_found	UMLS:C0442726	Detected (finding)
+not_found	UMLS:C0043096	Body Weight decreased
+not_found	UMLS:C0016928	Gait
+not_found	UMLS:C1518294	Neuronal Differentiation
+not_found	UMLS:C0241889	Family history
+not_found	UMLS:C0087130	Uncertainty
+not_found	UMLS:C3274777	Severely Abnormal Ventricular Ejection Fraction
+not_found	UMLS:C0235169	Excitability
+not_found	UMLS:C3842582	90%
+not_found	UMLS:C0595998	Household composition
+not_found	UMLS:C1836348	Severe disorder
+not_found	UMLS:C1273937	Not significant
+not_found	UMLS:C0027854	Neurologic Manifestations
+not_found	UMLS:C3245470	GeneticObservationValue <HOMO>
+not_found	UMLS:C1290905	Discrepancy
+not_found	UMLS:C0425152	Engaged to be married
+not_found	UMLS:C3151529	Lethal
+not_found	UMLS:C1832073	Handling
+not_found	UMLS:C1335499	Progressive Disease
+not_found	UMLS:C0682132	regional difference
+not_found	UMLS:C1545588	Protection
+not_found	UMLS:C1855073	Mortality, Premature
+not_found	UMLS:C0575090	Equilibration disorder
+not_found	UMLS:C1704258	Abnormality
+not_found	UMLS:C0553544	Gaze
+not_found	UMLS:C1836407	Early death
+not_found	UMLS:C0235031	Neurologic Symptoms
+not_found	UMLS:C2717879	Genotype-Phenotype Associations
+not_found	UMLS:C0037088	Signs and Symptoms
+not_found	UMLS:C1332223	Aggressive Clinical Course
+not_found	UMLS:C0683521	patient condition
+not_found	UMLS:C0206076	Reproductive History
+not_found	UMLS:C0518609	consideration
+not_found	UMLS:C0240417	Form of muscle
+not_found	UMLS:C1845518	Progressive neurodegeneration
+not_found	UMLS:C0424589	Vitality
+not_found	UMLS:C0436345	Symptom severe
+not_found	UMLS:C0423898	Intellectual ability
+not_found	UMLS:C0347938	Hypometabolism
+not_found	UMLS:C0694563	Excessive daytime somnolence
+not_found	UMLS:C0456984	Test Result
+not_found	UMLS:C1822046	Behavioral disturbances
+not_found	UMLS:C1842176	Clinical variability
+not_found	UMLS:C2674101	Autonomic symptoms
+not_found	UMLS:C0233743	Prosody
+not_found	UMLS:C1397014	Imbalance
+not_found	UMLS:C1565249	Mobility Limitation
+not_found	UMLS:C3540840	Sign or Symptom
+not_found	UMLS:C3844320	One day
+not_found	UMLS:C1306577	Death (finding)
+not_found	UMLS:C0598463	Functional Status
+not_found	UMLS:C0740170	Does swallow
+not_found	UMLS:C0231239	Fluctuation
+not_found	UMLS:C0237677	insensitivity
+not_found	UMLS:C3553502	Intraneuronal inclusions
+not_found	UMLS:C3842459	Energetic
+not_found	UMLS:C1858576	Heterogeneous disorder
+not_found	UMLS:C0233401	Psychiatric symptom
+not_found	UMLS:C0442757	3/4
+not_found	UMLS:C0561942	Does climb
+not_found	UMLS:C0235161	sleep loss
+not_found	UMLS:C2826292	Related to Cancer
+not_found	UMLS:C0576471	Finding of brain
+not_found	UMLS:C3806705	Axonal sensorimotor polyneuropathy
+not_found	UMLS:C0474395	Behavior showing increased motor activity
+not_found	UMLS:C1272641	Systemic arterial pressure
+not_found	UMLS:C0426976	Poor posture
+not_found	UMLS:C0427086	Involuntary Movements
+not_found	UMLS:C3840271	Stage 1
+not_found	UMLS:C3277906	Cardiac dysfunction
+not_found	UMLS:C1561566	FEV1 Adverse Event
+not_found	UMLS:C1855585	Mild phenotype
+not_found	UMLS:C0679838	Misdiagnosis
+not_found	UMLS:C0392156	Akathisia
+not_found	UMLS:C1277200	Normal concentration
+not_found	UMLS:C0221423	Illness (finding)
+not_found	UMLS:C0424099	Reduced concentration
+not_found	UMLS:C3714738	Compliance
+not_found	UMLS:C0436343	Symptom mild
+not_found	UMLS:C1408353	Undiagnosed
+not_found	UMLS:C3276192	Dystrophic changes
+not_found	UMLS:C1333299	Diffuse Pattern
+not_found	UMLS:C0459424	Abnormal result
+not_found	UMLS:C0751494	Convulsive Seizures
+not_found	UMLS:C0231337	Senility
+not_found	UMLS:C0750403	Proximal weakness
+not_found	UMLS:C1321756	Achalasia
+not_found	UMLS:C0683369	Clouded consciousness
+not_found	UMLS:C0700124	Dilated
+not_found	UMLS:C3845270	Heteroplasmic
+not_found	UMLS:C0424230	Motor retardation
+not_found	UMLS:C2752009	White matter lesions
+not_found	UMLS:C0751054	Consciousness, Level Altered
+not_found	UMLS:C0456128	Term infant
+not_found	UMLS:C3845273	Missense
+not_found	UMLS:C3665346	Unspecified visual loss
+not_found	UMLS:C0750325	Vomiting, recurrent
+not_found	UMLS:C1561319	CTCAE Grade 5 Encephalopathy
+not_found	UMLS:C0278252	Prognosis bad
+not_found	UMLS:C3806166	Poor outcome
+not_found	UMLS:C1334929	Necrotic Lesion
+not_found	UMLS:C0259972	Ketogenic Diet
+not_found	UMLS:C1836143	Variable severity
+not_found	UMLS:C0221571	Nervous system problem
+not_found	UMLS:C3278052	Metabolic crises
+not_found	UMLS:C3665473	Bilateral Deafness
+not_found	UMLS:C0231187	Decompensation
+not_found	UMLS:C0238884	canadian
+not_found	UMLS:C0231224	Crisis
+not_found	UMLS:C3554130	Encephalomyopathy
+not_found	UMLS:C1821244	Normal development
+not_found	UMLS:C0587081	Laboratory test finding
+not_found	UMLS:C0702119	Specimen unsatisfactory for diagnosis
+not_found	UMLS:C0600138	Does play
+not_found	UMLS:C0728899	Intoxication
+not_found	UMLS:C1148454	seizure activity
+not_found	UMLS:C0496675	medical care
+not_found	UMLS:C1838994	Rapid onset
+not_found	UMLS:C0743630	exacerbation acute
+not_found	UMLS:C0043084	Weaning
+not_found	UMLS:C0235195	Sedated state
+not_found	UMLS:C2675556	ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED, SUSCEPTIBILITY TO, 3
+not_found	UMLS:C0679837	underdiagnosis
+not_found	UMLS:C0241052	skeletal deformity
+not_found	UMLS:C1857382	Marked clinical heterogeneity
+not_found	UMLS:C0683321	poor health
+not_found	UMLS:C0807878	screen techniques
+not_found	UMLS:C3150238	Variable manifestations
+not_found	UMLS:C2239178	Newborn (finding)
+not_found	UMLS:C0518031	Endurance
+not_found	UMLS:C2676282	Dystonia, progressive
+not_found	UMLS:C0013798	Electrocardiogram
+not_found	UMLS:C0427194	Muscle finding
+not_found	UMLS:C0578757	Good neonatal condition at birth
+not_found	UMLS:C0422879	CNS symptom
+not_found	UMLS:C3811915	SUCLA2
+not_found	UMLS:C0277591	Unexpected death
+not_found	UMLS:C1828210	Macular dystrophy, concentric annular
+not_found	UMLS:C0600457	Gravidity
+not_found	UMLS:C1838626	Cerebral malformations
+not_found	UMLS:C1847498	Uncommon disorder
+not_found	UMLS:C1304680	Observation of attack
+not_found	UMLS:C3272281	American College of Cardiology/American Heart Association Lesion Complexity Score A
+not_found	UMLS:C1275743	Co-morbid conditions
+not_found	UMLS:C0559306	Endocrine finding
+not_found	UMLS:C2364172	Adherence To Medication Regime
+not_found	UMLS:C0425560	Cardiovascular finding
+not_found	UMLS:C3842337	0 days
+not_found	UMLS:C0541854	daytime sleepiness
+not_found	UMLS:C0743284	drug exposure
+not_found	UMLS:C0231441	Immobile
+not_found	UMLS:C1320716	Cardiovascular event
+not_found	UMLS:C3846131	Mantle
+not_found	UMLS:C0241863	diabetic
+not_found	UMLS:C3840775	Anticipated
+not_found	UMLS:C0231230	Fatigability
+not_found	UMLS:C3854130	T2d
+not_found	UMLS:C0004093	Asthenia
+not_found	UMLS:C0038661	Suicide
+not_found	UMLS:C3845231	Poor metabolizer
+not_found	UMLS:C0426576	Gastrointestinal symptom
+not_found	UMLS:C0032972	Pregnancy Outcome
+not_found	UMLS:C1623040	Breastfeeding (mother)
+not_found	UMLS:C3827656	Ventricular Tachyarrhythmia ECG Assessment
+not_found	UMLS:C3812282	Ventricular Arrhythmia ECG Assessment
+not_found	UMLS:C0428776	Cardiac index
+not_found	UMLS:C3494358	Prodromal Symptoms
+not_found	UMLS:C3687559	Ovariectomized female
+not_found	UMLS:C0574785	Lower Urinary Tract Symptoms
+not_found	UMLS:C3554639	Severe cognitive impairment
+not_found	UMLS:C0679309	physical symptom
+not_found	UMLS:C1862763	Small airways
+not_found	UMLS:C0856984	Hyperexcitability Behavior
+not_found	UMLS:C1858274	Reduced life expectancy
+not_found	UMLS:C0455825	Left ventricular mass
+not_found	UMLS:C0848894	normal patient
+not_found	UMLS:C0080203	Tachyarrhythmia
+not_found	UMLS:C0497406	Overweight
+not_found	UMLS:C0679246	advanced disease
+not_found	UMLS:C0232417	Increased skin temperature
+not_found	UMLS:C0456240	Core body temperature
+not_found	UMLS:C0425710	Peripheral perfusion
+not_found	UMLS:C1254481	Patient Problem
+not_found	UMLS:C0422768	Patient on waiting list (finding)
+not_found	UMLS:C0349410	Single organ dysfunction
+not_found	UMLS:C1517940	Long Term Survivorship
+not_found	UMLS:C0750479	blank
+not_found	UMLS:C0460089	Duration of gestation
+not_found	UMLS:C1846135	Autistic features
+not_found	UMLS:C0475858	Generalized pruritus
+not_found	UMLS:C3843057	Second half
+not_found	UMLS:C0747979	Increased prolactin level
+not_found	UMLS:C0849668	peri-menopausal
+not_found	UMLS:C0162703	Pain Threshold
+not_found	UMLS:C0678803	chemical exposure
+not_found	UMLS:C0031538	Phimosis
+not_found	UMLS:C0449575	Histological finding
+not_found	UMLS:C2985294	Fourth Stage of Labor
+not_found	UMLS:C3279537	Severe brain damage
+not_found	UMLS:C0522569	Severe inflammation
+not_found	UMLS:C0425040	Skier
+not_found	UMLS:C0442761	3/12
+not_found	UMLS:C3714797	Military service
+not_found	UMLS:C0005826	Abnormal blood pressure
+not_found	UMLS:C0853986	Lymphocyte count decreased
+not_found	UMLS:C0750731	physical appearance
+not_found	UMLS:C2717792	Airway Remodeling
+not_found	UMLS:C3806732	Repetitive movements
+not_found	UMLS:C3840680	GA-1
+not_found	UMLS:C0683836	Source of information
+not_found	UMLS:C0586406	Eye symptom
+not_found	UMLS:C1879338	Bereavement, life event (finding)
+not_found	UMLS:C3806327	Skeletal muscle weakness
+not_found	UMLS:C0561782	Procedural memory
+not_found	UMLS:C1843862	Memory difficulties
+not_found	UMLS:C0239233	Early satiety
+not_found	UMLS:C3151685	Seizures in the newborn, refractory
+not_found	UMLS:C0232997	Previous pregnancies 2
+not_found	UMLS:C3845645	Partial loss
+not_found	UMLS:C2673413	Variable features
+not_found	UMLS:C0728834	Place in family order: youngest sibling
+not_found	UMLS:C0429401	Electroretinographic (ERG) finding
+not_found	UMLS:C1846150	Small corpus callosum
+not_found	UMLS:C3714517	Connective and Soft Tissue Finding
+not_found	UMLS:C0566879	Fetus normal
+not_found	UMLS:C2216187	EEG HYPSARRHYTHMIA
+not_found	UMLS:C0549159	Infant Death
+not_found	UMLS:C3277428	Severe viral infections
+not_found	UMLS:C1850352	Microcephaly, severe
+not_found	UMLS:C0478147	General symptoms and signs (R50-R69)
+not_found	UMLS:C3279400	Peroxisome deficiency
+not_found	UMLS:C3275535	Hearing impairment, sensorineural
+not_found	UMLS:C1837231	Abnormal neuronal migration
+not_found	UMLS:C0560175	Carrier of disorder
+not_found	UMLS:C1850308	Myotonic discharges
+not_found	UMLS:C1836141	Respiratory muscle weakness
+not_found	UMLS:C0858529	Cardialgia
+not_found	UMLS:C1850834	Atrophic fibers
+not_found	UMLS:C2215935	Electrocardiogram atrioventricular block complete heart block
+not_found	UMLS:C2678062	Muscle wasting, progressive
+not_found	UMLS:C0016927	Gagging
+not_found	UMLS:C0234090	Abnormal nerve conduction
+not_found	UMLS:C3277092	Sleep abnormalities
+not_found	UMLS:C0429620	Bone age
+not_found	UMLS:C3843260	Line 7
+not_found	UMLS:C0541813	Kussmaul's respiration
+not_found	UMLS:C1843670	Short stature, severe
+not_found	UMLS:C0438400	Life crisis
+not_found	UMLS:C1843267	Upper limb dystonia
+not_found	UMLS:C1710427	Tissue Failure
+not_found	UMLS:C1511605	Cystic Change
+not_found	UMLS:C0577045	Liver palpable
+not_found	UMLS:C1846149	Progressive mental retardation
+not_found	UMLS:C0278234	Cherry red spot
+not_found	UMLS:C0564537	Tends not to be sociable
+not_found	UMLS:C0860787	Abnormal Growth Hormone
+not_found	UMLS:C5394393	Neuroinflammation
+not_found	UMLS:C0155256	Acute inflammation of orbit
+not_found	UMLS:C0007939	Syphilitic chancre
+not_found	UMLS:C3550574	Joint stiffness, progressive
+not_found	UMLS:C5201140	1 (finding)
+not_found	UMLS:C1142435	General physical condition
+not_found	UMLS:C0452264	Therapeutic diets
+not_found	UMLS:C0419373	Livebirth
+not_found	UMLS:C1855082	Decreased brain weight
+not_found	UMLS:C0541729	IMBECILITY
+not_found	UMLS:C4055506	Accumulation
+not_found	UMLS:C4012581	Motor incoordination
+not_found	UMLS:C5444317	SYSTEM:*
+not_found	UMLS:C5203340	Lethality
+not_found	UMLS:C5436858	Ocular abnormalities
+not_found	UMLS:C0017394	Encounter for Genetic screening NEC in ICD9CM
+not_found	UMLS:C5202796	Intensity and Distress 1
+not_found	UMLS:C4319571	High risk
+not_found	UMLS:C5236980	Mixed Response
+not_found	UMLS:C3833492	2+
+not_found	UMLS:C0020429	Hyperalgesia
+not_found	UMLS:C2347610	Chemosensitivity
+not_found	UMLS:C0848237	acute stress
+not_found	UMLS:C0700327	Memory observations
+not_found	UMLS:C3843647	> 2 years
+not_found	UMLS:C3495422	Finding relating to sexuality and sexual activity
+not_found	UMLS:C0516943	patience
+not_found	UMLS:C2219848	Daytime somnolence
+not_found	UMLS:C0221154	Paroxysmal hypertension
+not_found	UMLS:C2986463	Androgen Receptor Positive
+not_found	UMLS:C0580441	Prolactin level normal
+not_found	UMLS:C0427126	Step length
+not_found	UMLS:C0442748	6/4
+not_found	UMLS:C1321663	Colonic constipation
+not_found	UMLS:C0543419	Sequela of disorder
+not_found	UMLS:C0037316	Sleep Deprivation
+not_found	UMLS:C3843422	Abstinence
+not_found	UMLS:C0683320	unwellness
+not_found	UMLS:C0234156	Reflex, Righting
+not_found	UMLS:C0429087	Electrocardiogram: P-R interval
+not_found	UMLS:C3845876	Consequent
+not_found	UMLS:C3278535	Lipid droplet accumulation
+not_found	UMLS:C0037420	Social Interaction
+not_found	UMLS:C0687129	Encounter due to vagabond status
+not_found	UMLS:C1705232	Death Related to Adverse Event
+not_found	UMLS:C1953353	Amino acid change
+not_found	UMLS:C0741933	cardiac symptom
+not_found	UMLS:C0422815	Urethral function
+not_found	UMLS:C1299582	Unable
+not_found	UMLS:C0426980	Motor symptoms
+not_found	UMLS:C0700329	Physical shape
+not_found	UMLS:C1827547	Repetitious behavior
+not_found	UMLS:C0521989	Associated symptom
+not_found	UMLS:C1850620	Clinical heterogeneity
+not_found	UMLS:C0557351	Employed
+not_found	UMLS:C0548823	gastrointestinal distress
+not_found	UMLS:C0553668	Labored breathing
+not_found	UMLS:C1096250	gastrointestinal discomfort
+not_found	UMLS:C0580545	Blood glucose normal
+not_found	UMLS:C3151413	Behavioral abnormalities
+not_found	UMLS:C1621860	Mentally dull
+not_found	UMLS:C1134488	hormonal changes
+not_found	UMLS:C1521726	partial response
+not_found	UMLS:C0679218	Resting state
+not_found	UMLS:C0233849	Personality Traits
+not_found	UMLS:C0001726	Affective Symptoms
+not_found	UMLS:C1760428	Suicidal behavior
+not_found	UMLS:C2674584	Fearful expression
+not_found	UMLS:C0860603	Anxiety symptoms
+not_found	UMLS:C3251812	blood loss risk
+not_found	UMLS:C0041674	Unemployment
+not_found	UMLS:C0369610	total lipids
+not_found	UMLS:C0582590	Learning performance
+not_found	UMLS:C3843066	2 to 3 days
+not_found	UMLS:C0595883	Blood glucose decreased
+not_found	UMLS:C0728725	Low pH
+not_found	UMLS:C3843640	> 2/day
+not_found	UMLS:C0030318	Panic
+not_found	UMLS:C2936719	Mechanical Allodynia
+not_found	UMLS:C0178782	Orofacial Pain
+not_found	UMLS:C0475639	Behavioral disability
+not_found	UMLS:C1562590	Platelet volume
+not_found	UMLS:C0858603	wave slowing
+not_found	UMLS:C3809885	Self injury
+not_found	UMLS:C0022107	Irritable Mood
+not_found	UMLS:C0877006	cholinesterase inhibition
+not_found	UMLS:C0429706	Forced expiratory volume in 1 second finding
+not_found	UMLS:C1627773	Tissue texture abnormality
+not_found	UMLS:C0518041	Vitamin intake
+not_found	UMLS:C0424000	Feeling suicidal (finding)
+not_found	UMLS:C0234251	Inflammatory pain
+not_found	UMLS:C0036973	Shivering
+not_found	UMLS:C0744679	maximum heart rate
+not_found	UMLS:C0234235	Tissue sensitivity
+not_found	UMLS:C0860801	Glucose low
+not_found	UMLS:C0852876	po2 normal
+not_found	UMLS:C0235735	Unexpected therapeutic effect
+not_found	UMLS:C0087169	Withdrawal Symptoms
+not_found	UMLS:C0564474	Level of anxiety
+not_found	UMLS:C0239313	exercise induced
+not_found	UMLS:C2750560	Handgrip myotonia
+not_found	UMLS:C0429886	Walking distance
+not_found	UMLS:C0599766	Recovery of Function
+not_found	UMLS:C1838660	Increased fractures
+not_found	UMLS:C1268740	At risk for falls
+not_found	UMLS:C0428886	Mean blood pressure
+not_found	UMLS:C0564182	Vocalization (finding)
+not_found	UMLS:C1333602	Favorable Clinical Outcome
+not_found	UMLS:C0241526	Unresponsiveness
+not_found	UMLS:C4036115	Very mild
+not_found	UMLS:C1320408	Urinary elimination status
+not_found	UMLS:C0948482	analgesic effect
+not_found	UMLS:C0556137	Sucrose intake
+not_found	UMLS:C1299937	Failure of transfer of passive immunity in newborn
+not_found	UMLS:C1260880	Rhinorrhea
+not_found	UMLS:C1317600	patient symptoms
+not_found	UMLS:C0686750	Well adult
+not_found	UMLS:C1960562	Physiological tremor
+not_found	UMLS:C1829914	Sexuality.status
+not_found	UMLS:C0562577	Mocking
+not_found	UMLS:C0438215	Laboratory test result abnormal
+not_found	UMLS:C0235198	Unable to concentrate
+not_found	UMLS:C0522072	Defective biosynthesis
+not_found	UMLS:C0687152	Does cough
+not_found	UMLS:C0040210	Tidal Volume
+not_found	UMLS:C0579132	Arterial diameter
+not_found	UMLS:C0012154	Diestrus
+not_found	UMLS:C1519255	Serious Adverse Event
+not_found	UMLS:C2359857	Medication rate
+not_found	UMLS:C0872354	neurobehavior
+not_found	UMLS:C0871189	Psychotic symptom
+not_found	UMLS:C0525041	Neurobehavioral Manifestations
+not_found	UMLS:C2673464	Increased serum IgE
+not_found	UMLS:C0205400	Thickened
+not_found	UMLS:C0740721	Drug problem
+not_found	UMLS:C0598940	Loss of neurons
+not_found	UMLS:C3846446	Prospective, NOS
+not_found	UMLS:C1518681	Outcome of Therapy
+not_found	UMLS:C0423153	Lacrimation
+not_found	UMLS:C0241135	SKIN OILINESS
+not_found	UMLS:C0332575	Redness
+not_found	UMLS:C0871269	Rhythm
+not_found	UMLS:C1997984	Chronotropic incompetence
+not_found	UMLS:C0429029	ST segment
+not_found	UMLS:C3840882	5 mm
+not_found	UMLS:C0542189	REACTION TIME DECREASED
+not_found	UMLS:C3845736	Omission
+not_found	UMLS:C0341742	Acute retention of urine
+not_found	UMLS:C0027796	Neuralgia
+not_found	UMLS:C0442791	N18
+not_found	UMLS:C3538993	Complete Response with Incomplete Bone Marrow Recovery
+not_found	UMLS:C3670500	Neuronal degeneration
+not_found	UMLS:C3843716	1-2
+not_found	UMLS:C0240320	medication use
+not_found	UMLS:C0429807	Bladder capacity
+not_found	UMLS:C0429306	Burst suppression
+not_found	UMLS:C0032646	Poor compliance
+not_found	UMLS:C3842955	<30 min
+not_found	UMLS:C0694536	Drug seeking behavior
+not_found	UMLS:C0549649	MISUSE
+not_found	UMLS:C0871124	prenatal exposure
+not_found	UMLS:C0391841	Oxygen content
+not_found	UMLS:C0277787	Social stigmata
+not_found	UMLS:C0239876	head jerking
+not_found	UMLS:C1096446	slight fever
+not_found	UMLS:C0458990	Recurrent falls
+not_found	UMLS:C0240173	Left shifted white blood cells
+not_found	UMLS:C2732728	Short stature for age
+not_found	UMLS:C1384485	Normal delivery
+not_found	UMLS:C0152150	Pregnancy, Twin
+not_found	UMLS:C0311428	Increased excretory function
+not_found	UMLS:C1853719	Phenotypic variability
+not_found	UMLS:C0474415	Non-compliant behavior
+not_found	UMLS:C0442804	Very high
+not_found	UMLS:C0549634	Lipids abnormal
+not_found	UMLS:C0948775	high weight
+not_found	UMLS:C1856060	Psychiatric disturbances
+not_found	UMLS:C0808270	Time 2
+not_found	UMLS:C1291165	Decreased tyrosine
+not_found	UMLS:C4699619	>40 years
+not_found	UMLS:C0442751	Distance vision 6/9
+not_found	UMLS:C0679136	Low self-esteem
+not_found	UMLS:C3842676	Day 2
+not_found	UMLS:C0520904	Postoperative Nausea
+not_found	UMLS:C0442749	6/5
+not_found	UMLS:C0516981	physical function
+not_found	UMLS:C1287298	Urine volume finding
+not_found	UMLS:C0547002	Death rattle
+not_found	UMLS:C0553731	Increased prolactin
+not_found	UMLS:C1513916	Negative Finding
+not_found	UMLS:C0557163	Household income
+not_found	UMLS:C0235055	skeletal muscle paralysis
+not_found	UMLS:C0333574	Fatty deposition
+not_found	UMLS:C1709770	Pulmonary Dysfunction
+not_found	UMLS:C0475175	Interpretation of behavior
+not_found	UMLS:C0039870	Thinness
+not_found	UMLS:C0429826	Dysfunctional voiding of urine
+not_found	UMLS:C2599768	Fractional shortening
+not_found	UMLS:C0030201	Pain, Postoperative
+not_found	UMLS:C0427008	Stiffness
+not_found	UMLS:C0232459	Abnormal digestive tract function
+not_found	UMLS:C3844729	Very important
+not_found	UMLS:C1709043	Missed Dose
+not_found	UMLS:C3279217	Repolarization abnormalities
+not_found	UMLS:C3275496	Behavioral difficulties
+not_found	UMLS:C0231918	Nose symptoms
+not_found	UMLS:C3281105	HEMORRHAGE, INTRACEREBRAL, SUSCEPTIBILITY TO
+not_found	UMLS:C3842674	Day 5
+not_found	UMLS:C0426359	Urinary symptoms
+not_found	UMLS:C0231530	Muscle twitch
+not_found	UMLS:C3808595	Myeloid proliferation
+not_found	UMLS:C0744689	heart size
+not_found	UMLS:C3843711	13-14
+not_found	UMLS:C1517874	Life Threatening Adverse Event
+not_found	UMLS:C0744683	heart rhythm irregular
+not_found	UMLS:C0429774	Residual urine volume
+not_found	UMLS:C1527169	Encounter due to being a donor
+not_found	UMLS:C0743626	etiology unknown
+not_found	UMLS:C0560435	Does skip
+not_found	UMLS:C0541875	destruction joint
+not_found	UMLS:C0037090	Signs and Symptoms, Respiratory
+not_found	UMLS:C0429340	EMG amplitude
+not_found	UMLS:C0152030	Skin irritation
+not_found	UMLS:C3842085	7 mm
+not_found	UMLS:C2945640	compromise
+not_found	UMLS:C0858277	angina symptom
+not_found	UMLS:C1156245	Growth pattern
+not_found	UMLS:C0854059	acid urine
+not_found	UMLS:C2114320	Premature contractions
+not_found	UMLS:C0596020	Does hit (finding)
+not_found	UMLS:C0424641	Decrease in height
+not_found	UMLS:C4321237	High Level
+not_found	UMLS:C1866771	Spinal tract degeneration
+not_found	UMLS:C2750249	Neuronal migration defect
+not_found	UMLS:C1857639	Dysmyelination
+not_found	UMLS:C0750426	White blood cell count increased (lab result)
+not_found	UMLS:C0860901	Decreased total protein
+not_found	UMLS:C0856883	na+ decrease
+not_found	UMLS:C3670503	Neuronal swelling
+not_found	UMLS:C0701826	Perinatal death
+not_found	UMLS:C0013658	Educational Status
+not_found	UMLS:C2015861	Multiple birth (finding)
+not_found	UMLS:C0038187	Starvation
+not_found	UMLS:C0271093	Stargardt's disease
+not_found	UMLS:C0814161	impaired motor coordination
+not_found	UMLS:C0231217	Multiple symptoms
+not_found	UMLS:C3845288	Strong positive
+not_found	UMLS:C0238711	australian
+not_found	UMLS:C3845593	Major change
+not_found	UMLS:C1260922	Abnormal breathing
+not_found	UMLS:C0027769	Nervousness
+not_found	UMLS:C1998319	Functional capacity
+not_found	UMLS:C3714963	ARG
+not_found	UMLS:C1956415	Paroxysmal nocturnal dyspnea
+not_found	UMLS:C0038999	Swelling
+not_found	UMLS:C0015411	Eye Manifestations
+not_found	UMLS:C3554093	Impaired mitochondrial respiration
+not_found	UMLS:C1835590	Male predominance
+not_found	UMLS:C0679250	Disease Outcome
+not_found	UMLS:C1842211	Severe course
+not_found	UMLS:C1837325	Fiber size variation
+not_found	UMLS:C1334928	Necrotic changes (finding)
+not_found	UMLS:C3274775	Mildly Abnormal Ejection Fraction
+not_found	UMLS:C0231796	respiratory abnormalities
+not_found	UMLS:C3280118	Mild disorder
+not_found	UMLS:C0149775	Fit frequency
+not_found	UMLS:C0423216	Globe finding
+not_found	UMLS:C1857104	Neonatal lethal
+not_found	UMLS:C1836107	Early lethality
+not_found	UMLS:C1864676	Glial activation
+not_found	UMLS:C1299590	Seizure free
+not_found	UMLS:C3714625	Neuropathic pain
+not_found	UMLS:C0439663	Infected
+not_found	UMLS:C0184567	Acute onset pain
+not_found	UMLS:C3178766	Nociceptive Pain
+not_found	UMLS:C0376618	Endotoxemia
+not_found	UMLS:C0751214	Hyperalgesia, Thermal
+not_found	UMLS:C3842672	Day 7
+not_found	UMLS:C0425168	Relationship problems (finding)
+not_found	UMLS:C0855333	Corrected Prolonged QT Interval by ECG Finding
+not_found	UMLS:C0349790	Exacerbation of asthma
+not_found	UMLS:C0231184	Inefficiency
+not_found	UMLS:C3671772	Change in diet
+not_found	UMLS:C3276433	Decreased mental alertness
+not_found	UMLS:C3279454	Renal dysfunction
+not_found	UMLS:C0037285	Skin Manifestations
+not_found	UMLS:C3840880	Traffic
+not_found	UMLS:C0020557	Hypertriglyceridemia
+not_found	UMLS:C0241411	TOBACCO LEAF EXPOSURE
+not_found	UMLS:C0679217	active state
+not_found	UMLS:C0683317	activity level
+not_found	UMLS:C0040336	Tobacco Use Disorder
+not_found	UMLS:C0026858	Musculoskeletal Pain
+not_found	UMLS:C0037383	Sneezing
+not_found	UMLS:C1319208	Ability to make coordinated movements
+not_found	UMLS:C0740411	Delayed gastric emptying
+not_found	UMLS:C0013395	Dyspepsia
+not_found	UMLS:C0556385	Craving for alcohol
+not_found	UMLS:C2678248	Mood instability
+not_found	UMLS:C1840470	Complete penetrance
+not_found	UMLS:C3686869	Microthrombosis
+not_found	UMLS:C1846086	Decreased contractility
+not_found	UMLS:C0560219	Alcohol intake above recommended sensible limits
+not_found	UMLS:C3842673	Day 6
+not_found	UMLS:C0007166	Low Cardiac Output
+not_found	UMLS:C0235193	Torpor
+not_found	UMLS:C0231488	Decreased muscle function
+not_found	UMLS:C1268764	Respiratory alteration
+not_found	UMLS:C3686832	Glycogen accumulation
+not_found	UMLS:C0002020	Alexithymia
+not_found	UMLS:C3160733	THROMBOPHILIA DUE TO THROMBIN DEFECT
+not_found	UMLS:C0459425	Indeterminate result
+not_found	UMLS:C0239779	Grimaces
+not_found	UMLS:C1859817	2-AMINOADIPIC 2-OXOADIPIC ACIDURIA
+not_found	UMLS:C3553578	N-glycosylation defect
+not_found	UMLS:C3552784	Impaired N-glycosylation
+not_found	UMLS:C0423154	Lack of tear production
+not_found	UMLS:C0086437	Hypermobility, Joint
+not_found	UMLS:C1837218	Cleft palate, isolated
+not_found	UMLS:C3553572	Abnormal fat distribution
+not_found	UMLS:C0746554	metabolic deficiency
+not_found	UMLS:C0678807	prenatal alcohol exposure
+not_found	UMLS:C2748971	Fetal akinesia
+not_found	UMLS:C3280971	Structural brain anomalies
+not_found	UMLS:C1859141	Plasmalogen deficiency
+not_found	UMLS:C0917731	Male sterility
+not_found	UMLS:C0013911	Emaciation
+not_found	UMLS:C1866179	Subcapsular opacities
+not_found	UMLS:C0429216	Gastric pressure
+not_found	UMLS:C0575078	Skeletal muscle problem
+not_found	UMLS:C1721096	Brugada ECG Pattern
+not_found	UMLS:C0848676	Subfertility, Male
+not_found	UMLS:C0806591	lamellar bodies
+not_found	UMLS:C3714772	Recurrent fevers
+not_found	UMLS:C0240817	Proteinuria, severe
+not_found	UMLS:C3280984	Decreased mtDNA
+not_found	UMLS:C0035863	Rosette formation
+not_found	UMLS:C0574927	Joint absent
+not_found	UMLS:C1848694	Episodic paralysis
+not_found	UMLS:C3554190	Impaired mitochondrial translation
+not_found	UMLS:C1335761	Honeycomb Pattern
+not_found	UMLS:C3845568	Other nursing home
+not_found	UMLS:C0700153	Myotonus (finding)
+not_found	UMLS:C5441816	Psychomotor Impairment
+not_found	UMLS:C5203119	Intensity and Distress 5
+not_found	UMLS:C5201228	Low risk
+not_found	UMLS:C4693871	Motility problems
+not_found	UMLS:C5555125	Mutation Load
+not_found	UMLS:C4281748	Leakage
+not_found	UMLS:C1265608	Decreased density
+not_found	UMLS:C3843713	9-10
+not_found	UMLS:C1859521	Ataxia, progressive
+not_found	UMLS:C1334804	Motor Manifestations
+not_found	UMLS:C0392678	Swallowing problem
+not_found	UMLS:C0277786	Chief complaint (finding)
+not_found	UMLS:C0449381	Observation parameter
+not_found	UMLS:C3840862	75+ years
+not_found	UMLS:C3809247	Motor abnormalities
+not_found	UMLS:C1446614	Convergent gaze
+not_found	UMLS:C0231218	Malaise
+not_found	UMLS:C3842508	1 - 9%
+not_found	UMLS:C1836717	Phenotypic variation
+not_found	UMLS:C2242578	Tongue dystonia
+not_found	UMLS:C0872173	functional disability
+not_found	UMLS:C1838318	Ubiquitin-positive inclusions
+not_found	UMLS:C2960235	Mini-mental state examination score
+not_found	UMLS:C0342952	Hypermetabolism
+not_found	UMLS:C3842777	Trial 2
+not_found	UMLS:C2347379	Observation Result
+not_found	UMLS:C0007294	Genetic Carriers
+not_found	UMLS:C1868500	Variable expression
+not_found	UMLS:C3242657	unrelated person
+not_found	UMLS:C0860942	creatine increased
+not_found	UMLS:C1852220	Phenotypic heterogeneity
+not_found	UMLS:C0871407	speech characteristics
+not_found	UMLS:C1833300	White matter changes
+not_found	UMLS:C1704257	Molecular Genetic Abnormality
+not_found	UMLS:C0262496	Molecular Abnormality
+not_found	UMLS:C1849402	Increased echogenicity
+not_found	UMLS:C1861867	Brain stem atrophy
+not_found	UMLS:C3554198	Autonomic manifestations
+not_found	UMLS:C1328799	Deep breathing
+not_found	UMLS:C1317598	Pathologic findings
+not_found	UMLS:C3640841	Clinical Failure
+not_found	UMLS:C1846368	Cerebellar ataxia, slowly progressive
+not_found	UMLS:C1832428	Familial form
+not_found	UMLS:C0741302	atypia morphology
+not_found	UMLS:C1836775	Mild disease course
+not_found	UMLS:C0024967	Maximal Voluntary Ventilation
+not_found	UMLS:C1837655	Multifactorial
+not_found	UMLS:C0024841	Marriage, life event
+not_found	UMLS:C0474396	Sleep behavior finding
+not_found	UMLS:C2826279	Abnormal Finding
+not_found	UMLS:C1855575	Very rare
+not_found	UMLS:C1549114	Unreported
+not_found	UMLS:C1837619	Psychomotor delay
+not_found	UMLS:C2674386	Elevated serum lactate
+not_found	UMLS:C3278132	Variable clinical presentation
+not_found	UMLS:C2675360	Extrapyramidal features
+not_found	UMLS:C0855355	Nuclear magnetic resonance imaging brain normal
+not_found	UMLS:C3550504	Episodic decompensation
+not_found	UMLS:C3149360	Encephalopathy, subacute
+not_found	UMLS:C1853567	Developmental delay, severe
+not_found	UMLS:C0576456	Feeding poor
+not_found	UMLS:C3278495	Thalamic lesions
+not_found	UMLS:C0517967	Respiratory pattern
+not_found	UMLS:C0581296	intracranial lesion
+not_found	UMLS:C2675972	Ventricular enlargement
+not_found	UMLS:C0010840	Vacuolation
+not_found	UMLS:C3806500	Apnea, episodic
+not_found	UMLS:C0917799	Hypersomnia
+not_found	UMLS:C3276434	Neurologic regression
+not_found	UMLS:C2674422	Seizures, intractable
+not_found	UMLS:C2675896	Mild dysmorphism
+not_found	UMLS:C0860803	glucose high
+not_found	UMLS:C0744369	genital lesion
+not_found	UMLS:C1863063	Cognitive decline, progressive
+not_found	UMLS:C1839743	Dysarthric speech
+not_found	UMLS:C3275909	Seizures, early onset
+not_found	UMLS:C1962973	Urinary Incontinence Adverse Event
+not_found	UMLS:C0278060	Mental state (observable entity)
+not_found	UMLS:C3842628	Cognitive problems
+not_found	UMLS:C0150045	Urge Incontinence
+not_found	UMLS:C0741548	bladder symptoms
+not_found	UMLS:C0743400	Ejection fraction decreased
+not_found	UMLS:C0010201	Chronic cough
+not_found	UMLS:C0424400	Erotic interest
+not_found	UMLS:C0231837	Slow respiration
+not_found	UMLS:C1113650	brain morphology
+not_found	UMLS:C3842086	6 mm
+not_found	UMLS:C2825141	Experimental Finding
+not_found	UMLS:C0030200	Pain, Intractable
+not_found	UMLS:C0232597	Acute vomiting
+not_found	UMLS:C0872084	Sarcopenia
+not_found	UMLS:C0425945	Prolonged menses
+not_found	UMLS:C1882085	New York Heart Association Class II
+not_found	UMLS:C0424594	Frailty
+not_found	UMLS:C0240805	Prodrome
+not_found	UMLS:C0221232	Welts
+not_found	UMLS:C0029166	Oral Manifestations
+not_found	UMLS:C0232605	Regurgitates after swallowing
+not_found	UMLS:C0740378	Normal thyroid function
+not_found	UMLS:C1882083	New York Heart Association Class
+not_found	UMLS:C0751229	Hypersomnolence
+not_found	UMLS:C1822020	insufficient sleep
+not_found	UMLS:C0425722	Sexual symptom
+not_found	UMLS:C0235828	Lack of Efficacy
+not_found	UMLS:C0476288	Digestive symptom
+not_found	UMLS:C0011124	Decreased Libido
+not_found	UMLS:C0682075	racial differences
+not_found	UMLS:C1864448	Low body weight
+not_found	UMLS:C1517205	Flare
+not_found	UMLS:C1882087	New York Heart Association Class IV
+not_found	UMLS:C0547030	Visual disturbance
+not_found	UMLS:C2220255	Motor disturbances
+not_found	UMLS:C1168492	Increased tyrosine
+not_found	UMLS:C1843368	Perseverative behavior
+not_found	UMLS:C3809218	Retinal dysfunction
+not_found	UMLS:C0035345	Retirement
+not_found	UMLS:C2673338	Increased fatigue
+not_found	UMLS:C3554068	Floppiness
+not_found	UMLS:C0085624	Burning sensation
+not_found	UMLS:C0013609	Localized edema
+not_found	UMLS:C0237827	Social Rejection
+not_found	UMLS:C1836551	Rapid regression
+not_found	UMLS:C2921139	Psychomotor deficit
+not_found	UMLS:C0682076	ethnic differences
+not_found	UMLS:C1836387	Poor cognition
+not_found	UMLS:C1321132	Spontaneous hemorrhage
+not_found	UMLS:C1867118	Marked heterogeneity
+not_found	UMLS:C2750596	Endocrine dysgenesis
+not_found	UMLS:C0745768	liver test abnormal
+not_found	UMLS:C1837086	Normal facies
+not_found	UMLS:C1511567	Cutaneous Involvement
+not_found	UMLS:C1865012	Highly variable phenotype
+not_found	UMLS:C3278289	Bone spicule pigmentation
+not_found	UMLS:C1846818	Elevated creatine kinase
+not_found	UMLS:C0577785	Cardiac finding
+not_found	UMLS:C1857946	Severe gastroesophageal reflux
+not_found	UMLS:C3279396	Phytanic acid accumulation
+not_found	UMLS:C1850688	Type 1 fiber atrophy
+not_found	UMLS:C0429339	EMG finding
+not_found	UMLS:C0457381	Muscle action potential amplitude
+not_found	UMLS:C0235710	Chest discomfort
+not_found	UMLS:C1837466	Decreased muscle mass
+not_found	UMLS:C1835120	Early cataracts
+not_found	UMLS:C1860413	Normocalcemia
+not_found	UMLS:C0231930	Chronic hypoventilation
+not_found	UMLS:C0581880	Morning headache
+not_found	UMLS:C3258059	Primary problem
+not_found	UMLS:C2674748	Sleep-onset REM
+not_found	UMLS:C0421455	Patient telephone number
+not_found	UMLS:C0744034	finger weakness
+not_found	UMLS:C3152138	Left ventricular dilation
+not_found	UMLS:C0241225	spinal defect
+not_found	UMLS:C1837234	Muscle weakness, predominantly proximal
+not_found	UMLS:C3808699	Low growth hormone levels
+not_found	UMLS:C3274776	Moderately Abnormal Ejection Fraction
+not_found	UMLS:C0740577	Acute abdominal pain
+not_found	UMLS:C0424424	Refusing food
+not_found	UMLS:C0026751	Multiparity
+not_found	UMLS:C1839165	Elevated serum IgE
+not_found	UMLS:C0241165	Thickening of skin
+not_found	UMLS:C1857046	Palmoplantar hyperkeratosis
+not_found	UMLS:C2186235	reported hypercholesterolemia
+not_found	UMLS:C2936826	Fumaric aciduria
+not_found	UMLS:C1840437	Isolated hyperchlorhidrosis
+not_found	UMLS:C0155540	Ear discharge
+not_found	UMLS:C0227791	Vaginal Discharge
+not_found	UMLS:C0158157	Effusion of joint, other specified sites
+not_found	UMLS:C3642318	Posteroinferior Myocardial Infarction by ECG Finding
+not_found	UMLS:C3642319	Apical Myocardial Infarction by ECG Finding
+not_found	UMLS:C3642476	Subendocardial Myocardial Infarction by ECG Finding
+not_found	UMLS:C3642463	Posterolateral Myocardial Infarction by ECG Finding
+not_found	UMLS:C3537017	Inferolateral Myocardial Infarction by ECG Finding
+not_found	UMLS:C0152192	Enlarged blind spot
+not_found	UMLS:C0220723	CHOANAL ATRESIA, POSTERIOR
+not_found	UMLS:C0344353	Vegan diet
+not_found	UMLS:C5445274	METHOD:*
+not_found	UMLS:C1865398	Minipolymyoclonus
+not_found	UMLS:C0240775	plantar keratosis
+not_found	UMLS:C2675537	Abnormal dentition
+not_found	UMLS:C0424421	Eating problem
+not_found	UMLS:C0040437	Tooth eruption
+not_found	UMLS:C1291096	Increased carbohydrate
+not_found	UMLS:C0564448	Selenium intake
+not_found	UMLS:C1853617	Hypoplastic corpus callosum
+not_found	UMLS:C0476393	Abnormal brain scan
+not_found	UMLS:C3807599	Progressive mental deterioration
+not_found	UMLS:C0564221	Difficulty talking
+not_found	UMLS:C4759928	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 20
+not_found	UMLS:C4740653	High severity
+not_found	UMLS:C4477104	Spinal cord pathology
+not_found	UMLS:C1847652	Parkinsonian symptoms
+not_found	UMLS:C1444656	Indicated
+not_found	UMLS:C0424575	General body state finding
+not_found	UMLS:C0425946	Short menstrual periods
+not_found	UMLS:C3810854	Close
+not_found	UMLS:C2004062	History of previous events
+not_found	UMLS:C1514815	Refractory Disease
+not_found	UMLS:C3842553	Much difficulty
+not_found	UMLS:C0749075	structural abnormalities
+not_found	UMLS:C3714811	Resolved
+not_found	UMLS:C1718498	Voluntary movement
+not_found	UMLS:C0428679	Minute volume
+not_found	UMLS:C0578818	In further education
+not_found	UMLS:C2346414	History of recreational running
+not_found	UMLS:C0677874	In complete remission
+not_found	UMLS:C0449380	Associated finding
+not_found	UMLS:C0686744	Well child
+not_found	UMLS:C1707743	Diffuse Lesion
+not_found	UMLS:C2957106	headache severe
+not_found	UMLS:C1850767	Neurologic deterioration
+not_found	UMLS:C0544452	Disease remission
+not_found	UMLS:C0234650	Ocular flutter
+not_found	UMLS:C2826244	Life Threatening
+not_found	UMLS:C0235874	Disease Exacerbation
+not_found	UMLS:C0270844	Seizures, Tonic
+not_found	UMLS:C3872830	Inflammatory lesion
+not_found	UMLS:C3714652	Ventricular Premature Complex by ECG Finding
+not_found	UMLS:C2712122	Actual Positive Blood Pressure
+not_found	UMLS:C0582148	Pain score
+not_found	UMLS:C3843385	36+ months
+not_found	UMLS:C0549405	blood pressure fluctuation
+not_found	UMLS:C0751213	Tactile Allodynia
+not_found	UMLS:C3812244	Minimal Disseminated Disease
+not_found	UMLS:C0233397	Psychological symptom
+not_found	UMLS:C0458960	Peripheral neuropathic pain
+not_found	UMLS:C3263685	Hormone abnormality
+not_found	UMLS:C1997354	Early repolarization
+not_found	UMLS:C0581126	Severe asthma
+not_found	UMLS:C0553654	Does steer
+not_found	UMLS:C0877014	Sympathomimetic Effect
+not_found	UMLS:C3840622	5 - 9
+not_found	UMLS:C0231402	Moderate anxiety
+not_found	UMLS:C0740418	Chronic back pain
+not_found	UMLS:C0150044	Total urinary incontinence
+not_found	UMLS:C1277590	Unexplained cough
+not_found	UMLS:C1869116	ASTHMA, SUSCEPTIBILITY TO (finding)
+not_found	UMLS:C3668831	Lactation established in non-human animal
+not_found	UMLS:C3538872	ST Elevation Myocardial Infarction by ECG Finding
+not_found	UMLS:C0850760	cardiovascular problem
+not_found	UMLS:C0234245	Visceral Pain
+not_found	UMLS:C0424095	Social withdrawal
+not_found	UMLS:C0232849	Bladder pain
+not_found	UMLS:C0314719	Dryness of eye
+not_found	UMLS:C0549400	Low APGAR scores
+not_found	UMLS:C0159028	General symptom
+not_found	UMLS:C0232807	Decreased renal function
+not_found	UMLS:C0237154	Homelessness
+not_found	UMLS:C3845714	Several days
+not_found	UMLS:C2228139	Primary nocturnal enuresis
+not_found	UMLS:C1319214	Blood loss status
+not_found	UMLS:C3537184	Non-ST Elevation Myocardial Infarction by ECG Finding
+not_found	UMLS:C0559964	Ability to walk
+not_found	UMLS:C0239966	Hospital patient (finding)
+not_found	UMLS:C0449437	Patient status
+not_found	UMLS:C1332555	Biphasic Pattern
+not_found	UMLS:C0740903	allergic symptom
+not_found	UMLS:C0553702	ca increase
+not_found	UMLS:C0848067	Mental problem
+not_found	UMLS:C0520819	Decreased pressure
+not_found	UMLS:C0267167	Nonulcer dyspepsia
+not_found	UMLS:C1299448	Patient ventilated
+not_found	UMLS:C1882084	New York Heart Association Class I
+not_found	UMLS:C0871754	Frail
+not_found	UMLS:C3842783	Injury 2
+not_found	UMLS:C3815188	Supraventricular Tachycardia by ECG Finding
+not_found	UMLS:C0745114	hypertension chronic
+not_found	UMLS:C2698969	Canadian Cardiovascular Society Grading Scale Class III
+not_found	UMLS:C0542079	Abnormal androgen
+not_found	UMLS:C0520909	Postoperative Nausea and Vomiting
+not_found	UMLS:C0429856	Arterial flow
+not_found	UMLS:C0424236	Constant movement
+not_found	UMLS:C3843265	Line 2
+not_found	UMLS:C1960756	Complicated grieving
+not_found	UMLS:C0426857	Short arm
+not_found	UMLS:C1631070	6/4.5
+not_found	UMLS:C0518534	identifies medication
+not_found	UMLS:C1319803	Epilepsy severity
+not_found	UMLS:C0085988	Cephalopelvic Disproportion
+not_found	UMLS:C0232193	Rhythm from artificial pacing
+not_found	UMLS:C2202981	watery rhinorrhea
+not_found	UMLS:C0457950	Acute low back pain
+not_found	UMLS:C0426317	Genitourinary symptoms
+not_found	UMLS:C0741585	body ache
+not_found	UMLS:C3273930	Tumor Mass
+not_found	UMLS:C0428698	Train of four ratio
+not_found	UMLS:C0425092	Self-employed
+not_found	UMLS:C3531755	Sedative withdrawal
+not_found	UMLS:C0520890	Increased vascular resistance
+not_found	UMLS:C3494360	Prodromal Period
+not_found	UMLS:C0424919	Language spoken
+not_found	UMLS:C0278147	Radicular pain
+not_found	UMLS:C0565998	Ability to communicate
+not_found	UMLS:C0241718	Vulval pain
+not_found	UMLS:C1314759	Aroused sexually
+not_found	UMLS:C1998297	Recent myocardial infarction
+not_found	UMLS:C1883654	completed ninth grade
+not_found	UMLS:C1883651	completed seventh grade
+not_found	UMLS:C0086189	Drug Withdrawal Symptoms
+not_found	UMLS:C0814346	prevention side effects
+not_found	UMLS:C1948079	abnormal quantities
+not_found	UMLS:C0239988	Increased IgG
+not_found	UMLS:C0949156	Genetic carrier status
+not_found	UMLS:C1867795	Reduced fertility
+not_found	UMLS:C0151956	Increased tolerance
+not_found	UMLS:C1268572	Laryngeal paresis
+not_found	UMLS:C3813722	MUT
+not_found	UMLS:C3844842	Hb S
+not_found	UMLS:C0749645	treated by diet
+not_found	UMLS:C4317123	Myoclonic Seizures
+not_found	UMLS:C4016624	EPILEPSY, MITOCHONDRIAL
+not_found	UMLS:C3541461	MULTICENTRIC CASTLEMAN DISEASE, SUSCEPTIBILITY TO
+not_found	UMLS:C2674385	Elevated liver transaminases

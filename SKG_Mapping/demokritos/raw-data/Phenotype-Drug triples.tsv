@@ -1,0 +1,774 @@
+Phenotype	Phenotype_id	RELATION	PROVENANCE	Drug	Drug_id
+Gait Ataxia	C0751837	IS_TREATED	["32357546_fullText_27"]	Buspirone	C0006462
+Gait abnormality	C0575081	IS_TREATED	["34544947_fullText_5"]	Distigmine bromide	C2745877
+Neurological observations	C0422837	IS_TREATED	["7146576_fullText_2"]	Phenylalanine	C0031453
+Neurological observations	C0422837	IS_TREATED	["7146576_fullText_2"]	other medicated shampoos in ATC	C3539125
+Neurological observations	C0422837	IS_TREATED	["34454911_fullText_2"]	agonists	C0243192
+Neurological observations	C0422837	IS_TREATED	["34499561_fullText_4"]	messenger protein	C0169911
+Neurological observations	C0422837	IS_TREATED	["34281274_fullText_4"]	Antioxidants	C0003402
+Dizziness	C0012833	IS_TREATED	["34311244_fullText_5"]	duloxetine	C0245561
+handicapping condition	C0231172	IS_TREATED	["21862209_fullText_1"]	Program	C2728259
+Vertigo	C0042571	IS_TREATED	["35849408_fullText_2"]	Benzodiazepines	C0005064
+Vertigo	C0042571	IS_TREATED	["35849408_fullText_2"]	Antihistamines	C0003360
+Progressive disorder	C1864985	IS_TREATED	["37738768_fullText_1"]	Cholinesterase Inhibitors	C0008425
+Parkinsonian symptoms	C1847652	IS_TREATED	["37569714_fullText_8"]	Antihistamines	C0003360
+Physical shape	C0700329	IS_TREATED	["27717809_fullText_5"]	animal allergen extracts	C3540698
+Motor symptoms	C0426980	IS_TREATED	["35357463_fullText_1"]	Dopaminergic Agents	C0013036
+Motor symptoms	C0426980	IS_TREATED	["36716191_fullText_3"]	Dopamine Agonists	C0178601
+Motor symptoms	C0426980	IS_TREATED	["36958527_fullText_1"]	Pramipexole	C0074710
+Motor symptoms	C0426980	IS_TREATED	["35718278_fullText_5"]	Dopamine Uptake Inhibitors	C0242980
+Motor symptoms	C0426980	IS_TREATED	["37713748_fullText_1"]	agonists	C0243192
+Motor symptoms	C0426980	IS_TREATED	["35104500_fullText_6"]	atractylon	C0052616
+Motor symptoms	C0426980	IS_TREATED	["37713748_fullText_1"]	Muscarinic Antagonists	C0003385
+Motor symptoms	C0426980	IS_TREATED	["37973769_fullText_16"]	MAO B Inhibitors, dopaminergic anti-parkinson drugs	C3653412
+Motor symptoms	C0426980	IS_TREATED	["35864474_fullText_2","35864474_fullText_6"]	Anticholinergic Agents	C0242896
+Motor symptoms	C0426980	IS_TREATED	["36958527_fullText_1"]	ropinirole	C0244821
+Motor symptoms	C0426980	IS_TREATED	["35149201_fullText_1","36211804_fullText_5","34782410_fullText_4","36716191_fullText_3","34785162_fullText_11","36112816_fullText_3"]	Levodopa	C0023570
+Motor symptoms	C0426980	IS_TREATED	["32357546_fullText_286"]	Suppressor	C2954564
+Motor symptoms	C0426980	IS_TREATED	["36958527_fullText_1"]	Rotigotine	C1700683
+Neuronal loss	C1850496	IS_TREATED	["23326493_fullText_84"]	Lactate	C0376261
+Rescue	C3840763	IS_TREATED	["28662078_fullText_80"]	ivacaftor	C3264621
+Rescue	C3840763	IS_TREATED	["35499619_fullText_1"]	Emend	C1175300
+Rescue	C3840763	IS_TREATED	["34742740_fullText_2"]	Levodopa	C0023570
+Rescue	C3840763	IS_TREATED	["34742740_fullText_2"]	Apomorphine	C0003596
+Rescue	C3840763	IS_TREATED	["35653343_fullText_88"]	Dopamine	C0013030
+Rescue	C3840763	IS_TREATED	["34742740_fullText_6"]	Adjuvant Analgesic	C1510809
+Worse	C1457868	IS_TREATED	["33471587_fullText_5"]	Albuterol	C0001927
+Worse	C1457868	IS_TREATED	["34939548_fullText_2"]	Memantine	C0025242
+Death Related to Adverse Event	C1705232	IS_TREATED	["35083810_fullText_1"]	Ethanol	C0001962
+Death Related to Adverse Event	C1705232	IS_TREATED	["35083810_fullText_1"]	Marihuana	C0024808
+Cerebellar Ataxia	C0007758	IS_TREATED	["34360588_fullText_11"]	Memantine	C0025242
+Cerebellar Ataxia	C0007758	IS_TREATED	["35859208_fullText_3"]	Cannabinoids	C0006864
+Extrapyramidal sign	C0234133	IS_TREATED	["38227368_fullText_37"]	Botulinum Toxins	C0006055
+Extrapyramidal sign	C0234133	IS_TREATED	["38227368_fullText_37"]	Dopaminergic Agents	C0013036
+Severe phenotype	C1836408	IS_TREATED	["34495967_fullText_2"]	Succinic Acid	C0075429
+Nausea	C0027497	IS_TREATED	["35377814_fullText_4"]	aprepitant	C1176306
+Nausea	C0027497	IS_TREATED	["33998876_fullText_8"]	Carbidopa	C0006982
+Nausea	C0027497	IS_TREATED	["35321690_fullText_3"]	olanzapine	C0171023
+Nausea	C0027497	IS_TREATED	["37704796_fullText_3"]	Serotonin 5-HT3 Receptor Antagonists	C2936526
+Nausea	C0027497	IS_TREATED	["37704796_fullText_2","37704796_fullText_3","37704796_fullText_10"]	Eicosapentaenoic Acid	C0000545
+Nausea	C0027497	IS_TREATED	["37779040_fullText_1"]	Dimenhydrinate	C0012381
+Nausea	C0027497	IS_TREATED	["37348821_fullText_2"]	Cannabinoids	C0006864
+Nausea	C0027497	IS_TREATED	["35499619_fullText_1"]	fosaprepitant	C2349941
+Nausea	C0027497	IS_TREATED	["34918875_fullText_1"]	Dopamine-2 Receptor Antagonist [EPC]	C2917388
+Neurologic Dysfunction	C0751377	IS_TREATED	["12614314_fullText_2"]	Fluoxetine	C0016365
+Neurologic Dysfunction	C0751377	IS_TREATED	["12614314_fullText_2"]	Serotonin Uptake Inhibitors	C0162758
+Resting state	C0679218	IS_TREATED	["37540512_fullText_2"]	Selective Serotonin Reuptake Inhibitors	C0360105
+research results	C0683954	IS_TREATED	["38019759_fullText_3"]	Selective Serotonin Reuptake Inhibitors	C0360105
+research results	C0683954	IS_TREATED	["38374165_fullText_54"]	Candida albicans extract	C0717551
+research results	C0683954	IS_TREATED	["36190338_fullText_4"]	Proton Pump Inhibitors	C0358591
+research results	C0683954	IS_TREATED	["36190338_fullText_4"]	Histamine H2 Antagonists	C0019593
+research results	C0683954	IS_TREATED	["38019759_fullText_3"]	Norepinephrine Reuptake Inhibitor [EPC]	C3537046
+Depressive Symptoms	C0086132	IS_TREATED	["36999619_fullText_3","34271969_fullText_13","33731232_fullText_4","34903115_fullText_3","33917953_fullText_1","34000464_fullText_5","35598746_fullText_1","33860531_fullText_26","34029378_fullText_10"]	Antidepressive Agents	C0003289
+Depressive Symptoms	C0086132	IS_TREATED	["34903115_fullText_3"]	Anticonvulsants	C0003286
+Depressive Symptoms	C0086132	IS_TREATED	["34001924_fullText_7","35659968_fullText_9","33725349_fullText_4","34903115_fullText_3","34876436_fullText_2","37259037_fullText_4"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Depressive Symptoms	C0086132	IS_TREATED	["36089660_fullText_11"]	Berberine	C0005117
+Depressive Symptoms	C0086132	IS_TREATED	["35659968_fullText_9"]	Tricyclic Antidepressive Agents	C0003290
+Depressive Symptoms	C0086132	IS_TREATED	["36170697_fullText_6"]	Fluvoxamine	C0085228
+Depressive Symptoms	C0086132	IS_TREATED	["34087694_fullText_9"]	baicalein	C0052927
+Depressive Symptoms	C0086132	IS_TREATED	["36520964_fullText_8"]	Bupropion	C0085208
+Clinical heterogeneity	C1850620	IS_TREATED	["10767174_fullText_1"]	Basis	C1874451
+Perceived quality of life	C0518214	IS_TREATED	["35702846_fullText_2"]	Histamine H1 Antagonists, Non-Sedating	C1136312
+Perceived quality of life	C0518214	IS_TREATED	["35446512_fullText_7"]	nasal saline	C0721973
+Perceived quality of life	C0518214	IS_TREATED	["35702846_fullText_2"]	Histamine-1 Receptor Inhibitor [EPC]	C2919009
+Perceived quality of life	C0518214	IS_TREATED	["36244054_fullText_6"]	Topical form antihistamine	C0357949
+Perceived quality of life	C0518214	IS_TREATED	["35313873_fullText_11"]	mirabegron	C2983812
+Perceived quality of life	C0518214	IS_TREATED	["37499088_fullText_8"]	onabotulinumtoxinA	C2719767
+Perceived quality of life	C0518214	IS_TREATED	["35702846_fullText_2"]	Cetirizine	C0055147
+Perceived quality of life	C0518214	IS_TREATED	["35446512_fullText_7"]	Leukotriene Receptor Antagonist [EPC]	C3537183
+Perceived quality of life	C0518214	IS_TREATED	["35593100_fullText_7"]	bilastine	C1101148
+Sleep disturbances	C0037317	IS_TREATED	["37175525_fullText_5"]	Drugs, Non-Prescription	C0013231
+Sleep disturbances	C0037317	IS_TREATED	["36075858_fullText_5"]	Antidepressive Agents	C0003289
+Sleep disturbances	C0037317	IS_TREATED	["33768603_fullText_9"]	Triprolidine	C0041098
+Sleep disturbances	C0037317	IS_TREATED	["37175525_fullText_5"]	Iron	C0302583
+Sleep disturbances	C0037317	IS_TREATED	["37446929_fullText_6"]	modafinil	C0066677
+Sleep disturbances	C0037317	IS_TREATED	["37175525_fullText_5"]	5-Hydroxytryptophan	C0000578
+Sleep disturbances	C0037317	IS_TREATED	["36920821_fullText_11"]	Prazosin	C0032912
+Sleep disturbances	C0037317	IS_TREATED	["33768603_fullText_1","37175525_fullText_5"]	Antihistamines	C0003360
+Sleep disturbances	C0037317	IS_TREATED	["36309115_fullText_3"]	lavender oil	C0064694
+Sleep disturbances	C0037317	IS_TREATED	["31522993_fullText_2"]	Dopamine	C0013030
+Sleep disturbances	C0037317	IS_TREATED	["36705724_fullText_5"]	Propranolol	C0033497
+Sleep disturbances	C0037317	IS_TREATED	["36107800_fullText_1"]	Marihuana	C0024808
+Sleep disturbances	C0037317	IS_TREATED	["37175525_fullText_5"]	theanine	C0076380
+Detected (finding)	C0442726	IS_TREATED	["36831967_fullText_7"]	Levodopa	C0023570
+Detected (finding)	C0442726	IS_TREATED	["7842590_fullText_3"]	IOBENGUANE SULFATE I-123	C2346581
+Detected (finding)	C0442726	IS_TREATED	["37531115_fullText_2"]	fostriecin	C0118175
+Gait	C0016928	IS_TREATED	["33754884_fullText_1","35089235_fullText_4"]	Dopaminergic Agents	C0013036
+Gait	C0016928	IS_TREATED	["32992315_fullText_2"]	rivastigmine	C0649350
+Gait	C0016928	IS_TREATED	["22323747_fullText_4"]	varenicline	C1569608
+Neuronal Differentiation	C1518294	IS_TREATED	["35857260_fullText_3"]	Colforsin	C0917964
+Bradykinesia	C0233565	IS_TREATED	["34699917_fullText_5"]	Madopar	C0065502
+Excitability	C0235169	IS_TREATED	["18270582_fullText_51"]	Clenbuterol	C0008932
+Excitability	C0235169	IS_TREATED	["36604171_fullText_9"]	Acetylcholine	C0001041
+Excitability	C0235169	IS_TREATED	["36869289_fullText_3"]	3-aminopyridine-2-carboxaldehyde thiosemicarbazone	C0210403
+Outcome of Therapy	C1518681	IS_TREATED	["36508214_fullText_4"]	Pharmacologic Substance	C1254351
+Outcome of Therapy	C1518681	IS_TREATED	["36564015_fullText_6"]	Metric	C0699680
+90%	C3842582	IS_TREATED	["36369678_fullText_6"]	animal allergen extracts	C3540698
+90%	C3842582	IS_TREATED	["34942461_fullText_4"]	levocetirizine	C1174893
+90%	C3842582	IS_TREATED	["1985428_fullText_4"]	Phenylalanine	C0031453
+90%	C3842582	IS_TREATED	["34942461_fullText_4"]	montelukast	C0298130
+Tachycardia	C0039231	IS_TREATED	["35643970_fullText_7"]	CGP 20712A	C0055182
+Tachycardia	C0039231	IS_TREATED	["33722203_fullText_7"]	Sotalol	C0037707
+Tachycardia	C0039231	IS_TREATED	["33722203_fullText_7"]	Nadolol	C0027302
+Tachycardia	C0039231	IS_TREATED	["33722203_fullText_7"]	Digoxin	C0012265
+Tachycardia	C0039231	IS_TREATED	["37877587_fullText_5"]	landiolol	C0905464
+Associated symptom	C0521989	IS_TREATED	["33509648_fullText_11"]	Cannabinoids	C0006864
+Associated symptom	C0521989	IS_TREATED	["33509648_fullText_11"]	Marihuana	C0024808
+Severe disorder	C1836348	IS_TREATED	["22325981_fullText_1"]	Levodopa	C0023570
+Severe disorder	C1836348	IS_TREATED	["27774737_fullText_7"]	Therapeutic agent (substance)	C1611640
+Severe disorder	C1836348	IS_TREATED	["37718804_fullText_2"]	Donepezil hydrochloride	C0771848
+Severe disorder	C1836348	IS_TREATED	["22325981_fullText_1"]	5-Hydroxytryptophan	C0000578
+Severe disorder	C1836348	IS_TREATED	["32147747_fullText_103"]	Zinc Acetate	C0149368
+Indicated	C1444656	IS_TREATED	["11882785_fullText_4"]	Phenylalanine	C0031453
+General body state finding	C0424575	IS_TREATED	["34818261_fullText_8"]	Phosphodiesterase Inhibitors	C0031638
+GeneticObservationValue <HOMO>	C3245470	IS_TREATED	["7194402_fullText_2"]	Phenylalanine	C0031453
+GeneticObservationValue <HOMO>	C3245470	IS_TREATED	["7194402_fullText_2"]	Tyrosine	C0041485
+Chief complaint (finding)	C0277786	IS_TREATED	["35212023_fullText_8"]	Blockade	C3540676
+Chief complaint (finding)	C0277786	IS_TREATED	["36566404_fullText_2"]	Duration	C2926735
+Chief complaint (finding)	C0277786	IS_TREATED	["1183053_fullText_1"]	ferric chloride	C0060229
+Discrepancy	C1290905	IS_TREATED	["36332691_fullText_11"]	1-(3-chlorophenyl)piperazine	C0044170
+Engaged to be married	C0425152	IS_TREATED	["36922494_fullText_7"]	agonists	C0243192
+Short menstrual periods	C0425946	IS_TREATED	["36481446_fullText_6"]	Dopamine Agonists	C0178601
+Lethal	C3151529	IS_TREATED	["35653343_fullText_87"]	Dopamine	C0013030
+Lethal	C3151529	IS_TREATED	["31640729_fullText_92"]	Mannose	C0024742
+Protection	C1545588	IS_TREATED	["36374735_fullText_8"]	yohimbine	C0724441
+Protection	C1545588	IS_TREATED	["34081810_fullText_2"]	carvedilol	C0054836
+Protection	C1545588	IS_TREATED	["35945578_fullText_11"]	Air	C3536832
+Weight Gain	C0043094	IS_TREATED	["35806019_fullText_1"]	Histamine H3 Antagonists	C1956071
+Weight Gain	C0043094	IS_TREATED	["33831213_fullText_9"]	GLP-1 Receptor Agonist [EPC]	C2917359
+75+ years	C3840862	IS_TREATED	["34727752_fullText_2"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Malaise	C0231218	IS_TREATED	["35707983_fullText_9"]	Histamine H2 Antagonists	C0019593
+Malaise	C0231218	IS_TREATED	["31968060_fullText_17"]	Analgesics	C0002771
+1 - 9%	C3842508	IS_TREATED	["27199540_fullText_42"]	pregabalin	C0657912
+1 - 9%	C3842508	IS_TREATED	["27199540_fullText_42"]	gabapentin	C0060926
+Neurologic Symptoms	C0235031	IS_TREATED	["3590175_fullText_5"]	Levocarnitine	C0087163
+Neurologic Symptoms	C0235031	IS_TREATED	["37365290_fullText_7"]	Sirolimus	C0072980
+Neurologic Symptoms	C0235031	IS_TREATED	["37365290_fullText_7"]	Acarbose	C0050393
+Neurologic Symptoms	C0235031	IS_TREATED	["32525073_fullText_2"]	Mexiletine	C0025887
+Signs and Symptoms	C0037088	IS_TREATED	["21431621_fullText_108"]	Citrulline	C0008864
+Signs and Symptoms	C0037088	IS_TREATED	["37711900_fullText_2"]	cabergoline	C0107994
+Phenotypic variation	C1836717	IS_TREATED	["10815141_fullText_7"]	Basis	C1874451
+Constipation	C0009806	IS_TREATED	["35123085_fullText_9"]	tegaserod	C0537147
+Constipation	C0009806	IS_TREATED	["36587170_fullText_8"]	agonists	C0243192
+Constipation	C0009806	IS_TREATED	["37843943_fullText_5"]	Fiber	C0225326
+Constipation	C0009806	IS_TREATED	["33895170_fullText_11"]	Agonist	C2987634
+Constipation	C0009806	IS_TREATED	["36840745_fullText_3"]	Duration	C2926735
+Constipation	C0009806	IS_TREATED	["36840745_fullText_3"]	Anticholinergic Agents	C0242896
+Constipation	C0009806	IS_TREATED	["36083632_fullText_2"]	sennosides, USP	C0074332
+Serious Adverse Event	C1519255	IS_TREATED	["36008492_fullText_9"]	Ketamine	C0022614
+Serious Adverse Event	C1519255	IS_TREATED	["37439548_fullText_9"]	Clonidine	C0009014
+Serious Adverse Event	C1519255	IS_TREATED	["37439548_fullText_9"]	DIRECT RENIN INHIBITOR	C1950687
+Serious Adverse Event	C1519255	IS_TREATED	["36008492_fullText_9"]	Ketamine	C0022614
+Serious Adverse Event	C1519255	IS_TREATED	["35666463_fullText_8"]	rivastigmine	C0649350
+Hypotension, Orthostatic	C0020651	IS_TREATED	["38041226_fullText_1"]	Midodrine	C0026078
+Hypotension, Orthostatic	C0020651	IS_TREATED	["38041226_fullText_6"]	Midodrine	C0026078
+> 2 years	C3843647	IS_TREATED	["22845646_fullText_3"]	Glucans	C0017696
+> 2 years	C3843647	IS_TREATED	["2177768_fullText_1"]	Sodium Selenite	C0142923
+> 2 years	C3843647	IS_TREATED	["34587384_fullText_3"]	Antidepressive Agents	C0003289
+> 2 years	C3843647	IS_TREATED	["2177768_fullText_1"]	Vitamin E	C0042874
+> 2 years	C3843647	IS_TREATED	["22845646_fullText_3"]	Levocarnitine	C0087163
+patient condition	C0683521	IS_TREATED	["34799692_fullText_3"]	Dopamine Hydrochloride	C0282151
+patient condition	C0683521	IS_TREATED	["34893996_fullText_1"]	Acetylcholine	C0001041
+patient condition	C0683521	IS_TREATED	["34405263_fullText_1"]	Acetylcholinesterase Inhibitors	C0001046
+patient condition	C0683521	IS_TREATED	["35695543_fullText_11"]	agonists	C0243192
+patient condition	C0683521	IS_TREATED	["36064306_fullText_1"]	4-(3-chlorophenylsulfanyl)piperidine hydrochloride	C0765956
+patient condition	C0683521	IS_TREATED	["33928393_fullText_1"]	Agonist	C2987634
+Tremor	C0040822	IS_TREATED	["35562169_fullText_6"]	Benzodiazepines	C0005064
+Tremor	C0040822	IS_TREATED	["19277893_fullText_5","19277893_fullText_8"]	coenzyme Q10	C0056077
+Tremor	C0040822	IS_TREATED	["19277893_fullText_5","19277893_fullText_8"]	Phenylalanine	C0031453
+Tremor	C0040822	IS_TREATED	["30149304_fullText_4"]	Trihexyphenidyl	C0041009
+Tremor	C0040822	IS_TREATED	["37154268_fullText_9"]	Monoamine Oxidase Inhibitors	C0026457
+Tremor	C0040822	IS_TREATED	["36847017_fullText_7"]	Apomorphine	C0003596
+Tremor	C0040822	IS_TREATED	["36497147_fullText_3"]	Propranolol	C0033497
+Tremor	C0040822	IS_TREATED	["37154268_fullText_9","36847017_fullText_7"]	Dopamine Agonists	C0178601
+Tremor	C0040822	IS_TREATED	["37154268_fullText_9","36847017_fullText_2"]	Levodopa	C0023570
+Tremor	C0040822	IS_TREATED	["30149304_fullText_4"]	Clonazepam	C0009011
+Tremor	C0040822	IS_TREATED	["36847017_fullText_7"]	Amantadine	C0002403
+consideration	C0518609	IS_TREATED	["36402974_fullText_1"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Employed	C0557351	IS_TREATED	["35598746_fullText_6"]	Antidepressive Agents	C0003289
+functional disability	C0872173	IS_TREATED	["37833018_fullText_4"]	Enzymes, hematological	C3540017
+Hyperactive behavior	C0424295	IS_TREATED	["35806448_fullText_4"]	Clozapine	C0009079
+Hyperactive behavior	C0424295	IS_TREATED	["34653559_fullText_9"]	Hesperidin	C0019392
+Hyperactive behavior	C0424295	IS_TREATED	["35806448_fullText_4"]	donepezil	C0527316
+Hyperactive behavior	C0424295	IS_TREATED	["33857522_fullText_8"]	Stimulant	C0304402
+Hyperactive behavior	C0424295	IS_TREATED	["33857522_fullText_8"]	atomoxetine	C0076823
+Hyperactive behavior	C0424295	IS_TREATED	["34467765_fullText_5"]	SB 399885	C1608770
+Symptom severe	C0436345	IS_TREATED	["37357787_fullText_3"]	Decongestants	C0282374
+Symptom severe	C0436345	IS_TREATED	["37357787_fullText_3"]	Anticholinergic Agents	C0242896
+Symptom severe	C0436345	IS_TREATED	["36639823_fullText_3"]	omalizumab	C0966225
+Symptom severe	C0436345	IS_TREATED	["37357787_fullText_3"]	Adrenal Cortex Hormones	C0001617
+Symptom severe	C0436345	IS_TREATED	["26977240_fullText_10"]	Levodopa	C0023570
+Symptom severe	C0436345	IS_TREATED	["26977240_fullText_4"]	Madopar	C0065502
+Symptom severe	C0436345	IS_TREATED	["34334273_fullText_2"]	Antidepressive Agents	C0003289
+Excessive daytime somnolence	C0694563	IS_TREATED	["36165509_fullText_1"]	Agonist	C2987634
+Excessive daytime somnolence	C0694563	IS_TREATED	["26002596_fullText_6"]	Mexiletine	C0025887
+Excessive daytime somnolence	C0694563	IS_TREATED	["27911338_fullText_2","11274321_fullText_1","11274321_fullText_4","26002596_fullText_6"]	modafinil	C0066677
+Close	C3810854	IS_TREATED	["35218559_fullText_6"]	Agonist	C2987634
+Close	C3810854	IS_TREATED	["34403981_fullText_5"]	Program	C2728259
+Genetic Carriers	C0007294	IS_TREATED	["34412508_fullText_8"]	Enalapril	C0014025
+Genetic Carriers	C0007294	IS_TREATED	["11850478_fullText_5"]	Dopamine	C0013030
+6/5	C0442749	IS_TREATED	["35906337_fullText_3"]	urinastatin	C0077906
+History of previous events	C2004062	IS_TREATED	["9297609_fullText_3"]	Phenylalanine	C0031453
+Rhythm	C0871269	IS_TREATED	["23097606_fullText_28"]	Duration	C2926735
+Rhythm	C0871269	IS_TREATED	["37598987_fullText_1","37598987_fullText_2"]	Sotalol	C0037707
+Coughing	C0010200	IS_TREATED	["37355845_fullText_8"]	Antihistamines	C0003360
+Coughing	C0010200	IS_TREATED	["37030486_fullText_1","37030486_fullText_8"]	tiotropium	C0213771
+Coughing	C0010200	IS_TREATED	["37355845_fullText_8"]	Pharmacologic Substance	C1254351
+Coughing	C0010200	IS_TREATED	["37355845_fullText_8"]	Decongestants	C0282374
+Sleeplessness	C0917801	IS_TREATED	["37194534_fullText_6"]	Tranquilizing Agents	C0040614
+Sleeplessness	C0917801	IS_TREATED	["32357546_fullText_27"]	Buspirone	C0006462
+Sleeplessness	C0917801	IS_TREATED	["34003596_fullText_7"]	Blockade	C3540676
+Sleeplessness	C0917801	IS_TREATED	["35437683_fullText_5","34694388_fullText_1"]	Benzodiazepines	C0005064
+Sleeplessness	C0917801	IS_TREATED	["35022783_fullText_5","35022783_fullText_6","35554590_fullText_5","35491942_fullText_9"]	Suvorexant	C3179535
+Sleeplessness	C0917801	IS_TREATED	["34694388_fullText_1"]	Serotonin Uptake Inhibitors	C0162758
+Sleeplessness	C0917801	IS_TREATED	["34891112_fullText_10"]	Agonist	C2987634
+Sleeplessness	C0917801	IS_TREATED	["36150811_fullText_3","34694388_fullText_1","37081408_fullText_4","37054418_fullText_6"]	Hypnotics	C0020591
+Sleeplessness	C0917801	IS_TREATED	["36309115_fullText_1"]	Renown	C2948167
+Sleeplessness	C0917801	IS_TREATED	["35451800_fullText_7"]	Pharmacologic Substance	C1254351
+Sleeplessness	C0917801	IS_TREATED	["35102822_fullText_1"]	Trazodone	C0040805
+Sleeplessness	C0917801	IS_TREATED	["34694388_fullText_1"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Sign or Symptom	C3540840	IS_TREATED	["35778832_fullText_9"]	Guanabenz	C0018312
+Refractory Disease	C1514815	IS_TREATED	["33751503_fullText_6"]	other medicated shampoos in ATC	C3539125
+One day	C3844320	IS_TREATED	["34437872_fullText_5"]	RU 24969	C0073661
+Death (finding)	C1306577	IS_TREATED	["35946604_fullText_1"]	Illicit Drugs	C0086190
+Functional Status	C0598463	IS_TREATED	["34196951_fullText_4"]	agonists	C0243192
+Ophthalmoplegia	C0029089	IS_TREATED	["30425197_fullText_9"]	diazonaphthalenedisulfonic acid	C0057753
+Ophthalmoplegia	C0029089	IS_TREATED	["34565654_fullText_5"]	Edrophonium Chloride	C0013617
+Psychotic symptom	C0871189	IS_TREATED	["36721972_fullText_2"]	Serotonin Agonists	C0162757
+Psychotic symptom	C0871189	IS_TREATED	["37191567_fullText_3"]	aripiprazole	C0299792
+Much difficulty	C3842553	IS_TREATED	["36774749_fullText_1"]	Antipsychotic Agents	C0040615
+structural abnormalities	C0749075	IS_TREATED	["26739145_fullText_16"]	Polysaccharides	C0032594
+Multiple symptoms	C0231217	IS_TREATED	["36721972_fullText_1"]	agonists	C0243192
+Fluctuation	C0231239	IS_TREATED	["24090706_fullText_1","21624843_fullText_1"]	Phenylalanine	C0031453
+Fluctuation	C0231239	IS_TREATED	["35291040_fullText_10"]	Levodopa	C0023570
+Fluctuation	C0231239	IS_TREATED	["30047169_fullText_5","38673342_fullText_3"]	Phenylalanine	C0031453
+White matter changes	C1833300	IS_TREATED	["8888233_fullText_1"]	Phenylalanine	C0031453
+Heterogeneous disorder	C1858576	IS_TREATED	["36322828_fullText_1"]	Adrenal Cortex Hormones	C0001617
+Psychiatric symptom	C0233401	IS_TREATED	["37471482_fullText_17"]	Antipsychotic Agents	C0040615
+Psychiatric symptom	C0233401	IS_TREATED	["35361699_fullText_3"]	Propranolol	C0033497
+Resolved	C3714811	IS_TREATED	["34085932_fullText_2"]	Dopaminergic Agents	C0013036
+Voluntary movement	C1718498	IS_TREATED	["34556558_fullText_1"]	Dopamine	C0013030
+Sweating	C0038990	IS_TREATED	["35340063_fullText_12"]	Pilocarpine	C0031923
+Sweating	C0038990	IS_TREATED	["34890517_fullText_2"]	Anticholinergic Agents	C0242896
+australian	C0238711	IS_TREATED	["35938573_fullText_2","35938573_fullText_9"]	Propranolol	C0033497
+Behavioral abnormalities	C3151413	IS_TREATED	["34371027_fullText_7"]	5,6-dihydro-5-azacytidine	C0048906
+Behavioral abnormalities	C3151413	IS_TREATED	["33894223_fullText_7"]	Quinpirole	C0072892
+Headache	C0018681	IS_TREATED	["35962748_fullText_9"]	Pharmacologic Substance	C1254351
+Headache	C0018681	IS_TREATED	["35403242_fullText_4"]	Dopamine Antagonists	C0242702
+Headache	C0018681	IS_TREATED	["35403242_fullText_4"]	Ketorolac	C0073631
+Headache	C0018681	IS_TREATED	["35962748_fullText_2","35962748_fullText_7"]	Antipsychotic Agents	C0040615
+Headache	C0018681	IS_TREATED	["35962748_fullText_2","35962748_fullText_7"]	Metoclopramide	C0025853
+Headache	C0018681	IS_TREATED	["37843943_fullText_8"]	Acetaminophen	C0000970
+Behavior showing increased motor activity	C0474395	IS_TREATED	["36085413_fullText_1"]	mirabegron	C2983812
+Behavior showing increased motor activity	C0474395	IS_TREATED	["36543093_fullText_6"]	mirabegron	C2983812
+Behavior showing increased motor activity	C0474395	IS_TREATED	["36543093_fullText_6"]	Solifenacin	C1099677
+Behavior showing increased motor activity	C0474395	IS_TREATED	["34830281_fullText_1"]	Muscarinic Antagonists	C0003385
+Systemic arterial pressure	C1272641	IS_TREATED	["36100757_fullText_3"]	Sodium Nitroprusside	C0037533
+Systemic arterial pressure	C1272641	IS_TREATED	["34002973_fullText_3"]	Cardiovascular Agents	C0007220
+Systemic arterial pressure	C1272641	IS_TREATED	["36100757_fullText_3"]	Phenylephrine	C0031469
+Minute volume	C0428679	IS_TREATED	["8222038_fullText_5"]	Naloxone	C0027358
+Minute volume	C0428679	IS_TREATED	["12101068_fullText_1","8419060_fullText_1"]	Amino Acids	C0002520
+Minute volume	C0428679	IS_TREATED	["544610_fullText_1"]	Phenylalanine	C0031453
+Cardiac dysfunction	C3277906	IS_TREATED	["34061169_fullText_15"]	atglistatin	C3713362
+Cardiac dysfunction	C3277906	IS_TREATED	["33739204_fullText_6"]	Adrenergic beta-Antagonists	C0001645
+Cardiac dysfunction	C3277906	IS_TREATED	["37816466_fullText_10"]	donepezil	C0527316
+FEV1 Adverse Event	C1561566	IS_TREATED	["34528220_fullText_5"]	aclidinium	C2699757
+FEV1 Adverse Event	C1561566	IS_TREATED	["33833507_fullText_4","33907393_fullText_5","33907393_fullText_8","33880019_fullText_4"]	Glycine	C0017890
+Low Back Pain	C0024031	IS_TREATED	["37843943_fullText_8"]	Acetaminophen	C0000970
+Mild phenotype	C1855585	IS_TREATED	["20959636_fullText_100"]	ranpirnase	C0069919
+In further education	C0578818	IS_TREATED	["26484877_fullText_4"]	Duration	C2926735
+Illness (finding)	C0221423	IS_TREATED	["37491788_fullText_11"]	Cinnarizine	C0008803
+Illness (finding)	C0221423	IS_TREATED	["35666502_fullText_1"]	Marihuana	C0024808
+Illness (finding)	C0221423	IS_TREATED	["37491788_fullText_4"]	Antihistamines	C0003360
+Illness (finding)	C0221423	IS_TREATED	["34284799_fullText_6"]	Adrenergic Antagonists	C0242889
+Illness (finding)	C0221423	IS_TREATED	["37491788_fullText_11","37491788_fullText_12"]	Scopolamine	C0036442
+Illness (finding)	C0221423	IS_TREATED	["33950473_fullText_6"]	Acetylcysteine	C0001047
+Illness (finding)	C0221423	IS_TREATED	["37543275_fullText_3"]	agonists	C0243192
+Illness (finding)	C0221423	IS_TREATED	["16602100_fullText_7"]	glutaric acid	C0061506
+Illness (finding)	C0221423	IS_TREATED	["35619266_fullText_4"]	Cannabinoids	C0006864
+Reduced concentration	C0424099	IS_TREATED	["36791482_fullText_8"]	Phenylalanine	C0031453
+Hyperreflexia	C0151889	IS_TREATED	["35562169_fullText_6"]	Benzodiazepines	C0005064
+Visual Impairment	C3665347	IS_TREATED	["36280567_fullText_6"]	agonists	C0243192
+Pain in lower limb	C0023222	IS_TREATED	["32357546_fullText_27"]	Buspirone	C0006462
+Compliance	C3714738	IS_TREATED	["18956251_fullText_8"]	Amino Acids, Essential	C0002525
+Compliance	C3714738	IS_TREATED	["18007145_fullText_3"]	Phenylalanine	C0031453
+History of recreational running	C2346414	IS_TREATED	["14565820_fullText_1"]	Phenylalanine	C0031453
+Symptom mild	C0436343	IS_TREATED	["36523650_fullText_5"]	Sepranolone	C0376202
+Functional capacity	C1998319	IS_TREATED	["35548968_fullText_5"]	hydrochloride	C1512523
+Functional capacity	C1998319	IS_TREATED	["35548968_fullText_5"]	Thioctic Acid	C0023791
+Indifferent mood	C0085632	IS_TREATED	["10938185_fullText_2","10938185_fullText_9"]	hydroquinidine	C0063103
+Indifferent mood	C0085632	IS_TREATED	["37385898_fullText_1"]	Methylphenidate	C0025810
+In complete remission	C0677874	IS_TREATED	["36043350_fullText_5"]	Fluoxetine	C0016365
+Agitation	C0085631	IS_TREATED	["35511098_fullText_5"]	Dexmedetomidine	C0113293
+Agitation	C0085631	IS_TREATED	["36252087_fullText_3"]	Atypical antipsychotic	C1276996
+Agitation	C0085631	IS_TREATED	["36252087_fullText_3"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Agitation	C0085631	IS_TREATED	["36252087_fullText_3"]	Cannabinoids	C0006864
+Agitation	C0085631	IS_TREATED	["36749528_fullText_5"]	Metoclopramide	C0025853
+Agitation	C0085631	IS_TREATED	["36252087_fullText_3"]	Dextromethorphan	C0011816
+Agitation	C0085631	IS_TREATED	["36543254_fullText_5"]	Pharmacologic Substance	C1254351
+Agitation	C0085631	IS_TREATED	["35511098_fullText_5"]	Alpha 2 adrenergic agonist	C1268904
+Abnormal result	C0459424	IS_TREATED	["37494454_fullText_7"]	Phenylalanine	C0031453
+Senility	C0231337	IS_TREATED	["34855162_fullText_1"]	Hypnotics and Sedatives	C0020592
+Senility	C0231337	IS_TREATED	["12537335_fullText_4"]	Phenylalanine	C0031453
+Senility	C0231337	IS_TREATED	["36528909_fullText_4"]	Hydroxymethylglutaryl-CoA Reductase Inhibitors	C0360714
+Paroxysmal nocturnal dyspnea	C1956415	IS_TREATED	["33891540_fullText_9"]	Sedatives	C0036557
+Paroxysmal nocturnal dyspnea	C1956415	IS_TREATED	["33891540_fullText_9"]	Vasodilator Agents	C0042402
+Paroxysmal nocturnal dyspnea	C1956415	IS_TREATED	["34051656_fullText_2"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Dysuria	C0013428	IS_TREATED	["36451415_fullText_1"]	Distigmine bromide	C2745877
+Dysuria	C0013428	IS_TREATED	["36451415_fullText_1"]	Cholinesterase Inhibitors	C0008425
+Achalasia	C1321756	IS_TREATED	["31735798_fullText_11"]	Mexiletine	C0025887
+Associated finding	C0449380	IS_TREATED	["36735202_fullText_2"]	Adrenergic beta-Antagonists	C0001645
+Falls	C0085639	IS_TREATED	["37295763_fullText_8"]	Haloperidol	C0018546
+Deafness	C0011053	IS_TREATED	["35653343_fullText_2"]	Antiepileptic Agents	C0003299
+Stroke-like episodes	C1857287	IS_TREATED	["11417605_fullText_12"]	Basis	C1874451
+Stroke-like episodes	C1857287	IS_TREATED	["29112118_fullText_125"]	Arginine	C0003765
+Fever	C0015967	IS_TREATED	["34968475_fullText_1"]	Antipyretics	C0003419
+Severe course	C1842211	IS_TREATED	["36718955_fullText_5"]	Acetylcholinesterase Inhibitors	C0001046
+Well child	C0686744	IS_TREATED	["18596006_fullText_6"]	Phenylalanine	C0031453
+Well child	C0686744	IS_TREATED	["25943030_fullText_7"]	cobaltous cation	C2347816
+Irritable Mood	C0022107	IS_TREATED	["34643815_fullText_5"]	Carbidopa	C0006982
+Alopecia	C0002170	IS_TREATED	["34355374_fullText_9"]	Fluoxetine	C0016365
+Decompensation	C0231187	IS_TREATED	["35984731_fullText_6"]	carvedilol	C0054836
+canadian	C0238884	IS_TREATED	["37689113_fullText_3"]	Adrenal Cortex Hormones	C0001617
+Crisis	C0231224	IS_TREATED	["21698251_fullText_62"]	Metalloporphyrins	C0025541
+Diffuse Lesion	C1707743	IS_TREATED	["17185670_fullText_6"]	Water	C0043047
+Respiratory pattern	C0517967	IS_TREATED	["34343692_fullText_2"]	animal allergen extracts	C3540698
+Urinary elimination status	C1320408	IS_TREATED	["25600689_fullText_7"]	Phenylalanine	C0031453
+Urinary elimination status	C1320408	IS_TREATED	["34180947_fullText_5"]	Ranitidine	C0034665
+Urinary elimination status	C1320408	IS_TREATED	["8445849_fullText_3"]	Tryptophan	C0041249
+Urinary elimination status	C1320408	IS_TREATED	["8445849_fullText_3"]	Lysine	C0024337
+Normal development	C1821244	IS_TREATED	["35792828_fullText_94"]	Choline	C0008405
+Normal development	C1821244	IS_TREATED	["11529501_fullText_8","8808595_fullText_6"]	Polysaccharides	C0032594
+Ascites	C0003962	IS_TREATED	["34191185_fullText_1"]	satavaptan	C2607958
+headache severe	C2957106	IS_TREATED	["34352118_fullText_7"]	Memantine	C0025242
+Neurologic deterioration	C1850767	IS_TREATED	["1160969_fullText_4"]	Norepinephrine	C0028351
+Neurologic deterioration	C1850767	IS_TREATED	["1160969_fullText_4"]	Dopamine	C0013030
+Disease remission	C0544452	IS_TREATED	["35969275_fullText_3"]	Hypnotics and Sedatives	C0020592
+Paralysed	C0522224	IS_TREATED	["36562202_fullText_1"]	Sugammadex	C1700695
+Paralysed	C0522224	IS_TREATED	["33325393_fullText_6"]	Dichlorphenamide	C0012086
+Seizures, Focal	C0751495	IS_TREATED	["30870728_fullText_5"]	mTOR Inhibitor	C2746052
+Ocular flutter	C0234650	IS_TREATED	["3492476_fullText_8"]	Clonazepam	C0009011
+Ocular flutter	C0234650	IS_TREATED	["3492476_fullText_8"]	Propranolol	C0033497
+Ocular flutter	C0234650	IS_TREATED	["3492476_fullText_8"]	Adrenal Cortex Hormones	C0001617
+Hypotension	C0020649	IS_TREATED	["36756690_fullText_4"]	opium alkaloids and derivative combination cough suppressants	C3539957
+Hypotension	C0020649	IS_TREATED	["33712255_fullText_3"]	Adrenergic Agonists	C0001648
+Hypotension	C0020649	IS_TREATED	["34355529_fullText_3"]	agonists	C0243192
+Intoxication	C0728899	IS_TREATED	["36346349_fullText_17"]	Dexmedetomidine	C0113293
+Intoxication	C0728899	IS_TREATED	["34265354_fullText_2"]	Antidote	C0003295
+Intoxication	C0728899	IS_TREATED	["36346349_fullText_17"]	Dexmedetomidine	C0113293
+<30 min	C3842955	IS_TREATED	["37770252_fullText_63"]	animal allergen extracts	C3540698
+<30 min	C3842955	IS_TREATED	["34304275_fullText_4"]	mirabegron	C2983812
+<30 min	C3842955	IS_TREATED	["27390132_fullText_161"]	Buffers	C0006353
+<30 min	C3842955	IS_TREATED	["33036649_fullText_30"]	Pharmacologic Substance	C1254351
+<30 min	C3842955	IS_TREATED	["23209425_fullText_91"]	Formaldehyde	C0016564
+<30 min	C3842955	IS_TREATED	["35770802_fullText_56"]	Ethanol	C0001962
+medical care	C0496675	IS_TREATED	["36916077_fullText_6"]	Selective Serotonin Reuptake Inhibitors	C0360105
+medical care	C0496675	IS_TREATED	["36916077_fullText_6"]	Norepinephrine Reuptake Inhibitor [EPC]	C3537046
+Life Threatening	C2826244	IS_TREATED	["34983709_fullText_14"]	Antihistamines	C0003360
+Hypersomnia	C0917799	IS_TREATED	["16855999_fullText_2","12519589_fullText_2"]	Psychostimulant	C0304403
+Hypersomnia	C0917799	IS_TREATED	["16855999_fullText_9","12519589_fullText_6"]	Psychostimulant	C0304403
+Hypersomnia	C0917799	IS_TREATED	["10938185_fullText_2","10938185_fullText_9"]	hydroquinidine	C0063103
+Weaning	C0043084	IS_TREATED	["28940742_fullText_2"]	Phenylalanine	C0031453
+Sedated state	C0235195	IS_TREATED	["36346349_fullText_1"]	Dexmedetomidine	C0113293
+Sedated state	C0235195	IS_TREATED	["34803012_fullText_1"]	Fluoxetine	C0016365
+Sedated state	C0235195	IS_TREATED	["36721095_fullText_4"]	Caffeine	C0006644
+Sedated state	C0235195	IS_TREATED	["36384232_fullText_4"]	Adrenergic Agonists	C0001648
+Sedated state	C0235195	IS_TREATED	["35072305_fullText_2"]	Anticholinergic Agents	C0242896
+Sedated state	C0235195	IS_TREATED	["35072305_fullText_2"]	Glycopyrrolate	C0017970
+Sedated state	C0235195	IS_TREATED	["35072305_fullText_2"]	Atropine	C0004259
+Sedated state	C0235195	IS_TREATED	["36346349_fullText_1"]	Adrenergic alpha-Agonists	C0001640
+Sedated state	C0235195	IS_TREATED	["36745083_fullText_4","19702215_fullText_4"]	Dexmedetomidine	C0113293
+Sedated state	C0235195	IS_TREATED	["37139883_fullText_5","35014205_fullText_1"]	agonists	C0243192
+Sedated state	C0235195	IS_TREATED	["35050903_fullText_34"]	animal allergen extracts	C3540698
+Spasm	C0037763	IS_TREATED	["14598233_fullText_3"]	Vigabatrin	C0048044
+Spasm	C0037763	IS_TREATED	["11174152_fullText_5"]	Hydrocortisone	C0020268
+Hypothermia, natural	C0020672	IS_TREATED	["33851543_fullText_6"]	Atropine Sulfate	C0596005
+Hypothermia, natural	C0020672	IS_TREATED	["34802041_fullText_7"]	rimonabant	C1142933
+Seizures, intractable	C2674422	IS_TREATED	["31340680_fullText_4"]	pyridoxine	C0034272
+Seizures, intractable	C2674422	IS_TREATED	["31340680_fullText_4"]	Pyridoxal Phosphate	C0034266
+Vomiting	C0042963	IS_TREATED	["35377814_fullText_4"]	aprepitant	C1176306
+Vomiting	C0042963	IS_TREATED	["34985465_fullText_2"]	Aspirin	C0004057
+Vomiting	C0042963	IS_TREATED	["34918875_fullText_1"]	Dopamine-2 Receptor Antagonist [EPC]	C2917388
+Vomiting	C0042963	IS_TREATED	["35355772_fullText_10"]	maropitant	C1871004
+Vomiting	C0042963	IS_TREATED	["35321690_fullText_3"]	olanzapine	C0171023
+Vomiting	C0042963	IS_TREATED	["37779040_fullText_1"]	Dimenhydrinate	C0012381
+Vomiting	C0042963	IS_TREATED	["35499619_fullText_1"]	fosaprepitant	C2349941
+Vomiting	C0042963	IS_TREATED	["37348821_fullText_2"]	Cannabinoids	C0006864
+patient symptoms	C1317600	IS_TREATED	["26052878_fullText_8"]	Albuterol Sulfate	C0543495
+Abnormal posture	C0231471	IS_TREATED	["34923334_fullText_2","34923334_fullText_8"]	istradefylline	C0673470
+Disease Exacerbation	C0235874	IS_TREATED	["33949172_fullText_15"]	Adrenal Cortex Hormones	C0001617
+glucose high	C0860803	IS_TREATED	["36580190_fullText_8"]	Rutin	C0035976
+Behavioral Symptoms	C0004941	IS_TREATED	["37264337_fullText_10"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Behavioral Symptoms	C0004941	IS_TREATED	["37264337_fullText_10"]	Pharmacologic Substance	C1254351
+Endurance	C0518031	IS_TREATED	["34010807_fullText_7"]	Caffeine	C0006644
+Good neonatal condition at birth	C0578757	IS_TREATED	["31762087_fullText_6"]	Glutamine	C0017797
+CNS symptom	C0422879	IS_TREATED	["34964562_fullText_109"]	Riboflavin	C0035527
+CNS symptom	C0422879	IS_TREATED	["34964562_fullText_109"]	Thioctic Acid	C0023791
+Dyspnea	C0013404	IS_TREATED	["35437683_fullText_5"]	Benzodiazepines	C0005064
+Dyspnea	C0013404	IS_TREATED	["33813873_fullText_4"]	Adrenal Cortex Hormones	C0001617
+Seizures, Tonic	C0270844	IS_TREATED	["36093993_fullText_95"]	lamotrigine	C0064636
+Gravidity	C0600457	IS_TREATED	["37423029_fullText_6"]	Sepranolone	C0376202
+Gravidity	C0600457	IS_TREATED	["37874567_fullText_12"]	Adrenergic Agonists	C0001648
+Gravidity	C0600457	IS_TREATED	["37874567_fullText_12"]	Adrenal Cortex Hormones	C0001617
+Gravidity	C0600457	IS_TREATED	["36094046_fullText_2"]	Antidepressive Agents	C0003289
+Gravidity	C0600457	IS_TREATED	["37517656_fullText_6"]	Histamine H1 Antagonists	C0019592
+partial response	C1521726	IS_TREATED	["36043350_fullText_5"]	Fluoxetine	C0016365
+Self injury	C3809885	IS_TREATED	["37811711_fullText_19"]	Antidepressive Agents	C0003289
+Seizures, early onset	C3275909	IS_TREATED	["24664145_fullText_11"]	pyridoxine	C0034272
+Cardiac Arrhythmia	C0003811	IS_TREATED	["35093388_fullText_3"]	Bisoprolol	C0053799
+Cardiac Arrhythmia	C0003811	IS_TREATED	["34533690_fullText_5"]	Adrenergic beta-Antagonists	C0001645
+Observation of attack	C1304680	IS_TREATED	["34644189_fullText_3","34275352_fullText_1","37524744_fullText_2","35593784_fullText_2"]	Triptans	C1567966
+Observation of attack	C1304680	IS_TREATED	["37578023_fullText_3","37578023_abstract_3"]	canakinumab	C2718773
+Inflammatory lesion	C3872830	IS_TREATED	["36724132_fullText_9"]	Nitric Oxide	C0028128
+Abstinence	C3843422	IS_TREATED	["34649897_fullText_3"]	Bupropion	C0085208
+Abstinence	C3843422	IS_TREATED	["37069490_fullText_5"]	varenicline	C1569608
+Abstinence	C3843422	IS_TREATED	["37678096_fullText_5"]	cytisine	C0056913
+Repetitious behavior	C1827547	IS_TREATED	["34856309_fullText_3"]	Histamine H3 Antagonists	C1956071
+Repetitious behavior	C1827547	IS_TREATED	["34643815_fullText_4"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Repetitious behavior	C1827547	IS_TREATED	["34744001_fullText_9"]	Fluoxetine	C0016365
+Pruritus	C0033774	IS_TREATED	["35675220_fullText_1"]	Heat Shock Protein Inhibitor	C2697571
+Pruritus	C0033774	IS_TREATED	["35743023_fullText_8"]	Antihistamines	C0003360
+Pruritus	C0033774	IS_TREATED	["34326284_fullText_8"]	Mirtazapine	C0049506
+Pruritus	C0033774	IS_TREATED	["34830245_fullText_4"]	Biological Response Modifiers	C0005525
+Pruritus	C0033774	IS_TREATED	["35675220_fullText_1","34864727_fullText_9"]	Cannabinoid Receptor Agonists	C2927148
+Pruritus	C0033774	IS_TREATED	["34326284_fullText_8"]	Antidepressive Agents	C0003289
+American College of Cardiology/American Heart Association Lesion Complexity Score A	C3272281	IS_TREATED	["36549972_fullText_3"]	Adrenergic beta-Antagonists	C0001645
+American College of Cardiology/American Heart Association Lesion Complexity Score A	C3272281	IS_TREATED	["34963443_fullText_8"]	Bromocriptine	C0006230
+American College of Cardiology/American Heart Association Lesion Complexity Score A	C3272281	IS_TREATED	["37251366_fullText_5"]	clopidogrel	C0070166
+American College of Cardiology/American Heart Association Lesion Complexity Score A	C3272281	IS_TREATED	["37251366_fullText_5"]	Ticagrelor	C1999375
+American College of Cardiology/American Heart Association Lesion Complexity Score A	C3272281	IS_TREATED	["37246063_fullText_4"]	Sugammadex	C1700695
+Drooling	C0013132	IS_TREATED	["32972427_fullText_37"]	Levocarnitine	C0087163
+Drooling	C0013132	IS_TREATED	["34998418_fullText_13","32972427_fullText_37"]	Glycopyrrolate	C0017970
+Ventricular Premature Complex by ECG Finding	C3714652	IS_TREATED	["34922221_fullText_4"]	Adrenergic beta-Antagonists	C0001645
+Inflammatory pain	C0234251	IS_TREATED	["35658695_fullText_12"]	Adrenergic Agonists	C0001648
+Inflammatory pain	C0234251	IS_TREATED	["37331003_fullText_7"]	Serotonin 5-HT1A Receptor Agonists	C2936511
+Inflammatory pain	C0234251	IS_TREATED	["36122809_fullText_10"]	Tetrahydrocannabinol	C0039663
+Inflammatory pain	C0234251	IS_TREATED	["36122809_fullText_10"]	Carbidopa	C0006982
+Neuralgia	C0027796	IS_TREATED	["36372242_fullText_8","36372242_fullText_10"]	Cetirizine	C0055147
+Neuralgia	C0027796	IS_TREATED	["35754070_fullText_9"]	gabapentin	C0060926
+Neuralgia	C0027796	IS_TREATED	["36372242_fullText_10"]	Morphine	C0026549
+Neuralgia	C0027796	IS_TREATED	["35754070_fullText_10"]	Norepinephrine Reuptake Inhibitor [EPC]	C3537046
+Neuralgia	C0027796	IS_TREATED	["34332778_fullText_7"]	Opioids	C0242402
+Neuralgia	C0027796	IS_TREATED	["34673421_fullText_2"]	Adrenergic Agonists	C0001648
+Neuralgia	C0027796	IS_TREATED	["35754070_fullText_9"]	pregabalin	C0657912
+Actual Positive Blood Pressure	C2712122	IS_TREATED	["33832897_fullText_3"]	Fructose	C0016745
+Hyperalgesia	C0020429	IS_TREATED	["34166321_fullText_10"]	Diphosphates	C0034320
+Pain score	C0582148	IS_TREATED	["34474267_fullText_5"]	Metoclopramide	C0025853
+36+ months	C3843385	IS_TREATED	["21332590_fullText_1"]	Phenylalanine	C0031453
+ST segment	C0429029	IS_TREATED	["34167672_fullText_6"]	prasugrel	C1620287
+ST segment	C0429029	IS_TREATED	["34514849_fullText_3"]	Heparin	C0019134
+ST segment	C0429029	IS_TREATED	["34514849_fullText_3"]	bivalirudin	C0168273
+Urinary Incontinence Adverse Event	C1962973	IS_TREATED	["37226116_fullText_1"]	onabotulinumtoxinA	C2719767
+Urinary Incontinence Adverse Event	C1962973	IS_TREATED	["37791545_fullText_3"]	Estrogens	C0014939
+Urinary Incontinence Adverse Event	C1962973	IS_TREATED	["34830281_fullText_1"]	Muscarinic Antagonists	C0003385
+Memory observations	C0700327	IS_TREATED	["35577394_fullText_1"]	Dopamine	C0013030
+Non-compliant behavior	C0474415	IS_TREATED	["36193931_fullText_9"]	limited use	C3241999
+> 2/day	C3843640	IS_TREATED	["34884536_fullText_6"]	animal allergen extracts	C3540698
+Cardiovascular finding	C0425560	IS_TREATED	["34911135_fullText_10"]	Amino Acids	C0002520
+Cardiovascular finding	C0425560	IS_TREATED	["35230706_fullText_1"]	agonists	C0243192
+Cardiovascular finding	C0425560	IS_TREATED	["35230706_fullText_1"]	Adenosine	C0001443
+Mechanical Allodynia	C2936719	IS_TREATED	["34774500_fullText_5"]	agonists	C0243192
+Mechanical Allodynia	C2936719	IS_TREATED	["34391797_fullText_7"]	LY 235959	C0257654
+Mechanical Allodynia	C2936719	IS_TREATED	["35658695_fullText_9"]	Adrenergic Agonists	C0001648
+Mechanical Allodynia	C2936719	IS_TREATED	["34192579_fullText_4"]	Carbidopa	C0006982
+Mechanical Allodynia	C2936719	IS_TREATED	["34846548_fullText_9"]	caryophyllene	C0054838
+Mechanical Allodynia	C2936719	IS_TREATED	["34774500_fullText_5"]	AM 1241	C1098957
+blood pressure fluctuation	C0549405	IS_TREATED	["33769959_fullText_6"]	Blockade	C3540676
+daytime sleepiness	C0541854	IS_TREATED	["16855999_fullText_8"]	modafinil	C0066677
+daytime sleepiness	C0541854	IS_TREATED	["20803968_fullText_1","16855999_fullText_10"]	modafinil	C0066677
+Nose symptoms	C0231918	IS_TREATED	["35446512_fullText_7"]	nasal saline	C0721973
+Nose symptoms	C0231918	IS_TREATED	["34647283_fullText_5"]	Antihistamines	C0003360
+Mental state (observable entity)	C0278060	IS_TREATED	["38515136_fullText_6"]	Phenylalanine	C0031453
+analgesic effect	C0948482	IS_TREATED	["36356937_fullText_4"]	Tetrahydrocannabinol	C0039663
+analgesic effect	C0948482	IS_TREATED	["35658695_fullText_10"]	yohimbine	C0724441
+analgesic effect	C0948482	IS_TREATED	["35122794_fullText_9"]	Blockade	C3540676
+analgesic effect	C0948482	IS_TREATED	["36752814_fullText_5"]	Antihistamines	C0003360
+analgesic effect	C0948482	IS_TREATED	["36748975_fullText_4"]	NMDA receptor antagonist	C0598695
+analgesic effect	C0948482	IS_TREATED	["36356937_fullText_4"]	Heroin	C0011892
+analgesic effect	C0948482	IS_TREATED	["33760644_fullText_10"]	Ro 25-6981	C0669120
+Immobile	C0231441	IS_TREATED	["33712507_fullText_5"]	Muscarinic Antagonists	C0003385
+Immobile	C0231441	IS_TREATED	["33712507_fullText_5"]	Scopolamine	C0036442
+Immobile	C0231441	IS_TREATED	["34425507_fullText_9"]	Duration	C2926735
+Immobile	C0231441	IS_TREATED	["33910028_fullText_2"]	donepezil	C0527316
+Immobile	C0231441	IS_TREATED	["35500452_fullText_4"]	Citalopram	C0008845
+Neuropathic pain	C3714625	IS_TREATED	["34481450_fullText_3"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Neuropathic pain	C3714625	IS_TREATED	["37480023_fullText_8"]	Analgesics	C0002771
+Neuropathic pain	C3714625	IS_TREATED	["36652069_fullText_1"]	Agonist	C2987634
+Neuropathic pain	C3714625	IS_TREATED	["36838749_fullText_6"]	agonists	C0243192
+Neuropathic pain	C3714625	IS_TREATED	["34597607_fullText_1"]	dezocine	C0057626
+Neuropathic pain	C3714625	IS_TREATED	["35513603_fullText_5"]	Tricyclic Antidepressive Agents	C0003290
+Neuropathic pain	C3714625	IS_TREATED	["34481450_fullText_3"]	Antidepressive Agents	C0003289
+Tactile Allodynia	C0751213	IS_TREATED	["33924258_fullText_5"]	ropinirole	C0244821
+Tactile Allodynia	C0751213	IS_TREATED	["33924258_fullText_5"]	vortioxetine	C3661282
+cholinesterase inhibition	C0877006	IS_TREATED	["34592924_fullText_6"]	Carotenoids	C0007271
+Cardiovascular event	C1320716	IS_TREATED	["36588476_fullText_3"]	clopidogrel	C0070166
+Cardiovascular event	C1320716	IS_TREATED	["36017016_fullText_2"]	Calcium Channel Blockers	C0006684
+Minimal Disseminated Disease	C3812244	IS_TREATED	["34873130_fullText_1"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Minimal Disseminated Disease	C3812244	IS_TREATED	["34016225_fullText_2"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Vocalization (finding)	C0564182	IS_TREATED	["34358575_fullText_3"]	Norepinephrine	C0028351
+Absence of pain sensation	C0344307	IS_TREATED	["27631259_fullText_28"]	Opioids	C0242402
+Absence of pain sensation	C0344307	IS_TREATED	["35307331_fullText_8","36148837_fullText_9"]	Sulpiride	C0038803
+Absence of pain sensation	C0344307	IS_TREATED	["35817255_fullText_1"]	Marihuana	C0024808
+Absence of pain sensation	C0344307	IS_TREATED	["35014205_fullText_1"]	agonists	C0243192
+Absence of pain sensation	C0344307	IS_TREATED	["34862748_fullText_2"]	Agonist	C2987634
+Absence of pain sensation	C0344307	IS_TREATED	["35307331_fullText_8","36148837_fullText_9"]	SCH 23390	C0080138
+Absence of pain sensation	C0344307	IS_TREATED	["34802041_fullText_7"]	rimonabant	C1142933
+Infected	C0439663	IS_TREATED	["33723270_fullText_9"]	Fluoxetine	C0016365
+Infected	C0439663	IS_TREATED	["34114978_fullText_2"]	aprepitant	C1176306
+Anxiety symptoms	C0860603	IS_TREATED	["36811273_fullText_3"]	benzodiazepine tranquilizers	C0005063
+Anxiety symptoms	C0860603	IS_TREATED	["35691145_fullText_1","35691145_fullText_3"]	atomoxetine	C0076823
+Anxiety symptoms	C0860603	IS_TREATED	["34580419_fullText_8"]	Escitalopram	C1099456
+Anxiety symptoms	C0860603	IS_TREATED	["34116110_fullText_8"]	Cannabinoids	C0006864
+Acute retention of urine	C0341742	IS_TREATED	["37327163_fullText_11"]	Adrenergic alpha-Antagonists	C0001641
+bladder symptoms	C0741548	IS_TREATED	["34346046_fullText_9"]	duloxetine	C0245561
+bladder symptoms	C0741548	IS_TREATED	["35445849_fullText_1"]	mirabegron	C2983812
+bladder symptoms	C0741548	IS_TREATED	["34346046_fullText_9"]	Solifenacin	C1099677
+Psychological symptom	C0233397	IS_TREATED	["34334499_fullText_1"]	Antipsychotic Agents	C0040615
+diabetic	C0241863	IS_TREATED	["19506327_fullText_4"]	pioglitazone	C0071097
+diabetic	C0241863	IS_TREATED	["35917839_fullText_4","35917839_fullText_5"]	Insulin	C0021641
+diabetic	C0241863	IS_TREATED	["2653751_fullText_3"]	Aspartame	C0003999
+Peripheral neuropathic pain	C0458960	IS_TREATED	["34332778_fullText_5"]	Tricyclic Antidepressive Agents	C0003290
+Peripheral neuropathic pain	C0458960	IS_TREATED	["34332778_fullText_6"]	Botulinum Toxins	C0006055
+Peripheral neuropathic pain	C0458960	IS_TREATED	["34332778_fullText_5"]	duloxetine	C0245561
+Peripheral neuropathic pain	C0458960	IS_TREATED	["34332778_fullText_5"]	Lidocaine	C0023660
+Peripheral neuropathic pain	C0458960	IS_TREATED	["34332778_fullText_5"]	gabapentin	C0060926
+Peripheral neuropathic pain	C0458960	IS_TREATED	["34332778_fullText_5"]	venlafaxine	C0078569
+Peripheral neuropathic pain	C0458960	IS_TREATED	["34332778_fullText_6"]	Tramadol	C0040610
+Peripheral neuropathic pain	C0458960	IS_TREATED	["34332778_fullText_6"]	opium alkaloids and derivative combination cough suppressants	C3539957
+Chronic cough	C0010201	IS_TREATED	["36464207_fullText_7"]	CE 224,535	C3251873
+Chronic cough	C0010201	IS_TREATED	["35347635_fullText_1"]	Narcotic Antagonists	C0027410
+Chronic cough	C0010201	IS_TREATED	["34782407_fullText_10"]	Nicotinic Agonists	C0242948
+Chronic cough	C0010201	IS_TREATED	["37030486_fullText_1","37030486_fullText_7"]	tiotropium	C0213771
+Acute onset pain	C0184567	IS_TREATED	["34879499_fullText_5"]	Hydroxyzine	C0020404
+Acute onset pain	C0184567	IS_TREATED	["36604595_fullText_2"]	Norepinephrine	C0028351
+Xerostomia	C0043352	IS_TREATED	["36625886_fullText_3"]	Norepinephrine Reuptake Inhibitor [EPC]	C3537046
+Well adult	C0686750	IS_TREATED	["36197897_fullText_4"]	Nicotine	C0028040
+Well adult	C0686750	IS_TREATED	["6674314_fullText_5"]	Phenylalanine	C0031453
+Well adult	C0686750	IS_TREATED	["34116943_fullText_3"]	Sugars	C0242209
+Well adult	C0686750	IS_TREATED	["36197897_fullText_4"]	Naltrexone	C0027360
+Pain, Postoperative	C0030201	IS_TREATED	["34597607_fullText_1"]	dezocine	C0057626
+Pain, Postoperative	C0030201	IS_TREATED	["34597607_fullText_1"]	Pentazocine	C0030873
+Pain, Postoperative	C0030201	IS_TREATED	["34311244_fullText_5"]	duloxetine	C0245561
+Hormone abnormality	C3263685	IS_TREATED	["34166841_fullText_1"]	Eligard	C1170247
+Hormone abnormality	C3263685	IS_TREATED	["34166841_fullText_1"]	Gonadotropins	C0018061
+Early repolarization	C1997354	IS_TREATED	["27854224_fullText_283"]	XEN-D0101	C3712779
+Allodynia	C0458247	IS_TREATED	["34774500_fullText_11"]	agonists	C0243192
+Severe asthma	C0581126	IS_TREATED	["36639823_fullText_3"]	Anti-IgE [EPC]	C2825096
+Severe asthma	C0581126	IS_TREATED	["37376964_fullText_1"]	Muscarinic Antagonists	C0003385
+Severe asthma	C0581126	IS_TREATED	["36959028_fullText_9"]	Anti-IgE [EPC]	C2825096
+Severe asthma	C0581126	IS_TREATED	["35726790_fullText_8"]	Biological Products	C0005522
+Does steer	C0553654	IS_TREATED	["34108456_fullText_5"]	Dopamine	C0013030
+Withdrawal Symptoms	C0087169	IS_TREATED	["34559090_fullText_3"]	Buprenorphine	C0006405
+Withdrawal Symptoms	C0087169	IS_TREATED	["35993205_fullText_8"]	Dexmedetomidine	C0113293
+Withdrawal Symptoms	C0087169	IS_TREATED	["35134074_fullText_7"]	Marihuana	C0024808
+T2d	C3854130	IS_TREATED	["33933677_fullText_1"]	Bromocriptine	C0006230
+T2d	C3854130	IS_TREATED	["31749144_fullText_3"]	Pharmacologic Substance	C1254351
+Sympathomimetic Effect	C0877014	IS_TREATED	["34027562_fullText_1"]	yohimbine	C0724441
+5 - 9	C3840622	IS_TREATED	["36705724_fullText_5"]	Propranolol	C0033497
+Unemployment	C0041674	IS_TREATED	["34989830_fullText_3"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Dysfunctional voiding of urine	C0429826	IS_TREATED	["33984361_fullText_8"]	animal allergen extracts	C3540698
+Dysfunctional voiding of urine	C0429826	IS_TREATED	["35150075_fullText_7"]	Distigmine bromide	C2745877
+Urinary symptoms	C0426359	IS_TREATED	["37314647_fullText_3"]	oxybutynin	C0069805
+Urinary symptoms	C0426359	IS_TREATED	["34818261_fullText_8"]	Phosphodiesterase Inhibitors	C0031638
+Gastrointestinal symptom	C0426576	IS_TREATED	["35714110_fullText_10"]	Proton Pump Inhibitors	C0358591
+Gastrointestinal symptom	C0426576	IS_TREATED	["33905540_fullText_15"]	Pharmacologic Substance	C1254351
+Erotic interest	C0424400	IS_TREATED	["34882500_fullText_2"]	Bupropion	C0085208
+Erotic interest	C0424400	IS_TREATED	["34882500_fullText_2"]	Dopamine Hydrochloride	C0282151
+Erotic interest	C0424400	IS_TREATED	["34882500_fullText_2"]	Pharmacologic Substance	C1254351
+Moderate anxiety	C0231402	IS_TREATED	["34727752_fullText_3"]	Nootropic Agents	C0242913
+Chronic back pain	C0740418	IS_TREATED	["34684144_fullText_5"]	Marihuana	C0024808
+Hallucinations, Visual	C0233763	IS_TREATED	["34291590_fullText_1"]	rivastigmine	C0649350
+Hallucinations, Visual	C0233763	IS_TREATED	["33908619_fullText_2"]	Apomorphine	C0003596
+Exacerbation of asthma	C0349790	IS_TREATED	["35143150_fullText_11"]	Adrenal Cortex Hormones	C0001617
+Exacerbation of asthma	C0349790	IS_TREATED	["34593615_fullText_3"]	Agonist	C2987634
+Exacerbation of asthma	C0349790	IS_TREATED	["37400102_fullText_1"]	Blood lactate	C3824990
+Exacerbation of asthma	C0349790	IS_TREATED	["35143150_fullText_11"]	Bronchodilator Agents	C0006280
+Breastfeeding (mother)	C1623040	IS_TREATED	["33861632_fullText_10"]	vortioxetine	C3661282
+Breastfeeding (mother)	C1623040	IS_TREATED	["34587362_fullText_8"]	Antihistamines	C0003360
+Breastfeeding (mother)	C1623040	IS_TREATED	["14743689_fullText_2"]	Phenylalanine	C0031453
+Total urinary incontinence	C0150044	IS_TREATED	["34537953_fullText_6"]	mirabegron	C2983812
+Ventricular Arrhythmia ECG Assessment	C3812282	IS_TREATED	["23097601_fullText_12"]	Basis	C1874451
+Raised intraocular pressure	C0234708	IS_TREATED	["34214592_fullText_3"]	Caffeine	C0006644
+Tidal Volume	C0040210	IS_TREATED	["29693947_fullText_5"]	Sugammadex	C1700695
+Ovariectomized female	C3687559	IS_TREATED	["35322092_fullText_13"]	landiolol	C0905464
+Unexplained cough	C1277590	IS_TREATED	["37355845_fullText_10"]	Codeine	C0009214
+Unexplained cough	C1277590	IS_TREATED	["35347635_fullText_1"]	Narcotic Antagonists	C0027410
+Neurobehavioral Manifestations	C0525041	IS_TREATED	["34498969_fullText_1"]	Cholinesterase Inhibitors	C0008425
+Neurobehavioral Manifestations	C0525041	IS_TREATED	["36219788_fullText_6"]	Acetylcholinesterase Inhibitors	C0001046
+Neurobehavioral Manifestations	C0525041	IS_TREATED	["36273943_fullText_1"]	Agonist	C2987634
+ASTHMA, SUSCEPTIBILITY TO (finding)	C1869116	IS_TREATED	["26552645_fullText_9"]	Albuterol	C0001927
+Lactation established in non-human animal	C3668831	IS_TREATED	["38791104_fullText_3"]	Vitamin supplementation	C0302837
+Lower Urinary Tract Symptoms	C0574785	IS_TREATED	["34767140_fullText_1"]	Adrenergic alpha-Antagonists	C0001641
+Lower Urinary Tract Symptoms	C0574785	IS_TREATED	["35362820_fullText_1"]	tadalafil	C1176316
+Lower Urinary Tract Symptoms	C0574785	IS_TREATED	["35610768_fullText_3"]	Adrenergic alpha-1 Receptor Antagonists	C0304512
+Lower Urinary Tract Symptoms	C0574785	IS_TREATED	["36084760_fullText_1"]	Saw palmetto extract	C0771607
+Lower Urinary Tract Symptoms	C0574785	IS_TREATED	["35469100_fullText_5"]	Adrenergic alpha-Antagonists	C0001641
+Lower Urinary Tract Symptoms	C0574785	IS_TREATED	["36051157_fullText_2","34743440_fullText_6"]	silodosin	C1870115
+Lower Urinary Tract Symptoms	C0574785	IS_TREATED	["34474675_fullText_3"]	mirabegron	C2983812
+ST Elevation Myocardial Infarction by ECG Finding	C3538872	IS_TREATED	["34037861_fullText_3","34037861_fullText_5","36480147_fullText_11","35762079_fullText_6"]	Ticagrelor	C1999375
+ST Elevation Myocardial Infarction by ECG Finding	C3538872	IS_TREATED	["35950769_fullText_1","37506674_fullText_3"]	Aspirin	C0004057
+ST Elevation Myocardial Infarction by ECG Finding	C3538872	IS_TREATED	["35762079_fullText_6"]	AR C124910XX	C3254492
+ST Elevation Myocardial Infarction by ECG Finding	C3538872	IS_TREATED	["35950769_fullText_1","34037861_fullText_3"]	prasugrel	C1620287
+ST Elevation Myocardial Infarction by ECG Finding	C3538872	IS_TREATED	["35762079_fullText_1"]	Morphine	C0026549
+ST Elevation Myocardial Infarction by ECG Finding	C3538872	IS_TREATED	["34985465_fullText_2"]	Aspirin	C0004057
+ST Elevation Myocardial Infarction by ECG Finding	C3538872	IS_TREATED	["37097605_fullText_7"]	Morphine	C0026549
+ST Elevation Myocardial Infarction by ECG Finding	C3538872	IS_TREATED	["36206137_fullText_7","37581388_fullText_5"]	Ticagrelor	C1999375
+Severe cognitive impairment	C3554639	IS_TREATED	["21670942_fullText_5"]	Program	C2728259
+Myalgia	C0231528	IS_TREATED	["33998864_fullText_5"]	Marihuana	C0024808
+Pain, Intractable	C0030200	IS_TREATED	["37812531_fullText_13"]	Opioids	C0242402
+Abdominal Pain	C0000737	IS_TREATED	["35790401_fullText_15"]	Opioids	C0242402
+Abdominal Pain	C0000737	IS_TREATED	["35790401_fullText_16","35790401_fullText_20"]	Opioids	C0242402
+cardiovascular problem	C0850760	IS_TREATED	["35842897_fullText_2"]	Pharmacologic Substance	C1254351
+Acute vomiting	C0232597	IS_TREATED	["35355772_fullText_8"]	maropitant	C1871004
+Visceral Pain	C0234245	IS_TREATED	["37833878_fullText_12"]	Cannabinoids	C0006864
+Hyperhidrosis disorder	C0020458	IS_TREATED	["35427257_fullText_1"]	Anticholinergic Agents	C0242896
+Hyperhidrosis disorder	C0020458	IS_TREATED	["35393764_fullText_10"]	Cisatracurium	C1096766
+Hyperhidrosis disorder	C0020458	IS_TREATED	["36263444_fullText_2"]	Glycopyrrolate	C0017970
+Muscle Spasticity	C0026838	IS_TREATED	["37348821_fullText_2"]	Cannabinoids	C0006864
+Social withdrawal	C0424095	IS_TREATED	["34653559_fullText_9"]	Hesperidin	C0019392
+Noisy respiration	C0237304	IS_TREATED	["35446669_fullText_6"]	Muscarinic Antagonists	C0003385
+Bladder pain	C0232849	IS_TREATED	["34607587_fullText_6"]	Opioids	C0242402
+Prolonged menses	C0425945	IS_TREATED	["34587384_fullText_1"]	Antidepressive Agents	C0003289
+Urine volume finding	C1287298	IS_TREATED	["34118232_fullText_6"]	U-50488	C0147448
+New York Heart Association Class II	C1882085	IS_TREATED	["34911641_fullText_8"]	Lysine	C0024337
+Frailty	C0424594	IS_TREATED	["36193578_fullText_6"]	Adrenergic beta-Antagonists	C0001645
+Frailty	C0424594	IS_TREATED	["36193578_fullText_6"]	Ras Inhibitor	C1514727
+normal patient	C0848894	IS_TREATED	["11043158_fullText_6"]	Phenylalanine	C0031453
+Palpitations	C0030252	IS_TREATED	["37682158_fullText_9"]	carvedilol	C0054836
+Tachyarrhythmia	C0080203	IS_TREATED	["28416514_fullText_147"]	Anti-Arrhythmia Agents	C0003195
+Dryness of eye	C0314719	IS_TREATED	["37080380_fullText_2"]	Norepinephrine Reuptake Inhibitor [EPC]	C3537046
+Low APGAR scores	C0549400	IS_TREATED	["34623076_fullText_4"]	Antidepressive Agents	C0003289
+MISUSE	C0549649	IS_TREATED	["35987306_fullText_7"]	eticlopride	C0059853
+MISUSE	C0549649	IS_TREATED	["35276118_fullText_4"]	Opioids	C0242402
+MISUSE	C0549649	IS_TREATED	["37258429_fullText_14"]	donepezil	C0527316
+Overweight	C0497406	IS_TREATED	["34735098_fullText_4"]	Bupropion	C0085208
+General symptom	C0159028	IS_TREATED	["35948343_fullText_3"]	Antidepressive Agents	C0003289
+General symptom	C0159028	IS_TREATED	["36162349_fullText_9"]	Adrenergic Antagonists	C0242889
+Decreased renal function	C0232807	IS_TREATED	["35934764_fullText_5"]	Sugammadex	C1700695
+Tinnitus	C0040264	IS_TREATED	["34036823_fullText_9"]	gabapentin	C0060926
+Tinnitus	C0040264	IS_TREATED	["34036823_fullText_2"]	gabapentin	C0060926
+Homelessness	C0237154	IS_TREATED	["34799872_fullText_1"]	Antidepressive Agents	C0003289
+Several days	C3845714	IS_TREATED	["24957181_fullText_33"]	Trihexyphenidyl	C0041009
+Several days	C3845714	IS_TREATED	["24957181_fullText_33"]	Diazepam	C0012010
+Several days	C3845714	IS_TREATED	["30135079_fullText_118"]	ethylene diurea	C0059804
+Several days	C3845714	IS_TREATED	["23240525_fullText_2"]	Basis	C1874451
+Several days	C3845714	IS_TREATED	["24664145_fullText_5"]	pyridoxine	C0034272
+Primary nocturnal enuresis	C2228139	IS_TREATED	["36043350_fullText_1"]	Fluoxetine	C0016365
+Primary nocturnal enuresis	C2228139	IS_TREATED	["36043350_fullText_5"]	Fluoxetine	C0016365
+Primary nocturnal enuresis	C2228139	IS_TREATED	["36043350_fullText_1"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Fractures of the long bones	C0240231	IS_TREATED	["36030445_fullText_7"]	Selective Serotonin Reuptake Inhibitors	C0360105
+total lipids	C0369610	IS_TREATED	["23827125_fullText_4"]	Eicosapentaenoic Acid	C0000545
+Hypersomnolence	C0751229	IS_TREATED	["3713739_fullText_2"]	Methylphenidate	C0025810
+Hypersomnolence	C0751229	IS_TREATED	["17285226_fullText_1"]	modafinil	C0066677
+blood loss risk	C3251812	IS_TREATED	["34275780_fullText_5"]	clopidogrel	C0070166
+Blood loss status	C1319214	IS_TREATED	["36215960_fullText_3"]	Ticagrelor	C1999375
+Non-ST Elevation Myocardial Infarction by ECG Finding	C3537184	IS_TREATED	["35429947_fullText_4"]	clopidogrel	C0070166
+Non-ST Elevation Myocardial Infarction by ECG Finding	C3537184	IS_TREATED	["35429947_fullText_4"]	Adrenergic beta-Antagonists	C0001645
+Non-ST Elevation Myocardial Infarction by ECG Finding	C3537184	IS_TREATED	["36206137_fullText_7"]	prasugrel	C1620287
+Non-ST Elevation Myocardial Infarction by ECG Finding	C3537184	IS_TREATED	["34514849_fullText_3"]	Heparin	C0019134
+Non-ST Elevation Myocardial Infarction by ECG Finding	C3537184	IS_TREATED	["34514849_fullText_3"]	bivalirudin	C0168273
+Non-ST Elevation Myocardial Infarction by ECG Finding	C3537184	IS_TREATED	["36206137_fullText_7"]	Ticagrelor	C1999375
+Ability to walk	C0559964	IS_TREATED	["37218390_fullText_6"]	Hypnotics	C0020591
+Hospital patient (finding)	C0239966	IS_TREATED	["35670771_fullText_1"]	Marihuana	C0024808
+Patient status	C0449437	IS_TREATED	["12968295_fullText_5"]	Vitamins	C0042890
+blank	C0750479	IS_TREATED	["36917582_fullText_1"]	heliox	C0062185
+Biphasic Pattern	C1332555	IS_TREATED	["12859675_fullText_5"]	Dopamine	C0013030
+Duration of gestation	C0460089	IS_TREATED	["34464696_fullText_6"]	Ethanol	C0001962
+allergic symptom	C0740903	IS_TREATED	["35429867_fullText_2"]	bilastine	C1101148
+allergic symptom	C0740903	IS_TREATED	["36417570_fullText_3"]	Antihistamines	C0003360
+Lack of Efficacy	C0235828	IS_TREATED	["36928484_fullText_2"]	Antidepressive Agents	C0003289
+ca increase	C0553702	IS_TREATED	["27763639_fullText_32"]	paxilline	C0083955
+Unresponsiveness	C0241526	IS_TREATED	["34747977_fullText_2"]	Nadolol	C0027302
+Musculoskeletal Pain	C0026858	IS_TREATED	["33710319_fullText_7"]	Analgesics	C0002771
+Mental problem	C0848067	IS_TREATED	["35561568_fullText_7"]	liraglutide	C1456408
+Mental problem	C0848067	IS_TREATED	["35437683_fullText_8"]	Psychotropic Drugs	C0033978
+Decreased pressure	C0520819	IS_TREATED	["37482222_fullText_14"]	Folic Acid	C0016410
+Nonulcer dyspepsia	C0267167	IS_TREATED	["36842175_fullText_5"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Nonulcer dyspepsia	C0267167	IS_TREATED	["36842175_fullText_5"]	Norepinephrine Reuptake Inhibitor [EPC]	C3537046
+Nonulcer dyspepsia	C0267167	IS_TREATED	["36842175_fullText_5"]	Amitriptyline	C0002600
+Nonulcer dyspepsia	C0267167	IS_TREATED	["36842175_fullText_5"]	Tetracyclic antidepressant	C0360108
+Nonulcer dyspepsia	C0267167	IS_TREATED	["36842175_fullText_5"]	Imipramine	C0020934
+Nonulcer dyspepsia	C0267167	IS_TREATED	["36842175_fullText_5"]	Anti-Anxiety Agents	C0040616
+Nonulcer dyspepsia	C0267167	IS_TREATED	["36842175_fullText_5"]	levosulpiride	C0210380
+Patient ventilated	C1299448	IS_TREATED	["36419197_fullText_2"]	Sedatives	C0036557
+New York Heart Association Class I	C1882084	IS_TREATED	["34911641_fullText_8"]	Lysine	C0024337
+Frail	C0871754	IS_TREATED	["37047938_fullText_8"]	Phenformin Hydrochloride	C0770237
+Step length	C0427126	IS_TREATED	["33754884_fullText_8"]	Fluconazole	C0016277
+Injury 2	C3842783	IS_TREATED	["34112758_fullText_2"]	mirabegron	C2983812
+Supraventricular Tachycardia by ECG Finding	C3815188	IS_TREATED	["35258638_fullText_9"]	Anti-Arrhythmia Agents	C0003195
+hypertension chronic	C0745114	IS_TREATED	["38419071_fullText_69"]	Diuretics	C0012798
+hypertension chronic	C0745114	IS_TREATED	["38419071_fullText_69"]	Clonidine	C0009014
+Canadian Cardiovascular Society Grading Scale Class III	C2698969	IS_TREATED	["34915981_fullText_3"]	Metoprolol	C0025859
+Recovery of Function	C0599766	IS_TREATED	["35748547_fullText_2"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Recovery of Function	C0599766	IS_TREATED	["35748547_fullText_2"]	Tricyclic Antidepressive Agents	C0003290
+Abnormal androgen	C0542079	IS_TREATED	["12602971_fullText_4"]	Androgens	C0002844
+Fourth Stage of Labor	C2985294	IS_TREATED	["37205743_fullText_3"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Fourth Stage of Labor	C2985294	IS_TREATED	["37205743_fullText_6"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Fourth Stage of Labor	C2985294	IS_TREATED	["36703575_fullText_6"]	Phentolamine	C0031448
+Severe brain damage	C3279537	IS_TREATED	["7106768_fullText_5"]	Phenylalanine	C0031453
+Postoperative Nausea and Vomiting	C0520909	IS_TREATED	["37128935_fullText_3"]	aprepitant	C1176306
+Arterial flow	C0429856	IS_TREATED	["34101137_fullText_1"]	prasugrel	C1620287
+Constant movement	C0424236	IS_TREATED	["34060465_fullText_2"]	Metoclopramide	C0025853
+Line 2	C3843265	IS_TREATED	["26785728_fullText_126"]	Level	C2946261
+Complicated grieving	C1960756	IS_TREATED	["34000119_fullText_2"]	Citalopram	C0008845
+Short arm	C0426857	IS_TREATED	["36645274_fullText_3"]	Dopamine	C0013030
+Lipid droplet accumulation	C3278535	IS_TREATED	["34849584_fullText_81"]	Antioxidants	C0003402
+6/4.5	C1631070	IS_TREATED	["37247474_fullText_5"]	Marihuana	C0024808
+identifies medication	C0518534	IS_TREATED	["37892121_fullText_6"]	bilastine	C1101148
+Epilepsy severity	C1319803	IS_TREATED	["35761500_fullText_5"]	duloxetine	C0245561
+Cephalopelvic Disproportion	C0085988	IS_TREATED	["36367720_fullText_5"]	Cotinine	C0010194
+Motor disturbances	C2220255	IS_TREATED	["36746310_fullText_3"]	Glycine	C0017890
+Rhythm from artificial pacing	C0232193	IS_TREATED	["36999245_fullText_4"]	Adrenergic beta-Antagonists	C0001645
+Nasal obstruction present finding	C0027429	IS_TREATED	["37357787_fullText_3"]	Anticholinergic Agents	C0242896
+Nasal obstruction present finding	C0027429	IS_TREATED	["37357787_fullText_3"]	Decongestants	C0282374
+Nasal obstruction present finding	C0027429	IS_TREATED	["37357787_fullText_3"]	Adrenal Cortex Hormones	C0001617
+watery rhinorrhea	C2202981	IS_TREATED	["37357787_fullText_3"]	Adrenal Cortex Hormones	C0001617
+watery rhinorrhea	C2202981	IS_TREATED	["37357787_fullText_3"]	Anticholinergic Agents	C0242896
+watery rhinorrhea	C2202981	IS_TREATED	["37357787_fullText_3"]	Decongestants	C0282374
+Perseverative behavior	C1843368	IS_TREATED	["34921828_fullText_10"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Acute low back pain	C0457950	IS_TREATED	["37054418_fullText_15"]	Diclofenac	C0012091
+Acute low back pain	C0457950	IS_TREATED	["37054418_fullText_15"]	Ketorolac	C0073631
+Acute low back pain	C0457950	IS_TREATED	["37054418_fullText_15"]	Ibuprofen	C0020740
+Genitourinary symptoms	C0426317	IS_TREATED	["37834122_fullText_5"]	Cannabidiol	C0006863
+Genitourinary symptoms	C0426317	IS_TREATED	["37834122_fullText_5"]	Tetrahydrocannabinol	C0039663
+GA-1	C3840680	IS_TREATED	["16430418_fullText_3"]	Anesthetics	C0002932
+body ache	C0741585	IS_TREATED	["34818261_fullText_8"]	Phosphodiesterase Inhibitors	C0031638
+Tumor Mass	C3273930	IS_TREATED	["36280567_fullText_6"]	agonists	C0243192
+Train of four ratio	C0428698	IS_TREATED	["36229945_fullText_4"]	Neostigmine	C0027679
+Self-employed	C0425092	IS_TREATED	["35598746_fullText_6"]	Antidepressive Agents	C0003289
+Sedative withdrawal	C3531755	IS_TREATED	["36346349_fullText_12"]	Dexmedetomidine	C0113293
+Sedative withdrawal	C3531755	IS_TREATED	["36346349_fullText_4","36346349_fullText_12"]	Dexmedetomidine	C0113293
+Increased vascular resistance	C0520890	IS_TREATED	["35861684_fullText_1"]	Phosphodiesterase Inhibitors	C0031638
+Increased vascular resistance	C0520890	IS_TREATED	["35861684_fullText_1"]	adenosine receptor antagonist	C0815050
+Increased vascular resistance	C0520890	IS_TREATED	["35861684_fullText_1"]	Pentoxifylline	C0030899
+Prodromal Period	C3494360	IS_TREATED	["35851379_fullText_9"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Language spoken	C0424919	IS_TREATED	["26061925_fullText_3"]	Phenylalanine	C0031453
+Radicular pain	C0278147	IS_TREATED	["35754070_fullText_12"]	Acetaminophen	C0000970
+Radicular pain	C0278147	IS_TREATED	["35754070_fullText_12"]	duloxetine	C0245561
+Bereavement, life event (finding)	C1879338	IS_TREATED	["34103192_fullText_5"]	Aspirin	C0004057
+Bereavement, life event (finding)	C1879338	IS_TREATED	["34103192_fullText_5"]	Adrenergic beta-Antagonists	C0001645
+Ability to communicate	C0565998	IS_TREATED	["35501967_fullText_7"]	Citalopram	C0008845
+Vulval pain	C0241718	IS_TREATED	["37984764_fullText_2"]	Norepinephrine Reuptake Inhibitor [EPC]	C3537046
+Aroused sexually	C1314759	IS_TREATED	["37532077_fullText_13"]	WITHANIA SOMNIFERA	C2930158
+Recent myocardial infarction	C1998297	IS_TREATED	["36815843_fullText_2"]	Adrenergic beta-Antagonists	C0001645
+completed ninth grade	C1883654	IS_TREATED	["37656712_fullText_10"]	Marihuana	C0024808
+completed seventh grade	C1883651	IS_TREATED	["37656712_fullText_10"]	Marihuana	C0024808
+Drug Withdrawal Symptoms	C0086189	IS_TREATED	["34928557_fullText_1"]	Selective Serotonin Reuptake Inhibitors	C0360105
+Seizures in the newborn, refractory	C3151685	IS_TREATED	["35211704_fullText_5"]	pyridoxine	C0034272
+prevention side effects	C0814346	IS_TREATED	["29954767_fullText_2"]	pyridoxine	C0034272
+abnormal quantities	C1948079	IS_TREATED	["1945471_fullText_3"]	glutaric acid	C0061506
+Increased IgG	C0239988	IS_TREATED	["35137040_fullText_6"]	Polysaccharides	C0032594
+Endocrine dysgenesis	C2750596	IS_TREATED	["29112118_fullText_75"]	Mannose	C0024742
+Electrocardiogram atrioventricular block complete heart block	C2215935	IS_TREATED	["24932094_fullText_16"]	Isoproterenol	C0022245
+Electrocardiogram atrioventricular block complete heart block	C2215935	IS_TREATED	["24932094_fullText_16"]	Atropine	C0004259
+Genetic carrier status	C0949156	IS_TREATED	["1843186_fullText_7"]	Program	C2728259
+Reduced fertility	C1867795	IS_TREATED	["21283659_fullText_26"]	Basis	C1874451
+Increased tolerance	C0151956	IS_TREATED	["24373161_fullText_1"]	Phenylalanine	C0031453
+Laryngeal paresis	C1268572	IS_TREATED	["11932983_fullText_3"]	Pharmacologic Substance	C1254351
+MUT	C3813722	IS_TREATED	["33771987_fullText_161"]	Glucose	C0017725
+Hb S	C3844842	IS_TREATED	["23896802_fullText_1"]	chloroflurenol-methyl	C0055412
+Hb S	C3844842	IS_TREATED	["22492623_fullText_41"]	Buffers	C0006353
+METHOD:*	C5445274	IS_TREATED	["38870029_fullText_57"]	Dimethyl Sulfoxide	C0012403
+treated by diet	C0749645	IS_TREATED	["25007061_fullText_3"]	Phenylalanine	C0031453
+Myoclonic Seizures	C4317123	IS_TREATED	["38070824_fullText_5"]	perampanel	C2698764
+EPILEPSY, MITOCHONDRIAL	C4016624	IS_TREATED	["39231983_fullText_7"]	Cannabidiol	C0006863

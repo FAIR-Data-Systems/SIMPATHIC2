@@ -1,0 +1,444 @@
+drug lookup failed	UMLS:C1874451	Basis
+phenotype lookup failed	UMLS:C0235169	Excitability
+phenotype lookup failed	UMLS:C1397014	Imbalance
+phenotype lookup failed	UMLS:C3833492	2+
+phenotype lookup failed	UMLS:C0235031	Neurologic Symptoms
+phenotype lookup failed	UMLS:C0020429	Hyperalgesia
+phenotype lookup failed	UMLS:C2347610	Chemosensitivity
+phenotype lookup failed	UMLS:C0848237	acute stress
+phenotype lookup failed	UMLS:C0561782	Procedural memory
+phenotype lookup failed	UMLS:C0700327	Memory observations
+phenotype lookup failed	UMLS:C3843647	> 2 years
+phenotype lookup failed	UMLS:C1275743	Co-morbid conditions
+phenotype lookup failed	UMLS:C3495422	Finding relating to sexuality and sexual activity
+phenotype lookup failed	UMLS:C0233401	Psychiatric symptom
+phenotype lookup failed	UMLS:C0516943	patience
+drug lookup failed	UMLS:C0178601	Dopamine Agonists
+phenotype lookup failed	UMLS:C0221154	Paroxysmal hypertension
+phenotype lookup failed	UMLS:C2986463	Androgen Receptor Positive
+phenotype lookup failed	UMLS:C0580441	Prolactin level normal
+drug lookup failed	UMLS:C0013036	Dopaminergic Agents
+phenotype lookup failed	UMLS:C3277906	Cardiac dysfunction
+phenotype lookup failed	UMLS:C0442748	6/4
+phenotype lookup failed	UMLS:C0086132	Depressive Symptoms
+drug lookup failed	UMLS:C0023992	Loperamide
+drug lookup failed	UMLS:C0246694	MG 132
+drug lookup failed	UMLS:C2926735	Duration
+drug lookup failed	UMLS:C0003402	Antioxidants
+drug lookup failed	UMLS:C2728259	Program
+drug lookup failed	UMLS:C0110177	1-cyclohexyl-3-(2-(4-morpholinyl)ethyl)carbodiimide tosylate
+drug lookup failed	UMLS:C0127400	Mediator brand of benfluorex hydrochloride
+drug lookup failed	UMLS:C2946261	Level
+drug lookup failed	UMLS:C3540698	animal allergen extracts
+phenotype lookup failed	UMLS:C3278535	Lipid droplet accumulation
+phenotype lookup failed	UMLS:C0037420	Social Interaction
+drug lookup failed	UMLS:C0596235	Calcium ion
+drug lookup failed	UMLS:C0023779	Lipids
+drug lookup failed	UMLS:C3539125	other medicated shampoos in ATC
+phenotype lookup failed	UMLS:C0422815	Urethral function
+phenotype lookup failed	UMLS:C0231441	Immobile
+drug lookup failed	UMLS:C2987634	Agonist
+phenotype lookup failed	UMLS:C0521989	Associated symptom
+phenotype lookup failed	UMLS:C1850620	Clinical heterogeneity
+phenotype lookup failed	UMLS:C0740170	Does swallow
+phenotype lookup failed	UMLS:C0557351	Employed
+phenotype lookup failed	UMLS:C0548823	gastrointestinal distress
+phenotype lookup failed	UMLS:C0553668	Labored breathing
+phenotype lookup failed	UMLS:C0016928	Gait
+drug lookup failed	UMLS:C0002520	Amino Acids
+drug lookup failed	UMLS:C0360105	Selective Serotonin Reuptake Inhibitors
+phenotype lookup failed	UMLS:C0237677	insensitivity
+drug lookup failed	UMLS:C0041009	Trihexyphenidyl
+phenotype lookup failed	UMLS:C0369610	total lipids
+phenotype lookup failed	UMLS:C0582590	Learning performance
+phenotype lookup failed	UMLS:C1272641	Systemic arterial pressure
+phenotype lookup failed	UMLS:C3843422	Abstinence
+phenotype lookup failed	UMLS:C3843066	2 to 3 days
+drug lookup failed	UMLS:C0054433	caffeic acid
+drug lookup failed	UMLS:C3540676	Blockade
+drug lookup failed	UMLS:C1172779	Endocannabinoids
+phenotype lookup failed	UMLS:C0475639	Behavioral disability
+drug lookup failed	UMLS:C3540017	Enzymes, hematological
+phenotype lookup failed	UMLS:C1561566	FEV1 Adverse Event
+phenotype lookup failed	UMLS:C0858603	wave slowing
+drug lookup failed	UMLS:C1276996	Atypical antipsychotic
+phenotype lookup failed	UMLS:C3840763	Rescue
+drug lookup failed	UMLS:C1254351	Pharmacologic Substance
+phenotype lookup failed	UMLS:C1953353	Amino acid change
+drug lookup failed	UMLS:C0003392	Antineoplastic Agents
+drug lookup failed	UMLS:C0040616	Anti-Anxiety Agents
+drug lookup failed	UMLS:C0071649	polyphenols
+phenotype lookup failed	UMLS:C3151529	Lethal
+phenotype lookup failed	UMLS:C0278252	Prognosis bad
+phenotype lookup failed	UMLS:C1627773	Tissue texture abnormality
+phenotype lookup failed	UMLS:C0518041	Vitamin intake
+drug lookup failed	UMLS:C0017889	Glycerylphosphorylcholine
+drug lookup failed	UMLS:C0243192	agonists
+drug lookup failed	UMLS:C3539957	opium alkaloids and derivative combination cough suppressants
+phenotype lookup failed	UMLS:C0234235	Tissue sensitivity
+phenotype lookup failed	UMLS:C0860801	Glucose low
+drug lookup failed	UMLS:C3536832	Air
+phenotype lookup failed	UMLS:C0235735	Unexpected therapeutic effect
+phenotype lookup failed	UMLS:C0426576	Gastrointestinal symptom
+phenotype lookup failed	UMLS:C0422837	Neurological observations
+phenotype lookup failed	UMLS:C0087169	Withdrawal Symptoms
+phenotype lookup failed	UMLS:C0564474	Level of anxiety
+phenotype lookup failed	UMLS:C0239313	exercise induced
+drug lookup failed	UMLS:C0543459	Mexiletine Hydrochloride
+phenotype lookup failed	UMLS:C2750560	Handgrip myotonia
+phenotype lookup failed	UMLS:C3840775	Anticipated
+phenotype lookup failed	UMLS:C0429886	Walking distance
+phenotype lookup failed	UMLS:C0599766	Recovery of Function
+phenotype lookup failed	UMLS:C0043084	Weaning
+phenotype lookup failed	UMLS:C0234156	Reflex, Righting
+phenotype lookup failed	UMLS:C1838660	Increased fractures
+phenotype lookup failed	UMLS:C1832073	Handling
+phenotype lookup failed	UMLS:C2936719	Mechanical Allodynia
+drug lookup failed	UMLS:C3543842	TONICS
+drug lookup failed	UMLS:C0020591	Hypnotics
+phenotype lookup failed	UMLS:C0428886	Mean blood pressure
+phenotype lookup failed	UMLS:C0043096	Body Weight decreased
+phenotype lookup failed	UMLS:C0564182	Vocalization (finding)
+phenotype lookup failed	UMLS:C4055506	Accumulation
+phenotype lookup failed	UMLS:C0456984	Test Result
+phenotype lookup failed	UMLS:C1704258	Abnormality
+phenotype lookup failed	UMLS:C1821244	Normal development
+drug lookup failed	UMLS:C0591139	Bactrim
+phenotype lookup failed	UMLS:C1333602	Favorable Clinical Outcome
+phenotype lookup failed	UMLS:C0543419	Sequela of disorder
+drug lookup failed	UMLS:C0242209	Sugars
+phenotype lookup failed	UMLS:C1457868	Worse
+drug lookup failed	UMLS:C0085297	Immunoglobulins, Intravenous
+drug lookup failed	UMLS:C3824990	Blood lactate
+drug lookup failed	UMLS:C0015684	Fatty Acids
+drug lookup failed	UMLS:C0042210	Vaccines
+phenotype lookup failed	UMLS:C4036115	Very mild
+phenotype lookup failed	UMLS:C1320408	Urinary elimination status
+drug lookup failed	UMLS:C0064582	Lactic acid
+drug lookup failed	UMLS:C0027410	Narcotic Antagonists
+drug lookup failed	UMLS:C0027360	Naltrexone
+phenotype lookup failed	UMLS:C1299937	Failure of transfer of passive immunity in newborn
+phenotype lookup failed	UMLS:C0728899	Intoxication
+drug lookup failed	UMLS:C0001617	Adrenal Cortex Hormones
+phenotype lookup failed	UMLS:C0425560	Cardiovascular finding
+phenotype lookup failed	UMLS:C0686750	Well adult
+phenotype lookup failed	UMLS:C0541854	daytime sleepiness
+phenotype lookup failed	UMLS:C1960562	Physiological tremor
+drug lookup failed	UMLS:C0023810	Lipopolysaccharides
+phenotype lookup failed	UMLS:C0562577	Mocking
+drug lookup failed	UMLS:C0003299	Antiepileptic Agents
+phenotype lookup failed	UMLS:C0235198	Unable to concentrate
+drug lookup failed	UMLS:C0029989	Oxaloacetates
+drug lookup failed	UMLS:C0002771	Analgesics
+drug lookup failed	UMLS:C0002556	Aminoglycosides
+drug lookup failed	UMLS:C0021027	Immunoglobulins
+drug lookup failed	UMLS:C2346927	Magnesium Cation
+drug lookup failed	UMLS:C0006931	Capsaicin
+drug lookup failed	UMLS:C2347816	cobaltous cation
+phenotype lookup failed	UMLS:C0231187	Decompensation
+phenotype lookup failed	UMLS:C0012154	Diestrus
+phenotype lookup failed	UMLS:C1822046	Behavioral disturbances
+drug lookup failed	UMLS:C0038627	Succinylcholine
+drug lookup failed	UMLS:C1136170	Virulence Factors
+phenotype lookup failed	UMLS:C1519255	Serious Adverse Event
+phenotype lookup failed	UMLS:C2359857	Medication rate
+phenotype lookup failed	UMLS:C0872354	neurobehavior
+drug lookup failed	UMLS:C0040615	Antipsychotic Agents
+phenotype lookup failed	UMLS:C1320716	Cardiovascular event
+phenotype lookup failed	UMLS:C5394393	Neuroinflammation
+phenotype lookup failed	UMLS:C2673464	Increased serum IgE
+phenotype lookup failed	UMLS:C1096250	gastrointestinal discomfort
+phenotype lookup failed	UMLS:C0948482	analgesic effect
+phenotype lookup failed	UMLS:C1545588	Protection
+phenotype lookup failed	UMLS:C0205400	Thickened
+drug lookup failed	UMLS:C0007680	Central Nervous System Agents
+drug lookup failed	UMLS:C0019592	Histamine H1 Antagonists
+drug lookup failed	UMLS:C0813872	MK-801
+drug lookup failed	UMLS:C0598695	NMDA receptor antagonist
+drug lookup failed	UMLS:C0003289	Antidepressive Agents
+drug lookup failed	UMLS:C0006050	Botulinum Toxin Type A
+phenotype lookup failed	UMLS:C0332575	Redness
+drug lookup failed	UMLS:C0599682	monoamine
+drug lookup failed	UMLS:C0001645	Adrenergic beta-Antagonists
+phenotype lookup failed	UMLS:C0542189	REACTION TIME DECREASED
+phenotype lookup failed	UMLS:C3845736	Omission
+phenotype lookup failed	UMLS:C0679218	Resting state
+drug lookup failed	UMLS:C0003405	Antiparkinson Agents
+phenotype lookup failed	UMLS:C0743284	drug exposure
+phenotype lookup failed	UMLS:C0341742	Acute retention of urine
+phenotype lookup failed	UMLS:C0474395	Behavior showing increased motor activity
+drug lookup failed	UMLS:C2828243	capadenoson
+phenotype lookup failed	UMLS:C0442791	N18
+phenotype lookup failed	UMLS:C3538993	Complete Response with Incomplete Bone Marrow Recovery
+drug lookup failed	UMLS:C0242974	GABA Agonists
+phenotype lookup failed	UMLS:C0027796	Neuralgia
+phenotype lookup failed	UMLS:C0234251	Inflammatory pain
+drug lookup failed	UMLS:C0003364	Antihypertensive Agents
+drug lookup failed	UMLS:C0006684	Calcium Channel Blockers
+drug lookup failed	UMLS:C0012802	Thiazide Diuretics
+drug lookup failed	UMLS:C0005064	Benzodiazepines
+drug lookup failed	UMLS:C0003290	Tricyclic Antidepressive Agents
+drug lookup failed	UMLS:C0003360	Antihistamines
+drug lookup failed	UMLS:C0376202	Sepranolone
+phenotype lookup failed	UMLS:C0429807	Bladder capacity
+drug lookup failed	UMLS:C0815278	Neurosteroids
+drug lookup failed	UMLS:C0003385	Muscarinic Antagonists
+drug lookup failed	UMLS:C0628385	gabazine
+phenotype lookup failed	UMLS:C0424099	Reduced concentration
+phenotype lookup failed	UMLS:C0235161	sleep loss
+phenotype lookup failed	UMLS:C3842955	<30 min
+phenotype lookup failed	UMLS:C0694536	Drug seeking behavior
+phenotype lookup failed	UMLS:C0549649	MISUSE
+phenotype lookup failed	UMLS:C0221423	Illness (finding)
+phenotype lookup failed	UMLS:C0871124	prenatal exposure
+drug lookup failed	UMLS:C0682880	Psychoactive substance
+phenotype lookup failed	UMLS:C3842582	90%
+phenotype lookup failed	UMLS:C0231239	Fluctuation
+phenotype lookup failed	UMLS:C0391841	Oxygen content
+drug lookup failed	UMLS:C0024808	Marihuana
+drug lookup failed	UMLS:C0018533	Hallucinogens
+phenotype lookup failed	UMLS:C0424589	Vitality
+phenotype lookup failed	UMLS:C1096446	slight fever
+phenotype lookup failed	UMLS:C0235195	Sedated state
+phenotype lookup failed	UMLS:C0458990	Recurrent falls
+drug lookup failed	UMLS:C0008425	Cholinesterase Inhibitors
+phenotype lookup failed	UMLS:C0240173	Left shifted white blood cells
+phenotype lookup failed	UMLS:C2732728	Short stature for age
+phenotype lookup failed	UMLS:C1384485	Normal delivery
+phenotype lookup failed	UMLS:C0152150	Pregnancy, Twin
+phenotype lookup failed	UMLS:C0231172	handicapping condition
+phenotype lookup failed	UMLS:C3806166	Poor outcome
+phenotype lookup failed	UMLS:C0518609	consideration
+phenotype lookup failed	UMLS:C0518214	Perceived quality of life
+phenotype lookup failed	UMLS:C3274777	Severely Abnormal Ventricular Ejection Fraction
+phenotype lookup failed	UMLS:C0578757	Good neonatal condition at birth
+phenotype lookup failed	UMLS:C0311428	Increased excretory function
+phenotype lookup failed	UMLS:C1853719	Phenotypic variability
+phenotype lookup failed	UMLS:C0032972	Pregnancy Outcome
+phenotype lookup failed	UMLS:C0849912	Emotional
+phenotype lookup failed	UMLS:C0474415	Non-compliant behavior
+phenotype lookup failed	UMLS:C0442804	Very high
+phenotype lookup failed	UMLS:C0459424	Abnormal result
+phenotype lookup failed	UMLS:C1623040	Breastfeeding (mother)
+phenotype lookup failed	UMLS:C0549634	Lipids abnormal
+phenotype lookup failed	UMLS:C0497406	Overweight
+phenotype lookup failed	UMLS:C0948775	high weight
+phenotype lookup failed	UMLS:C1856060	Psychiatric disturbances
+phenotype lookup failed	UMLS:C0808270	Time 2
+phenotype lookup failed	UMLS:C1291165	Decreased tyrosine
+phenotype lookup failed	UMLS:C4699619	>40 years
+phenotype lookup failed	UMLS:C0442751	Distance vision 6/9
+phenotype lookup failed	UMLS:C0679136	Low self-esteem
+phenotype lookup failed	UMLS:C3842676	Day 2
+drug lookup failed	UMLS:C0242702	Dopamine Antagonists
+drug lookup failed	UMLS:C0028066	Nifedipine
+drug lookup failed	UMLS:C2936800	GABA-B Receptor Agonists
+drug lookup failed	UMLS:C0001641	Adrenergic alpha-Antagonists
+drug lookup failed	UMLS:C0041098	Triprolidine
+drug lookup failed	UMLS:C0242896	Anticholinergic Agents
+drug lookup failed	UMLS:C0023545	Leukotrienes
+phenotype lookup failed	UMLS:C0553731	Increased prolactin
+phenotype lookup failed	UMLS:C1134488	hormonal changes
+drug lookup failed	UMLS:C0078569	venlafaxine
+drug lookup failed	UMLS:C0358591	Proton Pump Inhibitors
+phenotype lookup failed	UMLS:C0240417	Form of muscle
+phenotype lookup failed	UMLS:C0557163	Household income
+drug lookup failed	UMLS:C0050079	8-Hydroxy-2-(di-n-propylamino)tetralin
+drug lookup failed	UMLS:C0118175	fostriecin
+drug lookup failed	UMLS:C0301172	Organic phosphorus insecticide, NOS
+drug lookup failed	UMLS:C2936801	GABA-A Receptor Antagonists
+phenotype lookup failed	UMLS:C0598463	Functional Status
+drug lookup failed	UMLS:C3537046	Norepinephrine Reuptake Inhibitor [EPC]
+drug lookup failed	UMLS:C0033978	Psychotropic Drugs
+drug lookup failed	UMLS:C2917388	Dopamine-2 Receptor Antagonist [EPC]
+drug lookup failed	UMLS:C0010467	Curcumin
+drug lookup failed	UMLS:C0304403	Psychostimulant
+drug lookup failed	UMLS:C0002763	Central Nervous System Stimulants
+drug lookup failed	UMLS:C0001648	Adrenergic Agonists
+phenotype lookup failed	UMLS:C0475175	Interpretation of behavior
+drug lookup failed	UMLS:C2983956	Human Interleukin-10 (Nonglycosylated)
+drug lookup failed	UMLS:C0072954	ractopamine
+drug lookup failed	UMLS:C1259819	Zilpaterol
+drug lookup failed	UMLS:C0001644	Adrenergic beta-Agonists
+phenotype lookup failed	UMLS:C0429826	Dysfunctional voiding of urine
+phenotype lookup failed	UMLS:C0871189	Psychotic symptom
+phenotype lookup failed	UMLS:C0392156	Akathisia
+phenotype lookup failed	UMLS:C2599768	Fractional shortening
+drug lookup failed	UMLS:C0040610	Tramadol
+drug lookup failed	UMLS:C0242402	Opioids
+phenotype lookup failed	UMLS:C0030201	Pain, Postoperative
+drug lookup failed	UMLS:C0171208	CL 316243
+drug lookup failed	UMLS:C0057626	dezocine
+drug lookup failed	UMLS:C0005117	Berberine
+drug lookup failed	UMLS:C0020592	Hypnotics and Sedatives
+drug lookup failed	UMLS:C0172827	lafutidine
+phenotype lookup failed	UMLS:C3845876	Consequent
+drug lookup failed	UMLS:C0003209	Anti-Inflammatory Agents
+drug lookup failed	UMLS:C0598447	fluorophore
+phenotype lookup failed	UMLS:C0860603	Anxiety symptoms
+drug lookup failed	UMLS:C0020196	Hyaluronic Acid
+drug lookup failed	UMLS:C0042665	Viloxazine
+drug lookup failed	UMLS:C0242897	Cholinergic Antagonists
+drug lookup failed	UMLS:C0006280	Bronchodilator Agents
+drug lookup failed	UMLS:C0242894	Cholinergic Agonists
+drug lookup failed	UMLS:C0012431	Dimethylnitrosamine
+phenotype lookup failed	UMLS:C0231337	Senility
+drug lookup failed	UMLS:C0102840	aluminum chloride
+drug lookup failed	UMLS:C2936870	cariprazine
+drug lookup failed	UMLS:C0079466	Guanfacine
+drug lookup failed	UMLS:C0045550	2,5-dichloro-4-bromophenol
+drug lookup failed	UMLS:C0023607	Luteinizing Hormone
+drug lookup failed	UMLS:C0813973	Medical Marijuana
+drug lookup failed	UMLS:C0148782	Win 55212-2
+drug lookup failed	UMLS:C0085826	Antiplatelet Agents
+drug lookup failed	UMLS:C0290799	WAY 100635
+drug lookup failed	UMLS:C0022181	Isoflurophate
+phenotype lookup failed	UMLS:C3812282	Ventricular Arrhythmia ECG Assessment
+drug lookup failed	UMLS:C0012291	Dihydroergotamine
+drug lookup failed	UMLS:C1136312	Histamine H1 Antagonists, Non-Sedating
+drug lookup failed	UMLS:C0032615	Polyunsaturated Fatty Acids
+drug lookup failed	UMLS:C0600370	Methacholine
+drug lookup failed	UMLS:C0005437	Bilirubin
+phenotype lookup failed	UMLS:C0231918	Nose symptoms
+phenotype lookup failed	UMLS:C3281105	HEMORRHAGE, INTRACEREBRAL, SUSCEPTIBILITY TO
+drug lookup failed	UMLS:C0061851	Ondansetron
+drug lookup failed	UMLS:C0060389	Finasteride
+drug lookup failed	UMLS:C0142805	Sodium Benzoate
+phenotype lookup failed	UMLS:C2219848	Daytime somnolence
+drug lookup failed	UMLS:C0003753	Arecoline
+phenotype lookup failed	UMLS:C0442749	6/5
+drug lookup failed	UMLS:C0080138	SCH 23390
+drug lookup failed	UMLS:C0014939	Estrogens
+drug lookup failed	UMLS:C0050789	Adenosine-5'-(N-ethylcarboxamide)
+phenotype lookup failed	UMLS:C0231530	Muscle twitch
+phenotype lookup failed	UMLS:C3808595	Myeloid proliferation
+drug lookup failed	UMLS:C0030040	Oxprenolol
+phenotype lookup failed	UMLS:C1148454	seizure activity
+drug lookup failed	UMLS:C0538927	celecoxib
+phenotype lookup failed	UMLS:C0349410	Single organ dysfunction
+drug lookup failed	UMLS:C0013162	Drug Combinations
+phenotype lookup failed	UMLS:C0687129	Encounter due to vagabond status
+drug lookup failed	UMLS:C0010620	Cyproheptadine
+phenotype lookup failed	UMLS:C0436345	Symptom severe
+drug lookup failed	UMLS:C0052593	atipamezole
+drug lookup failed	UMLS:C0003297	Antiemetics
+drug lookup failed	UMLS:C3813211	Prostaglandin E2
+drug lookup failed	UMLS:C0013973	Emetics
+drug lookup failed	UMLS:C0018605	Harmine
+drug lookup failed	UMLS:C0032825	Potassium Chloride
+drug lookup failed	UMLS:C0008932	Clenbuterol
+drug lookup failed	UMLS:C0237795	pressors
+drug lookup failed	UMLS:C0537150	ganaxolone
+drug lookup failed	UMLS:C0003195	Anti-Arrhythmia Agents
+drug lookup failed	UMLS:C0354100	Loop Diuretics
+drug lookup failed	UMLS:C1268567	Protein-tyrosine kinase inhibitor
+drug lookup failed	UMLS:C0051691	amiridine
+phenotype lookup failed	UMLS:C0429774	Residual urine volume
+drug lookup failed	UMLS:C2936526	Serotonin 5-HT3 Receptor Antagonists
+drug lookup failed	UMLS:C0069919	ranpirnase
+drug lookup failed	UMLS:C0018983	Hemicholinium 3
+phenotype lookup failed	UMLS:C1527169	Encounter due to being a donor
+phenotype lookup failed	UMLS:C0743626	etiology unknown
+drug lookup failed	UMLS:C0039294	Tannic Acid
+drug lookup failed	UMLS:C0001637	Adrenergic Agents
+drug lookup failed	UMLS:C0110893	CP-55,940
+drug lookup failed	UMLS:C0017710	Glucocorticoids
+drug lookup failed	UMLS:C0057277	Dehydroepiandrosterone Sulfate
+drug lookup failed	UMLS:C0011892	Heroin
+drug lookup failed	UMLS:C0060291	ferulic acid
+drug lookup failed	UMLS:C0009262	Colchicine
+drug lookup failed	UMLS:C0172161	tyramine-deoxysorbitol
+drug lookup failed	UMLS:C3465388	Transdermal Product
+drug lookup failed	UMLS:C0054593	cannabigerol
+drug lookup failed	UMLS:C0702216	Soma
+drug lookup failed	UMLS:C0043375	Xylose
+drug lookup failed	UMLS:C0054863	catharanthine
+drug lookup failed	UMLS:C3713561	CLP257
+drug lookup failed	UMLS:C1579835	scutellarein
+drug lookup failed	UMLS:C0376160	Zuclopenthixol
+drug lookup failed	UMLS:C0079083	Carboplatin
+drug lookup failed	UMLS:C0360526	Estrogen-progestin preparation
+drug lookup failed	UMLS:C0142831	sodium dehydroacetate
+drug lookup failed	UMLS:C0386444	BD 1047
+drug lookup failed	UMLS:C3886518	YL-0919
+phenotype lookup failed	UMLS:C0858277	angina symptom
+drug lookup failed	UMLS:C0002844	Androgens
+drug lookup failed	UMLS:C0246836	xanomeline
+drug lookup failed	UMLS:C1958615	GSK 189254
+drug lookup failed	UMLS:C0040108	Moxisylyte
+drug lookup failed	UMLS:C0665705	SB 205384
+drug lookup failed	UMLS:C3850099	Dopamine D2 Receptor Antagonists
+drug lookup failed	UMLS:C0040096	Thymol
+drug lookup failed	UMLS:C0304411	Biperiden Hydrochloride
+drug lookup failed	UMLS:C2349941	fosaprepitant
+drug lookup failed	UMLS:C0030135	Fenclonine
+drug lookup failed	UMLS:C1519830	Urinary Bladder Tumor Antigen
+drug lookup failed	UMLS:C0060583	flupirtine
+drug lookup failed	UMLS:C0167117	exenatide
+drug lookup failed	UMLS:C0386062	N-palmitoylsphingosine
+drug lookup failed	UMLS:C0162713	Photosensitizing Agents
+drug lookup failed	UMLS:C0062933	homocysteic acid
+drug lookup failed	UMLS:C1883695	Opioid Agonist [EPC]
+drug lookup failed	UMLS:C0911048	HU 308
+phenotype lookup failed	UMLS:C0004093	Asthenia
+drug lookup failed	UMLS:C0079245	Dizocilpine
+drug lookup failed	UMLS:C0377265	Levetiracetam
+drug lookup failed	UMLS:C2936586	Adenosine Diphosphate Receptor Antagonists
+drug lookup failed	UMLS:C3152857	Prevail
+drug lookup failed	UMLS:C0039832	Thiabendazole
+drug lookup failed	UMLS:C0257654	LY 235959
+drug lookup failed	UMLS:C0015827	Fenfluramine
+drug lookup failed	UMLS:C2927149	Cannabinoid Receptor Antagonists
+phenotype lookup failed	UMLS:C0032646	Poor compliance
+drug lookup failed	UMLS:C0067634	N-acetyl-4-benzoquinoneimine
+drug lookup failed	UMLS:C0064694	lavender oil
+drug lookup failed	UMLS:C0377344	oleylamide
+phenotype lookup failed	UMLS:C0087130	Uncertainty
+drug lookup failed	UMLS:C0066928	mullerian-inhibiting hormone
+drug lookup failed	UMLS:C0036860	Carbaryl
+drug lookup failed	UMLS:C0015832	Fenitrothion
+drug lookup failed	UMLS:C2607042	11-hydroxyvittatine
+drug lookup failed	UMLS:C1869668	Mexicor
+drug lookup failed	UMLS:C0724804	Peripheral vasodilators
+drug lookup failed	UMLS:C0037874	spermine
+drug lookup failed	UMLS:C0048385	4-hydroxyphenylacetic acid
+drug lookup failed	UMLS:C0058353	dipalmitoylphosphatidylserine
+drug lookup failed	UMLS:C0062021	GYKI 52466
+drug lookup failed	UMLS:C2607211	crotalphine
+drug lookup failed	UMLS:C0166273	perfluorooctane
+drug lookup failed	UMLS:C0024480	Magnesium Sulfate
+phenotype lookup failed	UMLS:C0596020	Does hit (finding)
+drug lookup failed	UMLS:C0043813	1,2-dihexadecyl-sn-glycero-3-phosphocholine
+drug lookup failed	UMLS:C0028094	Nimodipine
+drug lookup failed	UMLS:C0210403	3-aminopyridine-2-carboxaldehyde thiosemicarbazone
+drug lookup failed	UMLS:C3537168	ANTIANGINALS
+drug lookup failed	UMLS:C0068395	nandrolone decanoate
+drug lookup failed	UMLS:C0076195	testosterone undecanoate
+drug lookup failed	UMLS:C0048038	apraclonidine
+drug lookup failed	UMLS:C0077144	trilostane
+drug lookup failed	UMLS:C0054207	buflomedil
+phenotype lookup failed	UMLS:C4321237	High Level
+phenotype lookup failed	UMLS:C3845273	Missense
+drug lookup failed	UMLS:C0033621	Protein C
+drug lookup failed	UMLS:C0037025	Sialic Acids
+drug lookup failed	UMLS:C2347051	Manganese Cation (2+)
+phenotype lookup failed	UMLS:C1866771	Spinal tract degeneration
+phenotype lookup failed	UMLS:C2750249	Neuronal migration defect
+phenotype lookup failed	UMLS:C1857639	Dysmyelination
+drug lookup failed	UMLS:C0253307	sialyl Lewis x
+drug lookup failed	UMLS:C0162448	Glycerophospholipids
+drug lookup failed	UMLS:C0030863	Pentamidine
+drug lookup failed	UMLS:C0027867	Neuromuscular Depolarizing Agents
+phenotype lookup failed	UMLS:C0860901	Decreased total protein
+drug lookup failed	UMLS:C0040563	Chromomycin A3
+drug lookup failed	UMLS:C2912238	at night pain
+drug lookup failed	UMLS:C0131647	NA-5
+drug lookup failed	UMLS:C0701303	R-38486
+drug lookup failed	UMLS:C2350800	PJ-34
+drug lookup failed	UMLS:C0163159	sulforafan
+drug lookup failed	UMLS:C1533643	glycolic acid
+drug lookup failed	UMLS:C0068397	nandrolone phenpropionate
+drug lookup failed	UMLS:C0022957	lactulose
+phenotype lookup failed	UMLS:C3670503	Neuronal swelling
+phenotype lookup failed	UMLS:C0701826	Perinatal death
+drug lookup failed	UMLS:C0062725	Hippuric acid
