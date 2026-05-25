@@ -5,10 +5,8 @@
 "SSADHD","succinic semialdehyde dehydrogenase deficiency",
 "GTPCH","GTP cyclohydrolase I deficiency with hyperphenylalaninemia",
 "GA1","glutaryl-CoA dehydrogenase deficiency",
-"PMM2-CDG","PMM2-congenital disorder of glycosylation",
-"SCA3","Machado-Joseph disease",
+"PMM2-CDG","DHDDS-CDG",
+"SCA3","Machado-Joseph disease type 2",
 "congenital myasthenic syndrome","congenital myasthenic syndrome",
 "DM1","myotonic dystrophy type 1",
-"ORPHA:3006","",
-"Myotonic dystrophy type 1","myotonic dystrophy type 1",
-"Myotonic dystrophy type 1 rescue","myotonic dystrophy type 1"
+"ORPHA:3006","pyridoxine-dependent epilepsy"

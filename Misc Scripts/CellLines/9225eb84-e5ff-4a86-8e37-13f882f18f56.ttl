@@ -19,18 +19,20 @@
       foaf:name "SIMPATHIC Project";
       foaf:logo <https://simpathic.eu/wp-content/uploads/2024/09/Logo-SIMPATHIC_final-1024x571.webp>
     ];
-  dcterms:keyword "cell lines", "mitochondrial diseases", "rare diseases","Leigh Syndrome","Leigh syndrome",
+  dcterms:keyword "cell lines", "mitochondrial diseases", "rare diseases",
 "LS isogenic","Leigh syndrome",
-"MT-ATP6","Leigh syndrome",
+"MT-ATP6",
 "ZSD","peroxisome biogenesis disorder",
 "SSADHD","succinic semialdehyde dehydrogenase deficiency",
 "GTPCH","GTP cyclohydrolase I deficiency with hyperphenylalaninemia",
 "GA1","glutaryl-CoA dehydrogenase deficiency",
-"PMM2-CDG","DHDDS-CDG",
-"SCA3","Machado-Joseph disease type 2",
-"congenital myasthenic syndrome","congenital myasthenic syndrome",
-"DM1","myotonic dystrophy type 1",
-"ORPHA:3006","pyridoxine-dependent epilepsy";
+"PMM2-CDG","PMM2-congenital disorder of glycosylation",
+"SCA3","Machado-Joseph disease",
+"congenital myasthenic syndrome",
+"DM1",
+"ORPHA:3006",
+"Myotonic dystrophy type 1",
+"Myotonic dystrophy type 1 rescue";
   dcat:contactPoint [ a <http://www.w3.org/2006/vcard/ns#Agent>;
       <http://www.w3.org/2006/vcard/ns#url> <https://simpathic.eu>
     ];
@@ -70,13 +72,14 @@
 <https://hpscreg.eu/cell-line/SCTCi031-A>,
 <https://hpscreg.eu/cell-line/SCTCi032-A>,
 <https://hpscreg.eu/cell-line/SCTCi033-A>,
-<http://purl.obolibrary.org/obo/MONDO_1040054>,
+<http://purl.obolibrary.org/obo/MONDO_0008907>,
 <https://hpscreg.eu/cell-line/iPS20-00130>,
+<http://www.orpha.net/ORDO/Orphanet_79318>,
 <https://hpscreg.eu/cell-line/iPS20-00131>,
 <https://hpscreg.eu/cell-line/iPS20-00132>,
-<http://purl.obolibrary.org/obo/MONDO_0017175>,
+<http://purl.obolibrary.org/obo/MONDO_0007182>,
 <https://hpscreg.eu/cell-line/HIHCNi002-A>,
-<http://www.orpha.net/ORDO/Orphanet_276241>,
+<http://www.orpha.net/ORDO/Orphanet_98757>,
 <http://purl.obolibrary.org/obo/MONDO_0018940>,
 <https://hpscreg.eu/cell-line/CHEORIi001-A>,
 <http://www.orpha.net/ORDO/Orphanet_590>,
@@ -89,13 +92,17 @@
 <http://www.orpha.net/ORDO/Orphanet_273>,
 <https://hpscreg.eu/cell-line/CHEORIi004-A>,
 <https://hpscreg.eu/cell-line/CHEORIi004-B>,
-<http://purl.obolibrary.org/obo/MONDO_0009945>,
+<http://purl.obolibrary.org/obo/MONDO_0000000>,
 <https://hpscreg.eu/cell-line/SCTCi026-A>,
-<http://www.orpha.net/ORDO/Orphanet_3006>,
 <https://hpscreg.eu/cell-line/SCTCi027-A>,
 <https://hpscreg.eu/cell-line/SCTCi028-A>,
-<https://hpscreg.eu/cell-line/SCTCi029-A>
-;
+<https://hpscreg.eu/cell-line/SCTCi029-A>,
+<https://hpscreg.eu/cell-line/SCTCi043-A>,
+<https://hpscreg.eu/cell-line/SCTCi043-A-1>,
+<https://hpscreg.eu/cell-line/SCTCi044-A>,
+<https://hpscreg.eu/cell-line/SCTCi045-A>;
+
+
   <https://w3id.org/ejp-rd/vocabulary#personalData> "false";
   <http://semanticscience.org/resource/SIO_000628> <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56/metrics/445c0a70d1e214e545b261559e2842f4>,
     <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56/metrics/5d27e854a9e78eb3f663331cd47cdc13>;

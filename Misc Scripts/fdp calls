@@ -6,8 +6,8 @@ curl -v \
 
 curl -v \
   -X PUT \
-  -H "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9………" \
+  -H "Authorization: Bearer eyJhbGciOiJI..." \
   -H "Accept: text/turtle" \
   -H "Content-type: text/turtle" \
-  --data-binary @catalog_10000.ttl
-http://localhost:7070/XXXXXXXX_ID_OF_RECORD_XXXXXXX
+  --data-binary @9225eb84-e5ff-4a86-8e37-13f882f18f56.ttl \
+http://localhost:9000/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56
