@@ -8,10 +8,13 @@
     dcat:Dataset;
   <http://www.w3.org/2000/01/rdf-schema#label> "Cell Lines registered in hPSCreg";
   dcterms:title "Cell Lines registered in hPSCreg";
+  dcterms:hasVersion "May_2026";
   <https://w3id.org/fdp/fdp-o#metadataIssued> "2026-01-08T18:37:47.339283453Z"^^xsd:dateTime;
-  <https://w3id.org/fdp/fdp-o#metadataModified> "2026-01-08T18:43:47.226726604Z"^^xsd:dateTime;
+  <https://w3id.org/fdp/fdp-o#metadataModified> "2026-05-25T09:58:14.809296828Z"^^xsd:dateTime;
   dcterms:license <https://creativecommons.org/licenses/by/4.0/>;
   dcterms:description "Cell Lines registered in hPSCreg";
+  dcterms:conformsTo <https://w3id.org/simpathic/fdp/profile/2f08228e-1789-40f8-84cd-28e3288c3604>,
+    <https://w3id.org/simpathic/fdp/profile/2f08228e-1789-40f8-84cd-28e3288c3604>;
   dcterms:language <https://id.loc.gov/vocabulary/iso639-2/eng>;
   <https://w3id.org/fdp/fdp-o#metadataIdentifier> <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56#identifier>;
   dcterms:accessRights <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56#accessRights>;
@@ -19,98 +22,52 @@
       foaf:name "SIMPATHIC Project";
       foaf:logo <https://simpathic.eu/wp-content/uploads/2024/09/Logo-SIMPATHIC_final-1024x571.webp>
     ];
-  dcterms:keyword "cell lines", "mitochondrial diseases", "rare diseases",
-"LS isogenic","Leigh syndrome",
-"MT-ATP6",
-"ZSD","peroxisome biogenesis disorder",
-"SSADHD","succinic semialdehyde dehydrogenase deficiency",
-"GTPCH","GTP cyclohydrolase I deficiency with hyperphenylalaninemia",
-"GA1","glutaryl-CoA dehydrogenase deficiency",
-"PMM2-CDG","PMM2-congenital disorder of glycosylation",
-"SCA3","Machado-Joseph disease",
-"congenital myasthenic syndrome",
-"DM1",
-"ORPHA:3006",
-"Myotonic dystrophy type 1",
-"Myotonic dystrophy type 1 rescue";
-  dcat:contactPoint [ a <http://www.w3.org/2006/vcard/ns#Agent>;
-      <http://www.w3.org/2006/vcard/ns#url> <https://simpathic.eu>
-    ];
-  dcat:theme <http://purl.obolibrary.org/obo/MONDO_0009723>,
-<https://hpscreg.eu/cell-line/HMGUi001-A-63>,
-<http://www.orpha.net/ORDO/Orphanet_506>,
-<https://hpscreg.eu/cell-line/MDCi252-A>,
-<https://hpscreg.eu/cell-line/HHUi001-A>,
-<https://hpscreg.eu/cell-line/HHUi002-A>,
-<https://hpscreg.eu/cell-line/MDCi007-A>,
-<https://hpscreg.eu/cell-line/MDCi008-A>,
-<https://hpscreg.eu/cell-line/MDCi009-A>,
-<https://hpscreg.eu/cell-line/MDCi010-A>,
-<https://hpscreg.eu/cell-line/BIHi276-A>,
-<https://hpscreg.eu/cell-line/BIHi267-B>,
-<https://hpscreg.eu/cell-line/HHUi003-B>,
-<http://purl.obolibrary.org/obo/MONDO_0019234>,
-<https://hpscreg.eu/cell-line/VUi056-A>,
-<http://www.orpha.net/ORDO/Orphanet_79189>,
-<https://hpscreg.eu/cell-line/VUi058-A>,
-<https://hpscreg.eu/cell-line/VUi059-A>,
-<https://hpscreg.eu/cell-line/VUi060-A>,
-<https://hpscreg.eu/cell-line/VUi061-A>,
-<http://purl.obolibrary.org/obo/MONDO_0010083>,
-<https://hpscreg.eu/cell-line/DHMCi013-A>,
-<http://www.orpha.net/ORDO/Orphanet_22>,
-<https://hpscreg.eu/cell-line/DHMCi014-A>,
-<https://hpscreg.eu/cell-line/DHMCi015-A>,
-<http://purl.obolibrary.org/obo/MONDO_0100186>,
-<https://hpscreg.eu/cell-line/DHMCi002-B>,
-<http://www.orpha.net/ORDO/Orphanet_2102>,
-<https://hpscreg.eu/cell-line/DHMCi012-A>,
-<http://purl.obolibrary.org/obo/MONDO_0009281>,
-<https://hpscreg.eu/cell-line/DHMCi018-B>,
-<http://www.orpha.net/ORDO/Orphanet_25>,
-<https://hpscreg.eu/cell-line/SCTCi030-A>,
-<https://hpscreg.eu/cell-line/SCTCi031-A>,
-<https://hpscreg.eu/cell-line/SCTCi032-A>,
-<https://hpscreg.eu/cell-line/SCTCi033-A>,
-<http://purl.obolibrary.org/obo/MONDO_0008907>,
-<https://hpscreg.eu/cell-line/iPS20-00130>,
-<http://www.orpha.net/ORDO/Orphanet_79318>,
-<https://hpscreg.eu/cell-line/iPS20-00131>,
-<https://hpscreg.eu/cell-line/iPS20-00132>,
-<http://purl.obolibrary.org/obo/MONDO_0007182>,
-<https://hpscreg.eu/cell-line/HIHCNi002-A>,
-<http://www.orpha.net/ORDO/Orphanet_98757>,
-<http://purl.obolibrary.org/obo/MONDO_0018940>,
-<https://hpscreg.eu/cell-line/CHEORIi001-A>,
-<http://www.orpha.net/ORDO/Orphanet_590>,
-<https://hpscreg.eu/cell-line/CHEORIi001-B>,
-<https://hpscreg.eu/cell-line/CHEORIi001-C>,
-<https://hpscreg.eu/cell-line/CHEORIi002-A>,
-<https://hpscreg.eu/cell-line/CHEORIi002-B>,
-<http://purl.obolibrary.org/obo/MONDO_0008056>,
-<https://hpscreg.eu/cell-line/CHEORIi003-A>,
-<http://www.orpha.net/ORDO/Orphanet_273>,
-<https://hpscreg.eu/cell-line/CHEORIi004-A>,
-<https://hpscreg.eu/cell-line/CHEORIi004-B>,
-<http://purl.obolibrary.org/obo/MONDO_0000000>,
-<https://hpscreg.eu/cell-line/SCTCi026-A>,
-<https://hpscreg.eu/cell-line/SCTCi027-A>,
-<https://hpscreg.eu/cell-line/SCTCi028-A>,
-<https://hpscreg.eu/cell-line/SCTCi029-A>,
-<https://hpscreg.eu/cell-line/SCTCi043-A>,
-<https://hpscreg.eu/cell-line/SCTCi043-A-1>,
-<https://hpscreg.eu/cell-line/SCTCi044-A>,
-<https://hpscreg.eu/cell-line/SCTCi045-A>;
-
-
+  dcterms:keyword "cell lines", "mitochondrial diseases", "rare diseases", "Leigh syndrome",
+    "LS isogenic", "MT-ATP6", "ZSD", "peroxisome biogenesis disorder", "SSADHD", "succinic semialdehyde dehydrogenase deficiency",
+    "GTPCH", "GTP cyclohydrolase I deficiency with hyperphenylalaninemia", "GA1", "glutaryl-CoA dehydrogenase deficiency",
+    "PMM2-CDG", "SCA3", "congenital myasthenic syndrome", "DM1", "ORPHA:3006", "PMM2-congenital disorder of glycosylation",
+    "Machado-Joseph disease", "Myotonic dystrophy type 1", "Myotonic dystrophy type 1 rescue";
+  dcat:contactPoint <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56#contact>;
+  dcat:theme <http://purl.obolibrary.org/obo/MONDO_0009723>, <https://hpscreg.eu/cell-line/DHMCi015-A>,
+    <http://purl.obolibrary.org/obo/MONDO_0100186>, <https://hpscreg.eu/cell-line/DHMCi002-B>,
+    <https://hpscreg.eu/cell-line/DHMCi012-A>, <http://purl.obolibrary.org/obo/MONDO_0009281>,
+    <https://hpscreg.eu/cell-line/DHMCi018-B>, <https://hpscreg.eu/cell-line/SCTCi030-A>,
+    <https://hpscreg.eu/cell-line/SCTCi031-A>, <https://hpscreg.eu/cell-line/SCTCi032-A>,
+    <https://hpscreg.eu/cell-line/SCTCi033-A>, <https://hpscreg.eu/cell-line/iPS20-00130>,
+    <https://hpscreg.eu/cell-line/iPS20-00131>, <https://hpscreg.eu/cell-line/iPS20-00132>,
+    <https://hpscreg.eu/cell-line/HIHCNi002-A>, <http://purl.obolibrary.org/obo/MONDO_0018940>,
+    <https://hpscreg.eu/cell-line/CHEORIi001-A>, <https://hpscreg.eu/cell-line/CHEORIi001-B>,
+    <https://hpscreg.eu/cell-line/CHEORIi001-C>, <https://hpscreg.eu/cell-line/CHEORIi002-A>,
+    <https://hpscreg.eu/cell-line/CHEORIi002-B>, <http://purl.obolibrary.org/obo/MONDO_0008056>,
+    <https://hpscreg.eu/cell-line/CHEORIi003-A>, <https://hpscreg.eu/cell-line/CHEORIi004-A>,
+    <https://hpscreg.eu/cell-line/CHEORIi004-B>, <https://hpscreg.eu/cell-line/SCTCi026-A>,
+    <https://hpscreg.eu/cell-line/SCTCi027-A>, <https://hpscreg.eu/cell-line/SCTCi028-A>,
+    <https://hpscreg.eu/cell-line/SCTCi029-A>, <https://hpscreg.eu/cell-line/HMGUi001-A-63>,
+    <http://www.orpha.net/ORDO/Orphanet_506>, <https://hpscreg.eu/cell-line/MDCi252-A>,
+    <https://hpscreg.eu/cell-line/HHUi001-A>, <https://hpscreg.eu/cell-line/HHUi002-A>,
+    <https://hpscreg.eu/cell-line/MDCi007-A>, <https://hpscreg.eu/cell-line/MDCi008-A>,
+    <https://hpscreg.eu/cell-line/MDCi009-A>, <https://hpscreg.eu/cell-line/MDCi010-A>,
+    <https://hpscreg.eu/cell-line/BIHi276-A>, <https://hpscreg.eu/cell-line/BIHi267-B>,
+    <https://hpscreg.eu/cell-line/HHUi003-B>, <http://purl.obolibrary.org/obo/MONDO_0019234>,
+    <https://hpscreg.eu/cell-line/VUi056-A>, <http://www.orpha.net/ORDO/Orphanet_79189>,
+    <https://hpscreg.eu/cell-line/VUi058-A>, <https://hpscreg.eu/cell-line/VUi059-A>,
+    <https://hpscreg.eu/cell-line/VUi060-A>, <https://hpscreg.eu/cell-line/VUi061-A>,
+    <http://purl.obolibrary.org/obo/MONDO_0010083>, <https://hpscreg.eu/cell-line/DHMCi013-A>,
+    <http://www.orpha.net/ORDO/Orphanet_22>, <https://hpscreg.eu/cell-line/DHMCi014-A>,
+    <http://www.orpha.net/ORDO/Orphanet_2102>, <http://www.orpha.net/ORDO/Orphanet_25>,
+    <http://www.orpha.net/ORDO/Orphanet_590>, <http://www.orpha.net/ORDO/Orphanet_273>,
+    <http://purl.obolibrary.org/obo/MONDO_0008907>, <http://www.orpha.net/ORDO/Orphanet_79318>,
+    <http://purl.obolibrary.org/obo/MONDO_0007182>, <http://www.orpha.net/ORDO/Orphanet_98757>,
+    <http://purl.obolibrary.org/obo/MONDO_0000000>, <https://hpscreg.eu/cell-line/SCTCi043-A>,
+    <https://hpscreg.eu/cell-line/SCTCi043-A-1>, <https://hpscreg.eu/cell-line/SCTCi044-A>,
+    <https://hpscreg.eu/cell-line/SCTCi045-A>;
   <https://w3id.org/ejp-rd/vocabulary#personalData> "false";
   <http://semanticscience.org/resource/SIO_000628> <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56/metrics/445c0a70d1e214e545b261559e2842f4>,
     <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56/metrics/5d27e854a9e78eb3f663331cd47cdc13>;
   dcterms:isPartOf <https://w3id.org/simpathic/fdp/catalog/a3140d13-7798-4b00-ae8e-37e1a1b30aec>;
   <https://w3id.org/ejp-rd/vocabulary#vpConnection> <https://w3id.org/ejp-rd/vocabulary#VPDiscoverable>;
   foaf:logo <https://simpathic.eu/wp-content/uploads/2024/09/Logo-SIMPATHIC_final-1024x571.webp>;
-  dcat:distribution <https://w3id.org/simpathic/fdp/distribution/35888842-2b38-4dc1-b78f-1f5234425e35>;
-  dcterms:conformsTo <https://w3id.org/simpathic/fdp/profile/2f08228e-1789-40f8-84cd-28e3288c3604> .
+  dcat:distribution <https://w3id.org/simpathic/fdp/distribution/35888842-2b38-4dc1-b78f-1f5234425e35> .
 
 <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56#identifier>
   a <http://purl.org/spar/datacite/Identifier>;
@@ -120,6 +77,22 @@
   a dcterms:RightsStatement;
   dcterms:description "Contact the owner/curator of this resource to determine your access rights" .
 
+<https://w3id.org/simpathic/fdp/distribution/> a ldp:DirectContainer, ldp:DirectContainer;
+  dcterms:title "Distributions", "Distributions";
+  ldp:hasMemberRelation dcat:distribution, dcat:distribution;
+  ldp:membershipResource <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56>,
+    <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56>;
+  ldp:contains <https://w3id.org/simpathic/fdp/distribution/35888842-2b38-4dc1-b78f-1f5234425e35>,
+    <https://w3id.org/simpathic/fdp/distribution/35888842-2b38-4dc1-b78f-1f5234425e35> .
+
+<https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56#contact>
+  a <http://www.w3.org/2006/vcard/ns#Agent>;
+  <http://www.w3.org/2006/vcard/ns#url> <https://simpathic.eu>;
+  <http://www.w3.org/2006/vcard/ns#fn> "SIMPATHIC Project" .
+
+<https://w3id.org/simpathic/fdp/profile/2f08228e-1789-40f8-84cd-28e3288c3604> <http://www.w3.org/2000/01/rdf-schema#label>
+    "Dataset Profile", "Dataset Profile" .
+
 <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56/metrics/445c0a70d1e214e545b261559e2842f4>
   <http://semanticscience.org/resource/SIO_000628> <https://www.ietf.org/rfc/rfc3986.txt>;
   <http://semanticscience.org/resource/SIO_000332> <https://www.ietf.org/rfc/rfc3986.txt> .
@@ -127,12 +100,3 @@
 <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56/metrics/5d27e854a9e78eb3f663331cd47cdc13>
   <http://semanticscience.org/resource/SIO_000628> <https://www.wikidata.org/wiki/Q8777>;
   <http://semanticscience.org/resource/SIO_000332> <https://www.wikidata.org/wiki/Q8777> .
-
-<https://w3id.org/simpathic/fdp/distribution/> a ldp:DirectContainer;
-  dcterms:title "Distributions";
-  ldp:membershipResource <https://w3id.org/simpathic/fdp/dataset/9225eb84-e5ff-4a86-8e37-13f882f18f56>;
-  ldp:hasMemberRelation dcat:distribution;
-  ldp:contains <https://w3id.org/simpathic/fdp/distribution/35888842-2b38-4dc1-b78f-1f5234425e35> .
-
-<https://w3id.org/simpathic/fdp/profile/2f08228e-1789-40f8-84cd-28e3288c3604> <http://www.w3.org/2000/01/rdf-schema#label>
-    "Dataset Profile" .

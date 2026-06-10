@@ -8,7 +8,7 @@ require 'sparql/client'
 require 'csv'
 
 ENDPOINT = 'http://57.128.119.57:8890/sparql'.freeze
-OUTPUT   = 'all_pairs_both_orientations.csv'.freeze
+OUTPUT   = 'all_pairs_both_orientations_split_evidence.csv.large'.freeze
 
 BIOLINK = 'https://w3id.org/biolink/vocab/'.freeze
 
@@ -28,6 +28,7 @@ def query_for(type1, type2)
            ?entity2 ?entity2_name (\"#{type2}\" AS ?entity2_type)
            (GROUP_CONCAT(DISTINCT ?rel;    SEPARATOR=" | ") AS ?rels)
            (GROUP_CONCAT(DISTINCT ?source; SEPARATOR=" | ") AS ?sources)
+           ?evidence
     WHERE {
       GRAPH ?graph {
         ?entity1 ?p      ?entity2 .
@@ -38,15 +39,16 @@ def query_for(type1, type2)
       }
       ?graph simp:source-relation ?rel .
       ?graph simp:skg-source      ?source .
+      ?graph simp:evidence ?evidence .
     }
-    GROUP BY ?entity1 ?entity1_name ?entity2 ?entity2_name
+    GROUP BY ?entity1 ?entity1_name ?entity2 ?entity2_name ?evidence
     ORDER BY ?entity1_name ?entity2_name
   SPARQL
 end
 
 client = SPARQL::Client.new(ENDPOINT, read_timeout: 3600)
 
-COLUMNS = %w[entity1 entity1_name entity1_type entity2 entity2_name entity2_type rels sources].freeze
+COLUMNS = %w[entity1 entity1_name entity1_type entity2 entity2_name entity2_type evidence rels sources].freeze
 
 total_rows  = 0
 header_done = false
@@ -74,6 +76,7 @@ CSV.open(OUTPUT, 'w') do |csv|
       puts "#{rows.size} rows"
     rescue StandardError => e
       warn "\n  ERROR on #{label}: #{e.message} — skipping"
+      `echo "#{label}: #{e.message}" >> errors.log`
     end
   end
 end
