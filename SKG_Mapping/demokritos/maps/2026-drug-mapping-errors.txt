@@ -1,7 +1,3 @@
-failed compound name to cid lookup for XREF C0000376 Dihydroxyphenylacetic acid
-failed compound name to cid lookup for XREF C0000379 Methylenedioxyamphetamine
-failed compound name to cid lookup for XREF C0000407 3-Hydroxyanthranilic Acid
-failed compound name to cid lookup for XREF C0000407 3-hydroxyanthranilate
 failed compound name to cid lookup for XREF C0000477 Dalfampridine-containing product
 failed compound name to cid lookup for XREF C0000970 Acetaminophen-containing product
 failed compound name to cid lookup for XREF C0000981 Acetazolamide-containing product
@@ -11,8 +7,8 @@ failed compound name to cid lookup for XREF C0001046 Acetylcholinesterase inhibi
 failed compound name to cid lookup for XREF C0001047 Acetylcysteine-containing product
 failed compound name to cid lookup for XREF C0001443 Adenosine-containing product
 failed compound name to cid lookup for XREF C0001617 Adrenal Cortex Hormones
-failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
 failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone-containing product
+failed compound name to cid lookup for XREF C0001617 Corticosteroid and/or corticosteroid derivative-containing product
 failed compound name to cid lookup for XREF C0001617 Adrenal cortex hormone
 failed compound name to cid lookup for XREF C0001641 Adrenergic alpha-Antagonists
 failed compound name to cid lookup for XREF C0001641 Alpha adrenergic receptor antagonist
@@ -21,8 +17,8 @@ failed compound name to cid lookup for XREF C0001644 Adrenergic beta-Agonists
 failed compound name to cid lookup for XREF C0001644 Beta adrenergic receptor agonist
 failed compound name to cid lookup for XREF C0001644 Beta adrenergic receptor agonist-containing product
 failed compound name to cid lookup for XREF C0001645 Adrenergic beta-Antagonists
-failed compound name to cid lookup for XREF C0001645 Beta adrenergic receptor antagonist
 failed compound name to cid lookup for XREF C0001645 Beta adrenergic receptor antagonist-containing product
+failed compound name to cid lookup for XREF C0001645 Beta adrenergic receptor antagonist
 failed compound name to cid lookup for XREF C0001648 Adrenergic Agonists
 failed compound name to cid lookup for XREF C0001648 Adrenergic receptor agonist
 failed compound name to cid lookup for XREF C0001648 Adrenergic receptor agonist-containing product
@@ -31,8 +27,8 @@ failed compound name to cid lookup for XREF C0001933 Alcian blue 8GX stain
 failed compound name to cid lookup for XREF C0001962 Ethanol-containing product
 failed compound name to cid lookup for XREF C0001992 Aldehyde-containing product
 failed compound name to cid lookup for XREF C0002006 Aldosterone-containing product
-failed compound name to cid lookup for XREF C0002062 Alkaloid
 failed compound name to cid lookup for XREF C0002062 Alkaloid-containing product
+failed compound name to cid lookup for XREF C0002062 Alkaloid
 failed compound name to cid lookup for XREF C0002078 Alkynes
 failed compound name to cid lookup for XREF C0002078 Alkyne
 failed compound name to cid lookup for XREF C0002144 Allopurinol-containing product
@@ -60,8 +56,8 @@ failed compound name to cid lookup for XREF C0002763 Central stimulant
 failed compound name to cid lookup for XREF C0002771 Analgesics
 failed compound name to cid lookup for XREF C0002771 Analgesic
 failed compound name to cid lookup for XREF C0002844 Androgens
-failed compound name to cid lookup for XREF C0002844 Androgen receptor agonist-containing product
 failed compound name to cid lookup for XREF C0002844 Androgen receptor agonist
+failed compound name to cid lookup for XREF C0002844 Androgen receptor agonist-containing product
 failed compound name to cid lookup for XREF C0002932 Anesthetics
 failed compound name to cid lookup for XREF C0002932 Anesthetic
 failed compound name to cid lookup for XREF C0002934 Local anesthetic
@@ -84,15 +80,15 @@ failed compound name to cid lookup for XREF C0003364 Antihypertensive Agents
 failed compound name to cid lookup for XREF C0003364 Hypotensive agent
 failed UMLS to cid lookup for C0003372
 failed compound name to cid lookup for XREF C0003385 Muscarinic Antagonists
-failed compound name to cid lookup for XREF C0003385 Muscarinic receptor antagonist
 failed compound name to cid lookup for XREF C0003385 Muscarinic receptor antagonist-containing product
+failed compound name to cid lookup for XREF C0003385 Muscarinic receptor antagonist
 failed UMLS to cid lookup for C0003402
 failed compound name to cid lookup for XREF C0003417 Antipruritics
 failed compound name to cid lookup for XREF C0003438 Antithrombin III-containing product
 failed compound name to cid lookup for XREF C0003438 Antithrombin III
 failed compound name to cid lookup for XREF C0003440 Antithrombins
-failed compound name to cid lookup for XREF C0003440 Direct thrombin inhibitor-containing product
 failed compound name to cid lookup for XREF C0003440 Direct thrombin inhibitor
+failed compound name to cid lookup for XREF C0003440 Direct thrombin inhibitor-containing product
 failed compound name to cid lookup for XREF C0003596 Apomorphine-containing product
 failed compound name to cid lookup for XREF C0003620 Appetite Depressants
 failed compound name to cid lookup for XREF C0003968 Ascorbic acid-containing product
@@ -152,8 +148,8 @@ failed compound name to cid lookup for XREF C0007412 Catecholamine-containing pr
 failed compound name to cid lookup for XREF C0007561 Ceftriaxone-containing product
 failed compound name to cid lookup for XREF C0007745 Ceramides
 failed compound name to cid lookup for XREF C0007805 Cerebroside
-failed compound name to cid lookup for XREF C0007974 Chelating agent
 failed compound name to cid lookup for XREF C0007974 Chelating agent-containing product
+failed compound name to cid lookup for XREF C0007974 Chelating agent
 failed compound name to cid lookup for XREF C0008024 Chenodeoxycholic acid-containing product
 failed compound name to cid lookup for XREF C0008238 Chloroform-containing product
 failed compound name to cid lookup for XREF C0008269 Chloroquine-containing product
@@ -229,14 +225,14 @@ failed compound name to cid lookup for XREF C0014939 Estrogen receptor agonist
 failed compound name to cid lookup for XREF C0014939 Estrogen receptor agonist-containing product
 failed compound name to cid lookup for XREF C0015205 Evans blue stain
 failed compound name to cid lookup for XREF C0015491 Factor IX
-failed compound name to cid lookup for XREF C0015491 Coagulation factor IX
 failed compound name to cid lookup for XREF C0015491 Coagulation factor IX-containing product
+failed compound name to cid lookup for XREF C0015491 Coagulation factor IX
 failed compound name to cid lookup for XREF C0015502 Factor VII
 failed compound name to cid lookup for XREF C0015502 Coagulation factor VII
 failed compound name to cid lookup for XREF C0015502 Coagulation factor VII-containing product
 failed compound name to cid lookup for XREF C0015528 Factor XIII
-failed compound name to cid lookup for XREF C0015528 Coagulation factor XIII-containing product
 failed compound name to cid lookup for XREF C0015528 Coagulation factor XIII
+failed compound name to cid lookup for XREF C0015528 Coagulation factor XIII-containing product
 failed compound name to cid lookup for XREF C0015620 Famotidine-containing product
 failed compound name to cid lookup for XREF C0015684 Fatty acid
 failed compound name to cid lookup for XREF C0015686 Fatty Acids, Essential
@@ -250,12 +246,12 @@ failed compound name to cid lookup for XREF C0015879 Ferritin
 failed compound name to cid lookup for XREF C0016006 Fibrinogen
 failed compound name to cid lookup for XREF C0016006 Coagulation factor I
 failed compound name to cid lookup for XREF C0016016 Fibrinolysin
-failed compound name to cid lookup for XREF C0016016 Plasmin
 failed compound name to cid lookup for XREF C0016016 Fibrinolysin, human-containing product
+failed compound name to cid lookup for XREF C0016016 Plasmin
 failed UMLS to cid lookup for C0016095
 failed compound name to cid lookup for XREF C0016157 Fish Oils
-failed compound name to cid lookup for XREF C0016157 Fish oil
 failed compound name to cid lookup for XREF C0016157 Fish derived omega 3 fatty acid-containing product
+failed compound name to cid lookup for XREF C0016157 Fish oil
 failed compound name to cid lookup for XREF C0016213 Flavins
 failed compound name to cid lookup for XREF C0016295 Flunarizine-containing product
 failed compound name to cid lookup for XREF C0016360 Fluorouracil-containing product
@@ -268,8 +264,8 @@ failed compound name to cid lookup for XREF C0016896 Ganglioside GM>2<
 failed compound name to cid lookup for XREF C0016945 Galactose-containing product
 failed compound name to cid lookup for XREF C0016967 Galantamine-containing product
 failed compound name to cid lookup for XREF C0017237 Gelatin
-failed compound name to cid lookup for XREF C0017237 Gelatin
 failed compound name to cid lookup for XREF C0017237 Gelatin-containing product
+failed compound name to cid lookup for XREF C0017237 Gelatin
 failed compound name to cid lookup for XREF C0017687 Glucagon-containing product
 failed compound name to cid lookup for XREF C0017710 Glucocorticoid
 failed compound name to cid lookup for XREF C0017710 Glucocorticoid-containing product
@@ -304,8 +300,8 @@ failed compound name to cid lookup for XREF C0019590 Histamine receptor antagoni
 failed compound name to cid lookup for XREF C0019592 Histamine H1 receptor antagonist-containing product
 failed compound name to cid lookup for XREF C0019592 Histamine H1 receptor antagonist
 failed compound name to cid lookup for XREF C0019593 Histamine H2 Antagonists
-failed compound name to cid lookup for XREF C0019593 Histamine H2 receptor antagonist
 failed compound name to cid lookup for XREF C0019593 Histamine H2 receptor antagonist-containing product
+failed compound name to cid lookup for XREF C0019593 Histamine H2 receptor antagonist
 failed UMLS to cid lookup for C0019873
 failed compound name to cid lookup for XREF C0020268 Hydrocortisone-containing product
 failed compound name to cid lookup for XREF C0020314 Hydroxamic Acids
@@ -320,9 +316,9 @@ failed compound name to cid lookup for XREF C0020960 Immune Sera
 failed compound name to cid lookup for XREF C0020960 Antiserum
 failed compound name to cid lookup for XREF C0020960 Antiserum-containing product
 failed compound name to cid lookup for XREF C0021027 Immunoglobulins
-failed compound name to cid lookup for XREF C0021027 Immunoglobulin-containing product
-failed compound name to cid lookup for XREF C0021027 Immunoglobulin structure
 failed compound name to cid lookup for XREF C0021027 Immunoglobulin
+failed compound name to cid lookup for XREF C0021027 Immunoglobulin structure
+failed compound name to cid lookup for XREF C0021027 Immunoglobulin-containing product
 failed compound name to cid lookup for XREF C0021246 Indomethacin-containing product
 failed compound name to cid lookup for XREF C0021547 Inositol-containing product
 failed compound name to cid lookup for XREF C0021641 Insulin-containing product
@@ -347,8 +343,8 @@ failed compound name to cid lookup for XREF C0023545 Leukotriene
 failed compound name to cid lookup for XREF C0023556 Levamisole-containing product
 failed compound name to cid lookup for XREF C0023570 Levodopa-containing product
 failed compound name to cid lookup for XREF C0023610 Gonadotropin releasing factor
-failed compound name to cid lookup for XREF C0023610 Gonadotropin releasing factor-containing product
 failed compound name to cid lookup for XREF C0023610 Gonadorelin-containing product
+failed compound name to cid lookup for XREF C0023610 Gonadotropin releasing factor-containing product
 failed compound name to cid lookup for XREF C0023660 Lidocaine-containing product
 failed compound name to cid lookup for XREF C0023764 Lipase
 failed compound name to cid lookup for XREF C0023764 Triacylglycerol lipase
@@ -388,16 +384,16 @@ failed compound name to cid lookup for XREF C0026056 Midazolam-containing produc
 failed compound name to cid lookup for XREF C0026078 Midodrine-containing product
 failed compound name to cid lookup for XREF C0026196 Minoxidil-containing product
 failed compound name to cid lookup for XREF C0026457 Monoamine Oxidase Inhibitors
-failed compound name to cid lookup for XREF C0026457 Monoamine oxidase inhibitor-containing product
 failed compound name to cid lookup for XREF C0026457 Monoamine oxidase inhibitor
+failed compound name to cid lookup for XREF C0026457 Monoamine oxidase inhibitor-containing product
 failed compound name to cid lookup for XREF C0026549 Morphine-containing product
 failed compound name to cid lookup for XREF C0027302 Nadolol-containing product
 failed compound name to cid lookup for XREF C0027358 Naloxone-containing product
 failed compound name to cid lookup for XREF C0027603 Neomycin-containing product
 failed compound name to cid lookup for XREF C0027679 Neostigmine-containing product
 failed compound name to cid lookup for XREF C0027866 Neuromuscular Blocking Agents
-failed compound name to cid lookup for XREF C0027866 Neuromuscular blocker product
 failed compound name to cid lookup for XREF C0027866 Neuromuscular blocking agent
+failed compound name to cid lookup for XREF C0027866 Neuromuscular blocker product
 failed compound name to cid lookup for XREF C0027996 Niacin-containing product
 failed compound name to cid lookup for XREF C0028005 Nicardipine-containing product
 failed compound name to cid lookup for XREF C0028040 Nicotine-containing product
@@ -408,8 +404,8 @@ failed compound name to cid lookup for XREF C0028833 Octreotide-containing produ
 failed compound name to cid lookup for XREF C0028910 Oils, Volatile
 failed compound name to cid lookup for XREF C0028910 Volatile oil
 failed compound name to cid lookup for XREF C0028910 Volatile oil-containing product
-failed compound name to cid lookup for XREF C0028928 9 cis-octadecenoic acid-containing product
 failed compound name to cid lookup for XREF C0028928 9 cis-octadecenoic acid
+failed compound name to cid lookup for XREF C0028928 9 cis-octadecenoic acid-containing product
 failed compound name to cid lookup for XREF C0028959 Oligosaccharides
 failed compound name to cid lookup for XREF C0028959 Oligosaccharide
 failed compound name to cid lookup for XREF C0029989 Oxaloacetates
@@ -443,8 +439,8 @@ failed compound name to cid lookup for XREF C0031676 Phospholipids
 failed compound name to cid lookup for XREF C0031676 Phospholipid-containing product
 failed compound name to cid lookup for XREF C0031676 Phospholipid
 failed compound name to cid lookup for XREF C0031701 Organophosphates
-failed compound name to cid lookup for XREF C0031701 Phosphoric acid ester
 failed compound name to cid lookup for XREF C0031701 Organic phosphorus compound
+failed compound name to cid lookup for XREF C0031701 Phosphoric acid ester
 failed compound name to cid lookup for XREF C0031923 Pilocarpine-containing product
 failed compound name to cid lookup for XREF C0031935 Pimozide-containing product
 failed UMLS to cid lookup for C0031951
@@ -452,15 +448,15 @@ failed compound name to cid lookup for XREF C0031978 Pirenzepine-containing prod
 failed compound name to cid lookup for XREF C0032133 Plasmalogens
 failed compound name to cid lookup for XREF C0032133 Plasmalogen
 failed compound name to cid lookup for XREF C0032143 Tissue Plasminogen Activator
-failed compound name to cid lookup for XREF C0032143 Tissue plasminogen activator
 failed compound name to cid lookup for XREF C0032143 Tissue plasminogen activator-containing product
-failed compound name to cid lookup for XREF C0032143 Alteplase-containing product
 failed compound name to cid lookup for XREF C0032143 Alteplase
+failed compound name to cid lookup for XREF C0032143 Tissue plasminogen activator
+failed compound name to cid lookup for XREF C0032143 Alteplase-containing product
 failed compound name to cid lookup for XREF C0032478 polyethylene glycol 400
 failed compound name to cid lookup for XREF C0032478 Polyethylene glycol 400
 failed compound name to cid lookup for XREF C0032483 Polyethylene Glycols
-failed compound name to cid lookup for XREF C0032483 Polyethylene glycol-containing product
 failed compound name to cid lookup for XREF C0032483 Polyethylene glycol
+failed compound name to cid lookup for XREF C0032483 Polyethylene glycol-containing product
 failed compound name to cid lookup for XREF C0032594 Polysaccharides
 failed compound name to cid lookup for XREF C0032594 Polysaccharide
 failed compound name to cid lookup for XREF C0032615 Fatty Acids, Unsaturated
@@ -476,13 +472,13 @@ failed compound name to cid lookup for XREF C0033308 Progesterone-containing pro
 failed compound name to cid lookup for XREF C0033371 Prolactin-containing product
 failed compound name to cid lookup for XREF C0033487 Propofol-containing product
 failed compound name to cid lookup for XREF C0033488 Propolis
-failed compound name to cid lookup for XREF C0033488 Propolis-containing product
 failed compound name to cid lookup for XREF C0033488 Propolis
+failed compound name to cid lookup for XREF C0033488 Propolis-containing product
 failed compound name to cid lookup for XREF C0033497 Propranolol-containing product
 failed compound name to cid lookup for XREF C0033554 Prostaglandins
-failed compound name to cid lookup for XREF C0033554 Prostaglandin-containing product
 failed compound name to cid lookup for XREF C0033554 Prostaglandin
 failed compound name to cid lookup for XREF C0033554 Prostanoid
+failed compound name to cid lookup for XREF C0033554 Prostaglandin-containing product
 failed compound name to cid lookup for XREF C0033558 Prostaglandins D
 failed compound name to cid lookup for XREF C0033567 Epoprostenol-containing product
 failed compound name to cid lookup for XREF C0033568 Prostaglandins, Synthetic
@@ -519,8 +515,8 @@ failed compound name to cid lookup for XREF C0036681 Sepharose
 failed compound name to cid lookup for XREF C0036681 Agarose
 failed compound name to cid lookup for XREF C0036753 Serotonin Antagonists
 failed compound name to cid lookup for XREF C0037025 Sialic Acids
-failed compound name to cid lookup for XREF C0037494 Sodium chloride-containing product
 failed compound name to cid lookup for XREF C0037494 Sodium chloride-containing product in solution for irrigation
+failed compound name to cid lookup for XREF C0037494 Sodium chloride-containing product
 failed compound name to cid lookup for XREF C0037556 Sodium tetradecyl sulfate-containing product
 failed compound name to cid lookup for XREF C0037659 Somatostatin-containing product
 failed compound name to cid lookup for XREF C0037663 Somatotropin
@@ -587,10 +583,11 @@ failed compound name to cid lookup for XREF C0042672 Vinca alkaloid
 failed compound name to cid lookup for XREF C0042839 Retinol-containing product
 failed compound name to cid lookup for XREF C0042845 Cyanocobalamin-containing product
 failed compound name to cid lookup for XREF C0042866 Vitamin D
-failed compound name to cid lookup for XREF C0042866 Vitamin D and/or vitamin D derivative-containing product
 failed compound name to cid lookup for XREF C0042866 Vitamin D and/or vitamin D derivative
+failed compound name to cid lookup for XREF C0042866 Vitamin D and/or vitamin D derivative-containing product
 failed compound name to cid lookup for XREF C0042874 Vitamin E and/or vitamin E derivative-containing product
 failed compound name to cid lookup for XREF C0042890 Vitamins
+failed compound name to cid lookup for XREF C0042890 Vitamin
 failed compound name to cid lookup for XREF C0043031 Warfarin-containing product
 failed compound name to cid lookup for XREF C0043047 Water-containing product
 failed compound name to cid lookup for XREF C0043481 Zinc-containing product
@@ -614,8 +611,8 @@ failed compound name to cid lookup for XREF C0052058 antihemorrhagic factor
 failed compound name to cid lookup for XREF C0052796 Azithromycin-containing product
 failed UMLS to cid lookup for C0053083
 failed compound name to cid lookup for XREF C0053799 Bisoprolol-containing product
-failed compound name to cid lookup for XREF C0054015 Nesiritide-containing product
 failed compound name to cid lookup for XREF C0054015 B-type natriuretic peptide
+failed compound name to cid lookup for XREF C0054015 Nesiritide-containing product
 failed UMLS to cid lookup for C0054036
 failed compound name to cid lookup for XREF C0054201 Budesonide-containing product
 failed compound name to cid lookup for XREF C0054836 Carvedilol-containing product
@@ -690,8 +687,8 @@ failed compound name to cid lookup for XREF C0076829 Topiramate-containing produ
 failed UMLS to cid lookup for C0077664
 failed UMLS to cid lookup for C0077906
 failed compound name to cid lookup for XREF C0078479 Whey Proteins
-failed compound name to cid lookup for XREF C0078479 Whey protein
 failed compound name to cid lookup for XREF C0078479 Whey
+failed compound name to cid lookup for XREF C0078479 Whey protein
 failed compound name to cid lookup for XREF C0078844 Zonisamide-containing product
 failed UMLS to cid lookup for C0080138
 failed UMLS to cid lookup for C0082384
@@ -754,8 +751,8 @@ failed UMLS to cid lookup for C0178487
 failed UMLS to cid lookup for C0178503
 failed UMLS to cid lookup for C0178528
 failed compound name to cid lookup for XREF C0178601 Dopamine Agonists
-failed compound name to cid lookup for XREF C0178601 Dopamine receptor agonist
 failed compound name to cid lookup for XREF C0178601 Dopamine receptor agonist-containing product
+failed compound name to cid lookup for XREF C0178601 Dopamine receptor agonist
 failed UMLS to cid lookup for C0178638
 failed UMLS to cid lookup for C0178681
 failed UMLS to cid lookup for C0205812
@@ -799,8 +796,8 @@ failed compound name to cid lookup for XREF C0242948 Nicotinic Agonists
 failed compound name to cid lookup for XREF C0242948 Nicotinic receptor agonist
 failed compound name to cid lookup for XREF C0242948 Nicotinic receptor agonist-containing product
 failed compound name to cid lookup for XREF C0242980 Dopamine Uptake Inhibitors
-failed compound name to cid lookup for XREF C0242980 Dopamine reuptake inhibitor
 failed compound name to cid lookup for XREF C0242980 Dopamine reuptake inhibitor-containing product
+failed compound name to cid lookup for XREF C0242980 Dopamine reuptake inhibitor
 failed compound name to cid lookup for XREF C0243192 agonists
 failed compound name to cid lookup for XREF C0244404 Raloxifene-containing product
 failed compound name to cid lookup for XREF C0244821 Ropinirole-containing product
@@ -838,15 +835,15 @@ failed UMLS to cid lookup for C0304395
 failed compound name to cid lookup for XREF C0304402 Stimulant
 failed compound name to cid lookup for XREF C0304403 Psychostimulant
 failed compound name to cid lookup for XREF C0304512 Adrenergic alpha-1 Receptor Antagonists
-failed compound name to cid lookup for XREF C0304512 Alpha-1 adrenergic receptor antagonist
 failed compound name to cid lookup for XREF C0304512 Alpha-1 adrenergic receptor antagonist-containing product
+failed compound name to cid lookup for XREF C0304512 Alpha-1 adrenergic receptor antagonist
 failed UMLS to cid lookup for C0304515
 failed compound name to cid lookup for XREF C0304523 Centrally acting hypotensive agent
 failed compound name to cid lookup for XREF C0304925 Serum Albumin, Human
 failed compound name to cid lookup for XREF C0304925 Human serum albumin
-failed compound name to cid lookup for XREF C0304925 Human serum albumin-containing product
 failed compound name to cid lookup for XREF C0304925 Albumin human-containing product
 failed compound name to cid lookup for XREF C0304925 Albumin human
+failed compound name to cid lookup for XREF C0304925 Human serum albumin-containing product
 failed UMLS to cid lookup for C0305052
 failed UMLS to cid lookup for C0309049
 failed UMLS to cid lookup for C0310367
@@ -854,16 +851,16 @@ failed UMLS to cid lookup for C0358430
 failed compound name to cid lookup for XREF C0358591 Proton Pump Inhibitors
 failed compound name to cid lookup for XREF C0358591 Proton pump inhibitor-containing product
 failed compound name to cid lookup for XREF C0358591 Proton pump inhibitor
-failed compound name to cid lookup for XREF C0359916 Substance with phenol structure
 failed compound name to cid lookup for XREF C0359916 Phenol structure-containing product
+failed compound name to cid lookup for XREF C0359916 Substance with phenol structure
 failed compound name to cid lookup for XREF C0360100 Organic chemical solvent
 failed compound name to cid lookup for XREF C0360105 Selective Serotonin Reuptake Inhibitors
 failed compound name to cid lookup for XREF C0360105 Selective serotonin re-uptake inhibitor-containing product
 failed compound name to cid lookup for XREF C0360105 Selective serotonin re-uptake inhibitor
 failed compound name to cid lookup for XREF C0360301 Product base
 failed compound name to cid lookup for XREF C0360714 Hydroxymethylglutaryl-CoA Reductase Inhibitors
-failed compound name to cid lookup for XREF C0360714 HMG-CoA reductase inhibitor-containing product
 failed compound name to cid lookup for XREF C0360714 HMG-CoA reductase inhibitor
+failed compound name to cid lookup for XREF C0360714 HMG-CoA reductase inhibitor-containing product
 failed compound name to cid lookup for XREF C0360722 Enzyme-containing product
 failed compound name to cid lookup for XREF C0368909 Non-esterified cholesterol
 failed compound name to cid lookup for XREF C0369760 Organic acid
@@ -908,8 +905,8 @@ failed UMLS to cid lookup for C0591139
 failed compound name to cid lookup for XREF C0595265 Monoamine oxidase B inhibitor
 failed compound name to cid lookup for XREF C0595265 Monoamine oxidase B inhibitor-containing product
 failed compound name to cid lookup for XREF C0595726 Leukotriene Antagonists
-failed compound name to cid lookup for XREF C0595726 Leukotriene receptor antagonist-containing product
 failed compound name to cid lookup for XREF C0595726 Leukotriene receptor antagonist
+failed compound name to cid lookup for XREF C0595726 Leukotriene receptor antagonist-containing product
 failed compound name to cid lookup for XREF C0596087 Angiogenesis inhibitor-containing product
 failed UMLS to cid lookup for C0596235
 failed compound name to cid lookup for XREF C0596577 Flavonoids
@@ -956,7 +953,6 @@ failed compound name to cid lookup for XREF C0754188 Amprenavir-containing produ
 failed compound name to cid lookup for XREF C0754659 Dutasteride-containing product
 failed UMLS to cid lookup for C0760481
 failed UMLS to cid lookup for C0763767
-failed compound name to cid lookup for XREF C0764864 DDMS
 failed compound name to cid lookup for XREF C0765956 4-(3-chlorophenylsulfanyl)piperidine
 failed UMLS to cid lookup for C0770246
 failed UMLS to cid lookup for C0770694
@@ -974,8 +970,8 @@ failed UMLS to cid lookup for C0878341
 failed UMLS to cid lookup for C0883264
 failed UMLS to cid lookup for C0885847
 failed compound name to cid lookup for XREF C0908935 Desloratadine-containing product
-failed compound name to cid lookup for XREF C0913469 Pegvisomant-containing product
 failed compound name to cid lookup for XREF C0913469 Pegvisomant
+failed compound name to cid lookup for XREF C0913469 Pegvisomant-containing product
 failed compound name to cid lookup for XREF C0913506 Prucalopride-containing product
 failed compound name to cid lookup for XREF C0916178 trizol
 failed compound name to cid lookup for XREF C0935929 Hypoglycemic Agents
@@ -988,8 +984,8 @@ failed compound name to cid lookup for XREF C0965129 Rosuvastatin-containing pro
 failed compound name to cid lookup for XREF C0965351 CpG ODN 1826
 failed compound name to cid lookup for XREF C0965618 Roflumilast-containing product
 failed compound name to cid lookup for XREF C0966225 Omalizumab
-failed compound name to cid lookup for XREF C0966225 Omalizumab-containing product
 failed compound name to cid lookup for XREF C0966225 Omalizumab
+failed compound name to cid lookup for XREF C0966225 Omalizumab-containing product
 failed UMLS to cid lookup for C0968917
 failed compound name to cid lookup for XREF C0969677 Alpha-tocopherol-containing product
 failed compound name to cid lookup for XREF C0971637 Agomelatine-containing product
@@ -1019,9 +1015,9 @@ failed UMLS to cid lookup for C1276996
 failed compound name to cid lookup for XREF C1318700 Phosphodiesterase 5 Inhibitors
 failed compound name to cid lookup for XREF C1318700 Phosphodiesterase 5 inhibitor-containing product
 failed compound name to cid lookup for XREF C1318700 Phosphodiesterase 5 inhibitor
-failed compound name to cid lookup for XREF C1319313 Norepinephrine uptake inhibitor
 failed compound name to cid lookup for XREF C1319313 Norepinephrine reuptake inhibitor-containing product
 failed compound name to cid lookup for XREF C1319313 Norepinephrine reuptake inhibitor
+failed compound name to cid lookup for XREF C1319313 Norepinephrine uptake inhibitor
 failed UMLS to cid lookup for C1321567
 failed UMLS to cid lookup for C1328819
 failed compound name to cid lookup for XREF C1456408 Liraglutide-containing product
@@ -1038,8 +1034,8 @@ failed UMLS to cid lookup for C1519050
 failed UMLS to cid lookup for C1520007
 failed UMLS to cid lookup for C1527666
 failed compound name to cid lookup for XREF C1533126 Milnacipran-containing product
-failed compound name to cid lookup for XREF C1541483 Eculizumab-containing product
 failed compound name to cid lookup for XREF C1541483 Eculizumab
+failed compound name to cid lookup for XREF C1541483 Eculizumab-containing product
 failed compound name to cid lookup for XREF C1562036 Calcineurin Inhibitors
 failed compound name to cid lookup for XREF C1562036 Calcineurin inhibitor-containing product
 failed compound name to cid lookup for XREF C1562036 Calcineurin inhibitor
@@ -1052,8 +1048,8 @@ failed compound name to cid lookup for XREF C1569608 Varenicline-containing prod
 failed UMLS to cid lookup for C1576824
 failed UMLS to cid lookup for C1579268
 failed UMLS to cid lookup for C1579373
-failed compound name to cid lookup for XREF C1609165 Tocilizumab
 failed compound name to cid lookup for XREF C1609165 Tocilizumab-containing product
+failed compound name to cid lookup for XREF C1609165 Tocilizumab
 failed UMLS to cid lookup for C1609177
 failed UMLS to cid lookup for C1611640
 failed compound name to cid lookup for XREF C1620287 Prasugrel-containing product
@@ -1096,8 +1092,8 @@ failed compound name to cid lookup for XREF C2698875 2-(2-furanyl)-7-(2-(4-(4-(2
 failed UMLS to cid lookup for C2699024
 failed compound name to cid lookup for XREF C2699757 Aclidinium-containing product
 failed compound name to cid lookup for XREF C2717875 Prebiotics
-failed compound name to cid lookup for XREF C2718773 Canakinumab-containing product
 failed compound name to cid lookup for XREF C2718773 Canakinumab
+failed compound name to cid lookup for XREF C2718773 Canakinumab-containing product
 failed compound name to cid lookup for XREF C2719767 onabotulinum toxin A
 failed compound name to cid lookup for XREF C2719767 OnabotulinumtoxinA-containing product
 failed compound name to cid lookup for XREF C2719767 OnabotulinumtoxinA
@@ -1178,8 +1174,8 @@ failed UMLS to cid lookup for C3543842
 failed UMLS to cid lookup for C3653412
 failed UMLS to cid lookup for C3653518
 failed UMLS to cid lookup for C3653538
-failed compound name to cid lookup for XREF C3658706 Pembrolizumab-containing product
 failed compound name to cid lookup for XREF C3658706 Pembrolizumab
+failed compound name to cid lookup for XREF C3658706 Pembrolizumab-containing product
 failed compound name to cid lookup for XREF C3661274 Umeclidinium-containing product
 failed compound name to cid lookup for XREF C3661282 Vortioxetine-containing product
 failed UMLS to cid lookup for C3709478
@@ -1190,8 +1186,8 @@ failed UMLS to cid lookup for C3826571
 failed UMLS to cid lookup for C3848590
 failed compound name to cid lookup for XREF C3850099 Dopamine D2 Receptor Antagonists
 failed UMLS to cid lookup for C3886627
-failed compound name to cid lookup for XREF C4511281 Peroxisome proliferator-activated receptor agonist-containing product
 failed compound name to cid lookup for XREF C4511281 Peroxisome proliferator-activated receptor agonist
+failed compound name to cid lookup for XREF C4511281 Peroxisome proliferator-activated receptor agonist-containing product
 failed compound name to cid lookup for XREF C4519229 Pegvaliase-containing product
 failed UMLS to cid lookup for C4520812
 failed UMLS to cid lookup for C5544328

@@ -89,7 +89,7 @@ drug lookup failed C0031676
 drug lookup failed C0032133
 drug lookup failed C0077664
 drug lookup failed C0522095
-drug lookup failed C0000407
+gene lookup failed C1514917
 drug lookup failed C3241999
 drug lookup failed C0702172
 drug lookup failed C0002771
@@ -266,7 +266,6 @@ drug lookup failed C0003372
 drug lookup failed C0297199
 drug lookup failed C0131647
 drug lookup failed C2350950
-drug lookup failed C0764864
 drug lookup failed C0163159
 drug lookup failed C0305052
 drug lookup failed C0950459

@@ -90,6 +90,7 @@ drug lookup failed D003176
 drug lookup failed D003181
 gene lookup failed 104901700
 gene lookup failed 3878017
+drug lookup failed D005620
 drug lookup failed D006065
 drug lookup failed D006493
 drug lookup failed D006820
@@ -132,6 +133,7 @@ drug lookup failed D019904
 gene lookup failed 543553
 drug lookup failed D022242
 drug lookup failed D037102
+drug lookup failed D048271
 drug lookup failed D050759
 drug lookup failed D053491
 drug lookup failed D053590

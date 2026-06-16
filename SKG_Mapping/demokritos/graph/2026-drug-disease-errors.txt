@@ -84,7 +84,7 @@ drug lookup failed C0002932
 drug lookup failed C0064582
 disease lookup failed C0022638
 disease lookup failed C3658299
-disease lookup failed C0238421
+drug lookup failed C0042890
 drug lookup failed C0001617
 disease lookup failed C0795692
 drug lookup failed C0031676
@@ -246,7 +246,6 @@ drug lookup failed C0024367
 drug lookup failed C0010464
 disease lookup failed C0750197
 drug lookup failed C1541483
-drug lookup failed C0764864
 drug lookup failed C0556082
 drug lookup failed C3486748
 drug lookup failed C0392693
