@@ -4,7 +4,7 @@ require 'json'
 require 'logger'
 
 # Configuration
-source_value = "DEMOKRITOS"
+source_value = "Demokritos"
 VIRTUOSO_URL = "http://57.128.119.57:8890/sparql"  # adjust as needed
 USERNAME     = ENV["VIRTUOSO_USER"]                            # or your admin user
 PASSWORD     = ENV["VIRTUOSO_PASS"]                  # or use token

@@ -12,7 +12,7 @@ client = SPARQL::Client.new(VIRTUOSO_URL,
   headers: { 'Accept' => 'application/sparql-results+json' }
 )
 
-source_value = "DEMOKRITOS"
+source_value = "Demokritos"
 prefixes = <<~PREFIX
   PREFIX simp: <urn:simpathic:>
   PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>

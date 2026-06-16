@@ -121,7 +121,7 @@ foreach ['./raw-data/Gene-Disease triples.tsv', './raw-data/Disease-Gene triples
                                 graph_name: context_uri)
     graph << RDF::Statement.new(protein_uri,  SIMPATHIC['in-taxon'], taxon, graph_name: context_uri)
 
-    graph << RDF::Statement.new(context_uri, SIMPATHIC['skg-source'], RDF::Literal.new('DEMOKRITOS'),
+    graph << RDF::Statement.new(context_uri, SIMPATHIC['skg-source'], RDF::Literal.new('Demokritos'),
                                 graph_name: general_context)
     # evidence = row['PROVENANCE']
     # source_relation = row['RELATION']

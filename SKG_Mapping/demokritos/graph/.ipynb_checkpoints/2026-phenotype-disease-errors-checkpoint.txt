@@ -1,0 +1,429 @@
+phenotype lookup failed	UMLS:C0422837	Neurological observations
+phenotype lookup failed	UMLS:C0231172	handicapping condition
+disease lookup failed	UMLS:C2982732	Non-Neoplastic Pediatric Disorder
+phenotype lookup failed	UMLS:C0426980	Motor symptoms
+disease lookup failed	UMLS:C0524851	Neurodegenerative Disorders
+disease lookup failed	UMLS:C0023264	Leigh Disease
+phenotype lookup failed	UMLS:C3846446	Prospective, NOS
+phenotype lookup failed	UMLS:C1833334	Early-onset
+phenotype lookup failed	UMLS:C3840763	Rescue
+phenotype lookup failed	UMLS:C1457868	Worse
+phenotype lookup failed	UMLS:C1705232	Death Related to Adverse Event
+disease lookup failed	UMLS:C3273225	Hereditary Neurodegenerative Disorder
+disease lookup failed	UMLS:C0087012	Ataxia, Spinocerebellar
+phenotype lookup failed	UMLS:C1265608	Decreased density
+phenotype lookup failed	UMLS:C3843713	9-10
+phenotype lookup failed	UMLS:C1836408	Severe phenotype
+disease lookup failed	UMLS:C2931688	Dystrophia myotonica 1
+phenotype lookup failed	UMLS:C0751377	Neurologic Dysfunction
+phenotype lookup failed	UMLS:C0332516	Symmetrical
+phenotype lookup failed	UMLS:C0558189	Abnormal movement
+phenotype lookup failed	UMLS:C1859521	Ataxia, progressive
+phenotype lookup failed	UMLS:C0683954	research results
+phenotype lookup failed	UMLS:C1866186	White matter abnormalities
+phenotype lookup failed	UMLS:C0086132	Depressive Symptoms
+phenotype lookup failed	UMLS:C1850620	Clinical heterogeneity
+phenotype lookup failed	UMLS:C0013658	Educational Status
+phenotype lookup failed	UMLS:C0518214	Perceived quality of life
+phenotype lookup failed	UMLS:C1334804	Motor Manifestations
+phenotype lookup failed	UMLS:C0442726	Detected (finding)
+phenotype lookup failed	UMLS:C0043096	Body Weight decreased
+phenotype lookup failed	UMLS:C0016928	Gait
+phenotype lookup failed	UMLS:C0241889	Family history
+phenotype lookup failed	UMLS:C0087130	Uncertainty
+phenotype lookup failed	UMLS:C3274777	Severely Abnormal Ventricular Ejection Fraction
+phenotype lookup failed	UMLS:C0235169	Excitability
+phenotype lookup failed	UMLS:C1518681	Outcome of Therapy
+disease lookup failed	UMLS:C0393525	Progressive cerebellar ataxia
+phenotype lookup failed	UMLS:C0392678	Swallowing problem
+disease lookup failed	UMLS:C0150055	Chronic pain
+phenotype lookup failed	UMLS:C1853719	Phenotypic variability
+phenotype lookup failed	UMLS:C0521989	Associated symptom
+phenotype lookup failed	UMLS:C2015861	Multiple birth (finding)
+phenotype lookup failed	UMLS:C1836348	Severe disorder
+phenotype lookup failed	UMLS:C1273937	Not significant
+phenotype lookup failed	UMLS:C0027854	Neurologic Manifestations
+phenotype lookup failed	UMLS:C0277786	Chief complaint (finding)
+phenotype lookup failed	UMLS:C1290905	Discrepancy
+phenotype lookup failed	UMLS:C1832073	Handling
+phenotype lookup failed	UMLS:C1335499	Progressive Disease
+phenotype lookup failed	UMLS:C0449381	Observation parameter
+phenotype lookup failed	UMLS:C0682132	regional difference
+phenotype lookup failed	UMLS:C1545588	Protection
+phenotype lookup failed	UMLS:C1855073	Mortality, Premature
+phenotype lookup failed	UMLS:C1704258	Abnormality
+phenotype lookup failed	UMLS:C3840862	75+ years
+phenotype lookup failed	UMLS:C3809247	Motor abnormalities
+phenotype lookup failed	UMLS:C1446614	Convergent gaze
+phenotype lookup failed	UMLS:C0231218	Malaise
+phenotype lookup failed	UMLS:C1836407	Early death
+phenotype lookup failed	UMLS:C3842508	1 - 9%
+phenotype lookup failed	UMLS:C0235031	Neurologic Symptoms
+phenotype lookup failed	UMLS:C2717879	Genotype-Phenotype Associations
+phenotype lookup failed	UMLS:C0037088	Signs and Symptoms
+phenotype lookup failed	UMLS:C1332223	Aggressive Clinical Course
+phenotype lookup failed	UMLS:C1836717	Phenotypic variation
+disease lookup failed	UMLS:C0242007	myotonic muscular dystrophy
+disease lookup failed	UMLS:C0017178	Gastrointestinal Diseases
+disease lookup failed	UMLS:C0011847	Diabetes
+phenotype lookup failed	UMLS:C3670500	Neuronal degeneration
+phenotype lookup failed	UMLS:C3843647	> 2 years
+phenotype lookup failed	UMLS:C0206076	Reproductive History
+disease lookup failed	UMLS:C0700201	Dyssomnias
+disease lookup failed	UMLS:C0013384	Dyskinetic syndrome
+disease lookup failed	UMLS:C0221163	motor disorder
+phenotype lookup failed	UMLS:C0518609	consideration
+phenotype lookup failed	UMLS:C0271093	Stargardt's disease
+phenotype lookup failed	UMLS:C0240417	Form of muscle
+phenotype lookup failed	UMLS:C2242578	Tongue dystonia
+disease lookup failed	UMLS:C1443953	Acute viral disease
+phenotype lookup failed	UMLS:C1845518	Progressive neurodegeneration
+phenotype lookup failed	UMLS:C0872173	functional disability
+phenotype lookup failed	UMLS:C1838318	Ubiquitin-positive inclusions
+phenotype lookup failed	UMLS:C0424589	Vitality
+phenotype lookup failed	UMLS:C2960235	Mini-mental state examination score
+phenotype lookup failed	UMLS:C0436345	Symptom severe
+phenotype lookup failed	UMLS:C0347938	Hypometabolism
+phenotype lookup failed	UMLS:C0342952	Hypermetabolism
+phenotype lookup failed	UMLS:C2945640	compromise
+phenotype lookup failed	UMLS:C0694563	Excessive daytime somnolence
+phenotype lookup failed	UMLS:C3842777	Trial 2
+phenotype lookup failed	UMLS:C0456984	Test Result
+phenotype lookup failed	UMLS:C2347379	Observation Result
+phenotype lookup failed	UMLS:C0007294	Genetic Carriers
+phenotype lookup failed	UMLS:C2674101	Autonomic symptoms
+phenotype lookup failed	UMLS:C0871269	Rhythm
+disease lookup failed	UMLS:C0751757	Hypersomnolence, Idiopathic
+phenotype lookup failed	UMLS:C1397014	Imbalance
+phenotype lookup failed	UMLS:C1868500	Variable expression
+phenotype lookup failed	UMLS:C0596020	Does hit (finding)
+disease lookup failed	UMLS:C0033139	Primary Insomnia
+phenotype lookup failed	UMLS:C3540840	Sign or Symptom
+phenotype lookup failed	UMLS:C1306577	Death (finding)
+phenotype lookup failed	UMLS:C0598463	Functional Status
+disease lookup failed	UMLS:C3263982	Epileptic spasms
+phenotype lookup failed	UMLS:C0740170	Does swallow
+phenotype lookup failed	UMLS:C0231217	Multiple symptoms
+phenotype lookup failed	UMLS:C3242657	unrelated person
+phenotype lookup failed	UMLS:C0231239	Fluctuation
+phenotype lookup failed	UMLS:C0860942	creatine increased
+phenotype lookup failed	UMLS:C1852220	Phenotypic heterogeneity
+phenotype lookup failed	UMLS:C0871407	speech characteristics
+phenotype lookup failed	UMLS:C1833300	White matter changes
+disease lookup failed	UMLS:C0442893	Systemic disease
+disease lookup failed	UMLS:C0442874	Neuropathy
+phenotype lookup failed	UMLS:C1704257	Molecular Genetic Abnormality
+phenotype lookup failed	UMLS:C0262496	Molecular Abnormality
+phenotype lookup failed	UMLS:C1858576	Heterogeneous disorder
+phenotype lookup failed	UMLS:C1299582	Unable
+phenotype lookup failed	UMLS:C0233401	Psychiatric symptom
+phenotype lookup failed	UMLS:C1849402	Increased echogenicity
+phenotype lookup failed	UMLS:C1861867	Brain stem atrophy
+phenotype lookup failed	UMLS:C3554198	Autonomic manifestations
+phenotype lookup failed	UMLS:C1328799	Deep breathing
+disease lookup failed	UMLS:C3714844	Pulmonary Hypertension, Primary, 1, With Hereditary Hemorrhagic Telangiectasia
+disease lookup failed	UMLS:C0277562	Adult disease
+phenotype lookup failed	UMLS:C0561942	Does climb
+phenotype lookup failed	UMLS:C1317598	Pathologic findings
+phenotype lookup failed	UMLS:C3151413	Behavioral abnormalities
+phenotype lookup failed	UMLS:C0576471	Finding of brain
+phenotype lookup failed	UMLS:C3640841	Clinical Failure
+phenotype lookup failed	UMLS:C1846368	Cerebellar ataxia, slowly progressive
+phenotype lookup failed	UMLS:C1832428	Familial form
+phenotype lookup failed	UMLS:C0474395	Behavior showing increased motor activity
+phenotype lookup failed	UMLS:C1272641	Systemic arterial pressure
+phenotype lookup failed	UMLS:C0741302	atypia morphology
+phenotype lookup failed	UMLS:C0426976	Poor posture
+phenotype lookup failed	UMLS:C0427086	Involuntary Movements
+phenotype lookup failed	UMLS:C0442804	Very high
+phenotype lookup failed	UMLS:C3277906	Cardiac dysfunction
+phenotype lookup failed	UMLS:C1836775	Mild disease course
+phenotype lookup failed	UMLS:C1709770	Pulmonary Dysfunction
+phenotype lookup failed	UMLS:C1260922	Abnormal breathing
+phenotype lookup failed	UMLS:C0024967	Maximal Voluntary Ventilation
+phenotype lookup failed	UMLS:C1837655	Multifactorial
+phenotype lookup failed	UMLS:C0221423	Illness (finding)
+phenotype lookup failed	UMLS:C0424099	Reduced concentration
+disease lookup failed	UMLS:C3711374	Nonsyndromic Deafness
+disease lookup failed	UMLS:C0242354	Congenital Disorders
+phenotype lookup failed	UMLS:C0240320	medication use
+phenotype lookup failed	UMLS:C3714738	Compliance
+phenotype lookup failed	UMLS:C1998319	Functional capacity
+disease lookup failed	UMLS:C0751435	Hyperphenylalaninaemia
+phenotype lookup failed	UMLS:C0024841	Marriage, life event
+disease lookup failed	UMLS:C0162549	Akathisia, Tardive
+phenotype lookup failed	UMLS:C0474396	Sleep behavior finding
+phenotype lookup failed	UMLS:C0459424	Abnormal result
+phenotype lookup failed	UMLS:C2826279	Abnormal Finding
+phenotype lookup failed	UMLS:C0231337	Senility
+phenotype lookup failed	UMLS:C0750403	Proximal weakness
+phenotype lookup failed	UMLS:C0015411	Eye Manifestations
+phenotype lookup failed	UMLS:C1321756	Achalasia
+phenotype lookup failed	UMLS:C0743626	etiology unknown
+phenotype lookup failed	UMLS:C0700124	Dilated
+phenotype lookup failed	UMLS:C3845270	Heteroplasmic
+phenotype lookup failed	UMLS:C0424230	Motor retardation
+disease lookup failed	UMLS:C1852373	Mitochondrial encephalopathy
+phenotype lookup failed	UMLS:C2752009	White matter lesions
+disease lookup failed	UMLS:C0262525	Incomplete right bundle branch block
+phenotype lookup failed	UMLS:C0543419	Sequela of disorder
+phenotype lookup failed	UMLS:C1855575	Very rare
+phenotype lookup failed	UMLS:C1549114	Unreported
+phenotype lookup failed	UMLS:C1837619	Psychomotor delay
+phenotype lookup failed	UMLS:C0750325	Vomiting, recurrent
+disease lookup failed	UMLS:C0033626	Protein Deficiency
+disease lookup failed	UMLS:C0013336	Dwarfism
+disease lookup failed	UMLS:C0678236	Rare Diseases
+phenotype lookup failed	UMLS:C2674386	Elevated serum lactate
+phenotype lookup failed	UMLS:C0679250	Disease Outcome
+phenotype lookup failed	UMLS:C3278132	Variable clinical presentation
+phenotype lookup failed	UMLS:C0278252	Prognosis bad
+phenotype lookup failed	UMLS:C2675360	Extrapyramidal features
+phenotype lookup failed	UMLS:C3806166	Poor outcome
+phenotype lookup failed	UMLS:C1334929	Necrotic Lesion
+phenotype lookup failed	UMLS:C0259972	Ketogenic Diet
+phenotype lookup failed	UMLS:C0855355	Nuclear magnetic resonance imaging brain normal
+phenotype lookup failed	UMLS:C3665473	Bilateral Deafness
+phenotype lookup failed	UMLS:C3550504	Episodic decompensation
+phenotype lookup failed	UMLS:C0231187	Decompensation
+phenotype lookup failed	UMLS:C0231224	Crisis
+phenotype lookup failed	UMLS:C3149360	Encephalopathy, subacute
+phenotype lookup failed	UMLS:C1853567	Developmental delay, severe
+phenotype lookup failed	UMLS:C0576456	Feeding poor
+phenotype lookup failed	UMLS:C1334928	Necrotic changes (finding)
+disease lookup failed	UMLS:C0162275	Ketonuria
+phenotype lookup failed	UMLS:C3278495	Thalamic lesions
+phenotype lookup failed	UMLS:C0517967	Respiratory pattern
+phenotype lookup failed	UMLS:C3274775	Mildly Abnormal Ejection Fraction
+phenotype lookup failed	UMLS:C0581296	intracranial lesion
+phenotype lookup failed	UMLS:C2675972	Ventricular enlargement
+phenotype lookup failed	UMLS:C1320408	Urinary elimination status
+phenotype lookup failed	UMLS:C0010840	Vacuolation
+phenotype lookup failed	UMLS:C3554130	Encephalomyopathy
+phenotype lookup failed	UMLS:C0231796	respiratory abnormalities
+phenotype lookup failed	UMLS:C3806500	Apnea, episodic
+phenotype lookup failed	UMLS:C0037090	Signs and Symptoms, Respiratory
+phenotype lookup failed	UMLS:C0587081	Laboratory test finding
+disease lookup failed	UMLS:C1623038	Cirrhosis
+disease lookup failed	UMLS:C0748607	Recurrent seizures
+phenotype lookup failed	UMLS:C0205400	Thickened
+disease lookup failed	UMLS:C0023895	Liver diseases
+disease lookup failed	UMLS:C0341439	Chronic liver disease
+phenotype lookup failed	UMLS:C3842955	<30 min
+phenotype lookup failed	UMLS:C3280118	Mild disorder
+disease lookup failed	UMLS:C0277554	Primary disease
+phenotype lookup failed	UMLS:C0743630	exacerbation acute
+phenotype lookup failed	UMLS:C0854059	acid urine
+phenotype lookup failed	UMLS:C0917799	Hypersomnia
+phenotype lookup failed	UMLS:C0043084	Weaning
+phenotype lookup failed	UMLS:C3276434	Neurologic regression
+disease lookup failed	UMLS:C0007682	CNS disorder
+phenotype lookup failed	UMLS:C2674422	Seizures, intractable
+phenotype lookup failed	UMLS:C0423216	Globe finding
+phenotype lookup failed	UMLS:C0701826	Perinatal death
+disease lookup failed	UMLS:C0009421	Comatose
+phenotype lookup failed	UMLS:C0683321	poor health
+phenotype lookup failed	UMLS:C2675896	Mild dysmorphism
+phenotype lookup failed	UMLS:C1317600	patient symptoms
+disease lookup failed	UMLS:C0473133	Protracted diarrhea
+phenotype lookup failed	UMLS:C0860803	glucose high
+phenotype lookup failed	UMLS:C0744369	genital lesion
+phenotype lookup failed	UMLS:C3150238	Variable manifestations
+phenotype lookup failed	UMLS:C0522072	Defective biosynthesis
+phenotype lookup failed	UMLS:C1863063	Cognitive decline, progressive
+phenotype lookup failed	UMLS:C1839743	Dysarthric speech
+phenotype lookup failed	UMLS:C2676282	Dystonia, progressive
+phenotype lookup failed	UMLS:C0013798	Electrocardiogram
+disease lookup failed	UMLS:C0026846	Muscular Atrophy
+disease lookup failed	UMLS:C2974527	Anorectal anomaly
+phenotype lookup failed	UMLS:C0422879	CNS symptom
+phenotype lookup failed	UMLS:C3275909	Seizures, early onset
+disease lookup failed	UMLS:C1850808	Miyoshi myopathy
+phenotype lookup failed	UMLS:C1838626	Cerebral malformations
+phenotype lookup failed	UMLS:C1304680	Observation of attack
+phenotype lookup failed	UMLS:C3272281	American College of Cardiology/American Heart Association Lesion Complexity Score A
+phenotype lookup failed	UMLS:C1275743	Co-morbid conditions
+phenotype lookup failed	UMLS:C0559306	Endocrine finding
+phenotype lookup failed	UMLS:C1962973	Urinary Incontinence Adverse Event
+phenotype lookup failed	UMLS:C0700327	Memory observations
+phenotype lookup failed	UMLS:C0474415	Non-compliant behavior
+phenotype lookup failed	UMLS:C0541854	daytime sleepiness
+phenotype lookup failed	UMLS:C0231918	Nose symptoms
+phenotype lookup failed	UMLS:C0278060	Mental state (observable entity)
+phenotype lookup failed	UMLS:C0948482	analgesic effect
+phenotype lookup failed	UMLS:C0231441	Immobile
+phenotype lookup failed	UMLS:C3714625	Neuropathic pain
+phenotype lookup failed	UMLS:C0877006	cholinesterase inhibition
+phenotype lookup failed	UMLS:C1320716	Cardiovascular event
+phenotype lookup failed	UMLS:C3842628	Cognitive problems
+phenotype lookup failed	UMLS:C0150045	Urge Incontinence
+phenotype lookup failed	UMLS:C0741548	bladder symptoms
+phenotype lookup failed	UMLS:C0743400	Ejection fraction decreased
+phenotype lookup failed	UMLS:C0010201	Chronic cough
+phenotype lookup failed	UMLS:C0231230	Fatigability
+phenotype lookup failed	UMLS:C0184567	Acute onset pain
+phenotype lookup failed	UMLS:C0426359	Urinary symptoms
+phenotype lookup failed	UMLS:C0426576	Gastrointestinal symptom
+phenotype lookup failed	UMLS:C0424400	Erotic interest
+phenotype lookup failed	UMLS:C0032972	Pregnancy Outcome
+phenotype lookup failed	UMLS:C0231184	Inefficiency
+phenotype lookup failed	UMLS:C1623040	Breastfeeding (mother)
+phenotype lookup failed	UMLS:C3827656	Ventricular Tachyarrhythmia ECG Assessment
+phenotype lookup failed	UMLS:C3812282	Ventricular Arrhythmia ECG Assessment
+phenotype lookup failed	UMLS:C1857639	Dysmyelination
+phenotype lookup failed	UMLS:C0231837	Slow respiration
+phenotype lookup failed	UMLS:C0525041	Neurobehavioral Manifestations
+phenotype lookup failed	UMLS:C1113650	brain morphology
+phenotype lookup failed	UMLS:C3842086	6 mm
+phenotype lookup failed	UMLS:C2825141	Experimental Finding
+phenotype lookup failed	UMLS:C0030200	Pain, Intractable
+phenotype lookup failed	UMLS:C1862763	Small airways
+phenotype lookup failed	UMLS:C0232597	Acute vomiting
+phenotype lookup failed	UMLS:C1858274	Reduced life expectancy
+phenotype lookup failed	UMLS:C0872084	Sarcopenia
+phenotype lookup failed	UMLS:C3279454	Renal dysfunction
+disease lookup failed	UMLS:C0747845	early pregnancy
+phenotype lookup failed	UMLS:C0425945	Prolonged menses
+phenotype lookup failed	UMLS:C1882085	New York Heart Association Class II
+phenotype lookup failed	UMLS:C0424594	Frailty
+phenotype lookup failed	UMLS:C0240805	Prodrome
+phenotype lookup failed	UMLS:C0080203	Tachyarrhythmia
+phenotype lookup failed	UMLS:C0497406	Overweight
+phenotype lookup failed	UMLS:C0221232	Welts
+phenotype lookup failed	UMLS:C0029166	Oral Manifestations
+phenotype lookup failed	UMLS:C0232605	Regurgitates after swallowing
+phenotype lookup failed	UMLS:C0740378	Normal thyroid function
+phenotype lookup failed	UMLS:C1882083	New York Heart Association Class
+phenotype lookup failed	UMLS:C3279217	Repolarization abnormalities
+phenotype lookup failed	UMLS:C0020557	Hypertriglyceridemia
+phenotype lookup failed	UMLS:C0751229	Hypersomnolence
+disease lookup failed	UMLS:C0559758	Multisystem disorder
+phenotype lookup failed	UMLS:C0349410	Single organ dysfunction
+phenotype lookup failed	UMLS:C1822020	insufficient sleep
+phenotype lookup failed	UMLS:C0425722	Sexual symptom
+phenotype lookup failed	UMLS:C0235828	Lack of Efficacy
+phenotype lookup failed	UMLS:C1260880	Rhinorrhea
+phenotype lookup failed	UMLS:C0476288	Digestive symptom
+phenotype lookup failed	UMLS:C1997984	Chronotropic incompetence
+phenotype lookup failed	UMLS:C0026858	Musculoskeletal Pain
+phenotype lookup failed	UMLS:C0011124	Decreased Libido
+phenotype lookup failed	UMLS:C0037383	Sneezing
+disease lookup failed	UMLS:C1277187	Left ventricular systolic dysfunction
+phenotype lookup failed	UMLS:C0162703	Pain Threshold
+disease lookup failed	UMLS:C0011168	Deglutition Disorders
+phenotype lookup failed	UMLS:C0031538	Phimosis
+phenotype lookup failed	UMLS:C0682075	racial differences
+phenotype lookup failed	UMLS:C1864448	Low body weight
+phenotype lookup failed	UMLS:C0032646	Poor compliance
+phenotype lookup failed	UMLS:C1517205	Flare
+phenotype lookup failed	UMLS:C1846086	Decreased contractility
+phenotype lookup failed	UMLS:C0005826	Abnormal blood pressure
+phenotype lookup failed	UMLS:C1882087	New York Heart Association Class IV
+phenotype lookup failed	UMLS:C0547030	Visual disturbance
+phenotype lookup failed	UMLS:C2220255	Motor disturbances
+phenotype lookup failed	UMLS:C0235193	Torpor
+phenotype lookup failed	UMLS:C1168492	Increased tyrosine
+disease lookup failed	UMLS:C3472580	Intermittent urinary incontinence
+phenotype lookup failed	UMLS:C1843368	Perseverative behavior
+phenotype lookup failed	UMLS:C3809218	Retinal dysfunction
+phenotype lookup failed	UMLS:C0035345	Retirement
+phenotype lookup failed	UMLS:C2673338	Increased fatigue
+phenotype lookup failed	UMLS:C3554068	Floppiness
+phenotype lookup failed	UMLS:C0085624	Burning sensation
+phenotype lookup failed	UMLS:C0013609	Localized edema
+phenotype lookup failed	UMLS:C0237827	Social Rejection
+phenotype lookup failed	UMLS:C1836551	Rapid regression
+phenotype lookup failed	UMLS:C2921139	Psychomotor deficit
+phenotype lookup failed	UMLS:C0682076	ethnic differences
+phenotype lookup failed	UMLS:C3806327	Skeletal muscle weakness
+phenotype lookup failed	UMLS:C0429087	Electrocardiogram: P-R interval
+phenotype lookup failed	UMLS:C3160733	THROMBOPHILIA DUE TO THROMBIN DEFECT
+phenotype lookup failed	UMLS:C1836387	Poor cognition
+phenotype lookup failed	UMLS:C0239779	Grimaces
+phenotype lookup failed	UMLS:C1321132	Spontaneous hemorrhage
+phenotype lookup failed	UMLS:C1867118	Marked heterogeneity
+phenotype lookup failed	UMLS:C3552784	Impaired N-glycosylation
+phenotype lookup failed	UMLS:C2750596	Endocrine dysgenesis
+phenotype lookup failed	UMLS:C0086437	Hypermobility, Joint
+phenotype lookup failed	UMLS:C0750426	White blood cell count increased (lab result)
+phenotype lookup failed	UMLS:C0745768	liver test abnormal
+phenotype lookup failed	UMLS:C1846150	Small corpus callosum
+phenotype lookup failed	UMLS:C1837086	Normal facies
+disease lookup failed	UMLS:C0585953	Recurrent chest infections
+phenotype lookup failed	UMLS:C1511567	Cutaneous Involvement
+phenotype lookup failed	UMLS:C1865012	Highly variable phenotype
+phenotype lookup failed	UMLS:C2748971	Fetal akinesia
+phenotype lookup failed	UMLS:C1850352	Microcephaly, severe
+phenotype lookup failed	UMLS:C3278289	Bone spicule pigmentation
+phenotype lookup failed	UMLS:C1846818	Elevated creatine kinase
+phenotype lookup failed	UMLS:C0577785	Cardiac finding
+phenotype lookup failed	UMLS:C1857946	Severe gastroesophageal reflux
+phenotype lookup failed	UMLS:C1859141	Plasmalogen deficiency
+phenotype lookup failed	UMLS:C3279396	Phytanic acid accumulation
+phenotype lookup failed	UMLS:C1850308	Myotonic discharges
+phenotype lookup failed	UMLS:C1850688	Type 1 fiber atrophy
+phenotype lookup failed	UMLS:C1836141	Respiratory muscle weakness
+phenotype lookup failed	UMLS:C0429339	EMG finding
+phenotype lookup failed	UMLS:C0457381	Muscle action potential amplitude
+phenotype lookup failed	UMLS:C0235710	Chest discomfort
+phenotype lookup failed	UMLS:C1837466	Decreased muscle mass
+phenotype lookup failed	UMLS:C2215935	Electrocardiogram atrioventricular block complete heart block
+phenotype lookup failed	UMLS:C1835120	Early cataracts
+phenotype lookup failed	UMLS:C1860413	Normocalcemia
+phenotype lookup failed	UMLS:C2678062	Muscle wasting, progressive
+phenotype lookup failed	UMLS:C0231930	Chronic hypoventilation
+phenotype lookup failed	UMLS:C0581880	Morning headache
+phenotype lookup failed	UMLS:C3258059	Primary problem
+phenotype lookup failed	UMLS:C2674748	Sleep-onset REM
+phenotype lookup failed	UMLS:C0421455	Patient telephone number
+phenotype lookup failed	UMLS:C0744034	finger weakness
+disease lookup failed	UMLS:C0267071	Oropharyngeal Dysphagia
+phenotype lookup failed	UMLS:C3152138	Left ventricular dilation
+phenotype lookup failed	UMLS:C0241225	spinal defect
+phenotype lookup failed	UMLS:C1837234	Muscle weakness, predominantly proximal
+disease lookup failed	UMLS:C0162651	Gastric outlet obstruction
+phenotype lookup failed	UMLS:C3808699	Low growth hormone levels
+phenotype lookup failed	UMLS:C3274776	Moderately Abnormal Ejection Fraction
+phenotype lookup failed	UMLS:C0740577	Acute abdominal pain
+phenotype lookup failed	UMLS:C0424424	Refusing food
+phenotype lookup failed	UMLS:C0026751	Multiparity
+disease lookup failed	UMLS:C0342705	Folate Malabsorption, Hereditary
+phenotype lookup failed	UMLS:C1839165	Elevated serum IgE
+phenotype lookup failed	UMLS:C0241165	Thickening of skin
+phenotype lookup failed	UMLS:C1857046	Palmoplantar hyperkeratosis
+phenotype lookup failed	UMLS:C2186235	reported hypercholesterolemia
+phenotype lookup failed	UMLS:C0700153	Myotonus (finding)
+phenotype lookup failed	UMLS:C5394393	Neuroinflammation
+phenotype lookup failed	UMLS:C2936826	Fumaric aciduria
+phenotype lookup failed	UMLS:C1840437	Isolated hyperchlorhidrosis
+phenotype lookup failed	UMLS:C0155540	Ear discharge
+phenotype lookup failed	UMLS:C0155256	Acute inflammation of orbit
+disease lookup failed	UMLS:C0023772	Lipid Metabolism, Inborn Errors
+disease lookup failed	UMLS:C1335051	Non-Neoplastic Urinary System Disorder
+phenotype lookup failed	UMLS:C0227791	Vaginal Discharge
+phenotype lookup failed	UMLS:C0158157	Effusion of joint, other specified sites
+phenotype lookup failed	UMLS:C3642318	Posteroinferior Myocardial Infarction by ECG Finding
+phenotype lookup failed	UMLS:C3642319	Apical Myocardial Infarction by ECG Finding
+phenotype lookup failed	UMLS:C3642476	Subendocardial Myocardial Infarction by ECG Finding
+phenotype lookup failed	UMLS:C3642463	Posterolateral Myocardial Infarction by ECG Finding
+phenotype lookup failed	UMLS:C3537017	Inferolateral Myocardial Infarction by ECG Finding
+phenotype lookup failed	UMLS:C0152192	Enlarged blind spot
+phenotype lookup failed	UMLS:C0220723	CHOANAL ATRESIA, POSTERIOR
+phenotype lookup failed	UMLS:C0344353	Vegan diet
+phenotype lookup failed	UMLS:C4321237	High Level
+phenotype lookup failed	UMLS:C5445274	METHOD:*
+phenotype lookup failed	UMLS:C1865398	Minipolymyoclonus
+phenotype lookup failed	UMLS:C0240775	plantar keratosis
+phenotype lookup failed	UMLS:C2675537	Abnormal dentition
+phenotype lookup failed	UMLS:C0424421	Eating problem
+phenotype lookup failed	UMLS:C0040437	Tooth eruption
+phenotype lookup failed	UMLS:C1291096	Increased carbohydrate
+phenotype lookup failed	UMLS:C0564448	Selenium intake
+phenotype lookup failed	UMLS:C1853617	Hypoplastic corpus callosum
+phenotype lookup failed	UMLS:C0476393	Abnormal brain scan
+phenotype lookup failed	UMLS:C3807599	Progressive mental deterioration
+phenotype lookup failed	UMLS:C4055506	Accumulation
+phenotype lookup failed	UMLS:C0564221	Difficulty talking
+phenotype lookup failed	UMLS:C4759928	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 20
+phenotype lookup failed	UMLS:C4740653	High severity
+phenotype lookup failed	UMLS:C4477104	Spinal cord pathology

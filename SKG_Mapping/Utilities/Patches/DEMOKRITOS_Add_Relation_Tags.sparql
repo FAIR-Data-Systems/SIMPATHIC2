@@ -23,7 +23,7 @@ INSERT {
 }
 WHERE {
   GRAPH ?metaGraph {
-    ?graph simp:skg-source "DEMOKRITOS" .
+    ?graph simp:skg-source "Demokritos" .
     ?graph simp:source-relation ?rel .
     FILTER(?rel IN ("DISRUPTS", "DISRUPTS__SPEC__", "IS_TREATED", "PREVENTS", "PREVENTS__SPEC__"))
   }

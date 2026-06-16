@@ -65,7 +65,7 @@ audit_query = <<~SPARQL
   SELECT ?graph ?rel
   WHERE {
     GRAPH simp:context:all_metadata {
-      ?graph simp:skg-source "DEMOKRITOS" .
+      ?graph simp:skg-source "Demokritos" .
       ?graph simp:evidence ?rel .
     }
     FILTER(ISLITERAL(?rel))

@@ -1,0 +1,6 @@
+drug lookup failed CHEMBL2108222
+drug lookup failed CHEMBL1200640
+drug lookup failed CHEMBL1201657
+drug lookup failed CHEMBL2103749
+drug lookup failed CHEMBL604
+drug lookup failed CHEMBL1201589
