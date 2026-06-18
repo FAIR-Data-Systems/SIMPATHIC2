@@ -8,7 +8,7 @@ require 'sparql/client'
 require 'csv'
 
 ENDPOINT = 'http://57.128.119.57:8890/sparql'.freeze
-OUTPUT   = 'all_pairs_both_orientations_split_evidence.csv.large'.freeze
+OUTPUT   = 'JUNE_all_pairs_both_orientations_split_evidence.csv.large'.freeze
 
 BIOLINK = 'https://w3id.org/biolink/vocab/'.freeze
 
@@ -39,7 +39,7 @@ def query_for(type1, type2)
       }
       ?graph simp:source-relation ?rel .
       ?graph simp:skg-source      ?source .
-      ?graph simp:evidence ?evidence .
+      OPTIONAL { ?graph simp:evidence ?evidence . }
     }
     GROUP BY ?entity1 ?entity1_name ?entity2 ?entity2_name ?evidence
     ORDER BY ?entity1_name ?entity2_name
@@ -48,12 +48,12 @@ end
 
 client = SPARQL::Client.new(ENDPOINT, read_timeout: 3600)
 
-COLUMNS = %w[entity1 entity1_name entity1_type entity2 entity2_name entity2_type evidence rels sources].freeze
+COLUMNS = %w[entity1 entity1_name entity1_type entity2 entity2_name entity2_type rels sources evidence].freeze
 
 total_rows  = 0
 header_done = false
 
-CSV.open(OUTPUT, 'w') do |csv|
+CSV.open(OUTPUT, 'w', col_sep: "\t") do |csv|
   PAIRS.each_with_index do |(type1, type2), idx|
     label = "#{type1} → #{type2}"
     print "[#{idx + 1}/#{PAIRS.size}] #{label} ... "
