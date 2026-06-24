@@ -409,3 +409,154 @@ Virtuoso will be deduplicated automatically.
 - **The prion protein (gene 4267 / PRNP)**: mygene.info returns the Swiss-Prot
   accession as an Array `["P04156"]` rather than a string. The Demokritos gene
   mapping core function handles this with `protein = protein.first if protein.is_a?(Array)`.
+
+---
+
+## Changes made — 2026-06-23/24 (database purge + URI collision fix + ML dataset)
+
+### Database purged
+
+The Virtuoso triple store was fully wiped using the Conductor's SPARQL editor
+(logged in as `dba`) with two queries:
+
+```sparql
+-- 1. Delete all SKG data graphs
+DELETE { GRAPH ?g { ?s ?p ?o } }
+WHERE {
+  GRAPH ?g { ?s ?p ?o }
+  FILTER(CONTAINS(STR(?g), "simpathic"))
+  FILTER(?g != <urn:simpathic:context:all_metadata>)
+}
+
+-- 2. Clear the metadata graph
+CLEAR GRAPH <urn:simpathic:context:all_metadata>
+```
+
+The `CLEAR GRAPH` was used for step 2 because `DELETE WHERE` on the metadata
+graph (~2 million entries) hit Virtuoso's internal hash dictionary limit.
+`CLEAR GRAPH` is only available to `dba` via the Conductor; normal user accounts
+must use `DELETE { GRAPH ... } WHERE { ... }`.
+
+**All partner data must be reloaded** by re-running the graphing notebooks (see
+run instructions above).
+
+---
+
+### CRITICAL: Named graph URI collision — fixed in all graphing notebooks
+
+**Problem:** Context/graph URIs were built from entity IDs only:
+`urn:simpathic:context:<id1>_<id2>`. Because Biovista and Demokritos both use
+PubChem CIDs for drugs and MONDO URIs for diseases, they could produce identical
+context URIs for unrelated observations. Deleting one partner's graphs via
+`skg-source` would destroy data from another partner if any context graph was
+shared.
+
+**Fix:** All active graphing notebooks now embed a provider prefix in the context
+URI immediately after `urn:simpathic:context:`:
+
+| Partner | Old pattern | New pattern |
+|---|---|---|
+| Biovista | `urn:simpathic:context:#{id1}_#{id2}` | `urn:simpathic:context:bv_#{id1}_#{id2}` |
+| Demokritos | `urn:simpathic:context:#{id1}_#{id2}` | `urn:simpathic:context:dem_#{id1}_#{id2}` |
+| Radboud | `urn:simpathic:context:#{id1}_#{id2}` | `urn:simpathic:context:rad_#{id1}_#{id2}` |
+
+Note: the Biovista Gene-Phenotype notebook already used `bv_` (introduced
+earlier) and was left unchanged.
+
+**19 notebooks changed** (active notebooks only; `deprecated/` and `DEP/`
+subfolders not touched):
+- `biovista/2026 BV Disease-Gene Graphing.ipynb`
+- `biovista/2026 BV Disease-Phenotype Graphing.ipynb`
+- `biovista/2026 BV Drug-Phenotype Graphing.ipynb`
+- `biovista/BV Drug-Disease Graphing.ipynb`
+- `biovista/BV Drug-Gene Graphing.ipynb`
+- `demokritos/2026 Disease-Gene Graphing.ipynb`
+- `demokritos/2026 Disease-Phenotype Graphing.ipynb`
+- `demokritos/2026 Drug-Disease Graphing.ipynb`
+- `demokritos/2026 Drug-Gene Graphing.ipynb`
+- `demokritos/2026 Drug-Phenotype Graphing.ipynb`
+- `demokritos/2026 Gene-Phenotype Graphing.ipynb`
+- `demokritos/2026 Phenotype-Disease Graphing.ipynb`
+- `demokritos/2026 Phenotype-Drug Graphing.ipynb`
+- `demokritos/2026 Phenotype-Gene Graphing.ipynb`
+- `radboud/2026 Radboud Disease-Gene Graphing.ipynb`
+- `radboud/2026 Radboud Drug-Disease Graphing.ipynb`
+- `radboud/2026 Radboud Drug-Gene Graphing.ipynb`
+- `radboud/2026 Radboud Drug-Phenotype Graphing.ipynb`
+- `radboud/2026 Radboud Phenotype-Gene Graphing.ipynb`
+
+---
+
+### Deletion utility scripts — fixed
+
+**`Utilities/Patches/delete_using_http.rb`** (delete graphs for one `skg-source`):
+- Added exponential-backoff retry on 503 (up to 5 retries, starting at 10 s).
+- Changed behaviour on failure from `abort` to log-and-continue; failures are
+  summarised at the end and script exits with code 1.
+- Replaced `DROP SILENT GRAPH <g>` with
+  `DELETE { GRAPH <g> { ?s ?p ?o } } WHERE { GRAPH <g> { ?s ?p ?o } }` because
+  the SPARQL user account has write-triple privilege but not DROP privilege.
+- Fixed `WITH <simp:context:all_metadata>` (literal prefix URI) to
+  `WITH <urn:simpathic:context:all_metadata>` (fully expanded URI).
+- Added a final verification SELECT to confirm zero graphs remain after the run.
+
+**`Utilities/Patches/purge_all_graphs.rb`** (full purge, keep ontology graphs):
+- Changed `CLEAR GRAPH <g>` to `DELETE { GRAPH <g> { ?s ?p ?o } } WHERE { ... }`
+  for the same permission reason as above.
+- Changed `CLEAR GRAPH <annotation_graph>` to
+  `WITH <annotation_graph> DELETE { ?s ?p ?o } WHERE { ?s ?p ?o }`.
+- Added same exponential-backoff retry logic on 503/network errors.
+- Excluded `all_metadata` from the data-graph discovery query to avoid
+  attempting to clear it twice.
+- Kept existing 16-thread parallel architecture.
+
+---
+
+### ML dataset — canonical disease URI mapping added
+
+**Problem identified via data analysis:** Partners operate at different levels of
+MONDO granularity. Radboud uses disease subtypes (e.g. MONDO_0017174
+"MJD type 1") while Biovista uses the parent disease (MONDO_0007182
+"Machado-Joseph disease"). These were treated as different entities during
+merging, suppressing cross-partner overlap.
+
+**Analysis findings:**
+- Biovista covers exactly 10 diseases (the target diseases).
+- Demokritos covers 1,651 diseases — its source knowledge graph is broader.
+  Only 7 of Biovista's 10 target diseases appear as exact matches in Demokritos;
+  the remaining 3 appear as subclass matches. All Demokritos data is kept.
+- All three partners use the same URI schemes (UniProt, PubChem, OBO), so there
+  is no identifier mismatch.
+- Prior cross-partner overlap was only 553 unique pairs (out of 538 K total).
+
+**Fix — three new/modified scripts in `Utilities/Queries/`:**
+
+`generate_canonical_lookup.rb` *(new)*:
+- Queries the MONDO hierarchy graph (`urn:mondo:hierarchy`) using
+  `rdfs:subClassOf+` to find all descendants of the 10 target diseases.
+- Outputs `canonical_disease.tsv` (two columns: `specific_uri`, `canonical_uri`).
+- Diseases not in any target disease's subtree are not written; consuming
+  scripts default to identity for those.
+- Run once after reloading MONDO, before running `build_ml_set.rb`.
+
+`build_ml_set.rb` *(modified)*:
+- Loads `canonical_disease.tsv` at startup.
+- Adds two new output columns: `canonical_entity1_uri` and `canonical_entity2_uri`.
+- For Disease entities: canonical = lookup result; for all others: canonical = exact URI.
+- SPARQL endpoint now reads `ENV['SPARQL_ENDPOINT']` with fallback to
+  `http://localhost:8890/sparql` (SSH tunnel default).
+
+`merge_evidence.rb` *(modified)*:
+- Groups on `[canonical_entity1_uri, entity1_type, canonical_entity2_uri, entity2_type]`
+  instead of exact URIs, so subclass diseases fold into their parent target disease.
+- Adds `entity1_uri` and `entity2_uri` output columns listing all specific URIs
+  that were folded into each canonical pair (pipe-separated, for traceability).
+- Backward-compatible: falls back to exact URIs if the input lacks canonical columns.
+
+**Output columns of `merged_evidence.csv.large` are now:**
+```
+canonical_entity1_uri  entity1_name  entity1_type
+canonical_entity2_uri  entity2_name  entity2_type
+rels  sources  evidence
+entity1_uri  entity2_uri
+```
