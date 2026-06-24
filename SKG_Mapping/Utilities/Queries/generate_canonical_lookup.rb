@@ -10,6 +10,9 @@
 # All other diseases are not written to the file — they are handled as
 # identity by default in the consuming scripts.
 #
+# Uses iterative BFS instead of rdfs:subClassOf+ because Virtuoso does not
+# support SPARQL property paths inside named GRAPH blocks.
+#
 # Usage:
 #   ruby generate_canonical_lookup.rb
 # Output:
@@ -36,56 +39,66 @@ TARGET_DISEASES = %w[
   http://purl.obolibrary.org/obo/MONDO_0100184
 ].freeze
 
-values_block = TARGET_DISEASES.map { |u| "    (<#{u}>)" }.join("\n")
+def sparql_query(endpoint, query)
+  uri  = URI(endpoint)
+  http = Net::HTTP.new(uri.host, uri.port)
+  req  = Net::HTTP::Post.new(uri)
+  req['Content-Type'] = 'application/x-www-form-urlencoded'
+  req['Accept']       = 'application/sparql-results+json'
+  req.body = 'query=' + URI.encode_www_form_component(query)
 
-# rdfs:subClassOf+ = one-or-more (proper subclasses only).
-# We add the targets themselves separately so the file covers identity too.
-query = <<~SPARQL
-  PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+  response = http.request(req)
+  unless response.code == '200'
+    abort "SPARQL failed: #{response.code}\n#{response.body[0..400]}\n\nSPARQL query:\n  #{query}"
+  end
 
-  SELECT DISTINCT ?specific ?canonical
-  WHERE {
-    VALUES (?canonical) {
-#{values_block}
-    }
-    GRAPH <urn:mondo:hierarchy> {
-      ?specific rdfs:subClassOf+ ?canonical .
-    }
-  }
-SPARQL
-
-puts "Querying Virtuoso for MONDO subclass hierarchy..."
-
-uri = URI(ENDPOINT)
-http = Net::HTTP.new(uri.host, uri.port)
-req  = Net::HTTP::Post.new(uri)
-req['Content-Type'] = 'application/x-www-form-urlencoded'
-req['Accept']       = 'application/sparql-results+json'
-req.body = 'query=' + URI.encode_www_form_component(query)
-
-response = http.request(req)
-unless response.code == '200'
-  abort "SPARQL failed: #{response.code}\n#{response.body[0..400]}"
+  JSON.parse(response.body)['results']['bindings']
 end
 
-data    = JSON.parse(response.body)
-results = data['results']['bindings']
-puts "  #{results.size} subclass relationships found."
+puts "Querying Virtuoso for MONDO subclass hierarchy (iterative BFS)..."
 
-# Build lookup hash: specific -> canonical
-# If a disease is a subclass of multiple targets (unlikely but possible),
-# keep the most specific canonical (smallest MONDO number = most specific...
-# actually we just take the first encountered; in practice this shouldn't occur
-# for well-curated MONDO terms under 10 distinct disease roots).
-lookup = {}
-results.each do |row|
-  specific  = row['specific']['value']
-  canonical = row['canonical']['value']
-  lookup[specific] ||= canonical
+# lookup maps specific_uri -> canonical_uri.
+# Seed with identity entries for the 10 targets.
+lookup   = {}
+TARGET_DISEASES.each { |u| lookup[u] = u }
+
+# BFS: at each round, query for direct subclasses of the current frontier.
+# ?specific rdfs:subClassOf ?parent  means ?specific is a direct child of ?parent.
+frontier = TARGET_DISEASES.dup
+round    = 0
+
+until frontier.empty?
+  round += 1
+  values = frontier.map { |u| "    (<#{u}>)" }.join("\n")
+
+  query = <<~SPARQL
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+    SELECT DISTINCT ?specific ?parent
+    WHERE {
+      VALUES (?parent) {
+    #{values}
+      }
+      GRAPH <urn:mondo:hierarchy> {
+        ?specific rdfs:subClassOf ?parent .
+      }
+    }
+  SPARQL
+
+  results = sparql_query(ENDPOINT, query)
+
+  next_frontier = []
+  results.each do |row|
+    specific = row['specific']['value']
+    parent   = row['parent']['value']
+    next if lookup.key?(specific)   # already mapped via a shorter path
+    lookup[specific] = lookup[parent]
+    next_frontier << specific
+  end
+
+  puts "  Round #{round}: #{frontier.size} parents → #{results.size} children, #{next_frontier.size} new"
+  frontier = next_frontier
 end
-
-# Add identity entries for the 10 targets themselves
-TARGET_DISEASES.each { |u| lookup[u] ||= u }
 
 puts "  #{lookup.size} total entries in lookup (including identity for 10 targets)."
 
