@@ -1,0 +1,9 @@
+
+# Terminal 1 — keep this open
+ssh -L 8890:localhost:8890 ubuntu@57.128.119.57 -p 49999
+
+# Terminal 2 — run the scripts
+cd ~/CODE/SIMPATHIC2/SKG_Mapping/Utilities/Queries
+ruby generate_canonical_lookup.rb      # generates canonical_disease.tsv
+ruby build_ml_set.rb                   # generates split_evidence CSV
+ruby merge_evidence.rb                 # generates merged_evidence CSV
