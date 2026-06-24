@@ -1,0 +1,20 @@
+For a one-off bulk purge, yes — the Conductor's built-in SPARQL editor is actually the simplest path, and it sidesteps the permission problem entirely.
+
+The key difference: the Conductor's SPARQL editor runs as the internal dba session (bypassing the HTTP /sparql endpoint restriction the script hits), so CLEAR GRAPH and DROP both work there.
+
+You'd just paste two queries into the Conductor's SPARQL tab and run them in sequence:
+
+Query 1 — wipe all SKG data graphs at once:
+
+DELETE { GRAPH ?g { ?s ?p ?o } }
+WHERE {
+  GRAPH ?g { ?s ?p ?o }
+  FILTER(CONTAINS(STR(?g), "simpathic"))
+  FILTER(?g != <urn:simpathic:context:all_metadata>)
+}
+
+
+Query 2 — clear the metadata graph:
+
+
+CLEAR GRAPH <urn:simpathic:context:all_metadata>
