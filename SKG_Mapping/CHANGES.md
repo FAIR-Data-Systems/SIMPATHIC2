@@ -560,3 +560,108 @@ canonical_entity2_uri  entity2_name  entity2_type
 rels  sources  evidence
 entity1_uri  entity2_uri
 ```
+
+---
+
+## Changes made — 2026-06-26 (Biovista drug map CID correction)
+
+### Root cause of Trolox/2-Bromopyridine mismatch — systemic PubChem bug
+
+**Trigger:** Partner email thread flagged "2-Bromopyridine" appearing as a drug
+for Trolox-related phenotypes. Investigation confirmed the mapping error was in
+`biovista/maps/2026-biovista-drugs.map`: entry C010643 (6-hydroxy-2,5,7,8-
+tetramethylchroman-2-carboxylic acid / Trolox) was mapped to PubChem CID 2724044
+("2-Bromopyridine 1-oxide hydrochloride") instead of CID 40634 (Trolox).
+
+**Root cause:** PubChem's `xref/RegistryID` cross-reference database contains
+incorrect entries for many MeSH C-prefix Supplementary Chemical Records (SCRs).
+C-prefix entries are "supplementary" MeSH concepts not in the main MeSH hierarchy.
+When the pipeline queries `https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/
+xref/RegistryID/{C_ID}/cids/JSON`, PubChem returns a CID for a wrong compound for
+a significant fraction of C-prefix entries. All affected C-prefix entries also had
+no CAS registry number in MeSH (`registryNumber: null`), so the CAS-based fallback
+(method 2) was skipped. The name-search fallback (method 3) was never reached
+because method 1 returned a (wrong) result.
+
+**Scope:** 21 of 93 C-prefix entries in the drug map had wrong CIDs due to this
+bug. A further 18 were flagged as suspicious but were confirmed correct (synonyms
+and abbreviations). 2 entries (digoxin Fab fragments, calpain inhibitors) were
+proteins/classes that should not be in the drug map.
+
+**Fixes:**
+
+`biovista/maps/2026-biovista-drugs.map` — **corrected in place** (backup at
+`2026-biovista-drugs.map.bak`):
+- 21 CIDs corrected by re-querying PubChem by name (method 3 of pipeline).
+- 2 non-small-molecule entries removed (digoxin Fab fragments, calpain inhibitors).
+- 4 duplicate rows collapsed (entries where multiple wrong CIDs now both resolve
+  to the same correct CID after name search).
+- Net row count: 417 → 408.
+
+Corrected entries include (old CID → new CID):
+| MeSH ID | Compound | Old CID | New CID |
+|---------|----------|---------|---------|
+| C010643 | Trolox | 2724044 | 40634 |
+| C031149 | glycolic acid | 18210 | 757 |
+| C024989 | coenzyme Q10 | 248961 | 5281915 |
+| C003223 | propionylcarnitine | 7376 | 107738 |
+| C054207 | etomoxir | 11094883 | 9840324 |
+| C020549 | zomepirac | 608487 | 5733 |
+| C004742 | daidzein | 67325 | 5281708 |
+| C008088 | alfacalcidol | 97794 | 5282181 |
+| C031385 | anthranilic acid | 46942323 | 227 |
+| C059659 | technetium Tc 99m bicisate | 12807830 | 155491161 |
+| C016030 | pantogab | 10888467 | 2527 |
+| C009265 | carbidopa-levodopa | 268563 | 104778 |
+| C033668 | calpastatin | 88324 | 90488788 |
+| C045651 | epigallocatechin gallate | 2737204 | 65064 |
+| C038131 | epalrestat | 465065 | 1549120 |
+| C030614 | picolinic acid | 21026 | 1018 |
+| C033110 | RV 538 | 4715030 | 114736 |
+| C031349 | 7-OH-DPAT | 53234195 | 1219 |
+| C032727 | piperidine | 21073920 | 8082 |
+
+`biovista/biovista-drug-2026.ipynb` — **cell 11 patched**:
+- The `xref/RegistryID` lookup (method 1) is now skipped for C-prefix MeSH entries.
+  The pipeline falls directly to CAS lookup (method 2) then name search (method 3).
+- This prevents the PubChem cross-reference bug from silently producing wrong CIDs
+  in future map regenerations.
+
+**Impact on existing graph data:** The Biovista drug graphing notebooks will need
+to be re-run after the database is reloaded (see step 1 of the ML dataset
+regeneration workflow). The corrected map is already in place.
+
+---
+
+### Biovista — "Compound" type entities silently dropped
+
+**Trigger:** Partner email flagged missing drugs: Doconexent, Trehalose, Lactose,
+Vatiquinone. Investigation showed all four are present in the raw Biovista KG
+(`bv-kg-20260617.large`) but absent from the drug map and all graph outputs.
+
+**Root cause:** Biovista's raw KG uses `type == "Compound"` for 5 entries
+(Trehalose D014199, Lactose D007785, Docosahexaenoic Acids D004281,
+alpha-tocotrienol quinone / Vatiquinone C571746, diosmetin C039602) instead of
+`type == "Drug"`. The mapping notebook (cell 7) and all three drug graphing
+notebooks filtered exclusively on `type == "Drug"`, so these entries were
+silently skipped — no entries in the errors file because the filter runs before
+any error-logging code.
+
+The 5 entries account for 1,958 rows in the raw KG (1,257 Compound→Gene,
+689 Compound→Phenotype, 12 Disease→Compound).
+
+**Fix — 4 notebooks patched:**
+
+`biovista/biovista-drug-2026.ipynb` — cell 7: changed `row["type_X"] == "Drug"`
+to `["Drug", "Compound"].include?(row["type_X"])` so these entries now enter
+`meshdrugs` and are processed through the MeSH→CID lookup.
+
+`biovista/BV Drug-Disease Graphing.ipynb` — same filter fix in the main loop.
+
+`biovista/BV Drug-Gene Graphing.ipynb` — same filter fix in the main loop.
+
+`biovista/2026 BV Drug-Phenotype Graphing.ipynb` — same filter fix in the main loop.
+
+**Next step:** Re-run `biovista-drug-2026.ipynb` to regenerate the drug map
+(the 5 Compound entries will now be looked up and added). Then re-run the three
+drug graphing notebooks to produce graph files that include these drugs.

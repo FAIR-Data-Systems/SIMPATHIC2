@@ -8,7 +8,7 @@ http://purl.bioontology.org/ontology/MESH/D004298,Dopamine,681,Dopamine
 http://purl.bioontology.org/ontology/MESH/D011736,Pyridoxine,1054,Pyridoxine
 http://purl.bioontology.org/ontology/MESH/D005442,Flumazenil,3373,Flumazenil
 http://purl.bioontology.org/ontology/MESH/C079148,(3-aminopropyl)(n-butyl)phosphinic acid,130021,(3-Aminopropyl)(n-butyl)phosphinic acid
-http://purl.bioontology.org/ontology/MESH/C027576,4-hydroxy-2-nonenal,5283344,4-Hydroxynonenal
+http://purl.bioontology.org/ontology/MESH/C027576,4-hydroxy-2-nonenal,5283344,"""4-Hydroxynonenal"""
 http://purl.bioontology.org/ontology/MESH/C066430,CGP 35348,107699,Cgp 35348
 http://purl.bioontology.org/ontology/MESH/D020123,Sirolimus,21944094,Rapamycin Immunosuppressant Drug
 http://purl.bioontology.org/ontology/MESH/D012701,Serotonin,5202,Serotonin
@@ -19,10 +19,10 @@ http://purl.bioontology.org/ontology/MESH/D009638,Norepinephrine,439260,Norepine
 http://purl.bioontology.org/ontology/MESH/D007980,Levodopa,6047,Levodopa
 http://purl.bioontology.org/ontology/MESH/D002331,Carnitine,288,DL-Carnitine
 http://purl.bioontology.org/ontology/MESH/D018967,Risperidone,5073,Risperidone
-http://purl.bioontology.org/ontology/MESH/C037476,tert-butylbicyclophosphorothionate,104781,"2,6,7-Trioxa-1-phosphabicyclo(2.2.2)octane, 4-(1,1-dimethylethyl)-, 1-sulfide"
+http://purl.bioontology.org/ontology/MESH/C037476,tert-butylbicyclophosphorothionate,104781,"""2,6,7-Trioxa-1-phosphabicyclo(2.2.2)octane, 4-(1,1-dimethylethyl)-, 1-sulfide"""
 http://purl.bioontology.org/ontology/MESH/D010634,Phenobarbital,4763,Phenobarbital
 http://purl.bioontology.org/ontology/MESH/D000077213,Lamotrigine,3878,Lamotrigine
-http://purl.bioontology.org/ontology/MESH/C031149,glycolic acid,18210,1-Methyl-5-nitroimidazole
+http://purl.bioontology.org/ontology/MESH/C031149,glycolic acid,757,"""Glycolic Acid"""
 http://purl.bioontology.org/ontology/MESH/D010672,Phenytoin,1775,Phenytoin
 http://purl.bioontology.org/ontology/MESH/D019788,Fluorodeoxyglucose F18,68614,Fludeoxyglucose F-18
 http://purl.bioontology.org/ontology/MESH/D004008,Diclofenac,3033,Diclofenac
@@ -121,7 +121,7 @@ http://purl.bioontology.org/ontology/MESH/D003042,Cocaine,446220,Cocaine
 http://purl.bioontology.org/ontology/MESH/D003891,Desipramine,2995,Desipramine
 http://purl.bioontology.org/ontology/MESH/D004986,Ether,3283,Diethyl Ether
 http://purl.bioontology.org/ontology/MESH/D013835,Thiamine Pyrophosphate,5431,Thiamine Pyrophosphate
-http://purl.bioontology.org/ontology/MESH/C024989,coenzyme Q10,248961,3-(Ethylamino)propionitrile
+http://purl.bioontology.org/ontology/MESH/C024989,coenzyme Q10,5281915,"""Coenzyme Q10"""
 http://purl.bioontology.org/ontology/MESH/D013838,Thiamine Triphosphate,511,Thiamine Triphosphate
 http://purl.bioontology.org/ontology/MESH/D008063,Thioctic Acid,864,alpha Lipoic acid
 http://purl.bioontology.org/ontology/MESH/D012256,Riboflavin,493570,Riboflavin
@@ -133,7 +133,7 @@ http://purl.bioontology.org/ontology/MESH/D009840,Oligomycins,78358496,Oligomyci
 http://purl.bioontology.org/ontology/MESH/D007530,Isoflurane,3763,Isoflurane
 http://purl.bioontology.org/ontology/MESH/D003543,Cysteamine,6058,Cysteamine
 http://purl.bioontology.org/ontology/MESH/D008775,Methylprednisolone,6741,Methylprednisolone
-http://purl.bioontology.org/ontology/MESH/C010643,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid",2724044,2-Bromopyridine 1-oxide hydrochloride
+http://purl.bioontology.org/ontology/MESH/C010643,"6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid",40634,"""Trolox"""
 http://purl.bioontology.org/ontology/MESH/D001418,Baclofen,2284,Baclofen
 http://purl.bioontology.org/ontology/MESH/D005486,Flavin Mononucleotide,643976,Flavin Mononucleotide
 http://purl.bioontology.org/ontology/MESH/C000600259,pexidartinib,25151352,Pexidartinib
@@ -145,8 +145,7 @@ http://purl.bioontology.org/ontology/MESH/D001629,Bezafibrate,39042,Bezafibrate
 http://purl.bioontology.org/ontology/MESH/D010725,Phosphocreatine,9548602,Phosphocreatine
 http://purl.bioontology.org/ontology/MESH/D000077149,Sevoflurane,5206,Sevoflurane
 http://purl.bioontology.org/ontology/MESH/D002998,Clonazepam,2802,Clonazepam
-http://purl.bioontology.org/ontology/MESH/C003223,propionylcarnitine,7376,3-(Trifluoromethyl)phenol
-http://purl.bioontology.org/ontology/MESH/C003223,propionylcarnitine,107738,Propionylcarnitine
+http://purl.bioontology.org/ontology/MESH/C003223,propionylcarnitine,107738,"""Propionylcarnitine"""
 http://purl.bioontology.org/ontology/MESH/D019690,Technetium Tc 99m Exametazime,11954234,Technetium Tc-99m exametazime
 http://purl.bioontology.org/ontology/MESH/D008727,Methotrexate,126941,Methotrexate
 http://purl.bioontology.org/ontology/MESH/D009525,Niacin,938,Nicotinic Acid
@@ -180,10 +179,9 @@ http://purl.bioontology.org/ontology/MESH/D011433,Propranolol,4946,Propranolol
 http://purl.bioontology.org/ontology/MESH/D002746,Chlorpromazine,2726,Chlorpromazine
 http://purl.bioontology.org/ontology/MESH/C487773,trans-sodium crocetinate,10287099,Transcrocetinate sodium
 http://purl.bioontology.org/ontology/MESH/D002939,Ciprofloxacin,2764,Ciprofloxacin
-http://purl.bioontology.org/ontology/MESH/C051360,"1,3-dipropyl-8-cyclopentylxanthine",1329,Dpcpx
-http://purl.bioontology.org/ontology/MESH/C051360,"1,3-dipropyl-8-cyclopentylxanthine",15789286,2-Chloro-N-cyclopropyl-4-nitroaniline
+http://purl.bioontology.org/ontology/MESH/C051360,"1,3-dipropyl-8-cyclopentylxanthine",1329,"""Dpcpx"""
 http://purl.bioontology.org/ontology/MESH/D011745,Pyrithiamine,10802,Pyrithiamine bromide hydrobromide
-http://purl.bioontology.org/ontology/MESH/C059659,technetium Tc 99m bicisate,12807830,8-Methylquinolin-4(1H)-one
+http://purl.bioontology.org/ontology/MESH/C059659,technetium Tc 99m bicisate,155491161,"""Technetium tc-99m bicisate"""
 http://purl.bioontology.org/ontology/MESH/D017311,Amlodipine,2162,Amlodipine
 http://purl.bioontology.org/ontology/MESH/D002981,Clindamycin,446598,Clindamycin
 http://purl.bioontology.org/ontology/MESH/D019826,Cholic Acid,221493,Cholic Acid
@@ -214,14 +212,14 @@ http://purl.bioontology.org/ontology/MESH/D019331,NG-Nitroarginine Methyl Ester,
 http://purl.bioontology.org/ontology/MESH/D008694,Methamphetamine,10836,Methamphetamine
 http://purl.bioontology.org/ontology/MESH/D019793,Fluorescein,16850,Fluorescein
 http://purl.bioontology.org/ontology/MESH/D019840,2-Propanol,3776,Isopropanol
-http://purl.bioontology.org/ontology/MESH/C016030,pantogab,10888467,"6-Methoxy-1,2,3,4-tetrahydroquinolin-2-one"
+http://purl.bioontology.org/ontology/MESH/C016030,pantogab,2527,"""Pantogab"""
 http://purl.bioontology.org/ontology/MESH/D020156,Salicylic Acid,338,Salicylic Acid
 http://purl.bioontology.org/ontology/MESH/D004164,Diphosphonates,2088,Alendronic Acid
-http://purl.bioontology.org/ontology/MESH/C054207,etomoxir,11094883,6-Chloro-N-methyl-3-pyridinemethanamine
+http://purl.bioontology.org/ontology/MESH/C054207,etomoxir,9840324,"""Etomoxir"""
 http://purl.bioontology.org/ontology/MESH/D009173,Mycophenolic Acid,446541,Mycophenolic Acid
 http://purl.bioontology.org/ontology/MESH/C004999,ferulic acid,445858,Ferulic Acid
 http://purl.bioontology.org/ontology/MESH/D014046,Tolmetin,5509,Tolmetin
-http://purl.bioontology.org/ontology/MESH/C010680,antibiotic G 418,123865,Geneticin
+http://purl.bioontology.org/ontology/MESH/C010680,antibiotic G 418,123865,"""Geneticin"""
 http://purl.bioontology.org/ontology/MESH/D005027,Ethylene Oxide,6354,Ethylene Oxide
 http://purl.bioontology.org/ontology/MESH/D014439,Tyramine,5610,Tyramine
 http://purl.bioontology.org/ontology/MESH/D010396,Penicillamine,5852,Penicillamine
@@ -232,25 +230,24 @@ http://purl.bioontology.org/ontology/MESH/D015739,Nocodazole,4122,Nocodazole
 http://purl.bioontology.org/ontology/MESH/C100195,vinyl ether,8024,Vinyl ether
 http://purl.bioontology.org/ontology/MESH/D006632,Histamine,774,Histamine
 http://purl.bioontology.org/ontology/MESH/D011190,Potassium Cyanide,9032,Potassium Cyanide
-http://purl.bioontology.org/ontology/MESH/C020549,zomepirac,608487,6-Trifluoromethyloxindole
+http://purl.bioontology.org/ontology/MESH/C020549,zomepirac,5733,"""Zomepirac"""
 http://purl.bioontology.org/ontology/MESH/D011374,Progesterone,5994,Progesterone
 http://purl.bioontology.org/ontology/MESH/D007213,Indomethacin,3715,Indomethacin
 http://purl.bioontology.org/ontology/MESH/D011464,Epoprostenol,5282411,Prostacyclin
 http://purl.bioontology.org/ontology/MESH/D002230,Carbidopa,34359,Carbidopa
 http://purl.bioontology.org/ontology/MESH/D006916,5-Hydroxytryptophan,144,(+-)-5-Hydroxytryptophan
 http://purl.bioontology.org/ontology/MESH/D004295,Dihydroxyphenylalanine,836,DL-Dopa
-http://purl.bioontology.org/ontology/MESH/C009265,"carbidopa, levodopa drug combination",268563,"2-Fluoro-9-(2,3,5-tri-o-acetylpentofuranosyl)-9h-purin-6-amine"
+http://purl.bioontology.org/ontology/MESH/C009265,"carbidopa, levodopa drug combination",104778,"""Carbidopa-levodopa mixt."""
 http://purl.bioontology.org/ontology/MESH/C009265,"carbidopa, levodopa drug combination",441193,Carbidopa; Levodopa
 http://purl.bioontology.org/ontology/MESH/C056165,acetovanillone,2214,Acetovanillone
 http://purl.bioontology.org/ontology/MESH/D008454,Mazindol,4020,Mazindol
 http://purl.bioontology.org/ontology/MESH/D010835,Phytohemagglutinins,596533,Phytohemagglutinins
 http://purl.bioontology.org/ontology/MESH/C031349,"7-hydroxy-2-N,N-dipropylaminotetralin",1219,7-hydroxy-2-(di-N-propylamino)tetralin
-http://purl.bioontology.org/ontology/MESH/C031349,"7-hydroxy-2-N,N-dipropylaminotetralin",53234195,"Tert-butyl 1,3-dioxo-2,8-diazaspiro[4.5]decane-8-carboxylate"
 http://purl.bioontology.org/ontology/MESH/D013134,Spiperone,5265,Spiperone
 http://purl.bioontology.org/ontology/MESH/D000547,Amantadine,2130,Amantadine
 http://purl.bioontology.org/ontology/MESH/D014527,Uric Acid,1175,Uric Acid
 http://purl.bioontology.org/ontology/MESH/D004745,Enkephalins,461776,Leu-Enkephalin
-http://purl.bioontology.org/ontology/MESH/C038131,epalrestat,465065,"2-Pyrazinecarboxylic acid, 5-methyl-, methyl ester"
+http://purl.bioontology.org/ontology/MESH/C038131,epalrestat,1549120,"""Epalrestat"""
 http://purl.bioontology.org/ontology/MESH/D003981,Diazoxide,3019,Diazoxide
 http://purl.bioontology.org/ontology/MESH/D013012,Sorbitol,5780,Sorbitol
 http://purl.bioontology.org/ontology/MESH/D009609,Nitrous Oxide,948,Nitrous Oxide
@@ -258,12 +255,12 @@ http://purl.bioontology.org/ontology/MESH/D014284,Triiodothyronine,5920,Liothyro
 http://purl.bioontology.org/ontology/MESH/D014994,Xylose,135191,Xylose
 http://purl.bioontology.org/ontology/MESH/D004002,Clodronic Acid,25419,Clodronate
 http://purl.bioontology.org/ontology/MESH/D000077287,Levetiracetam,5284583,Levetiracetam
-http://purl.bioontology.org/ontology/MESH/C033110,RV 538,4715030,8-Bromo-2-methylquinoline
+http://purl.bioontology.org/ontology/MESH/C033110,RV 538,114736,"""RV 538"""
 http://purl.bioontology.org/ontology/MESH/C016766,sulforaphane,5350,Sulforaphane
 http://purl.bioontology.org/ontology/MESH/D007976,Leupeptins,425562,Leupeptins
 http://purl.bioontology.org/ontology/MESH/D000077122,Sugammadex,6918585,Sugammadex
 http://purl.bioontology.org/ontology/MESH/D000077123,Rocuronium,441290,Rocuronium
-http://purl.bioontology.org/ontology/MESH/C072553,benzyloxycarbonylleucyl-leucyl-leucine aldehyde,462382,MG-132
+http://purl.bioontology.org/ontology/MESH/C072553,benzyloxycarbonylleucyl-leucyl-leucine aldehyde,462382,"""MG-132"""
 http://purl.bioontology.org/ontology/MESH/D017963,Azithromycin,447043,Azithromycin
 http://purl.bioontology.org/ontology/MESH/D003871,Dermatan Sulfate,32756,Dermatan Sulfate
 http://purl.bioontology.org/ontology/MESH/D008801,Mexiletine,4178,Mexiletine
@@ -297,7 +294,6 @@ http://purl.bioontology.org/ontology/MESH/D012312,Ritodrine,33572,Ritodrine
 http://purl.bioontology.org/ontology/MESH/D014403,Tubocurarine,6000,Tubocurarine
 http://purl.bioontology.org/ontology/MESH/D014667,Vasopressins,644077,Argipressin
 http://purl.bioontology.org/ontology/MESH/D005424,Flecainide,3356,Flecainide
-http://purl.bioontology.org/ontology/MESH/C050199,digoxin antibodies Fab fragments,2737096,"1,4-Diiodo-2-fluorobenzene"
 http://purl.bioontology.org/ontology/MESH/D008787,Metoclopramide,4168,Metoclopramide
 http://purl.bioontology.org/ontology/MESH/D000404,Ajmaline,6100671,Ajmaline
 http://purl.bioontology.org/ontology/MESH/D000404,Ajmaline,441080,Ajmaline
@@ -313,7 +309,6 @@ http://purl.bioontology.org/ontology/MESH/D011733,Pyridoxamine,1052,Pyridoxamine
 http://purl.bioontology.org/ontology/MESH/D007538,Isoniazid,3767,Isoniazid
 http://purl.bioontology.org/ontology/MESH/D000078305,Zonisamide,5734,Zonisamide
 http://purl.bioontology.org/ontology/MESH/C032727,piperidine,8082,Piperidine
-http://purl.bioontology.org/ontology/MESH/C032727,piperidine,21073920,"7-Fluoro-[1,8]naphthyridin-2-ol"
 http://purl.bioontology.org/ontology/MESH/C105051,ganaxolone,6918305,Ganaxolone
 http://purl.bioontology.org/ontology/MESH/D000077236,Topiramate,5284627,Topiramate
 http://purl.bioontology.org/ontology/MESH/D010830,Physostigmine,5983,Physostigmine
@@ -323,31 +318,29 @@ http://purl.bioontology.org/ontology/MESH/D000078330,Oxcarbazepine,34312,Oxcarba
 http://purl.bioontology.org/ontology/MESH/D000078328,Felbamate,3331,Felbamate
 http://purl.bioontology.org/ontology/MESH/D013747,Tetrabenazine,6018,Tetrabenazine
 http://purl.bioontology.org/ontology/MESH/D008874,Midazolam,4192,Midazolam
-http://purl.bioontology.org/ontology/MESH/C549445,nulibry,145722612,Fosdenopterin Hydrobromide
+http://purl.bioontology.org/ontology/MESH/C549445,nulibry,145722612,"""Fosdenopterin Hydrobromide"""
 http://purl.bioontology.org/ontology/MESH/D015095,3-Hydroxyanthranilic Acid,86,3-Hydroxyanthranilic Acid
-http://purl.bioontology.org/ontology/MESH/C030614,picolinic acid,21026,3-Methyl-2-nitrophenol
+http://purl.bioontology.org/ontology/MESH/C030614,picolinic acid,1018,"""Picolinic acid"""
 http://purl.bioontology.org/ontology/MESH/D008614,Meperidine,4058,Meperidine
 http://purl.bioontology.org/ontology/MESH/C010597,"ketobemidone, N,N-dimethyl-3,3-diphenyl-1-methylallylamine drug combination",160082,"ketobemidone, N,N-dimethyl-3,3-diphenyl-1-methylallylamine drug combination"
 http://purl.bioontology.org/ontology/MESH/D010433,Pentylenetetrazole,5917,Pentylenetetrazole
 http://purl.bioontology.org/ontology/MESH/D009567,Nitrazepam,4506,Nitrazepam
 http://purl.bioontology.org/ontology/MESH/D015662,"Trimethoprim, Sulfamethoxazole Drug Combination",358641,Sulfamethoxazole-trimethoprim mixt.
 http://purl.bioontology.org/ontology/MESH/D000068580,Varenicline,5310966,Varenicline
-http://purl.bioontology.org/ontology/MESH/C039304,calpain inhibitors,77689,"Ethanone, 1,1'-[1,1'-biphenyl]-4,4'-diylbis[2-bromo-"
 http://purl.bioontology.org/ontology/MESH/C055267,tandospirone,91273,Tandospirone
-http://purl.bioontology.org/ontology/MESH/C033668,calpastatin,88324,"4,5-Dihydro-2-(methylthio)thiazole"
+http://purl.bioontology.org/ontology/MESH/C033668,calpastatin,90488788,"""Calpastatin"""
 http://purl.bioontology.org/ontology/MESH/D000077185,Resveratrol,445154,Resveratrol
 http://purl.bioontology.org/ontology/MESH/D018021,Lithium Chloride,433294,Lithium Chloride
 http://purl.bioontology.org/ontology/MESH/D019782,Riluzole,5070,Riluzole
 http://purl.bioontology.org/ontology/MESH/D016651,Lithium Carbonate,11125,Lithium Carbonate
-http://purl.bioontology.org/ontology/MESH/C043437,fluorodopa F 18,56494,6-(18F)fluoro-L-DOPA
+http://purl.bioontology.org/ontology/MESH/C043437,fluorodopa F 18,56494,"""6-(18F)fluoro-L-DOPA"""
 http://purl.bioontology.org/ontology/MESH/D013420,Sulfamethoxazole,5329,Sulfamethoxazole
 http://purl.bioontology.org/ontology/MESH/D019791,Guanidine,3520,Guanidine
 http://purl.bioontology.org/ontology/MESH/D019797,3-Iodobenzylguanidine,60860,3-Iodobenzylguanidine
 http://purl.bioontology.org/ontology/MESH/D014295,Trimethoprim,5578,Trimethoprim
 http://purl.bioontology.org/ontology/MESH/D002065,Buspirone,2477,Buspirone
 http://purl.bioontology.org/ontology/MESH/C045651,epigallocatechin gallate,65064,Epigallocatechin Gallate
-http://purl.bioontology.org/ontology/MESH/C045651,epigallocatechin gallate,2737204,"Ethyl 2-methyl-4,4,4-trifluoroacetoacetate"
-http://purl.bioontology.org/ontology/MESH/C004742,daidzein,67325,"N,N'-Dicinnamylidene-1,6-hexanediamine"
+http://purl.bioontology.org/ontology/MESH/C004742,daidzein,5281708,"""Daidzein"""
 http://purl.bioontology.org/ontology/MESH/D020367,Iofetamine,3729,4-Iodo-alpha-methyl-N-(1-methylethyl)benzeneethanamine
 http://purl.bioontology.org/ontology/MESH/D020891,Raclopride,3033769,Raclopride
 http://purl.bioontology.org/ontology/MESH/C055743,3-iodo-2-hydroxy-6-methoxy-N-((1-ethyl-2-pyrrolidinyl)methyl)benzamide,458968,Ethyl 2-hydroxy-4-nitrobenzoate
@@ -360,10 +353,8 @@ http://purl.bioontology.org/ontology/MESH/D002753,Chlorzoxazone,2733,Chlorzoxazo
 http://purl.bioontology.org/ontology/MESH/D000077206,Gabapentin,3446,Gabapentin
 http://purl.bioontology.org/ontology/MESH/D017292,Doxazosin,3157,Doxazosin
 http://purl.bioontology.org/ontology/MESH/D000077237,Arsenic Trioxide,14888,Arsenic Trioxide
-http://purl.bioontology.org/ontology/MESH/C021279,"(1R-(exo,exo))-3-(4-fluorophenyl)-8-methyl-8- azabicyclo(3.2.1)octane-2-carboxylic acid, methyl ester",105056,Win 35428
-http://purl.bioontology.org/ontology/MESH/C021279,"(1R-(exo,exo))-3-(4-fluorophenyl)-8-methyl-8- azabicyclo(3.2.1)octane-2-carboxylic acid, methyl ester",2737203,2-(Piperazin-1-yl)pyridine-3-carbonitrile
-http://purl.bioontology.org/ontology/MESH/C008088,alfacalcidol,97794,"4,4'-Stilbenedicarboxylic acid"
-http://purl.bioontology.org/ontology/MESH/C008088,alfacalcidol,5282181,Alfacalcidol
+http://purl.bioontology.org/ontology/MESH/C021279,"(1R-(exo,exo))-3-(4-fluorophenyl)-8-methyl-8- azabicyclo(3.2.1)octane-2-carboxylic acid, methyl ester",105056,"""Win 35428"""
+http://purl.bioontology.org/ontology/MESH/C008088,alfacalcidol,5282181,"""Alfacalcidol"""
 http://purl.bioontology.org/ontology/MESH/D000077300,Bosentan,104865,Bosentan
 http://purl.bioontology.org/ontology/MESH/D007792,Lactulose,11333,Lactulose
 http://purl.bioontology.org/ontology/MESH/C060152,tyrphostin 47,667601,Tyrphostin 47
@@ -379,9 +370,9 @@ http://purl.bioontology.org/ontology/MESH/D000108,Acetylcarnitine,7045767,Acetyl
 http://purl.bioontology.org/ontology/MESH/D020909,Acarbose,9811704,Acarbose
 http://purl.bioontology.org/ontology/MESH/D017485,1-Deoxynojirimycin,29435,Deoxynojirimycin
 http://purl.bioontology.org/ontology/MESH/D018350,alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid,1221,alpha-AMINO-3-HYDROXY-5-METHYL-4-ISOXAZOLEPROPIONIC ACID
-http://purl.bioontology.org/ontology/MESH/C031215,betadex,444041,beta-Cyclodextrin
+http://purl.bioontology.org/ontology/MESH/C031215,betadex,444041,"""beta-Cyclodextrin"""
 http://purl.bioontology.org/ontology/MESH/D009118,Muscimol,4266,Muscimol
-http://purl.bioontology.org/ontology/MESH/C056723,FG 9041,3899541,Dnqx
+http://purl.bioontology.org/ontology/MESH/C056723,FG 9041,3899541,"""Dnqx"""
 http://purl.bioontology.org/ontology/MESH/C090092,migalastat,176077,Migalastat
 http://purl.bioontology.org/ontology/MESH/C013579,iturin A,102287549,Iturin A
 http://purl.bioontology.org/ontology/MESH/D000077276,Lycopene,446925,Lycopene
@@ -389,30 +380,30 @@ http://purl.bioontology.org/ontology/MESH/D007736,Kynurenic Acid,3845,Kynurenic 
 http://purl.bioontology.org/ontology/MESH/D008238,Lysergic Acid Diethylamide,5761,Lysergic acid diethylamide
 http://purl.bioontology.org/ontology/MESH/D019207,beta Carotene,5280489,Beta-Carotene
 http://purl.bioontology.org/ontology/MESH/D013307,Streptomycin,19649,Streptomycin
-http://purl.bioontology.org/ontology/MESH/C009288,metaperiodate,167232,Periodate
+http://purl.bioontology.org/ontology/MESH/C009288,metaperiodate,167232,"""Periodate"""
 http://purl.bioontology.org/ontology/MESH/C015392,3-nitropropionic acid,1678,3-Nitropropionic acid
 http://purl.bioontology.org/ontology/MESH/C009365,surfactin peptide,65307,Surfactin peptide
 http://purl.bioontology.org/ontology/MESH/D013656,Taurocholic Acid,6675,Taurocholic Acid
-http://purl.bioontology.org/ontology/MESH/C004479,pimagedine,2146,Aminoguanidine
-http://purl.bioontology.org/ontology/MESH/C031385,anthranilic acid,46942323,(4-Methyl-2-(trifluoromethyl)thiazol-5-yl)methanamine
+http://purl.bioontology.org/ontology/MESH/C004479,pimagedine,2146,"""Aminoguanidine"""
+http://purl.bioontology.org/ontology/MESH/C031385,anthranilic acid,227,"""Anthranilic Acid"""
 http://purl.bioontology.org/ontology/MESH/C010739,ifenprodil,3689,Ifenprodil
-http://purl.bioontology.org/ontology/MESH/C005390,CDTA,10213,"1,2-Diaminocyclohexane-N,N,N',N'-tetraacetic acid"
+http://purl.bioontology.org/ontology/MESH/C005390,CDTA,10213,"""1,2-Diaminocyclohexane-N,N,N',N'-tetraacetic acid"""
 http://purl.bioontology.org/ontology/MESH/D010406,Penicillins,2349,Penicillins
 http://purl.bioontology.org/ontology/MESH/C066026,losartan carboxylic acid,108185,Losartan carboxylic acid
 http://purl.bioontology.org/ontology/MESH/D000068756,Valsartan,60846,Valsartan
 http://purl.bioontology.org/ontology/MESH/D011239,Prednisolone,5755,Prednisolone
 http://purl.bioontology.org/ontology/MESH/C013216,potassium phosphate,516951,Monobasic potassium phosphate
-http://purl.bioontology.org/ontology/MESH/C100573,prostaglandin A1,5281912,Pga1
+http://purl.bioontology.org/ontology/MESH/C100573,prostaglandin A1,5281912,"""Pga1"""
 http://purl.bioontology.org/ontology/MESH/C000606551,remdesivir,121304016,Remdesivir
 http://purl.bioontology.org/ontology/MESH/D002953,Citrinin,54680783,Citrinin
 http://purl.bioontology.org/ontology/MESH/D002995,Clofibric Acid,2797,Clofibric Acid
 http://purl.bioontology.org/ontology/MESH/C059896,miglustat,51634,Miglustat
 http://purl.bioontology.org/ontology/MESH/D007612,Kanamycin,6032,Kanamycin
 http://purl.bioontology.org/ontology/MESH/D012254,Ribavirin,37542,Ribavirin
-http://purl.bioontology.org/ontology/MESH/C000711730,compound 21,9804984,Buloxibutid
+http://purl.bioontology.org/ontology/MESH/C000711730,compound 21,9804984,"""Buloxibutid"""
 http://purl.bioontology.org/ontology/MESH/D000077423,Polidocanol,656641,Nonaethylene Glycol Monododecyl Ether
 http://purl.bioontology.org/ontology/MESH/D006886,Hydroxychloroquine,3652,Hydroxychloroquine
 http://purl.bioontology.org/ontology/MESH/D010837,Vitamin K 1,5284607,Phylloquinone
 http://purl.bioontology.org/ontology/MESH/C011651,acadesine,17513,Acadesine
 http://purl.bioontology.org/ontology/MESH/D014580,Ursodeoxycholic Acid,31401,Ursodeoxycholic Acid
-http://purl.bioontology.org/ontology/MESH/C065049,TA 0910,114750,Taltirelin
+http://purl.bioontology.org/ontology/MESH/C065049,TA 0910,114750,"""Taltirelin"""
