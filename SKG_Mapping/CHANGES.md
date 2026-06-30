@@ -665,3 +665,231 @@ to `["Drug", "Compound"].include?(row["type_X"])` so these entries now enter
 **Next step:** Re-run `biovista-drug-2026.ipynb` to regenerate the drug map
 (the 5 Compound entries will now be looked up and added). Then re-run the three
 drug graphing notebooks to produce graph files that include these drugs.
+
+---
+
+## Changes made — 2026-06-29/30 (source-relation fixes, Virtuoso corruption, full reload)
+
+### Missing `simp:source-relation` in five graphing notebooks
+
+**Problem discovered:** `build_ml_set.rb` SPARQL requires `?graph simp:source-relation ?rel`
+as a **non-optional** triple. Any named graph missing this predicate in `all_metadata` is
+silently excluded from the ML dump. Symptom: uploading Biovista drug-gene data (80,409
+named graphs in Virtuoso) added zero rows to the Drug→Gene output.
+
+**Root cause:** Five active graphing notebooks wrote `skg-source`, `evidence`, and `score`
+to `all_metadata` but omitted `source-relation`:
+
+| Notebook | Added value |
+|---|---|
+| `biovista/BV Drug-Gene Graphing.ipynb` | `ASSOCIATED_WITH` |
+| `biovista/BV Drug-Disease Graphing.ipynb` | `ASSOCIATED_WITH` |
+| `radboud/2026 Radboud Disease-Gene Graphing.ipynb` | `IS_ASSOCIATED_WITH` |
+| `radboud/2026 Radboud Drug-Disease Graphing.ipynb` | `TREAT` |
+| `radboud/2026 Radboud Drug-Gene Graphing.ipynb` | `TARGET` |
+
+All five notebooks were patched to add:
+```ruby
+graph << RDF::Statement.new(context_uri, SIMPATHIC['source-relation'],
+                            RDF::Literal.new("..."), graph_name: general_context)
+```
+
+**Canonical `simp:source-relation` values by partner and type:**
+
+| Partner    | Notebook type      | Value |
+|------------|--------------------|-------|
+| Radboud    | Drug-Disease       | `TREAT` |
+| Radboud    | Drug-Gene          | `TARGET` |
+| Radboud    | Disease-Gene       | `IS_ASSOCIATED_WITH` |
+| Radboud    | Drug-Phenotype     | `TREAT` |
+| Radboud    | Phenotype-Gene     | `IS_ASSOCIATED_WITH` |
+| Biovista   | All notebooks      | `ASSOCIATED_WITH` |
+| Demokritos | All notebooks      | varies (pulled from raw data) |
+
+**Impact on ML dump row counts (split_evidence file):**
+
+| Run | Total rows | Drug→Gene | Drug→Disease |
+|-----|-----------|-----------|-------------|
+| Before fix (BV drug graphs deleted) | 414,822 | 447 | 362 |
+| After BV drug-phenotype re-upload only | 588,200 | 447 | 362 |
+| After all fixes + full reload | 1,104,284 | 88,555 | 1,125 |
+
+---
+
+### `TREAT_EXPANSIVE` — added experimentally, then removed
+
+A second `simp:source-relation` triple with value `"TREAT_EXPANSIVE"` had been added
+to `radboud/2026 Radboud Drug-Phenotype Graphing.ipynb` alongside `"TREAT"` as an
+experiment in relation harmonisation across partners (Demokritos uses DISRUPTS,
+IS_TREATED, PREVENTS etc. for drug-disease; Radboud uses TREAT).
+
+**Decision:** `TREAT_EXPANSIVE` was abandoned. The specific Demokritos relation values
+carry meaningful semantic information and should be preserved. Harmonisation for ML
+purposes should be done in post-processing (e.g. a `relation_category` column in
+`merge_evidence.rb`), not by flattening the graph.
+
+**Fix:** Line removed from `2026 Radboud Drug-Phenotype Graphing.ipynb`. 336 triples
+deleted from Virtuoso via:
+```sparql
+WITH <urn:simpathic:context:all_metadata>
+DELETE { ?g <urn:simpathic:source-relation> "TREAT_EXPANSIVE" }
+WHERE  { ?g <urn:simpathic:source-relation> "TREAT_EXPANSIVE" }
+```
+
+---
+
+### Virtuoso data corruption — stale CIDs from pre-correction uploads
+
+**Problem:** After running `delete_bv_drug_graphs.rb` and re-uploading corrected
+drug graphs, the wrong CID 2724044 (2-Bromopyridine) was still appearing in the
+ML dump with the same count (~1,244 rows) as the correct CID 40634 (Trolox).
+
+**Root cause:** Named graphs had been loaded twice — once before the map correction
+(with CID 2724044) and once after (with CID 40634). Virtuoso's N-Quads loader
+**appends** to existing named graphs rather than replacing them. Both CIDs coexisted
+in the same `urn:simpathic:context:bv_C010643_*` named graphs. Because the original
+bug was systemic (affecting ~22% of C-prefix entries), selective correction was not
+reliable — the same double-load likely affected other corrected CIDs.
+
+**Fix:** Full Virtuoso purge (June 30) followed by clean reload from on-disk
+`.nq.large` files. All 20 on-disk graph files were verified clean (no CID 2724044
+or other pre-correction CIDs) before upload.
+
+**Lesson:** Always run `delete_bv_drug_graphs.rb` (or a full purge) **before**
+re-uploading corrected graph files. Never rely on a second upload to overwrite
+incorrect data in Virtuoso — it will append instead.
+
+---
+
+### Verified graph file inventory (all files confirmed correct before June 30 reload)
+
+| File | Size | source-relation triples |
+|---|---|---|
+| `biovista/graph/2026_biovista_drug-disease.nq.large` | 2.1 MB | 746 |
+| `biovista/graph/2026_biovista_drug-gene.nq.large` | 358 MB | 86,584 |
+| `biovista/graph/2026_biovista_gene-phenotype.nq.large` | 379 MB | 90,663 |
+| `biovista/graph/2026_disease-gene.nq.large` | 2.9 MB | 684 |
+| `biovista/graph/2026_disease-phenotype.nq.large` | 2.6 MB | 985 |
+| `biovista/graph/2026_drug-phenotype.nq.large` | 245 MB | 84,946 |
+| `demokritos/graph/2026-demokritos_drug-disease.nq.large` | 1.8 MB | 826 |
+| `demokritos/graph/2026-demokritos_drug-gene.nq.large` | 2.6 MB | 741 |
+| `demokritos/graph/2026-disease-gene.nq.large` | 28 MB | 7,983 |
+| `demokritos/graph/2026-disease-phenotype.nq.large` | 237 KB | 89 |
+| `demokritos/graph/2026-drug-phenotype.nq.large` | 261 KB | 100 |
+| `demokritos/graph/2026-gene-phenotype.nq.large` | 2.0 MB | 474 |
+| `demokritos/graph/2026-phenotype-disease.nq.large` | 554 KB | 210 |
+| `demokritos/graph/2026-phenotype-drug.nq.large` | 202 KB | 77 |
+| `demokritos/graph/2026-phenotype-gene.nq.large` | **0 bytes** | — (expected: raw data has 2 unmappable rows) |
+| `radboud/graph/2026_drug-disease.nq.large` | 184 KB | 73 |
+| `radboud/graph/2026_drug-gene.nq.large` | 13 MB | 3,153 |
+| `radboud/graph/2026_drug-phenotype.nq.large` | 881 KB | 674 |
+| `radboud/graph/2026_phenotype-gene.nq.large` | 16.5 MB | 4,045 |
+| `radboud/graph/2026_radboud_disease-gene.nq.large` | 167 MB | 40,864 |
+
+---
+
+### Partner bug report — resolution status (as of 2026-06-30)
+
+Email thread from Fotis/Vassilis (June 24–25) raised the following items:
+
+| Item | Status |
+|---|---|
+| 2-Bromopyridine appearing for Trolox phenotypes | ✅ Fixed — C010643 corrected to CID 40634 |
+| Doconexent missing from graph | ✅ Fixed — Compound type filter added |
+| Vatiquinone missing from graph | ✅ Fixed — Compound type filter added |
+| Trehalose missing from graph | ✅ Fixed — Compound type filter added |
+| Lactose missing from graph | ✅ Fixed — Compound type filter added |
+| Sonlicromanol (CID 72710875) | ⚠ Not in Biovista drug map — MeSH entry not mapping to this CID via any lookup method |
+| Talarozole — no links | ✅ Confirmed data issue in Biovista (no literature evidence), not a mapping bug |
+| Gelatin | ✅ Agreed by Vassilis to skip |
+
+---
+
+## Changes made — 2026-06-30 (post-reload patches to Virtuoso and CSV dumps)
+
+### TREAT_EXPANSIVE reintroduced by the full reload — fixed again
+
+After the June 30 full purge and reload, `TREAT_EXPANSIVE` reappeared in Virtuoso
+because the on-disk file `radboud/graph/2026_drug-phenotype.nq.large` was generated
+on June 23 — before the notebook fix on June 29 — and still contained 337
+`TREAT_EXPANSIVE` source-relation triples alongside 337 `TREAT` triples. When this
+file was reloaded into the clean Virtuoso instance, TREAT_EXPANSIVE was reintroduced
+as 336 triples in `all_metadata` (674 rows in the ML dump, both directions).
+
+**Fix — two steps:**
+
+1. SPARQL DELETE via `Utilities/Patches/fix_treat_expansive_and_hpo_label.rb`:
+   ```sparql
+   WITH <urn:simpathic:context:all_metadata>
+   DELETE { ?g simp:source-relation "TREAT_EXPANSIVE" }
+   WHERE  { ?g simp:source-relation "TREAT_EXPANSIVE" }
+   ```
+   Verified: 336 → 0 TREAT_EXPANSIVE triples in Virtuoso.
+
+2. In-place CSV patch via `Utilities/Patches/patch_csv_dumps.py`:
+   - `"TREAT | TREAT_EXPANSIVE"` → `"TREAT"` in `rels` column (674 rows in split, 652 in merged).
+
+**Note:** The on-disk file `radboud/graph/2026_drug-phenotype.nq.large` (dated June 23)
+still contains TREAT_EXPANSIVE. It should be regenerated by re-running
+`2026 Radboud Drug-Phenotype Graphing.ipynb` when convenient. Until then, do NOT
+reload this file into Virtuoso without first patching or replacing it.
+
+---
+
+### HP_0002140 bad label — fixed in Virtuoso and CSV
+
+One Radboud phenotype-gene named graph (`urn:simpathic:context:rad_HP_0002140_ENSG00000068024`)
+stored the OLS4 error string `"no HPO match found for HP_0002140"` as the `rdfs:label`
+for HP_0002140 (Ischemic stroke), the result of a transient OLS4 API failure during
+the June 23 notebook run. HP_0002140 appears only once in Radboud's Phenotype-Gene
+data (paired with ENSG00000068024 / MAPT), so only this one graph was affected.
+Four ML dump rows carried the bad label.
+
+**Fix** (same script `fix_treat_expansive_and_hpo_label.rb`):
+```sparql
+DELETE { GRAPH <urn:simpathic:context:rad_HP_0002140_ENSG00000068024>
+         { <http://purl.obolibrary.org/obo/HP_0002140> rdfs:label "no HPO match found for HP_0002140" } }
+WHERE  { ... }
+
+INSERT { GRAPH <urn:simpathic:context:rad_HP_0002140_ENSG00000068024>
+         { <http://purl.obolibrary.org/obo/HP_0002140> rdfs:label "Ischemic stroke" } }
+WHERE  { SELECT * WHERE { } LIMIT 1 }
+```
+
+Also patched in both CSV dumps via `patch_csv_dumps.py` (4 rows in each file).
+
+---
+
+### CSV dumps patched in-place; TSV format validated
+
+Rather than re-running `build_ml_set.rb` (~1 hour), both ML dump files were patched
+directly by `Utilities/Patches/patch_csv_dumps.py`. All replacements are exact-string
+matches on the `rels` and `entity_name` columns; no regex or partial matches.
+
+Post-patch TSV validation confirmed:
+- `JUNE_all_pairs_both_orientations_split_evidence.csv.large`: 11 columns, 1,107,422 data rows, 0 column-count errors
+- `JUNE_all_pairs_both_orientations_merged_evidence.csv.large`: 11 columns, 1,042,001 data rows, 0 column-count errors
+
+No TREAT_EXPANSIVE or bad HPO labels remain in either file.
+
+---
+
+### SUBSTANCE_135346864 — label inconsistency identified (pending partner decision)
+
+Drug URI `https://pubchem.ncbi.nlm.nih.gov/substance/135346864` has inconsistent
+`rdfs:label` values across partners:
+
+| Partner | Source ID | Label | Biological entity |
+|---------|-----------|-------|-------------------|
+| Radboud | CHEMBL1201476 | "Clexane" | enoxaparin (LMWH brand) |
+| Radboud | CHEMBL2107886 | "Clivarine" | reviparin (LMWH brand) |
+| Biovista | MeSH D006493 | "Heparin" | heparin (generic class) |
+
+All three source IDs resolved to the same PubChem Substance record. Within the SKG,
+Clexane and Clivarine are already merged into one node (same URI). The inconsistency
+is in the `rdfs:label` written by each partner's graphing notebook.
+
+**This is fixable** once partners agree on a preferred label. The fix is a SPARQL
+UPDATE to replace the two Radboud labels (or the Biovista label) across all named
+graphs containing this entity, followed by a direct CSV patch — the same two-step
+approach used for the HP_0002140 label above. No notebook re-run needed.
