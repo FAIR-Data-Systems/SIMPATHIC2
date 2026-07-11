@@ -22,13 +22,13 @@ services:
       embedder:
         condition: service_healthy
     ports:
-      - "4567:4567"       # ← the port you expose / proxy via nginx/caddy
+      - "11000:4567"       # ← the port you expose / proxy via nginx/caddy
     volumes:
       - index_data:/data  # persists the built index across container restarts
     environment:
-      OWL_URL:       "https://raw.githubusercontent.com/NeuromuscularDisease/neuromuscular-disease-ontology/refs/heads/main/nmdo-full.owl"
+      OWL_URL:       "https://raw.githubusercontent.com/NeuromuscularDisease/neuromuscular-disease-ontology/refs/heads/main/nmdo.owl"
       EMBEDDER_URL:  "http://embedder:5001"
-      OLS4_BASE_URL: "https://simpathic.services/ols4"
+      OLS4_BASE_URL: "https://simpathic.services/ols"
       TOP_K:         "10"
       INDEX_FILE:    "/data/index.json"
 

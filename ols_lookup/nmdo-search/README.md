@@ -50,7 +50,7 @@ docker compose logs -f
 
 ## API
 
-### `GET /health`
+### `GET /llm_search/health`
 
 Returns service status.
 
@@ -67,7 +67,7 @@ Returns service status.
 
 ---
 
-### `GET /search?q=<query>&top_k=<n>`
+### `GET /llm_search/search?q=<query>&top_k=<n>`
 
 Returns semantically similar ontology terms.
 
@@ -79,7 +79,7 @@ Returns semantically similar ontology terms.
 **Example:**
 
 ```
-GET /search?q=difficulty+walking&top_k=5
+GET /llm_search/search?q=difficulty+walking&top_k=5
 ```
 
 ```json
@@ -95,7 +95,7 @@ GET /search?q=difficulty+walking&top_k=5
       "label": "Difficulty walking",
       "definition": "Reduced ability to walk due to neurological, muscular, or skeletal conditions.",
       "synonyms": ["Gait disturbance", "Walking difficulty"],
-      "ols4_url": "https://simpathic.services/ols4/ontologies/hp/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FHP_0002355"
+      "ols4_url": "https://simpathic.services/ols/ontologies/hp/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FHP_0002355"
     },
     ...
   ]
@@ -106,16 +106,16 @@ The `ols4_url` field takes the user directly to that term's page in your OLS4 in
 
 ---
 
-### `POST /reindex`
+### `POST /llm_search/reindex`
 
 Triggers a background re-fetch of the OWL file and rebuilds the index. Useful
 after your ontology is updated upstream. Returns `202 Accepted` immediately.
 
 ```bash
-curl -X POST http://localhost:4567/reindex
+curl -X POST http://localhost:4567/llm_search/reindex
 ```
 
-The old index remains live during the rebuild. Poll `/health` to confirm completion.
+The old index remains live during the rebuild. Poll `/llm_search/health` to confirm completion.
 
 ## Configuration
 
@@ -131,7 +131,8 @@ All settings are environment variables in `docker-compose.yml`:
 
 ## Exposing via nginx/Caddy
 
-The search service runs on port **4567**. If you want to serve it at
+The search service listens on container port **4567**, mapped to host port
+**11000** (see `docker-compose.yml`). If you want to serve it at
 `https://simpathic.services/nmdo-search/`, add a reverse proxy block:
 
 **Caddy example:**
@@ -139,7 +140,7 @@ The search service runs on port **4567**. If you want to serve it at
 simpathic.services {
     handle /nmdo-search/* {
         uri strip_prefix /nmdo-search
-        reverse_proxy localhost:4567
+        reverse_proxy localhost:11000
     }
     # ... your existing OLS4 proxy block
 }
@@ -148,7 +149,7 @@ simpathic.services {
 **nginx example:**
 ```nginx
 location /nmdo-search/ {
-    proxy_pass http://localhost:4567/;
+    proxy_pass http://localhost:11000/;
     proxy_set_header Host $host;
 }
 ```
@@ -156,9 +157,9 @@ location /nmdo-search/ {
 ## Rebuilding after an ontology update
 
 ```bash
-curl -X POST https://simpathic.services/nmdo-search/reindex
+curl -X POST https://simpathic.services/nmdo-search/llm_search/reindex
 # Then poll:
-curl https://simpathic.services/nmdo-search/health
+curl https://simpathic.services/nmdo-search/llm_search/health
 ```
 
 ## Extending the service
