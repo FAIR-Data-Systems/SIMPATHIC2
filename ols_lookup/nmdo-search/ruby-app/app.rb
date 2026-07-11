@@ -18,6 +18,20 @@ require 'net/http'
 require 'json'
 require 'nokogiri'
 require 'logger'
+require 'rack/protection/host_authorization'
+
+# Neutralize Host header checking outright. This service sits behind a reverse
+# proxy whose forwarded Host header we don't fully control, and nothing here
+# ever builds a URL from request.host (OLS4_BASE_URL and friends are fixed env
+# vars) — so there's nothing this check protects. Sinatra's `set :protection`
+# config (both `host_authorization: false` and `except: :host_authorization`)
+# did NOT reliably disable it in practice, so we override the check directly
+# rather than depend on Sinatra's config-passthrough behavior for this class.
+class Rack::Protection::HostAuthorization
+  def accepts?(_request)
+    true
+  end
+end
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
