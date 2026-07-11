@@ -282,7 +282,7 @@ end
 set :bind,          '0.0.0.0'
 set :port,          4567
 set :show_exceptions, false
-set :protection, host_authorization: false
+set :protection, except: :host_authorization
 
 before do
   content_type 'application/json'
