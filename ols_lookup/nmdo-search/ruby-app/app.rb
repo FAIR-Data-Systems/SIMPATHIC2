@@ -37,7 +37,7 @@ end
 
 OWL_URL       = ENV.fetch('OWL_URL', 'https://raw.githubusercontent.com/NeuromuscularDisease/neuromuscular-disease-ontology/refs/heads/main/nmdo.owl')
 EMBEDDER_URL  = ENV.fetch('EMBEDDER_URL', 'http://embedder:5001')
-OLS4_BASE_URL = ENV.fetch('OLS4_BASE_URL', 'https://simpathic.services/ols4')
+OLS4_BASE_URL = ENV.fetch('OLS4_BASE_URL', 'https://simpathic.services/ols')
 TOP_K         = ENV.fetch('TOP_K', '10').to_i
 INDEX_FILE    = ENV.fetch('INDEX_FILE', '/data/index.json')
 
