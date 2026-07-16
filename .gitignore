@@ -2,6 +2,17 @@
 *.rbc
 .env
 *.large
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Sample/clinical data — real OR synthetic — must never be committed.
+# By project convention ALL sample data uses the .mock extension.
+*.mock
+# The mockdata/ folder holds sample data, derived review workbooks, and
+# partner-shared documents — never commit any of it.
+mockdata/
 /.config
 /coverage/
 /InstalledFiles
