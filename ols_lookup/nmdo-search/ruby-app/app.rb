@@ -50,9 +50,20 @@ LOGGER.level = Logger::INFO
 
 module OwlParser
   OBO_NS       = 'http://purl.obolibrary.org/obo/'
+  # HGNC gene classes in NMDO use identifiers.org, not the OBO purl namespace
+  # (2026-09: found genes were being silently excluded from search entirely —
+  # every one of the ~560 HGNC classes lives here, none under OBO_NS).
+  HGNC_NS      = 'http://identifiers.org/hgnc/'
   IAO_DEF      = 'http://purl.obolibrary.org/obo/IAO_0000115' # definition
+  DC_DESC      = 'http://purl.org/dc/terms/description' # HGNC classes use this instead of IAO_0000115
   RDFS_LABEL   = 'http://www.w3.org/2000/01/rdf-schema#label'
   OBO_SYNONYM  = 'http://www.geneontology.org/formats/oboInOwl#hasExactSynonym'
+
+  # Namespace -> [short_id deriver, ontology prefix]. Order matters: first match wins.
+  NAMESPACES = [
+    [OBO_NS, ->(iri) { iri.sub(OBO_NS, '') }, ->(short_id) { short_id.split('_').first&.downcase }],
+    [HGNC_NS, ->(iri) { "HGNC:#{iri.sub(HGNC_NS, '')}" }, ->(_short_id) { 'hgnc' }]
+  ].freeze
 
   def self.parse(owl_xml)
     doc = Nokogiri::XML(owl_xml)
@@ -62,7 +73,10 @@ module OwlParser
 
     doc.xpath('//Class').each do |cls|
       iri = cls['about'] || cls['ID']
-      next unless iri&.start_with?(OBO_NS) # only OBO namespace IRIs
+      ns_match = NAMESPACES.find { |ns, _, _| iri&.start_with?(ns) }
+      next unless ns_match # only known-namespace IRIs (OBO purl or HGNC/identifiers.org)
+
+      _, short_id_fn, prefix_fn = ns_match
 
       # rdfs:label — prefer English, fall back to any label
       labels = cls.xpath('label')
@@ -70,12 +84,17 @@ module OwlParser
               labels.first&.text
       next if label.nil? || label.strip.empty?
 
-      # IAO:0000115 definition
+      # IAO:0000115 definition, falling back to dcterms:description (what
+      # HGNC gene classes use instead)
       definition = cls.xpath('*').find { |n| n['resource'] == IAO_DEF }&.text ||
-                   cls.xpath("*[local-name()='IAO_0000115']").first&.text
+                   cls.xpath("*[local-name()='IAO_0000115']").first&.text ||
+                   cls.xpath("*[local-name()='description']").first&.text
 
-      # hasExactSynonym — useful for boosting search coverage
-      synonyms = cls.xpath("*[local-name()='hasExactSynonym']").map(&:text)
+      # hasExactSynonym + hasRelatedSynonym — HGNC classes only carry the
+      # latter (gene aliases like "Nav1.4", "HYPP" aren't "exact" synonyms
+      # of the symbol, but they're exactly the terms a clinician would type)
+      synonyms = cls.xpath("*[local-name()='hasExactSynonym']").map(&:text) +
+                 cls.xpath("*[local-name()='hasRelatedSynonym']").map(&:text)
 
       # Build the text we embed: label + definition (+ synonyms if present)
       # Richer text = better semantic matches
@@ -90,9 +109,9 @@ module OwlParser
         URI.encode_www_form_component(iri)
       )
 
-      # Infer which ontology prefix this term belongs to (MONDO, HP, ORDO, etc.)
-      short_id = iri.sub(OBO_NS, '') # e.g. "MONDO_0010679"
-      prefix   = short_id.split('_').first&.downcase # e.g. "mondo"
+      # Infer which ontology prefix this term belongs to (MONDO, HP, HGNC, etc.)
+      short_id = short_id_fn.call(iri) # e.g. "MONDO_0010679" or "HGNC:10591"
+      prefix   = prefix_fn.call(short_id) # e.g. "mondo" or "hgnc"
 
       next if definition&.downcase&.include?('obsolete') || label.downcase.include?('obsolete')
 
@@ -108,7 +127,7 @@ module OwlParser
       }
     end
 
-    LOGGER.info "Parsed #{terms.size} OBO-namespace classes from OWL"
+    LOGGER.info "Parsed #{terms.size} classes from OWL (OBO namespace + HGNC)"
     terms
   end
 end
@@ -237,6 +256,7 @@ class TermIndex
     FileUtils.mkdir_p(File.dirname(INDEX_FILE))
     File.write(INDEX_FILE, JSON.generate({
                                            built_at: @built_at,
+                                           embedding_dim: @embeddings.first&.size,
                                            terms: @terms,
                                            embeddings: @embeddings
                                          }))
@@ -245,11 +265,28 @@ class TermIndex
     LOGGER.warn "Could not persist index: #{e.message}"
   end
 
+  # Loading a disk-persisted index built by a DIFFERENT embedding model is a
+  # silent-corruption risk, not a crash: VectorMath.cosine_similarity zips two
+  # vectors of whatever lengths they are (Ruby's Array#zip truncates to the
+  # shorter one instead of raising), so old 384-dim MiniLM vectors compared
+  # against new 768-dim SapBERT query vectors would just quietly score
+  # nonsense instead of erroring. Guard by probing the embedder for its
+  # CURRENT output dimension and refusing the stale file if it doesn't match
+  # (or predates this field) — falls through to a fresh build! instead.
   def load_from_disk!
     return false unless INDEX_FILE && File.exist?(INDEX_FILE)
 
     LOGGER.info "Loading index from #{INDEX_FILE} ..."
     data = JSON.parse(File.read(INDEX_FILE), symbolize_names: false)
+    persisted_dim = data['embedding_dim']
+
+    current_dim = EmbedderClient.embed(['dimension probe']).first&.size
+    if persisted_dim.nil? || current_dim.nil? || persisted_dim != current_dim
+      LOGGER.warn "Persisted index dimension (#{persisted_dim.inspect}) does not match " \
+                   "current embedder output (#{current_dim.inspect}) — discarding stale " \
+                   'index, will rebuild from scratch. (Expected after an embedding model change.)'
+      return false
+    end
 
     @mutex.synchronize do
       @terms      = data['terms'].map { |t| t.transform_keys(&:to_sym) }

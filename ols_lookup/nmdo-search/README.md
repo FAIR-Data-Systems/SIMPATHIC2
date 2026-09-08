@@ -9,8 +9,9 @@ ranked OBO-namespace terms with deep-links into your OLS4 instance.
 User query
     │
     ▼
-Ruby/Sinatra app  ──POST /embed──►  Python/FastEmbed sidecar
-    │                                (all-MiniLM-L6-v2, ONNX, CPU-only)
+Ruby/Sinatra app  ──POST /embed──►  Python/transformers sidecar
+    │                                (SapBERT-UMLS-2020AB-all-lang-from-XLMR,
+    │                                 CPU-only, multilingual)
     │  ◄── embedding vector ──────────────────────────────────────
     │
     ▼
@@ -24,13 +25,19 @@ Ranked results JSON  (with ols4_url deep-links)
 - **Python sidecar** owns: nothing except embedding vectors. You never need to
   touch Python for any business logic change.
 - The embedder is **not exposed** to the internet — only the Ruby app can reach it.
-- The index is **persisted** to a Docker volume so restarts are instant.
+- The index is **persisted** to a Docker volume so restarts are instant. On
+  startup the Ruby app also probes the embedder's current output dimension
+  and discards a persisted index that doesn't match (e.g. left over from a
+  prior embedding model) rather than silently comparing incompatible
+  vectors — see `TermIndex#load_from_disk!`.
 
 ## Requirements
 
 - Docker + Docker Compose (v2)
-- ~300 MB disk for the embedding model (downloaded once at build time)
-- ~500 MB RAM at runtime (model + index for ~2,000 terms)
+- ~1.1 GB disk for the embedding model (downloaded once at build time)
+- ~1.8-2 GB RAM at runtime (model + index for ~4,000 terms) — measured on a
+  2-core/CPU-only dev VM; budget 2-3 GB free for comfortable headroom.
+- No GPU required.
 
 ## Quick start
 
@@ -172,14 +179,40 @@ All Ruby logic lives in `ruby-app/app.rb`. Key areas to modify:
 
 The Python sidecar (`embedder/app.py`) should rarely need changes. If you want
 a different embedding model, change `MODEL_NAME` there and in the Dockerfile's
-pre-download line, then rebuild: `docker compose build embedder`.
+pre-download line, then rebuild: `docker compose build embedder`. After
+switching models, either delete the `index_data` volume or just restart the
+`search` service — `TermIndex#load_from_disk!` detects the dimension change
+and rebuilds automatically (see "How it works" above), so this is safe to
+skip if you forget.
 
 ## Swapping the embedding model
 
-The model `sentence-transformers/all-MiniLM-L6-v2` was chosen for:
-- 80 MB size — fast Docker build, minimal RAM
-- ONNX-backed via `fastembed` — no GPU needed, fast on CPU
-- 384-dimensional vectors — excellent for short biomedical labels + definitions
+The model `cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR` was chosen
+(2026-09) for:
+- Trained via metric learning directly on UMLS synonym pairs — its training
+  objective (cluster different surface forms of the same concept) is the same
+  task as this project's term matching, unlike a general-purpose sentence
+  embedder.
+- Cross-lingual: built on XLM-R-base, so non-English queries (Spanish, French,
+  ...) can match NMDO's English-labelled terms — needed for pan-European
+  partner data. Measured: minimal quality loss on Spanish, mostly good on
+  French with one known miss ("pied tombant" / French for "foot drop" lands
+  on the wrong concept at low confidence — a real gap, not solved by this
+  model alone).
+- 768-dimensional vectors, ~1.1 GB download, no GPU required.
 
-If you want higher quality at slightly more CPU cost, change `MODEL_NAME` in
-`embedder/app.py` and the Dockerfile to `"BAAI/bge-small-en-v1.5"` (~130 MB).
+**Not available via `fastembed`** (checked 2026-09 against its 30 curated
+ONNX models — no match), so the sidecar loads it via plain `transformers`
+instead. Two things to know if you touch `embedder/app.py` or `Dockerfile`:
+- Load the tokenizer with `use_fast=False` and keep `transformers` pinned to
+  `4.46.3` — `transformers>=5`'s fast-tokenizer conversion path has a bug
+  reading this model's sentencepiece file (misroutes it through a tiktoken
+  parser and fails). `sentencepiece` and `tiktoken` are both required deps.
+- Pool with the `[CLS]` token, L2-normalized — **not** mean-pooling — per
+  SapBERT's own usage docs. Using the wrong pooling will silently produce
+  low-quality embeddings rather than an error.
+
+The previous model, `sentence-transformers/all-MiniLM-L6-v2` (80 MB,
+fastembed/ONNX, 384-dim, English-only), is still a reasonable choice if
+you need a smaller/faster footprint and don't need multilingual queries or
+UMLS-tuned concept matching.
