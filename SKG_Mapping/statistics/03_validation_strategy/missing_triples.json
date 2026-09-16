@@ -1,0 +1,112 @@
+{
+  "Demokritos": {
+    "candidate_triples": 17702,
+    "missing_triples": 7148,
+    "per_file": {
+      "Disease-Drug": {
+        "candidates": 1285,
+        "missing": 778
+      },
+      "Disease-Gene": {
+        "candidates": 213,
+        "missing": 101
+      },
+      "Disease-Phenotype": {
+        "candidates": 649,
+        "missing": 560
+      },
+      "Drug-Disease": {
+        "candidates": 856,
+        "missing": 483
+      },
+      "Drug-Gene": {
+        "candidates": 1027,
+        "missing": 563
+      },
+      "Drug-Phenotype": {
+        "candidates": 844,
+        "missing": 744
+      },
+      "Gene-Disease": {
+        "candidates": 9468,
+        "missing": 1597
+      },
+      "Gene-Drug": {
+        "candidates": 662,
+        "missing": 385
+      },
+      "Gene-Phenotype": {
+        "candidates": 984,
+        "missing": 510
+      },
+      "Phenotype-Disease": {
+        "candidates": 939,
+        "missing": 729
+      },
+      "Phenotype-Drug": {
+        "candidates": 773,
+        "missing": 696
+      },
+      "Phenotype-Gene": {
+        "candidates": 2,
+        "missing": 2
+      }
+    }
+  },
+  "Radboud": {
+    "candidate_triples": 81729,
+    "missing_triples": 33257,
+    "per_file": {
+      "Disease-Gene": {
+        "candidates": 72995,
+        "missing": 32131
+      },
+      "Drug-Disease": {
+        "candidates": 1118,
+        "missing": 1045
+      },
+      "Drug-Gene": {
+        "candidates": 3219,
+        "missing": 66
+      },
+      "Drug-Phenotype": {
+        "candidates": 343,
+        "missing": 6
+      },
+      "Phenotype-Gene": {
+        "candidates": 4054,
+        "missing": 9
+      }
+    }
+  },
+  "Biovista": {
+    "candidate_triples": 302835,
+    "missing_triples": 38092,
+    "per_file": {
+      "Disease-Phenotype": {
+        "candidates": 985,
+        "missing": 0
+      },
+      "Disease-Gene": {
+        "candidates": 871,
+        "missing": 79
+      },
+      "Drug-Disease": {
+        "candidates": 856,
+        "missing": 83
+      },
+      "Drug-Phenotype": {
+        "candidates": 94972,
+        "missing": 10026
+      },
+      "Drug-Gene": {
+        "candidates": 106247,
+        "missing": 19663
+      },
+      "Gene-Phenotype": {
+        "candidates": 98904,
+        "missing": 8241
+      }
+    }
+  }
+}

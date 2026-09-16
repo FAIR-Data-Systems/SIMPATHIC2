@@ -1,0 +1,48 @@
+#  PURPOSE: ASSOCIATED_WITH is the universal base relation for every edge in
+#  the KG -- confirmed by the project owner 2026-09-14 -- with a more
+#  specific relation type (TARGET, TREAT, CAUSES, etc.) optionally layered
+#  on top where the source data supports it. This rule applies to every
+#  graph regardless of skg-source, not just today's two offenders.
+#
+#  Biovista already follows this (every edge is ASSOCIATED_WITH,
+#  exclusively). Radboud and Demokritos do not: many of their
+#  specific-relation graphs carry no accompanying ASSOCIATED_WITH base tag.
+#  Confirmed 2026-09-14 by direct read-only query against the live triple
+#  store (not inferred from the offline .large dumps):
+#    - Radboud: 48,471 total graphs; 44,909 have ASSOCIATED_WITH
+#      (Disease-Gene + Phenotype-Gene, both hardcode it); 3,562 do not
+#      (3,153 TARGET / Drug-Gene + 409 TREAT / Drug-Disease+Drug-Phenotype).
+#    - Demokritos: 10,269 total graphs; only 487 have ASSOCIATED_WITH;
+#      9,782 do not.
+#  Total currently missing the base tag: 13,344 graphs.
+#
+#  This is an INSERT-only patch: it ADDS a second simp:source-relation
+#  triple to each affected graph, alongside its existing specific relation
+#  (TARGET, TREAT, CAUSES, ...) -- it does not remove or replace anything.
+#  Written partner-agnostic (no skg-source filter) so it correctly applies
+#  the same universal rule to any future partner's data too, not just
+#  today's known gap.
+#
+#  VERIFY BEFORE (read-only, no auth needed):
+#    PREFIX simp: <urn:simpathic:>
+#    SELECT (COUNT(DISTINCT ?g) AS ?n) WHERE {
+#      GRAPH <urn:simpathic:context:all_metadata> { ?g simp:skg-source ?source . }
+#      MINUS {
+#        GRAPH <urn:simpathic:context:all_metadata> { ?g simp:source-relation "ASSOCIATED_WITH" . }
+#      }
+#    }
+#  Expected result before this patch: 13344
+#
+#  VERIFY AFTER: re-run the same SELECT above. Expected result: 0.
+
+PREFIX simp: <urn:simpathic:>
+
+INSERT {
+  GRAPH <urn:simpathic:context:all_metadata> { ?g simp:source-relation "ASSOCIATED_WITH" . }
+}
+WHERE {
+  GRAPH <urn:simpathic:context:all_metadata> { ?g simp:skg-source ?source . }
+  MINUS {
+    GRAPH <urn:simpathic:context:all_metadata> { ?g simp:source-relation "ASSOCIATED_WITH" . }
+  }
+}

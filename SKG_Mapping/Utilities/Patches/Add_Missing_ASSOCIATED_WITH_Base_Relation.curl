@@ -1,0 +1,10 @@
+# Run from this directory: Utilities/Patches/
+# Requires VIRTUOSO_USER / VIRTUOSO_PASS env vars set beforehand (never dba
+# -- see reference_virtuoso_infrastructure). Substitute your own credentials
+# if you use a different account than the digest-auth "skg_loader" account
+# already referenced by the other .curl files in this folder.
+curl -v -X POST \
+  "http://57.128.119.57:8890/sparql-auth" \
+  --digest \
+  --user "${VIRTUOSO_USER}:${VIRTUOSO_PASS}" \
+  --data-urlencode "update@Add_Missing_ASSOCIATED_WITH_Base_Relation.sparql"

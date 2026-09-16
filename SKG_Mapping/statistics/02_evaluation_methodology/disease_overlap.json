@@ -1,0 +1,304 @@
+{
+  "targets": [
+    "http://purl.obolibrary.org/obo/MONDO_0007182",
+    "http://purl.obolibrary.org/obo/MONDO_0008907",
+    "http://purl.obolibrary.org/obo/MONDO_0009281",
+    "http://purl.obolibrary.org/obo/MONDO_0009723",
+    "http://purl.obolibrary.org/obo/MONDO_0009945",
+    "http://purl.obolibrary.org/obo/MONDO_0010083",
+    "http://purl.obolibrary.org/obo/MONDO_0016107",
+    "http://purl.obolibrary.org/obo/MONDO_0018940",
+    "http://purl.obolibrary.org/obo/MONDO_0019609",
+    "http://purl.obolibrary.org/obo/MONDO_0100184"
+  ],
+  "per_target": [
+    {
+      "target": "http://purl.obolibrary.org/obo/MONDO_0007182",
+      "partners": {
+        "Biovista": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0007182",
+            "http://purl.obolibrary.org/obo/MONDO_0017176"
+          ]
+        },
+        "Radboud": {
+          "match": "subclass",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0017176",
+            "http://purl.obolibrary.org/obo/MONDO_0017174",
+            "http://purl.obolibrary.org/obo/MONDO_0017175"
+          ]
+        },
+        "Demokritos": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0007182",
+            "http://purl.obolibrary.org/obo/MONDO_0017176"
+          ]
+        }
+      }
+    },
+    {
+      "target": "http://purl.obolibrary.org/obo/MONDO_0008907",
+      "partners": {
+        "Biovista": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0008907"
+          ]
+        },
+        "Radboud": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0008907"
+          ]
+        },
+        "Demokritos": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0008907"
+          ]
+        }
+      }
+    },
+    {
+      "target": "http://purl.obolibrary.org/obo/MONDO_0009281",
+      "partners": {
+        "Biovista": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0009281"
+          ]
+        },
+        "Radboud": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0009281"
+          ]
+        },
+        "Demokritos": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0009281"
+          ]
+        }
+      }
+    },
+    {
+      "target": "http://purl.obolibrary.org/obo/MONDO_0009723",
+      "partners": {
+        "Biovista": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0009723",
+            "http://purl.obolibrary.org/obo/MONDO_0009069",
+            "http://purl.obolibrary.org/obo/MONDO_0016814"
+          ]
+        },
+        "Radboud": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0016814",
+            "http://purl.obolibrary.org/obo/MONDO_0009723"
+          ]
+        },
+        "Demokritos": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0009069",
+            "http://purl.obolibrary.org/obo/MONDO_0009723",
+            "http://purl.obolibrary.org/obo/MONDO_0016814"
+          ]
+        }
+      }
+    },
+    {
+      "target": "http://purl.obolibrary.org/obo/MONDO_0009945",
+      "partners": {
+        "Biovista": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0009945"
+          ]
+        },
+        "Radboud": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0009945"
+          ]
+        },
+        "Demokritos": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0009945"
+          ]
+        }
+      }
+    },
+    {
+      "target": "http://purl.obolibrary.org/obo/MONDO_0010083",
+      "partners": {
+        "Biovista": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0010083"
+          ]
+        },
+        "Radboud": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0010083"
+          ]
+        },
+        "Demokritos": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0010083"
+          ]
+        }
+      }
+    },
+    {
+      "target": "http://purl.obolibrary.org/obo/MONDO_0016107",
+      "partners": {
+        "Biovista": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0016107",
+            "http://purl.obolibrary.org/obo/MONDO_0011266",
+            "http://purl.obolibrary.org/obo/MONDO_0008056",
+            "http://purl.obolibrary.org/obo/MONDO_0023595"
+          ]
+        },
+        "Radboud": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0008056",
+            "http://purl.obolibrary.org/obo/MONDO_0011266",
+            "http://purl.obolibrary.org/obo/MONDO_0016107"
+          ]
+        },
+        "Demokritos": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0016107",
+            "http://purl.obolibrary.org/obo/MONDO_0011266",
+            "http://purl.obolibrary.org/obo/MONDO_0008056",
+            "http://purl.obolibrary.org/obo/MONDO_0023595"
+          ]
+        }
+      }
+    },
+    {
+      "target": "http://purl.obolibrary.org/obo/MONDO_0018940",
+      "partners": {
+        "Biovista": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0018940",
+            "http://purl.obolibrary.org/obo/MONDO_0020344",
+            "http://purl.obolibrary.org/obo/MONDO_0011281",
+            "http://purl.obolibrary.org/obo/MONDO_0009689",
+            "http://purl.obolibrary.org/obo/MONDO_0009690"
+          ]
+        },
+        "Radboud": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0020344",
+            "http://purl.obolibrary.org/obo/MONDO_0011281",
+            "http://purl.obolibrary.org/obo/MONDO_0018940"
+          ]
+        },
+        "Demokritos": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0018940",
+            "http://purl.obolibrary.org/obo/MONDO_0020344",
+            "http://purl.obolibrary.org/obo/MONDO_0011281",
+            "http://purl.obolibrary.org/obo/MONDO_0009689",
+            "http://purl.obolibrary.org/obo/MONDO_0009690"
+          ]
+        }
+      }
+    },
+    {
+      "target": "http://purl.obolibrary.org/obo/MONDO_0019609",
+      "partners": {
+        "Biovista": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0019609",
+            "http://purl.obolibrary.org/obo/MONDO_0011101",
+            "http://purl.obolibrary.org/obo/MONDO_0800298",
+            "http://purl.obolibrary.org/obo/MONDO_0800364",
+            "http://purl.obolibrary.org/obo/MONDO_0013939"
+          ]
+        },
+        "Radboud": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0019609",
+            "http://purl.obolibrary.org/obo/MONDO_0013931"
+          ]
+        },
+        "Demokritos": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0019609",
+            "http://purl.obolibrary.org/obo/MONDO_0011101",
+            "http://purl.obolibrary.org/obo/MONDO_0800298",
+            "http://purl.obolibrary.org/obo/MONDO_0800364",
+            "http://purl.obolibrary.org/obo/MONDO_0013939"
+          ]
+        }
+      }
+    },
+    {
+      "target": "http://purl.obolibrary.org/obo/MONDO_0100184",
+      "partners": {
+        "Biovista": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0100184",
+            "http://purl.obolibrary.org/obo/MONDO_0007495"
+          ]
+        },
+        "Radboud": {
+          "match": "subclass",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0100186"
+          ]
+        },
+        "Demokritos": {
+          "match": "exact",
+          "specific_uris": [
+            "http://purl.obolibrary.org/obo/MONDO_0007495",
+            "http://purl.obolibrary.org/obo/MONDO_0100184"
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "Biovista": {
+      "exact": 10,
+      "subclass_only": 0,
+      "none": 0,
+      "total_targets": 10
+    },
+    "Radboud": {
+      "exact": 8,
+      "subclass_only": 2,
+      "none": 0,
+      "total_targets": 10
+    },
+    "Demokritos": {
+      "exact": 10,
+      "subclass_only": 0,
+      "none": 0,
+      "total_targets": 10
+    }
+  }
+}

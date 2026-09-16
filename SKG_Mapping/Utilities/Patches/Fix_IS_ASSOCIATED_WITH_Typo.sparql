@@ -1,0 +1,57 @@
+#  PURPOSE: Radboud's Disease-Gene graphing notebook
+#  (radboud/2026 Radboud Disease-Gene Graphing.ipynb) hardcodes the relation
+#  literal "IS_ASSOCIATED_WITH", where every other Radboud graphing notebook
+#  and both other partners (Biovista, Demokritos) hardcode/emit
+#  "ASSOCIATED_WITH" for the same conceptual relation. This is a copy-paste
+#  inconsistency across Radboud's own notebook templates, not an intentional
+#  distinct relation type — confirmed by reading the notebook source of all
+#  three partners' graphing notebooks.
+#
+#  This patch corrects the relation label in-place on the live triple store,
+#  without touching the underlying entity/disease/gene triples or dropping
+#  any graphs. It follows the DELETE-not-DROP pattern documented in
+#  delete_using_http.rb / purge_all_graphs.rb: the skg_loader SPARQL account
+#  has write-triple privilege but no DROP/CLEAR privilege.
+#
+#  SCOPE: only the graph-level metadata triple
+#  `?g simp:source-relation "IS_ASSOCIATED_WITH"` in the canonical metadata
+#  graph <urn:simpathic:context:all_metadata> is affected. As of 2026-09-14
+#  (read-only COUNT, before this patch), 40,864 graphs carry this value —
+#  all of them from Radboud's Disease-Gene export
+#  (radboud/graph/2026_radboud_disease-gene.nq.large), confirmed by
+#  cross-tabulating relation label against simp:skg-source in the offline
+#  .large export files. No other partner or relation-pair uses this literal.
+#
+#  RELATED FIXES (this patch covers the live database only):
+#  - Utilities/Queries/JUNE_all_pairs_both_orientations_{merged,split}_evidence.csv.large
+#    were already patched directly (2026-09-14) via
+#    SKG_Mapping/statistics/05_results/fix_associated_with.awk, since those
+#    frozen exports are what the paper's statistics and the partners' copies
+#    are built from.
+#  - radboud/2026 Radboud Disease-Gene Graphing.ipynb still hardcodes
+#    IS_ASSOCIATED_WITH and has NOT been patched by this file. Fix with:
+#      sed -i 's/IS_ASSOCIATED_WITH/ASSOCIATED_WITH/g' \
+#        "radboud/2026 Radboud Disease-Gene Graphing.ipynb"
+#    Without that fix, the next full notebook re-run reproduces this same
+#    problem in both the live database and any freshly exported .large file.
+#
+#  VERIFY BEFORE: run as a plain SELECT (no auth needed, read-only) —
+#    PREFIX simp: <urn:simpathic:>
+#    SELECT (COUNT(?g) AS ?n) WHERE {
+#      GRAPH <urn:simpathic:context:all_metadata> {
+#        ?g simp:source-relation "IS_ASSOCIATED_WITH" .
+#      }
+#    }
+#  Expected result before this patch: 40864
+#
+#  VERIFY AFTER: re-run the same SELECT above. Expected result: 0.
+
+PREFIX simp: <urn:simpathic:>
+
+DELETE { GRAPH <urn:simpathic:context:all_metadata> { ?g simp:source-relation "IS_ASSOCIATED_WITH" . } }
+INSERT { GRAPH <urn:simpathic:context:all_metadata> { ?g simp:source-relation "ASSOCIATED_WITH" . } }
+WHERE {
+  GRAPH <urn:simpathic:context:all_metadata> {
+    ?g simp:source-relation "IS_ASSOCIATED_WITH" .
+  }
+}

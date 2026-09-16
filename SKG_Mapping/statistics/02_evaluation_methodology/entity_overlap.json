@@ -1,0 +1,134 @@
+{
+  "Drug": {
+    "counts": {
+      "Biovista": 431,
+      "Radboud": 1277,
+      "Demokritos": 585
+    },
+    "pairwise": {
+      "Biovista/Radboud": {
+        "a_count": 431,
+        "b_count": 1277,
+        "intersection": 147,
+        "union": 1561,
+        "jaccard_pct": 9.42,
+        "overlap_coeff_pct": 34.11
+      },
+      "Biovista/Demokritos": {
+        "a_count": 431,
+        "b_count": 585,
+        "intersection": 152,
+        "union": 864,
+        "jaccard_pct": 17.59,
+        "overlap_coeff_pct": 35.27
+      },
+      "Radboud/Demokritos": {
+        "a_count": 1277,
+        "b_count": 585,
+        "intersection": 233,
+        "union": 1629,
+        "jaccard_pct": 14.3,
+        "overlap_coeff_pct": 39.83
+      }
+    }
+  },
+  "Gene": {
+    "counts": {
+      "Biovista": 575,
+      "Radboud": 722,
+      "Demokritos": 2128
+    },
+    "pairwise": {
+      "Biovista/Radboud": {
+        "a_count": 575,
+        "b_count": 722,
+        "intersection": 68,
+        "union": 1229,
+        "jaccard_pct": 5.53,
+        "overlap_coeff_pct": 11.83
+      },
+      "Biovista/Demokritos": {
+        "a_count": 575,
+        "b_count": 2128,
+        "intersection": 290,
+        "union": 2413,
+        "jaccard_pct": 12.02,
+        "overlap_coeff_pct": 50.43
+      },
+      "Radboud/Demokritos": {
+        "a_count": 722,
+        "b_count": 2128,
+        "intersection": 305,
+        "union": 2545,
+        "jaccard_pct": 11.98,
+        "overlap_coeff_pct": 42.24
+      }
+    }
+  },
+  "Phenotype": {
+    "counts": {
+      "Biovista": 631,
+      "Radboud": 382,
+      "Demokritos": 193
+    },
+    "pairwise": {
+      "Biovista/Radboud": {
+        "a_count": 631,
+        "b_count": 382,
+        "intersection": 76,
+        "union": 937,
+        "jaccard_pct": 8.11,
+        "overlap_coeff_pct": 19.9
+      },
+      "Biovista/Demokritos": {
+        "a_count": 631,
+        "b_count": 193,
+        "intersection": 76,
+        "union": 748,
+        "jaccard_pct": 10.16,
+        "overlap_coeff_pct": 39.38
+      },
+      "Radboud/Demokritos": {
+        "a_count": 382,
+        "b_count": 193,
+        "intersection": 43,
+        "union": 532,
+        "jaccard_pct": 8.08,
+        "overlap_coeff_pct": 22.28
+      }
+    }
+  },
+  "Protein": {
+    "counts": {
+      "Biovista": 575,
+      "Radboud": 722,
+      "Demokritos": 2128
+    },
+    "pairwise": {
+      "Biovista/Radboud": {
+        "a_count": 575,
+        "b_count": 722,
+        "intersection": 67,
+        "union": 1230,
+        "jaccard_pct": 5.45,
+        "overlap_coeff_pct": 11.65
+      },
+      "Biovista/Demokritos": {
+        "a_count": 575,
+        "b_count": 2128,
+        "intersection": 287,
+        "union": 2416,
+        "jaccard_pct": 11.88,
+        "overlap_coeff_pct": 49.91
+      },
+      "Radboud/Demokritos": {
+        "a_count": 722,
+        "b_count": 2128,
+        "intersection": 303,
+        "union": 2547,
+        "jaccard_pct": 11.9,
+        "overlap_coeff_pct": 41.97
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "Radboud": {
+    "mapping_distinct_failed_ids": 3110,
+    "graphing_distinct_failed_ids": 1987,
+    "graphing_explained_by_mapping_failure": 1601,
+    "graphing_unexplained_never_attempted": 386,
+    "graphing_total_error_lines": 2190,
+    "sample_unexplained_ids": [
+      "HP_0000857",
+      "HP_0012076",
+      "HP_0000520",
+      "HP_0000802",
+      "HP_0001591",
+      "HP_0002035",
+      "HP_0008909",
+      "HP_0009816",
+      "HP_0010865",
+      "HP_0012042"
+    ]
+  },
+  "Demokritos": {
+    "mapping_distinct_failed_ids": 3079,
+    "graphing_distinct_failed_ids": 2276,
+    "graphing_explained_by_mapping_failure": 2002,
+    "graphing_unexplained_never_attempted": 274,
+    "graphing_total_error_lines": 3180,
+    "sample_unexplained_ids": [
+      "C1290829",
+      "C0393547",
+      "C1856058",
+      "C1862472",
+      "C0438414",
+      "C0426970",
+      "C0033893",
+      "C0151236",
+      "C0020455",
+      "C1263722"
+    ]
+  },
+  "Biovista": {
+    "mapping_distinct_failed_ids": 72,
+    "graphing_distinct_failed_ids": 119,
+    "graphing_explained_by_mapping_failure": 54,
+    "graphing_unexplained_never_attempted": 65,
+    "graphing_total_error_lines": 355,
+    "sample_unexplained_ids": [
+      "3880727",
+      "125774680",
+      "14246",
+      "41930",
+      "102552318",
+      "106478973",
+      "497258",
+      "3639254",
+      "72448059",
+      "17"
+    ]
+  }
+}
