@@ -132,6 +132,13 @@ Possible follow-ups (not started):
   73 Drug-Disease graphs), Orphanet 1,308, OBI 333, OTAR 82, NCIT 1. EFO was mapped only by exact
   label match. MONDO has 2,584 EFO and 28,470 Orphanet xrefs, which might recover many of them.
   (OTAR/OBI are probably not real diseases.)
+  **Status 2026-11-18:** Mark has asked Radboud to explain their use of EFO terms as diseases, and
+  has urged them to consolidate their Disease column into one or two namespaces. A new EFO→MONDO
+  mapping function (e.g. via MONDO's EFO xrefs) only if their answer justifies it. Discuss when they reply.
+  Their data comes from the Open Targets Platform, whose disease index mixes EFO, MONDO, Orphanet, HP,
+  DOID and OTAR. Option: build them a suggestion table from Open Targets' disease cross-references
+  (cross-checked against MONDO's xrefs), but only once we know **which Open Targets release** they
+  used; unknown as of 2026-11-18.
 
 ## 3. SYNONYM REL TYPES — strip `__INFER__` / `__SPEC__` suffixes
 
