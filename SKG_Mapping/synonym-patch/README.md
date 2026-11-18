@@ -42,7 +42,9 @@ Phenotype-Gene / Drug-Phenotype graphs becomes the MONDO disease node.
   Radboud's 382 HP-as-disease nodes have such a match.
 - `HP_to_MONDO_candidates_2026-11-18_NOT-FOR-PATCH_other-partners.tsv`: 89 information-only pairs
   where a Biovista/Demokritos *phenotype* matches a MONDO disease (incl. the partner's glaucoma
-  example HP_0000501 ⇄ MONDO_0005041). Out of scope; kept for discussion.
+  example HP_0000501 ⇄ MONDO_0005041). **Information only, permanently:** the project PI decided
+  (reported by Mark, 2026-11-18) that the graph will never link or merge a concept "as disease" with
+  the same concept "as phenotype/symptom". Never apply these rows.
 - `build_hp_mondo_patch.rb`: generator (tiers, hand-review flags, accepted tier-C pairs, scope split).
 - `inputs/`: the Virtuoso exports it reads (queries below).
 

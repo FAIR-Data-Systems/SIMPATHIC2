@@ -117,7 +117,12 @@ Demokritos's raw data has it only in Disease columns (UMLS `C0017601` → `MONDO
 35 dump rows). Both are faithful to the partners' data. Radboud has only glaucoma subtypes, as MONDO
 terms. No graph or dump row links the two directly. MONDO itself cross-references them
 (`MONDO:otherHierarchy`). It's a modelling difference between Biovista and Demokritos, so it falls
-outside the "HP used as a disease" scope; it's in the NOT-FOR-PATCH file for the partners to discuss.
+outside the "HP used as a disease" scope; it's in the NOT-FOR-PATCH file.
+
+**PI decision (reported by Mark, 2026-11-18): no links between a concept "as disease" and "as
+phenotype/symptom", ever.** The NOT-FOR-PATCH file is confirmed information-only; those 89 pairs
+(incl. glaucoma) will never be merged or linked in the graph. Only the Radboud HP-as-disease patch
+remains in scope.
 
 Possible follow-ups (not started):
 - 344 of Radboud's 382 HP-as-disease terms have no MONDO match *in the SKG*. MONDO itself (xrefs,
@@ -160,14 +165,3 @@ verified: `source-relation` 314,462 → 314,357, 0 messy). **Done.** See `CHANGE
   the corrected copies are in `demokritos/graph/NOV-20261118/` (see `CHANGES.md` "Provenance").
 - ✅ Stray `|` in `rels` (866 SEPT rows): caused by an awk regex bug in the Sept patch. Fixed in the
   NOV dumps and verified row by row against JUNE; SEPT kept as-is; awk script fixed. See `CHANGES.md`.
-
-## 4. ADD DRUG-GENE HITS — WP3 drug screening results
-
-Add WP3 drug screening results as `DRUG -TARGET-> GENE` edges for all rows with `hit_class = 1`.
-There are three CSVs, one per gene: GCH1, ALDH5A1, SURF1.
-
-**Blocked:** the link to the three CSVs was not included in the forwarded message; need the files.
-
-**To decide:** new `skg-source` value and context-URI prefix (e.g. `wp3_`); how drugs are identified
-in the CSVs (will need mapping to PubChem CID like the other partners); whether to also emit the
-`ASSOCIATED_WITH` base relation (required on every edge per project policy).
