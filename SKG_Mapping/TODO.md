@@ -59,6 +59,11 @@ carry `simp:in-taxon` (verified live: 136 non-human, all Biovista).
 
 ## 5. LICENSING OF THE REPUBLISHED MERGED DATA (do LAST, after the other items)
 
+**Status 2026-11-18:** assessment done, see `LICENSING.md`. Recommendation: CC BY 4.0 + NOTICE file
+(not CC0). Pending: 3 open questions (Demokritos SemMedDB provenance; public CUIs; Biovista
+clearance) and 5 recommended actions (ChEMBL labels, HPO version/statement/logo, NOTICE,
+archived licence copies, licence declaration).
+
 Mark's request (2026-11-18): check UniProt's usage licence and advise whether it limits the licence
 we can use to republish the merged SKG data (Virtuoso endpoint, ML dumps).
 
@@ -98,6 +103,30 @@ UMLS CUI can be mapped to both MONDO and HPO), and how many there are.
 
 **Open question:** merge into one node (which namespace wins?) or keep both and link them
 (e.g. `skos:exactMatch`, via MONDO↔HP xrefs / Monarch SSSOM)?
+
+**Status 2026-11-18 (Mark's direction):** the cause is mainly Radboud's Disease column, which mixes
+6 namespaces; its HP terms became HP Phenotype nodes. Do NOT change the data. Instead produce a
+best-guess candidate patch file for the partners' expert review; their combined patch file will be
+applied in one event later. Scope: only HP terms used as diseases (Radboud), applied only to Radboud
+graphs. Done: `synonym-patch/HP_to_MONDO_candidates_2026-11-18.tsv` (38 rows: 28 HIGH, 10 MEDIUM),
+plus an information-only file of 89 other-partner pairs (incl. glaucoma). See `synonym-patch/README.md`.
+
+**Glaucoma example checked 2026-11-18: real, but not a mapping error and not Radboud.** Biovista's
+raw KG types glaucoma only as "Human Phenotype" (`HP:0000501`; 635 graphs, 1,948 NOV dump rows).
+Demokritos's raw data has it only in Disease columns (UMLS `C0017601` → `MONDO_0005041`; 18 graphs,
+35 dump rows). Both are faithful to the partners' data. Radboud has only glaucoma subtypes, as MONDO
+terms. No graph or dump row links the two directly. MONDO itself cross-references them
+(`MONDO:otherHierarchy`). It's a modelling difference between Biovista and Demokritos, so it falls
+outside the "HP used as a disease" scope; it's in the NOT-FOR-PATCH file for the partners to discuss.
+
+Possible follow-ups (not started):
+- 344 of Radboud's 382 HP-as-disease terms have no MONDO match *in the SKG*. MONDO itself (xrefs,
+  synonyms) could suggest MONDO terms not yet in the SKG, but those would become new disease nodes.
+- **Data loss found in the audit:** Radboud raw rows dropped because `diseases.map` has no MONDO for
+  them: EFO 26,990 of 28,188 (96%; incl. 697 of 701 Drug-Disease rows, which is why Radboud has only
+  73 Drug-Disease graphs), Orphanet 1,308, OBI 333, OTAR 82, NCIT 1. EFO was mapped only by exact
+  label match. MONDO has 2,584 EFO and 28,470 Orphanet xrefs, which might recover many of them.
+  (OTAR/OBI are probably not real diseases.)
 
 ## 3. SYNONYM REL TYPES — strip `__INFER__` / `__SPEC__` suffixes
 
