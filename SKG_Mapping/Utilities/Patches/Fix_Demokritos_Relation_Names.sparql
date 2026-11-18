@@ -1,0 +1,45 @@
+#  PURPOSE: normalise messy Demokritos simp:source-relation values to the plain
+#  relation names already in use (partner request, 2026-11-18; ISA and lowercase
+#  additions agreed by Mark the same day):
+#    - strip SemMedDB-style suffixes:  X__INFER__ -> X,  X__SPEC__ -> X
+#    - ISA -> IS_A  (IS_A is also used; underscore style matches every other name)
+#    - lowercase -> UPPERCASE  (compared_with, higher_than)
+#  Every target value already exists in the store, so no new relation types are
+#  introduced. Where a graph already carries the base relation, the result simply
+#  collapses to one value (RDF set semantics).
+#
+#  Only Demokritos uses any of these values (checked 2026-11-18, all partners):
+#  15 values on 239 graph/value pairs.
+#
+#  Same normalisation applied on 2026-11-18 to the on-disk .nq.large files
+#  (patch_demokritos_relation_names.rb), the 9 Demokritos notebooks (in case of a
+#  re-run) and the SEPT ML dump (patch_relation_names_in_dump.rb).
+#
+#  Explicit old->new list (no regex REPLACE), so nothing unexpected can be renamed.
+#  Run in Conductor (or via /sparql-auth with digest auth).
+
+PREFIX simp: <urn:simpathic:>
+
+WITH <urn:simpathic:context:all_metadata>
+DELETE { ?g simp:source-relation ?old . }
+INSERT { ?g simp:source-relation ?new . }
+WHERE {
+  VALUES (?old ?new) {
+    ("ASSOCIATED_WITH__INFER__" "ASSOCIATED_WITH")
+    ("ASSOCIATED_WITH__SPEC__"  "ASSOCIATED_WITH")
+    ("INTERACTS_WITH__INFER__"  "INTERACTS_WITH")
+    ("INTERACTS_WITH__SPEC__"   "INTERACTS_WITH")
+    ("AFFECTS__SPEC__"          "AFFECTS")
+    ("CAUSES__SPEC__"           "CAUSES")
+    ("COEXISTS_WITH__SPEC__"    "COEXISTS_WITH")
+    ("DISRUPTS__SPEC__"         "DISRUPTS")
+    ("INHIBITS__SPEC__"         "INHIBITS")
+    ("PREVENTS__SPEC__"         "PREVENTS")
+    ("PRODUCES__SPEC__"         "PRODUCES")
+    ("STIMULATES__SPEC__"       "STIMULATES")
+    ("ISA"                      "IS_A")
+    ("compared_with"            "COMPARED_WITH")
+    ("higher_than"              "HIGHER_THAN")
+  }
+  ?g simp:source-relation ?old .
+}

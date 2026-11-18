@@ -1,0 +1,19 @@
+#  STEP 2 of 2 (run via Fix_URN_Dummy_Graph.sh, ONLY after step 1 is verified)
+#
+#  Removes all simp: metadata triples about context graphs from <urn:dummy>:
+#    - the current dem_ ones, now safely copied into all_metadata by step 1;
+#    - the old unprefixed (pre-June) ones, which describe graphs that no longer exist.
+#  On 2026-11-18 that is every triple in <urn:dummy> (23,500), leaving it empty.
+#  <urn:dummy> itself is just the bulk loader's default target for graph-less
+#  triples; emptying it does not affect Virtuoso.
+#
+#  DELETE ... WHERE (not CLEAR/DROP): the loader account has no CLEAR privilege.
+
+DELETE { GRAPH <urn:dummy> { ?s ?p ?o . } }
+WHERE {
+  GRAPH <urn:dummy> {
+    ?s ?p ?o .
+    FILTER(STRSTARTS(STR(?s), "urn:simpathic:context:"))
+    FILTER(STRSTARTS(STR(?p), "urn:simpathic:"))
+  }
+}

@@ -6,7 +6,12 @@
 BEGIN { FS = OFS = "\t" }
 NR == 1 { print; next }
 {
-  n = split($7, parts, " | ")
+  # BUG FIXED 2026-11-18: this line was  split($7, parts, " | ")  -- awk treats a
+  # multi-character separator as a regex, and " | " means "space OR space", so cells
+  # were split on single spaces and "A | B" came out as "A | | | B" (866 rows of the
+  # SEPT split dump). SEPT is kept as-is for provenance; the NOV dumps are clean.
+  # "[|]" makes the pipe a literal character.
+  n = split($7, parts, / [|] /)
   has_aw = 0
   out = ""
   count = 0

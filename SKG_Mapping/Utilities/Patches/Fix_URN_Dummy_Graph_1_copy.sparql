@@ -1,0 +1,31 @@
+#  STEP 1 of 2 (run via Fix_URN_Dummy_Graph.sh, which verifies between steps)
+#
+#  PURPOSE: three Demokritos graphing notebooks (Disease-Gene, Drug-Disease,
+#  Drug-Gene) wrote simp:evidence and simp:source-relation WITHOUT a graph name,
+#  so Virtuoso's bulk loader put them in its default graph <urn:dummy> instead of
+#  <urn:simpathic:context:all_metadata>. Found 2026-11-18. (Notebooks and on-disk
+#  .nq.large files fixed the same day by patch_demokritos_graphless_metadata.py
+#  and patch_demokritos_graphless_nquads.rb, so this cannot recur.)
+#
+#  State of <urn:dummy> on 2026-11-18 (23,500 triples, all simp: metadata):
+#    - 9,346 current provider-prefixed (dem_) contexts, 11,750 triples:
+#        7,842 already duplicated in all_metadata, 3,908 present ONLY here
+#        (1,708 source-relation, 2,200 PubMed evidence) -> copied by THIS step.
+#    - 9,346 old unprefixed (pre-June) contexts, 11,750 triples, whose data
+#      graphs no longer exist -> orphans, deleted (not copied) in step 2.
+#
+#  This step only INSERTs into all_metadata; duplicates are no-ops.
+#  Expected: all_metadata grows by 3,908 (1,148,121 -> 1,152,029).
+
+PREFIX simp: <urn:simpathic:>
+
+INSERT { GRAPH <urn:simpathic:context:all_metadata> { ?s ?p ?o . } }
+WHERE {
+  GRAPH <urn:dummy> {
+    ?s ?p ?o .
+    FILTER(?p IN (simp:source-relation, simp:evidence))
+    FILTER(STRSTARTS(STR(?s), "urn:simpathic:context:dem_") ||
+           STRSTARTS(STR(?s), "urn:simpathic:context:bv_")  ||
+           STRSTARTS(STR(?s), "urn:simpathic:context:rad_"))
+  }
+}

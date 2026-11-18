@@ -893,3 +893,113 @@ is in the `rdfs:label` written by each partner's graphing notebook.
 UPDATE to replace the two Radboud labels (or the Biovista label) across all named
 graphs containing this entity, followed by a direct CSV patch — the same two-step
 approach used for the HP_0002140 label above. No notebook re-run needed.
+
+---
+
+## Changes made — 2026-11-18 (graph-less Demokritos metadata; dummy graphs)
+
+Prompted by partner feedback that gene nodes had a mixture of gene and protein names.
+Mark raised the question and asked for the check against both the dumps and Virtuoso,
+and set the constraint that the slow notebooks must not need re-running.
+
+### Finding 1 — gene labels are consistent in our data; the mixture is `<http://temp/dummy-graph>`
+
+The ML dumps and every partner data graph in Virtuoso label all gene nodes with the
+UniProt recommended protein name. The mixed labels (Ensembl IDs, symbols, NCBI
+descriptions) come from `<http://temp/dummy-graph>` (≈6.77M triples): a one-off load of
+an old **GraphDB export including inferred statements** (GraphDB internals such as
+`http://www.ontotext.com/_allTypes` are in it). It holds an old MONDO base (2025-12-02)
+with reasoner output, inferred types/self-`owl:sameAs` on old unprefixed context URIs,
+and pre-June gene/protein/drug labels. It survived the June purge because its URI does
+not contain "simpathic". No current query reads it (`build_ml_set.rb` requires labels to
+sit in a graph with an `skg-source`). **Removed 2026-11-18** by Mark (`CLEAR GRAPH` as `dba`
+in Conductor). Verified afterwards: 0 triples left; `urn:mondo:hierarchy` (2,834,076) and
+`all_metadata` (1,148,121) unchanged; gene nodes 2,829 → 2,821 (8 existed only in the stale
+graph); ABAT (gene 18) now has one label instead of three. Only two genes still have two
+labels, both minor UniProt naming variants (6328, 4697) also present in the dumps.
+
+### Finding 2 — Demokritos metadata written without a graph → `<urn:dummy>`
+
+Three Demokritos graphing notebooks (Disease-Gene, Drug-Disease, Drug-Gene) wrote
+`simp:evidence` and `simp:source-relation` without `graph_name:`, so the bulk loader put
+them in its default graph `<urn:dummy>`. `build_ml_set.rb` still saw them (its metadata
+patterns are not graph-scoped), so the ML dumps were not affected, but 3,908 triples
+(1,708 relations, 2,200 PubMed evidence links) existed **only** in `<urn:dummy>`.
+`<urn:dummy>` also held 11,750 orphan triples about pre-June unprefixed context graphs
+that no longer exist.
+
+**Fixed without re-running any notebook:**
+
+| Layer | Fix | Verified |
+|---|---|---|
+| Notebooks (in case of a future re-run) | `Utilities/Patches/patch_demokritos_graphless_metadata.py` adds `graph_name: general_context` to the 3 statements in each of the 3 notebooks | tested on scratch copies first; exactly 3 lines changed per notebook; re-run refuses (idempotent) |
+| On-disk `.nq.large` files | `Utilities/Patches/patch_demokritos_graphless_nquads.rb` appends `<urn:simpathic:context:all_metadata>` to the 11,758 graph-less lines in `2026-disease-gene`, `2026-demokritos_drug-disease`, `2026-demokritos_drug-gene`. **Corrected copies are now in `demokritos/graph/NOV-20261118/`; the originals are back in place** (see "Provenance" below) | line counts unchanged; RDF N-Quads reader: 0 statements without a graph |
+| Live Virtuoso | `Utilities/Patches/Fix_URN_Dummy_Graph_1_copy.sparql` copies the provider-prefixed triples into `all_metadata`; `..._2_clear.sparql` then empties `<urn:dummy>`. Run by Mark in Conductor 2026-11-18, with a check by Claude between the two steps (the `.sh` runner's `skg_loader` credentials returned 401) | ✅ after step 1: `all_metadata` 1,148,121 → 1,152,029, 0 left uncopied. After step 2: `urn:dummy` 23,500 → 0; `all_metadata` and `urn:mondo:hierarchy` unchanged; 0 Demokritos graphs without a `source-relation`; 0 metadata triples in any graph other than `all_metadata` |
+
+Taxon check (same session): every gene node in Virtuoso carries `simp:in-taxon`
+(Radboud 722, Demokritos 2,128, Biovista 575 — of which 136 non-human).
+
+### Messy Demokritos relation names normalised
+
+Partner request: merge suffixed relation types into their base name. Mark added
+`ISA` → `IS_A` and lowercase → UPPERCASE. Rule: `X__INFER__` → `X`, `X__SPEC__` → `X`,
+`ISA` → `IS_A`, `compared_with` → `COMPARED_WITH`, `higher_than` → `HIGHER_THAN`.
+Every target already existed, so no new relation types. Only Demokritos used these
+values (15 values, 239 graph/value pairs). All four layers use the same explicit
+15-entry mapping, and the scripts abort on any unexpected value.
+
+| Layer | Fix | Verified |
+|---|---|---|
+| Live Virtuoso | `Utilities/Patches/Fix_Demokritos_Relation_Names.sparql` (DELETE/INSERT with `VALUES`) | dry-run matched 239 pairs (105 graphs already had the target). Run by Mark in Conductor 2026-11-18. Virtuoso reported "delete 239, insert 236": 3 graphs carried both `ASSOCIATED_WITH__INFER__` and `__SPEC__`, which collapse into one insert. ✅ Verified after: `source-relation` 314,462 → 314,357 exactly as predicted; 0 messy values; all 308,731 partner graphs still have `ASSOCIATED_WITH` and a relation |
+| `.nq.large` files | `Utilities/Patches/patch_demokritos_relation_names.rb`: 239 lines renamed in 7 Demokritos files; 45 lines that became exact duplicates dropped. **Corrected copies are now in `demokritos/graph/NOV-20261118/`; the originals are back in place** (see "Provenance" below) | 0 messy values in any partner file; all 7 files parse (RDF reader, validate on) |
+| Notebooks (just in case) | `Utilities/Patches/patch_demokritos_relation_names_notebooks.py`: all 9 Demokritos relation notebooks normalise `row['RELATION']` as it's read | scratch-copy test; 1 line changed per notebook; idempotent; nil-safe |
+| ML dumps | `Utilities/Patches/patch_relation_names_in_dump.rb` SEPT split → **new** `NOV_all_pairs_both_orientations_split_evidence.csv.large` (SEPT files kept as the "before" copy); merged regenerated with `merge_evidence.rb` → `NOV_..._merged_evidence.csv.large` | 833 `rels` cells changed, nothing else (other 10 columns byte-identical); split 1,107,422 rows, merged 1,042,001 (same as SEPT); 0 messy values; 0 rows lacking `ASSOCIATED_WITH` |
+
+**`ASSOCIATED_WITH` base-relation check (Mark's request, same session):** ✅ in Virtuoso,
+all 308,731 partner graphs have it (Radboud 48,471, Demokritos 10,269, Biovista 249,991).
+✅ Every row of the SEPT and NOV dumps has it. ❌ The on-disk `.nq.large` files were
+never patched by the 2026-09-14 fix: 5,442 graphs lack it (Radboud 3,562 in its
+Drug-Gene, Drug-Disease and Drug-Phenotype files; Demokritos 1,880 across 8 files).
+Only matters if the files are ever reloaded. **Decided by Mark: not patched** (see below).
+
+### Provenance: September `.nq.large` files restored (2026-11-18)
+
+Mark's decision: data the partners have already used (the September state) stays unchanged
+as a provenance record, even where it's wrong, so that we can trace anything else the partners
+noticed in it. Corrections go into new files. The in-place `.nq.large` edits above were
+therefore reversed:
+
+- The 7 Demokritos files in `demokritos/graph/` are the **September originals** again, restored
+  from the backups (timestamps preserved: 2026-06-23). Verified they match this morning's
+  state exactly: line counts 192,230 / 11,887 / 17,871 for the three graph-fix files; 11,758
+  graph-less lines; 239 messy relation names.
+- The corrected versions are in **`demokritos/graph/NOV-20261118/`** under the same file names.
+  They're in a subfolder so a `*.nq.large` bulk load of `graph/` can't pick up both copies.
+- The halfway `BEFORE-relnames` copies of the three double-patched files were deleted;
+  `deprecated/` holds no `BEFORE-*` files now.
+- `patch_demokritos_graphless_nquads.rb` and `patch_demokritos_relation_names.rb` patch in place,
+  so both now abort unless given `--dry-run`. This stops them modifying the restored originals.
+- The `ASSOCIATED_WITH` base-relation gap in the files is deliberately left unpatched, in both
+  the originals and the NOV copies. If files are ever reloaded into Virtuoso, re-apply
+  `Add_Missing_ASSOCIATED_WITH_Base_Relation.sparql` afterwards.
+- SEPT ML dumps were never modified; the NOV dumps are the corrected versions.
+- The live Virtuoso store holds the corrected state, as approved.
+
+### Stray `|` in the dump `rels` column (fixed in NOV, 2026-11-18)
+
+866 rows of the SEPT split dump (495 merged), all Demokritos, have a stray `|` token in
+`rels`, e.g. `ASSOCIATED_WITH | | | CAUSES`. **Cause:** a bug in Claude's 2026-09-14
+`statistics/05_results/add_associated_with_base.awk`. `split($7, parts, " | ")` treats
+a multi-character separator as a regex, and `" | "` means "space OR space". So
+multi-relation cells were split on single spaces, the `|` survived as a token, and it was
+re-joined. JUNE has 0 such rows; Virtuoso was never affected (the awk only touched dumps).
+
+- **SEPT dumps:** left as-is (provenance).
+- **NOV dumps:** regenerated from SEPT by `patch_relation_names_in_dump.rb`, which now also
+  drops `|` tokens (1,325 cells changed: 833 renamed, 866 de-piped, 374 rows both), then
+  merged with `merge_evidence.rb`. **Verified row by row against JUNE**, the last dump
+  before the bug: for all 1,107,422 rows, NOV `rels` = JUNE relations, normalised, plus
+  `ASSOCIATED_WITH`, and the other 10 columns are identical. NOV merged: 1,042,001 rows,
+  0 stray, 0 messy, 0 missing base.
+- **The awk script** is fixed (`/ [|] /`) with a comment, and tested on sample rows; the
+  buggy version remains in git history.
